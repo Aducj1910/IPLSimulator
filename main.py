@@ -62,9 +62,6 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
 	balls = 0
 	#break or spin; medium or fast
 
-
-
-
 	def delivery(bowler, batter, over):
 		nonlocal runs
 		batInfo = None
@@ -113,7 +110,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
 
 		def getOutcome(den, out):
 			nonlocal runs
-			print(den)
+			# print(den)
 			total = 0
 			for denom in den:
 				total += den[denom]
@@ -128,18 +125,28 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
 			decider = random.uniform(0, total)
 			for prob in denominationProbabilties:
 				if(prob['start'] <= decider and prob['end'] > decider):
-					print(prob['denomination'])	
+					if(prob['denomination'] != '0'):
+						print(prob['denomination'])	
 					runs += int(prob['denomination']) #Next - add wicket types, extras, bowler rotation, new batsman, innings change, aggression changes based on over number and rr, and based on last 10 ball player form
-					# if(prob['denomination'] == '0'):
-
-
-
+					if(prob['denomination'] == '0'):
+						probOut = outAvg*(total/den['0'])
+						outDecider = random.uniform(0,1)
+						# print(outDecider)
+						if(probOut > outDecider):
+							print("W")
+						else:
+							print(prob['denomination'])
 
 		if(balls > 0):
 			runRate = (runs/balls)*6
 
 		if(balls < 12):
 			sixAdjustment = random.uniform(0.02, 0.05)
+			if(outAvg < 0.04):
+				outAvg = 0.01
+			else:
+				outAvg = outAvg - 0.04
+
 			if(sixAdjustment > denAvg['6']):
 				sixAdjustment = denAvg['6']
 
