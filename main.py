@@ -72,7 +72,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
     batterTracker = {}
     battingOrder = []
     catchingOrder = []
-    ballLog = ''
+    ballLog = []
 
     runs = 0
     balls = 0
@@ -128,8 +128,8 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
         runObj = {}
         outObj = {}
         i['catchRate'] = i['catches'] / i['matches']
-        i['bowlWideRate'] = i['bowlWides'] / i['matches']
-        i['bowlNoballRate'] = i['bowlNoballs'] / i['matches']
+        i['bowlWideRate'] = i['bowlWides'] / (i['bowlBallsTotal'] + 1)
+        i['bowlNoballRate'] = i['bowlNoballs'] / (i['bowlBallsTotal'] + 1)
         i['bowlBallsTotal'] += 1
         for run in i['bowlRunDenominations']:
             runObj[run] = i['bowlRunDenominations'][run] / i['bowlBallsTotal']
@@ -232,45 +232,58 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
             nonlocal wickets
             nonlocal onStrike
             # print(den)
-            total = 0
-            for denom in den:
-                total += den[denom]
+            if(wideRate > random.uniform(0,1)): #add batter tracking & bowler tracking logs, read ln 267 & ln 255
+             runs += 1
+             print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", "Wide", "Score: " + str(runs))
+             ballLog.append(f"{str(balls)}:WD")
 
-            last = 0
-            balls += 1
-            denominationProbabilties = []
-            for denom in den:
-                denomObj = {"denomination": denom,
-                            "start": last, "end":  last + den[denom]}
-                denominationProbabilties.append(denomObj)
-                last += den[denom]
-
-            decider = random.uniform(0, total)
-            for prob in denominationProbabilties:
-                if(prob['start'] <= decider and prob['end'] > decider):
-                    # Next - add wicket types, extras, bowler rotation, new batsman, innings change, aggression changes based on over number and rr, and based on last 10 ball player form
-                    runs += int(prob['denomination'])
-                    if(prob['denomination'] != '0'):
-                        print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", prob['denomination'], runs)
-                        ballLog += f"{str(over)}:{prob['denomination']}"
-
-                        if(int(prob['denomination']) % 2 == 1):
-                           if(onStrike == batter1):
-                            onStrike = batter2
-                           elif(onStrike == batter2):
-                            onStrike = batter1
+            # elif(noballRate > random.uniform(0,1)): #noball can also have runs scored, also add ball logs for all
+            #  runs += 1
+            #  print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", "No ball", "Score: " + str(runs))
+            #  ballLog.append(f"{str(balls)}:NB") #Have to add ball logs for all
 
 
+            else:
+                total = 0
+                for denom in den:
+                    total += den[denom]
 
-                    if(prob['denomination'] == '0'):
-                        probOut = outAvg*(total/den['0'])
-                        outDecider = random.uniform(0, 1)
-                        # print(over, outDecider)
-                        if(probOut > outDecider):
-                            print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", "W", runs)
-                        else:
-                            # Strike Rotation
-                            print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", prob['denomination'], runs)
+                last = 0
+                balls += 1
+                denominationProbabilties = []
+                for denom in den:
+                    denomObj = {"denomination": denom,
+                                "start": last, "end":  last + den[denom]}
+                    denominationProbabilties.append(denomObj)
+                    last += den[denom]
+
+                decider = random.uniform(0, total)
+                for prob in denominationProbabilties:
+                    if(prob['start'] <= decider and prob['end'] > decider):
+                        # Next - add wicket types, extras, bowler rotation, new batsman, innings change, aggression changes based on over number and rr, and based on last 10 ball player form
+                        runs += int(prob['denomination'])
+                        if(prob['denomination'] != '0'):
+                            print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", prob['denomination'], "Score: " + str(runs))
+                            ballLog.append(f"{str(balls)}:{prob['denomination']}")
+
+                            if(int(prob['denomination']) % 2 == 1):
+                               if(onStrike == batter1):
+                                onStrike = batter2
+                               elif(onStrike == batter2):
+                                onStrike = batter1
+
+                        if(prob['denomination'] == '0'): #during high rrr or death overs, probability
+                        #of boundary & wicket are both higher
+                            probOut = outAvg*(total/den['0'])
+                            outDecider = random.uniform(0, 1)
+                            # print(over, outDecider)
+                            if(probOut > outDecider):
+                                print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", "W", "Score: " + str(runs))
+                                ballLog.append(f"{str(balls)}:W")
+                            else:
+                                # Strike Rotation
+                                print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", prob['denomination'], "Score: " + str(runs))
+                                ballLog.append(f"{str(balls)}:{prob['denomination']}")
 
         if(balls > 0):
             runRate = (runs/balls)*6
@@ -294,10 +307,13 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
     for i in range(20):
         if(i == 0):
             overBowler = bowlingOpening[0]
-            for n in range(6):
+            n = 0
+            while(balls < 6):
                 # print(overBowler['byBatsman']['right-hand bat']['bowlRunDenominationsObject']['4'])
                 delivery(copy.deepcopy(overBowler), copy.deepcopy(
                     onStrike), str(i) + "." + str(n + 1))
+                n += 1
+    print(ballLog)
 
 
 def game():
