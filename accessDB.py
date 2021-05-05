@@ -7,6 +7,6 @@ def getPlayerInfo(initials):
 	document = db['playerInfo']
 
 	# fetch = document.find_one({"playerInitials": initials})
-	fetch = document.find_one({"displayName": initials})
+	fetch = document.find_one({"displayName": initials}) #may be same for some
 
 	return fetch
