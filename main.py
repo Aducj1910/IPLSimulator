@@ -17,6 +17,12 @@ import copy
 
 #Try to hit more if rr or rrr becomes low or large respectively
 
+#When chasing or at death overs, make decision whether to attack on the ball or not -> attacking means
+#6,4,W,0 but not attacking would get 0,1,2 more reliably
+
+#If last x balls going well for entire team, then more attacking, else more defensive to protect wickets, if slow rr in last x balls
+#then attack
+
 def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch):
     battingLikely =  0.45
     if(secondInnDew):
@@ -462,15 +468,15 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
                 denAvg['1'] -= defenseAndOneAdjustment * (1/3)
                 denAvg['4'] += defenseAndOneAdjustment * (1.8/3)
                 denAvg['6'] += defenseAndOneAdjustment * (1.7/3)
-                outAvg += 0.04
+                # outAvg += 0.025
                 getOutcome(denAvg, outAvg, over)
             else:
                 defenseAndOneAdjustment = random.uniform(0.02, 0.06)
                 denAvg['0'] -= defenseAndOneAdjustment * (1/3)
                 denAvg['1'] += defenseAndOneAdjustment * (0.4/3)
-                denAvg['4'] += defenseAndOneAdjustment * (1.9/3)
-                denAvg['6'] += defenseAndOneAdjustment * (0.7/3)
-                outAvg -= 0.025
+                denAvg['4'] += defenseAndOneAdjustment * (1.5/3)
+                denAvg['6'] += defenseAndOneAdjustment * (0.8/3)
+                outAvg -= 0.03
 
                 getOutcome(denAvg, outAvg, over)
 
@@ -672,7 +678,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
 
 
 def game():
-    f = open("teams/mi_v_dc.txt", "r")
+    f = open("teams/pbks_v_rcb.txt", "r")
     team1 = None
     team2 = None
     venue = None
