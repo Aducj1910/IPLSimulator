@@ -4,6 +4,11 @@ import copy
 
 # rrr, run rate, last 7 balls of player
 
+#TO ADD IMPORTANT -> MORE BALLS THE PLAYER PLAYS, CALCULATE CONFIDENCE BASED ON ->
+#1.LAST 7 BALLS, STRIKE RATE, NUMBER OF BALLS (like spin & pace factor it will +vely impact, allow player to accelerate)
+#Eliminate slow partnership
+
+#REDO ENTIRE BALL ALGORITH, LOOK FROM JAMIE001
 
 def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch):
     battingLikely =  0.45
@@ -68,8 +73,8 @@ def pitchInfo(venue, typeOfPitch):
 
 def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, dew, detoriate):
     # print(battingName, bowlingName, pace, spin, outfield, dew, detoriate)
-    bowlerTracker = {}
-    batterTracker = {}
+    bowlerTracker = {} #add names of all in innings def
+    batterTracker = {} #add names of all in innings def
     battingOrder = []
     catchingOrder = []
     ballLog = []
@@ -81,6 +86,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
 
     # Deciding batting order
     for i in batting:
+        batterTracker[i['playerInitials']] = {'playerInitials': i['playerInitials'], 'balls': 0, 'runs': 0, 'ballLog': []}
         runObj = {}
         outObj = {}
         i['batBallsTotal'] += 1
@@ -125,6 +131,8 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
     catchingOrder = sorted(catchingOrder, key=lambda k: k['catchRate'])
 
     for i in bowling:
+        bowlerTracker[i['playerInitials']] = {'playerInitials': i['playerInitials'], 'balls': 0, 
+        'runs': 0, 'ballLog': [], 'overs': 0, 'wickets': 0}
         runObj = {}
         outObj = {}
         i['catchRate'] = i['catches'] / i['matches']
@@ -170,20 +178,42 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
 
     bowlingOpening = sorted(bowling, key=lambda k: k['overNumbersObject']['1'])
     bowlingOpening.reverse()
+    bowlingDeath = sorted(bowling, key=lambda k: k['overNumbersObject']['19'])
+    bowlingDeath.reverse()
+    bowlingMiddle = sorted(bowling, key=lambda k: k['overNumbersObject']['10'])
+    bowlingMiddle.reverse()
     batter1 = battingOrder[0]
     batter2 = battingOrder[1]
     onStrike = batter1
+    bowler1 = bowlingOpening[0]
+    bowler2 = bowlingOpening[1]
+
+    lastOver = None
+
+
+    def playerDismissed(player):
+        nonlocal batter1, batter2, onStrike
+        # print("OUT", player['player']['playerInitials'])
+        if(wickets == 11):
+            print("ALL OUT")
+        else:
+            if(batter1 == player):
+                onStrike = battingOrder[wickets + 1]
+                batter1 = battingOrder[wickets + 1]
+            else:
+                onStrike = battingOrder[wickets + 1]
+                batter2 = battingOrder[wickets + 1]
+        # print(batter1['player']['playerInitials']) 
+        # print(batter2['player']['playerInitials'])
 
     def delivery(bowler, batter, over):
-        nonlocal runs
-        nonlocal balls
-        nonlocal ballLog
-        nonlocal wickets
-        nonlocal onStrike
+        nonlocal batterTracker, bowlerTracker, onStrike, ballLog, balls, runs, wickets
         batInfo = None
         bowlInfo = None
         wideRate = bowler['bowlWideRate']
         noballRate = bowler['bowlNoballRate']
+        blname = bowler['playerInitials']
+        btname = batter['player']['playerInitials']
 
         if(bowler['bowlStyle'] in batter['player']['byBowler']):
             batInfo = batter['player']['byBowler'][bowler['bowlStyle']]
@@ -202,47 +232,48 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
             effect = (1.0 - spin)/2
             # print("effect:", effect, "original:", spin)
             bowlInfo['bowlOutsRate'] += (effect * 0.2)
-            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.45)
+            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.25)
             bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.4)
-            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.3)
+            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.2)
+            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.1)
         elif('medium' or 'fast' in bowler['bowlStyle']):
             effect = (1.0 - fast)/2
             # print("effect:", effect, "original:", fast)
             bowlInfo['bowlOutsRate'] += (effect * 0.2)
-            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.45)
+            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.25)
             bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.4)
-            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.3)
+            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.2)
+            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.1)
 
         # print(batInfo)
         denAvg = {}
         outAvg = (batInfo['batOutsRate'] + bowlInfo['bowlOutsRate']) / 2
+        outTypeAvg = {}
+        runoutChance = 0.01
+        if(batter['player']['batOutsTotal'] != 0):
+            runoutChance = (batter['player']['runnedOut']) / batter['player']['batBallsTotal']
 
         for batKey in batInfo['batRunDenominationsObject']:
             denAvg[batKey] = (batInfo['batRunDenominationsObject']
                               [batKey] + bowlInfo['bowlRunDenominationsObject'][batKey])/2
 
         runRate = 0
+        for a,b in zip(batInfo['batOutTypesObject'], bowlInfo['bowlOutTypesObject']):
+            outTypeAvg[a] = (batInfo['batOutTypesObject'][a] + bowlInfo['bowlOutTypesObject'][b]) / 2
+        outTypeAvg['runOut'] = runoutChance
+        # print(outTypeAvg)
+
 
         def getOutcome(den, out, over):
-            nonlocal runs
-            nonlocal balls
-            nonlocal ballLog
-            nonlocal wickets
-            nonlocal onStrike
+            nonlocal batterTracker, bowlerTracker, runs, balls, ballLog, wickets, onStrike
+
             # print(den)
             if(wideRate > random.uniform(0,1)): #add batter tracking & bowler tracking logs, read ln 267 & ln 255
              runs += 1
-             print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", "Wide", "Score: " + str(runs))
+             print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", "Wide", "Score: " + str(runs) + "/" + str(wickets))
              ballLog.append(f"{str(balls)}:WD")
-
-            # elif(noballRate > random.uniform(0,1)): #noball can also have runs scored, also add ball logs for all
-            #  runs += 1
-            #  print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", "No ball", "Score: " + str(runs))
-            #  ballLog.append(f"{str(balls)}:NB") #Have to add ball logs for all
-
-
+             bowlerTracker[blname]['runs'] += 1
+             bowlerTracker[blname]['ballLog'].append(f"{str(balls)}:WD")
             else:
                 total = 0
                 for denom in den:
@@ -263,8 +294,14 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
                         # Next - add wicket types, extras, bowler rotation, new batsman, innings change, aggression changes based on over number and rr, and based on last 10 ball player form
                         runs += int(prob['denomination'])
                         if(prob['denomination'] != '0'):
-                            print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", prob['denomination'], "Score: " + str(runs))
+                            print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", prob['denomination'], "Score: " + str(runs) + "/" + str(wickets))
                             ballLog.append(f"{str(balls)}:{prob['denomination']}")
+                            bowlerTracker[blname]['runs'] += int(prob['denomination'])
+                            bowlerTracker[blname]['ballLog'].append(f"{str(balls)}:{prob['denomination']}")
+                            bowlerTracker[blname]['balls'] += 1
+                            batterTracker[btname]['runs'] += int(prob['denomination'])
+                            batterTracker[btname]['ballLog'].append(f"{str(balls)}:{prob['denomination']}")
+                            batterTracker[btname]['balls'] += 1
 
                             if(int(prob['denomination']) % 2 == 1):
                                if(onStrike == batter1):
@@ -277,23 +314,107 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
                             probOut = outAvg*(total/den['0'])
                             outDecider = random.uniform(0, 1)
                             # print(over, outDecider)
-                            if(probOut > outDecider):
-                                print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", "W", "Score: " + str(runs))
-                                ballLog.append(f"{str(balls)}:W")
+                            if(probOut > outDecider): #change to >
+                                wickets += 1
+                                out_type = None
+                                probs_o = []
+                                total_o = 0
+                                last_o = 0
+                                for out_k in outTypeAvg:
+                                    total_o += outTypeAvg[out_k]
+                                for out_k in outTypeAvg:
+                                    outobj = {"type": out_k, "start": last_o,
+                                     "end": last_o + outTypeAvg[out_k]}
+                                    probs_o.append(outobj)
+                                    last_o += outTypeAvg[out_k]
+                                typeDeterminer = random.uniform(0, total_o)
+                                for type_ in probs_o:
+                                    if(type_['start'] <= typeDeterminer and type_['end'] > typeDeterminer):
+                                        out_type = type_['type']
+                                # print("OUTTTT", typeDeterminer, probs_o)
+
+                                if(out_type == "runOut"): #dodismissal function
+                                    runOutRuns = random.randint(0,2)
+                                    runs += runOutRuns
+                                    print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", 
+                                        "W", "Score: " + str(runs) + "/" + str(wickets), "Run Out!")
+                                    ballLog.append(f"{str(balls)}:W")
+                                    bowlerTracker[blname]['runs'] += runOutRuns
+                                    bowlerTracker[blname]['ballLog'].append(f"{str(balls)}:{runOutRuns}")
+                                    bowlerTracker[blname]['balls'] += 1
+                                    batterTracker[btname]['runs'] += runOutRuns
+                                    batterTracker[btname]['ballLog'].append(f"{str(balls)}:{runOutRuns}")
+                                    batterTracker[btname]['balls'] += 1
+                                    playerDismissed(onStrike)
+
+
+                                elif(out_type == "caught"):
+                                    # if(random.randint(0,1) == 1):
+                                    #    if(onStrike == batter1):
+                                    #     onStrike = batter2
+                                    #    elif(onStrike == batter2):
+                                    #     onStrike = batter1
+
+                                    fTotal = 0
+                                    fList = []
+                                    catcher = None
+                                    for bowlF in bowling:
+                                        bowlF['catchRate']
+                                        fList.append({'playerInitials': bowlF['playerInitials'],
+                                            'displayName': bowlF['displayName'] ,
+                                            "start": fTotal, "end": fTotal + bowlF['catchRate']})
+                                        fTotal += bowlF['catchRate']
+                                    catcherDetermine = random.uniform(0, fTotal)
+                                    for fItem in fList:
+                                        if(fItem['start'] <= catcherDetermine and fItem['end'] > catcherDetermine):
+                                            catcher = {"playerInitials": fItem['playerInitials'],
+                                            "displayName": fItem['displayName']}
+
+                                    print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", 
+                                        "W", "Score: " + str(runs) + "/" + str(wickets), f"Caught by {catcher['displayName']}")
+
+                                    ballLog.append(f"{str(balls)}:W-CaughtBy-{catcher['playerInitials']}")#add who caught for scorecard reference
+                                    bowlerTracker[blname]['runs'] += int(prob['denomination'])
+                                    bowlerTracker[blname]['ballLog'].append(f"{str(balls)}:W")
+                                    bowlerTracker[blname]['balls'] += 1
+                                    batterTracker[btname]['runs'] += int(prob['denomination'])
+                                    batterTracker[btname]['ballLog'].append(f"{str(balls)}:W")
+                                    batterTracker[btname]['balls'] += 1
+                                    playerDismissed(onStrike)
+
+                                elif(out_type == "bowled" or out_type == "lbw" or out_type == "hitwicket" or out_type == "stumped"):
+                                    print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", 
+                                        "W", "Score: " + str(runs) + "/" + str(wickets), f"{out_type.title()}")
+                                    ballLog.append(f"{str(balls)}:W")#add who caught for scorecard reference
+                                    bowlerTracker[blname]['runs'] += int(prob['denomination'])
+                                    bowlerTracker[blname]['ballLog'].append(f"{str(balls)}:W")
+                                    bowlerTracker[blname]['balls'] += 1
+                                    batterTracker[btname]['runs'] += int(prob['denomination'])
+                                    batterTracker[btname]['ballLog'].append(f"{str(balls)}:W")
+                                    batterTracker[btname]['balls'] += 1
+                                    playerDismissed(onStrike)
+
+                               
                             else:
                                 # Strike Rotation
-                                print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", prob['denomination'], "Score: " + str(runs))
+                                print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", prob['denomination'], "Score: " + str(runs) + "/" + str(wickets))
                                 ballLog.append(f"{str(balls)}:{prob['denomination']}")
+                                bowlerTracker[blname]['runs'] += int(prob['denomination'])
+                                bowlerTracker[blname]['ballLog'].append(f"{str(balls)}:{prob['denomination']}")
+                                bowlerTracker[blname]['balls'] += 1
+                                batterTracker[btname]['runs'] += int(prob['denomination'])
+                                batterTracker[btname]['ballLog'].append(f"{str(balls)}:{prob['denomination']}")
+                                batterTracker[btname]['balls'] += 1
 
         if(balls > 0):
             runRate = (runs/balls)*6
 
         if(balls < 12):
             sixAdjustment = random.uniform(0.02, 0.05)
-            if(outAvg < 0.04):
-                outAvg = 0.01
+            if(outAvg < 0.07):
+                outAvg = 0
             else:
-                outAvg = outAvg - 0.04
+                outAvg = outAvg - 0.07
 
             if(sixAdjustment > denAvg['6']):
                 sixAdjustment = denAvg['6']
@@ -303,21 +424,230 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
             denAvg['1'] += sixAdjustment * (2/3)
             getOutcome(denAvg, outAvg, over)
 
+        elif(balls >= 12 and balls < 36): #to 36 later
+            if(wickets == 0):
+                defenseAndOneAdjustment = random.uniform(0.05, 0.11)
+                denAvg['0'] -= defenseAndOneAdjustment * (2/3)
+                denAvg['1'] -= defenseAndOneAdjustment * (1/3)
+                denAvg['4'] += defenseAndOneAdjustment * (2/3)
+                denAvg['6'] += defenseAndOneAdjustment * (1/3)
+                getOutcome(denAvg, outAvg, over)
+            else:
+                defenseAndOneAdjustment = random.uniform(0.02, 0.08)
+                denAvg['0'] -= defenseAndOneAdjustment * (2/3)
+                denAvg['1'] -= defenseAndOneAdjustment * (1/3)
+                denAvg['4'] += defenseAndOneAdjustment * (2.5/3)
+                denAvg['6'] += defenseAndOneAdjustment * (0.5/3)
+                outAvg -= 0.03
+
+                getOutcome(denAvg, outAvg, over)
+
+        elif(balls >= 36 and balls < 102):
+            if(wickets == 0 or wickets == 1):
+                defenseAndOneAdjustment = random.uniform(0.07, 0.11)
+                denAvg['0'] -= defenseAndOneAdjustment * (2/3)
+                denAvg['1'] -= defenseAndOneAdjustment * (1/3)
+                denAvg['4'] += defenseAndOneAdjustment * (2/3)
+                denAvg['6'] += defenseAndOneAdjustment * (1/3)
+                getOutcome(denAvg, outAvg, over)
+            else:
+                # defenseAndOneAdjustment = random.uniform(0.03, 0.08)
+                denAvg['0'] += 0.03
+                # denAvg['1'] -= defenseAndOneAdjustment * (1/3)
+                denAvg['4'] -= 0.03
+                # denAvg['6'] += defenseAndOneAdjustment * (0.5/3)
+                outAvg -= 0.06
+                getOutcome(denAvg, outAvg, over)
+
+
+
+        #     if(wickets == 0):
+        #         adjust = random.uniform(0.06, 0.11)
+        #         denAvg['0'] -= adjust * (1/3)
+        #         denAvg['4'] += adjust * (1.5/3)
+        #         denAvg['2'] += adjust * (0.5/3)
+        #         denAvg['6'] += adjust * (1/3)
+        #         outAvg += 0.02
+        #         getOutcome(denAvg, outAvg, over)
+        #     else:
+        #         adjust = random.uniform(0.04, 0.8)
+        #         denAvg['1'] += adjust * (1/3) * (wickets / 2)
+        #         denAvg['4'] -= adjust * (2/3) * (wickets / 2)
+        #         denAvg['6'] -= adjust * (1/3) * (wickets / 2)  
+        #         denAvg['2'] += adjust * (1/3) * (wickets / 2)
+        #         denAvg['0'] += adjust * (1/3) * (wickets / 2)
+
+        #         outAvg -= adjust * (1/3) * (wickets)
+        #         # print(adjust * (1/3) * (wickets/2))
+        #         getOutcome(denAvg, outAvg, over)
+
+
+
+
 
     for i in range(20):
+        #change strike here
+        if(i != 0):
+            if(onStrike == batter1):
+                onStrike = batter2
+            else:
+                onStrike = batter1
         if(i == 0):
-            overBowler = bowlingOpening[0]
+            overBowler = bowler1
             n = 0
             while(balls < 6):
                 # print(overBowler['byBatsman']['right-hand bat']['bowlRunDenominationsObject']['4'])
                 delivery(copy.deepcopy(overBowler), copy.deepcopy(
                     onStrike), str(i) + "." + str(n + 1))
                 n += 1
-    print(ballLog)
+            lastOver = overBowler['playerInitials']
+        elif(i == 1):
+            overBowler = bowler2
+            n = 0
+            while(balls < 12):
+                delivery(copy.deepcopy(overBowler), copy.deepcopy(
+                    onStrike), str(i) + "." + str(n + 1))
+                n += 1
+            lastOver = overBowler['playerInitials']
+        elif(i < 6):
+            if(i % 2 == 1):
+                bowlerDict = bowlerTracker[bowler2['playerInitials']]
+                #odd over -> bowler 2
+                # print(bowlerTracker[bowler2['playerInitials']]['balls'], bowlerTracker[bowler2['playerInitials']]['runs'], bowlerTracker[bowler2['playerInitials']]['wickets'])
+                
+                if(bowlerDict['runs'] / bowlerDict['balls'] > 1.7 or bowlerDict['balls'] > 11):
+                    if(bowlerDict['wickets'] / bowlerDict['balls'] < 0.091 or bowlerDict['balls'] > 11):
+                        valid = False
+                        while(not valid):
+                            pick = bowlingOpening[random.randint(0, 5)]
+                            if(pick['playerInitials'] == lastOver):
+                                pass
+                            else:   
+                                pickInfo = bowlerTracker[pick['playerInitials']]
+                                # print(pick['playerInitials'])
+                                if(pickInfo['balls'] >= 24 and pick['playerInitials'] != lastOver):
+                                    pass
+                                elif(pickInfo['balls'] > 1):
+                                    if(((pickInfo['runs']/pickInfo['balls'])- (runs/balls)) > 0.2):
+                                        if(pickInfo['wickets']/pickInfo['balls'] >= 0.091):
+                                            bowler2 = pick
+                                            valid = True
+                                        else:
+                                            pass
+                                    else:
+                                        bowler2 = pick
+                                        valid = True
+                                else:
+                                    bowler2 = pick
+                                    valid = True
+
+            elif(i % 2 == 0):
+                bowlerDict = bowlerTracker[bowler1['playerInitials']]
+                #odd over -> bowler 2
+                # print(bowlerTracker[bowler1['playerInitials']]['balls'], bowlerTracker[bowler1['playerInitials']]['runs'], bowlerTracker[bowler1['playerInitials']]['wickets'])
+                if(bowlerDict['runs'] / bowlerDict['balls'] > 1.7 or bowlerDict['balls'] > 11):
+                    if(bowlerDict['wickets'] / bowlerDict['balls'] < 0.091 or bowlerDict['balls'] > 11):
+                        valid = False
+                        while(not valid):
+                            pick = bowlingOpening[random.randint(0, 5)]
+                            if(pick['playerInitials'] == lastOver):
+                                pass
+                            else:
+                                pickInfo = bowlerTracker[pick['playerInitials']]
+                                # print(pick['playerInitials'])
+                                if(pickInfo['balls'] >= 24 and pick['playerInitials'] != lastOver):
+                                    pass
+                                elif(pickInfo['balls'] > 1):
+                                    if(((pickInfo['runs']/pickInfo['balls'])- (runs/balls)) > 0.2):
+                                        if(pickInfo['wickets']/pickInfo['balls'] >= 0.091):
+                                            bowler1 = pick
+                                            valid = True
+                                        else:
+                                            pass
+                                    else:
+                                        bowler1 = pick
+                                        valid = True
+                                else:
+                                    bowler1 = pick
+                                    valid = True
+
+            overBowler = bowler1
+            if(i % 2 == 1):
+                overBowler = bowler2
+            # print(bowlingOpening[0])
+
+            n = 0
+            while(balls < ((i + 1)*6)): #Add for the case that the team has to save bowler for death (if death bowler certain number of overs then after 2 in pp, save for later)
+                delivery(copy.deepcopy(overBowler), copy.deepcopy(onStrike), str(i) + "." + str(n + 1))
+                n += 1
+            lastOver = overBowler['playerInitials']
+
+        elif(i < 17):
+            #2 death exclude
+            def middleOvers(bowlerInp):
+                bowlerDict = bowlerTracker[bowlerInp['playerInitials']]
+                isB3 = False
+                finalPick = bowlerInp
+                if(bowlerInp['playerInitials'] == bowlingDeath[2]['playerInitials']):
+                    isB3 = True 
+
+                if(bowlerInp['playerInitials'] == bowlingDeath[0]['playerInitials'] or bowlerInp['playerInitials'] == bowlingDeath[1]['playerInitials'] or bowlerDict['balls'] > 24):
+                    if((bowlerDict['runs'] / bowlerDict['balls']) - (runs/balls) > 0.3 and (bowlerDict['runs'] / bowlerDict['balls']) > 1.3 or isB3):
+                        if(bowlerDict['wickets'] / bowlerDict['balls'] > 1.7):
+                            valid = False
+                            while(not valid):
+                                pick = bowlingMiddle[random.randint(0, 5)]
+                                if(pick['playerInitials'] == lastOver):
+                                    pass
+                                else:
+                                    pickInfo = bowlerTracker[pick['playerInitials']]
+                                    # print(pick['playerInitials'])
+                                    if(pickInfo['balls'] >= 24 and pick['playerInitials'] != lastOver or (pick['playerInitials'] == bowlingDeath[2]['playerInitials']) and (pickInfo['balls'] >= 18 )):
+                                        pass
+                                    elif(pickInfo['balls'] > 1):
+                                        if(((pickInfo['runs']/pickInfo['balls'])- (runs/balls)) > 0.2):
+                                            if(pickInfo['wickets']/pickInfo['balls'] >= 0.091):
+                                                finalPick = pick
+                                                valid = True
+                                            else:
+                                                pass
+                                        else:
+                                            finalPick = pick
+                                            valid = True
+                                    else:
+                                        finalPick = pick
+                                        valid = True
+
+                return finalPick
+
+
+            overBowler = None
+            if(i % 2 == 1):
+                bowler2 = middleOvers(bowler2)
+                overBowler = bowler2
+            else:
+                bowler1 = middleOvers(bowler1)
+                overBowler = bowler1
+
+            n = 0
+            while(balls < ((i + 1)*6)): #Add for the case that the team has to save bowler for death (if death bowler certain number of overs then after 2 in pp, save for later)         
+                delivery(copy.deepcopy(overBowler), copy.deepcopy(onStrike), str(i) + "." + str(n + 1))
+                n += 1
+            lastOver = overBowler['playerInitials']
+
+
+
+
+
+
+
+
+    print(batterTracker)
+    print(bowlerTracker)
 
 
 def game():
-    f = open("teams/match.txt", "r")
+    f = open("teams/mi_v_srh.txt", "r")
     team1 = None
     team2 = None
     venue = None

@@ -6,5 +6,7 @@ def getPlayerInfo(initials):
 	db = connection['cricmanager']
 	document = db['playerInfo']
 
-	fetch = document.find_one({"playerInitials": initials})
+	# fetch = document.find_one({"playerInitials": initials})
+	fetch = document.find_one({"displayName": initials})
+
 	return fetch
