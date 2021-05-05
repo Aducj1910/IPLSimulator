@@ -669,7 +669,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
 
 
 def game():
-    f = open("teams/mi_v_srh.txt", "r")
+    f = open("teams/mi_v_dc.txt", "r")
     team1 = None
     team2 = None
     venue = None
