@@ -10,6 +10,11 @@ import copy
 
 #REDO ENTIRE BALL ALGORITH, LOOK FROM JAMIE001
 
+#Rehaul -> remake entire ball by ball thing, look at past data to analyse 
+#run rate worms of teams and correspond to that
+
+#if certain number of wickets fell quickly, play more defensively
+
 def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch):
     battingLikely =  0.45
     if(secondInnDew):
@@ -215,17 +220,21 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
         blname = bowler['playerInitials']
         btname = batter['player']['playerInitials']
 
-        if(bowler['bowlStyle'] in batter['player']['byBowler']):
-            batInfo = batter['player']['byBowler'][bowler['bowlStyle']]
+        # if(bowler['bowlStyle'] in batter['player']['byBowler']):
+        #     batInfo = batter['player']['byBowler'][bowler['bowlStyle']]
 
-        else:
-            batInfo = batter['player']
+        # else:
+        #     batInfo = batter['player']
 
-        if(batter['player']['batStyle'] in bowler['byBatsman']):
-            bowlInfo = bowler['byBatsman'][batter['player']['batStyle']]
+        batInfo = batter['player']
 
-        else:
-            bowlInfo = bowler
+        # if(batter['player']['batStyle'] in bowler['byBatsman']):
+        #     bowlInfo = bowler['byBatsman'][batter['player']['batStyle']]
+
+        # else:
+        #     bowlInfo = bowler
+
+        bowlInfo = bowler
 
         # Increase effect and divide from negative things for bowler to positive (W, 1, 0)
         if('break' or 'spin' in bowler['bowlStyle']):
@@ -424,7 +433,8 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
             denAvg['1'] += sixAdjustment * (2/3)
             getOutcome(denAvg, outAvg, over)
 
-        elif(balls >= 12 and balls < 36): #to 36 later
+        elif(balls >= 12 and balls < 36): #works very well with 120, try to adjust a bit for death and middle but
+        #dont tinker too much
             if(wickets == 0):
                 defenseAndOneAdjustment = random.uniform(0.05, 0.11)
                 denAvg['0'] -= defenseAndOneAdjustment * (2/3)
@@ -442,22 +452,41 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
 
                 getOutcome(denAvg, outAvg, over)
 
-        elif(balls >= 36 and balls < 102):
-            if(wickets == 0 or wickets == 1):
-                defenseAndOneAdjustment = random.uniform(0.07, 0.11)
-                denAvg['0'] -= defenseAndOneAdjustment * (2/3)
+        elif(balls >= 36 and balls < 102): #works very well with 120, try to adjust a bit for death and middle but
+        #dont tinker too much
+            if(wickets < 3):
+                defenseAndOneAdjustment = random.uniform(0.05, 0.11)
+                denAvg['0'] -= defenseAndOneAdjustment * (1.5/3)
                 denAvg['1'] -= defenseAndOneAdjustment * (1/3)
-                denAvg['4'] += defenseAndOneAdjustment * (2/3)
+                denAvg['4'] += defenseAndOneAdjustment * (2.5/3)
                 denAvg['6'] += defenseAndOneAdjustment * (1/3)
                 getOutcome(denAvg, outAvg, over)
             else:
-                # defenseAndOneAdjustment = random.uniform(0.03, 0.08)
-                denAvg['0'] += 0.03
-                # denAvg['1'] -= defenseAndOneAdjustment * (1/3)
-                denAvg['4'] -= 0.03
-                # denAvg['6'] += defenseAndOneAdjustment * (0.5/3)
-                outAvg -= 0.06
+                defenseAndOneAdjustment = random.uniform(0.02, 0.08)
+                denAvg['0'] -= defenseAndOneAdjustment * (2.2/3)
+                denAvg['1'] -= defenseAndOneAdjustment * (1.2/3)
+                denAvg['4'] += defenseAndOneAdjustment * (2.2/3)
+                denAvg['6'] += defenseAndOneAdjustment * (0.8/3)
+                outAvg -= 0.03
+
                 getOutcome(denAvg, outAvg, over)
+
+        # elif(balls >= 36 and balls < 102):
+        #     if(wickets == 0 or wickets == 1):
+        #         defenseAndOneAdjustment = random.uniform(0.07, 0.11)
+        #         denAvg['0'] -= defenseAndOneAdjustment * (2/3)
+        #         denAvg['1'] -= defenseAndOneAdjustment * (1/3)
+        #         denAvg['4'] += defenseAndOneAdjustment * (2/3)
+        #         denAvg['6'] += defenseAndOneAdjustment * (1/3)
+        #         getOutcome(denAvg, outAvg, over)
+        #     else:
+        #         # defenseAndOneAdjustment = random.uniform(0.03, 0.08)
+        #         denAvg['0'] += 0.03
+        #         # denAvg['1'] -= defenseAndOneAdjustment * (1/3)
+        #         denAvg['4'] -= 0.03
+        #         # denAvg['6'] += defenseAndOneAdjustment * (0.5/3)
+        #         outAvg -= 0.06
+        #         getOutcome(denAvg, outAvg, over)
 
 
 
@@ -509,7 +538,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
                     onStrike), str(i) + "." + str(n + 1))
                 n += 1
             lastOver = overBowler['playerInitials']
-        elif(i < 6):
+        elif(i < 6): #recode
             if(i % 2 == 1):
                 bowlerDict = bowlerTracker[bowler2['playerInitials']]
                 #odd over -> bowler 2
@@ -584,7 +613,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
 
         elif(i < 17):
             #2 death exclude
-            def middleOvers(bowlerInp):
+            def middleOvers(bowlerInp): #recode
                 bowlerDict = bowlerTracker[bowlerInp['playerInitials']]
                 isB3 = False
                 finalPick = bowlerInp
@@ -592,8 +621,8 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
                     isB3 = True 
 
                 if(bowlerInp['playerInitials'] == bowlingDeath[0]['playerInitials'] or bowlerInp['playerInitials'] == bowlingDeath[1]['playerInitials'] or bowlerDict['balls'] > 24):
-                    if((bowlerDict['runs'] / bowlerDict['balls']) - (runs/balls) > 0.3 and (bowlerDict['runs'] / bowlerDict['balls']) > 1.3 or isB3):
-                        if(bowlerDict['wickets'] / bowlerDict['balls'] > 1.7):
+                    if((bowlerDict['runs'] / bowlerDict['balls']) - (runs/balls) > 0.3 and (bowlerDict['runs'] / bowlerDict['balls']) > 1.3 or isB3 or bowlerInp['playerInitials'] == bowlingDeath[0]['playerInitials'] or bowlerInp['playerInitials'] == bowlingDeath[1]['playerInitials'] or bowlerDict['balls'] > 24):
+                        if(bowlerDict['wickets'] / bowlerDict['balls'] > 1.7 or bowlerInp['playerInitials'] == bowlingDeath[0]['playerInitials'] or bowlerInp['playerInitials'] == bowlingDeath[1]['playerInitials'] or bowlerDict['balls'] > 24):
                             valid = False
                             while(not valid):
                                 pick = bowlingMiddle[random.randint(0, 5)]
@@ -647,7 +676,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
 
 
 def game():
-    f = open("teams/mi_v_srh.txt", "r")
+    f = open("teams/match.txt", "r")
     team1 = None
     team2 = None
     venue = None
