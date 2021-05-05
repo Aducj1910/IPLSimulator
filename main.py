@@ -241,18 +241,18 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
             effect = (1.0 - spin)/2
             # print("effect:", effect, "original:", spin)
             bowlInfo['bowlOutsRate'] += (effect * 0.2)
-            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.25)
+            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.45)
             bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.2)
-            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.1)
+            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.4)
+            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.3)
         elif('medium' or 'fast' in bowler['bowlStyle']):
             effect = (1.0 - fast)/2
             # print("effect:", effect, "original:", fast)
             bowlInfo['bowlOutsRate'] += (effect * 0.2)
-            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.25)
+            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.45)
             bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.2)
-            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.1)
+            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.4)
+            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.3)
 
         # print(batInfo)
         denAvg = {}
@@ -663,14 +663,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
                 delivery(copy.deepcopy(overBowler), copy.deepcopy(onStrike), str(i) + "." + str(n + 1))
                 n += 1
             lastOver = overBowler['playerInitials']
-
-
-
-
-
-
-
-
+            
     print(batterTracker)
     print(bowlerTracker)
 
