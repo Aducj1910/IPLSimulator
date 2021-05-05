@@ -15,6 +15,8 @@ import copy
 
 #if certain number of wickets fell quickly, play more defensively
 
+#Try to hit more if rr or rrr becomes low or large respectively
+
 def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch):
     battingLikely =  0.45
     if(secondInnDew):
@@ -240,16 +242,16 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
         if('break' or 'spin' in bowler['bowlStyle']):
             effect = (1.0 - spin)/2
             # print("effect:", effect, "original:", spin)
-            bowlInfo['bowlOutsRate'] += (effect * 0.2)
-            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.45)
+            bowlInfo['bowlOutsRate'] += (effect * 0.27)
+            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.40)
             bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.4)
-            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.3)
+            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.3)
+            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.25)
         elif('medium' or 'fast' in bowler['bowlStyle']):
             effect = (1.0 - fast)/2
             # print("effect:", effect, "original:", fast)
-            bowlInfo['bowlOutsRate'] += (effect * 0.2)
-            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.45)
+            bowlInfo['bowlOutsRate'] += (effect * 0.27)
+            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.40)
             bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.25)
             bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.4)
             bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.3)
@@ -455,18 +457,19 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
         elif(balls >= 36 and balls < 102): #works very well with 120, try to adjust a bit for death and middle but
         #dont tinker too much
             if(wickets < 3):
-                defenseAndOneAdjustment = random.uniform(0.05, 0.11)
+                defenseAndOneAdjustment = random.uniform(0.06, 0.1)
                 denAvg['0'] -= defenseAndOneAdjustment * (1.5/3)
                 denAvg['1'] -= defenseAndOneAdjustment * (1/3)
                 denAvg['4'] += defenseAndOneAdjustment * (2.5/3)
                 denAvg['6'] += defenseAndOneAdjustment * (1/3)
+                outAvg += 0.04
                 getOutcome(denAvg, outAvg, over)
             else:
-                defenseAndOneAdjustment = random.uniform(0.02, 0.08)
-                denAvg['0'] -= defenseAndOneAdjustment * (2.2/3)
-                denAvg['1'] -= defenseAndOneAdjustment * (1.2/3)
-                denAvg['4'] += defenseAndOneAdjustment * (2.2/3)
-                denAvg['6'] += defenseAndOneAdjustment * (0.8/3)
+                defenseAndOneAdjustment = random.uniform(0.02, 0.06)
+                denAvg['0'] -= defenseAndOneAdjustment * (1/3)
+                denAvg['1'] += defenseAndOneAdjustment * (0.2/3)
+                denAvg['4'] += defenseAndOneAdjustment * (2.1/3)
+                denAvg['6'] -= defenseAndOneAdjustment * (0.4/3)
                 outAvg -= 0.03
 
                 getOutcome(denAvg, outAvg, over)
