@@ -33,10 +33,7 @@ import copy
 
 #CHASE LOGIC - take rrr into account every ball, importance increases by ball
 #Try for certain number of runs (calc. by runs/balls) and try for that
-
 #Add noballs
-#OVER DECISIONS GOOD FOR NOW, LATER CHANGE TO TAKE INTO ACCOUNT
-#OVERNUMBERSOBJECT OF PLAYER AND OUTRATE, ECONOMY OF THAT GAME
 
 def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch):
     battingLikely =  0.45
@@ -304,16 +301,16 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             bowlInfo['bowlOutsRate'] += (effect * 0.25)
             bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.4)
             bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.27)
-            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.4)
-            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.3)
+            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.6)
+            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.5)
         elif('medium' or 'fast' in bowler['bowlStyle']):
             effect = (1.0 - fast)/2
             # print("effect:", effect, "original:", fast)
             bowlInfo['bowlOutsRate'] += (effect * 0.25)
             bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.4)
             bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.27)
-            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.4)
-            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.3)
+            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.6)
+            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.5)
 
         # print(batInfo)
         denAvg = {}
@@ -447,7 +444,6 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                     bowlerTracker[blname]['runs'] += int(prob['denomination'])
                                     bowlerTracker[blname]['ballLog'].append(f"{str(balls)}:W")
                                     bowlerTracker[blname]['balls'] += 1
-                                    bowlerTracker[blname]['wickets'] += 1
                                     batterTracker[btname]['runs'] += int(prob['denomination'])
                                     batterTracker[btname]['ballLog'].append(f"{str(balls)}:W")
                                     batterTracker[btname]['balls'] += 1
@@ -460,7 +456,6 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                     bowlerTracker[blname]['runs'] += int(prob['denomination'])
                                     bowlerTracker[blname]['ballLog'].append(f"{str(balls)}:W")
                                     bowlerTracker[blname]['balls'] += 1
-                                    bowlerTracker[blname]['wickets'] += 1
                                     batterTracker[btname]['runs'] += int(prob['denomination'])
                                     batterTracker[btname]['ballLog'].append(f"{str(balls)}:W")
                                     batterTracker[btname]['balls'] += 1
@@ -735,8 +730,8 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                         return False
 
                 if(inDeathBowlers(bowlerInp)):
-                    if((bowlerDict['balls'] > 17) or (bowlerDict['runs'] / bowlerDict['balls']) > 1.5 or ((bowlerDict['runs'] / bowlerDict['balls']) - (balls / runs)) > 0.2 ):
-                        if(bowlerDict['balls'] > 17 or (bowlerDict['runs'] / bowlerDict['balls'] < 0.088)):
+                    if((bowlerDict['balls'] > 11) or (bowlerDict['runs'] / bowlerDict['balls']) > 1.5):
+                        if(bowlerDict['balls'] > 11 or (bowlerDict['runs'] / bowlerDict['balls'] < 0.088)):
                             valid = False
                             loopIndex = 3
                             playersExp = sorted(bowling, key=lambda k: k['bowlBallsTotalRate'])
@@ -781,7 +776,7 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                 loopIndex += 1
 
                 else:
-                    if((bowlerDict['balls'] > 19) or (bowlerDict['runs'] / bowlerDict['balls']) > 1.6 or ((bowlerDict['runs'] / bowlerDict['balls']) - (balls / runs)) > 0.2 ):
+                    if((bowlerDict['balls'] > 19) or (bowlerDict['runs'] / bowlerDict['balls']) > 1.6):
                         if(bowlerDict['balls'] > 19 or (bowlerDict['runs'] / bowlerDict['balls'] < 0.095)):
                             valid = False
                             loopIndex = 3
@@ -861,17 +856,6 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                             valid = True
                         else:
                             if(pickInfo['balls'] < 19 and pickInfo['playerInitials'] != lastOver):
-                                for track in bowlerTracker: #SAMPLE FOR OTHER PICKER DEFS | MAKE SURE LESS THAN 24 BALLS BOWLED
-                                    if bowlerTracker[track]['balls'] != 0 and bowlerTracker[track]['balls'] < 23:
-                                        if(bowlerTracker[track]['runs'] == 0 and track != lastOver):
-                                            bowlerToReturn = pick
-                                            valid = True
-
-                                        elif((bowlerTracker[track]['balls'] / bowlerTracker[track]['runs']) < 1.2) or (bowlerTracker[track]['wickets'] / bowlerTracker[track]['balls']) > 0.16:
-                                            if(track != lastOver):
-                                                bowlerToReturn = pick
-                                                valid = True
-
                                 bowlerToReturn = pick
                                 valid = True
                         pickerIndex += 1
