@@ -6,7 +6,11 @@ import copy
 
 #TO ADD IMPORTANT -> MORE BALLS THE PLAYER PLAYS, CALCULATE CONFIDENCE BASED ON ->
 #1.LAST 7 BALLS, STRIKE RATE, NUMBER OF BALLS (like spin & pace factor it will +vely impact, allow player to accelerate)
-#Eliminate slow partnership
+#Eliminate slow partnership. Also, maybe increase wicket chance in middle overs to balance out,
+#reduce out avg when high confidence (probably not)
+#at the start slow sr then when, more balls higher sr 
+#accelerate if sr is too low after certain number of balls or
+#in accordance with rrr
 
 #REDO ENTIRE BALL ALGORITH, LOOK FROM JAMIE001
 
@@ -22,6 +26,10 @@ import copy
 
 #If last x balls going well for entire team, then more attacking, else more defensive to protect wickets, if slow rr in last x balls
 #then attack
+
+#As player progresses through innings confidence will increase attacking rate (line 7)
+#Batting order -> highest rate at that pos
+#Maybe try to average out the denominations and the rest over the course of the innings
 
 def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch):
     battingLikely =  0.45
@@ -102,6 +110,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
         batterTracker[i['playerInitials']] = {'playerInitials': i['playerInitials'], 'balls': 0, 'runs': 0, 'ballLog': []}
         runObj = {}
         outObj = {}
+
         i['batBallsTotal'] += 1
         for run in i['batRunDenominations']:
             runObj[run] = i['batRunDenominations'][run] / i['batBallsTotal']
@@ -130,15 +139,25 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
         i['batOutsRate'] = i['batOutsTotal'] / i['batBallsTotal']
 
         newPos = []
+        posAvgObj = {"0": 0, "1": 0, "2": 0, "3": 0, "4": 0, "5": 0, "6": 0, "7":0,"8": 0, "9":0, "10":0}
         for p in i['position']:
             if(p != "null"):
                 newPos.append(p)
         posTotal = sum(newPos)
+        for p in newPos:
+            if(str(p) in posAvgObj):
+                posAvgObj[str(p)] += 1
+            else:
+                posAvgObj[str(p)] = 1
+
+        for key_p in posAvgObj:
+            posAvgObj[key_p] = posAvgObj[key_p]/i['matches'] 
+
         if(len(newPos) != 0):
             posAvg = posTotal/len(newPos)
         else:
             posAvg = 9.0
-        battingOrder.append({"posAvg": posAvg, "player": i})
+        battingOrder.append({"posAvg": posAvg, "player": i, "posAvgsAll": posAvgObj})
 
     battingOrder = sorted(battingOrder, key=lambda k: k['posAvg'])
     catchingOrder = sorted(catchingOrder, key=lambda k: k['catchRate'])
@@ -213,9 +232,34 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
             if(batter1 == player):
                 onStrike = battingOrder[wickets + 1]
                 batter1 = battingOrder[wickets + 1]
+                found = False
+                index_l = 0
+                while(not found):
+                    localBattingOrder = sorted(battingOrder, key=lambda k: k['posAvgsAll'][str(wickets)])
+                    localBattingOrder.reverse()
+                    if(batterTracker[localBattingOrder[index_l]['player']['playerInitials']]['balls'] == 0):
+                        onStrike = localBattingOrder[index_l]
+                        batter1 = localBattingOrder[index_l]
+                        found = True
+                    else:
+                        index_l += 1
+
+
             else:
                 onStrike = battingOrder[wickets + 1]
                 batter2 = battingOrder[wickets + 1]
+                found = False
+                index_l = 0
+                while(not found):
+                    localBattingOrder = sorted(battingOrder, key=lambda k: k['posAvgsAll'][str(wickets)])
+                    localBattingOrder.reverse()
+                    if(batterTracker[localBattingOrder[index_l]['player']['playerInitials']]['balls'] == 0):
+                        onStrike = localBattingOrder[index_l]
+                        batter2 = localBattingOrder[index_l]
+                        found = True
+                    else:
+                        index_l += 1
+             
         # print(batter1['player']['playerInitials']) 
         # print(batter2['player']['playerInitials'])
 
@@ -243,6 +287,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
         #     bowlInfo = bowler
 
         bowlInfo = bowler
+
 
         # Increase effect and divide from negative things for bowler to positive (W, 1, 0)
         if('break' or 'spin' in bowler['bowlStyle']):
@@ -423,6 +468,49 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
                                 batterTracker[btname]['ballLog'].append(f"{str(balls)}:{prob['denomination']}")
                                 batterTracker[btname]['balls'] += 1
 
+
+
+
+
+
+        if(batterTracker[btname]['balls'] < 8 and balls < 80):
+            adjust = random.uniform(-0.01, 0.03)
+            outAvg -= 0.015
+            denAvg['0'] += adjust * (1.5/3)
+            denAvg['1'] += adjust * (1/3)
+            denAvg['2'] += adjust * (0.5/3)
+            denAvg['4'] -= adjust * (0.5/3)
+            denAvg['6'] -= adjust * (1.5/3)
+
+        if(batterTracker[btname]['balls'] > 15 and batterTracker[btname]['balls'] < 30):
+            adjust = random.uniform(0.03, 0.08)
+            denAvg['0'] -= adjust * (1/3)
+            denAvg['1'] -= adjust *(1/3)
+            denAvg['4'] += adjust * (2/3)
+
+        # if(batterTracker[btname]['balls'] > 30):
+        #     adjust = random.uniform(0.05, 0.1)
+        #     denAvg['0'] -= adjust * (1.5/3)
+        #     denAvg['4'] += adjust * (0.75/3)
+        #     denAvg['6'] += adjust * (0.75/3)
+        #     outAvg += 0.01
+
+        if(batterTracker[btname]['balls'] > 20 and (batterTracker[btname]['runs'] / batterTracker[btname]['balls']) < 110):
+            adjust = random.uniform(0.05, 0.11)
+            denAvg['0'] += adjust * (1.5/3)
+            denAvg['1'] += adjust * (0.5/3)
+            denAvg['6'] += adjust * (2/3)
+            outAvg += 0.04
+
+        if(batterTracker[btname]['balls'] > 30 and (batterTracker[btname]['runs'] / batterTracker[btname]['balls']) > 145 and (wickets < 5) or balls > 102):
+            adjust = random.uniform(0.06, 0.1)
+            denAvg['0'] -= adjust * (1.5/3)
+            denAvg['1'] -= adjust * (1.5/3)
+            denAvg['4'] += adjust * (1.5/3)
+            denAvg['6'] += adjust * (1.5/3)
+            outAvg += 0.02
+
+
         if(balls > 0):
             runRate = (runs/balls)*6
 
@@ -471,12 +559,32 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
                 # outAvg += 0.025
                 getOutcome(denAvg, outAvg, over)
             else:
-                defenseAndOneAdjustment = random.uniform(0.02, 0.06)
+                defenseAndOneAdjustment = random.uniform(0.03, 0.06)
                 denAvg['0'] -= defenseAndOneAdjustment * (1/3)
                 denAvg['1'] += defenseAndOneAdjustment * (0.4/3)
-                denAvg['4'] += defenseAndOneAdjustment * (1.5/3)
-                denAvg['6'] += defenseAndOneAdjustment * (0.8/3)
+                denAvg['4'] += defenseAndOneAdjustment * (1.4/3)
+                denAvg['6'] += defenseAndOneAdjustment * (0.9/3)
                 outAvg -= 0.03
+
+                getOutcome(denAvg, outAvg, over)
+
+        else: #works very well with 120, try to adjust a bit for death and middle but
+        #dont tinker too much
+            if(wickets < 7):
+                defenseAndOneAdjustment = random.uniform(0.07, 0.1)
+                denAvg['0'] += defenseAndOneAdjustment * (2/3)
+                denAvg['1'] -= defenseAndOneAdjustment * (1/3)
+                denAvg['4'] += defenseAndOneAdjustment * (1.4/3)
+                denAvg['6'] += defenseAndOneAdjustment * (1.6/3)
+                outAvg += 0.025
+                getOutcome(denAvg, outAvg, over)
+            else:
+                defenseAndOneAdjustment = random.uniform(0.09, 0.12)
+                denAvg['0'] -= defenseAndOneAdjustment * (1.5/3)
+                denAvg['1'] -= defenseAndOneAdjustment * (1.5/3)
+                denAvg['4'] += defenseAndOneAdjustment * (1/3)
+                denAvg['6'] += defenseAndOneAdjustment * (2/3)
+                outAvg += 0.05
 
                 getOutcome(denAvg, outAvg, over)
 
@@ -620,7 +728,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
                 n += 1
             lastOver = overBowler['playerInitials']
 
-        elif(i < 17):
+        elif(i < 21): #21 for now but 17 later
             #2 death exclude
             def middleOvers(bowlerInp): #recode
                 bowlerDict = bowlerTracker[bowlerInp['playerInitials']]
@@ -678,7 +786,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
 
 
 def game():
-    f = open("teams/pbks_v_rcb.txt", "r")
+    f = open("teams/csk_v_rr.txt", "r")
     team1 = None
     team2 = None
     venue = None
