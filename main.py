@@ -294,16 +294,16 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
             effect = (1.0 - spin)/2
             # print("effect:", effect, "original:", spin)
             bowlInfo['bowlOutsRate'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.40)
-            bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.3)
-            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.25)
+            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.4)
+            bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.27)
+            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.4)
+            bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.3)
         elif('medium' or 'fast' in bowler['bowlStyle']):
             effect = (1.0 - fast)/2
             # print("effect:", effect, "original:", fast)
             bowlInfo['bowlOutsRate'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.40)
-            bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.25)
+            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.4)
+            bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.27)
             bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.4)
             bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.3)
 
@@ -468,8 +468,30 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
                                 batterTracker[btname]['ballLog'].append(f"{str(balls)}:{prob['denomination']}")
                                 batterTracker[btname]['balls'] += 1
 
+        
+        sumLast10 = 0
+        outsLast10 = 0
+        for i in ballLog:
+            spl_bl = i.split(":")
+            if("W" not in spl_bl[1]):
+                sumLast10 += int(spl_bl[1])
+            else:
+                outsLast10 += 1
 
-
+        if(balls < 110):
+            adjust_last10 = random.uniform(0.02,0.04)
+            if(outsLast10 < 2):
+                denAvg['0'] -= adjust_last10 * (1/2)
+                denAvg['1'] -= adjust_last10 * (1/2)
+                denAvg['2'] += adjust_last10 * (1/2)
+                denAvg['4'] += adjust_last10 * (1/2)
+            else:
+                adjust_last10 += 0.018
+                denAvg['0'] += adjust_last10 * (1.1/2)
+                denAvg['0'] += adjust_last10 * (0.9/2)
+                denAvg['4'] -= adjust_last10 * (1/2)
+                denAvg['6'] -= adjust_last10 * (1/2)
+                outAvg -= 0.02
 
 
 
@@ -483,10 +505,10 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
             denAvg['6'] -= adjust * (1.5/3)
 
         if(batterTracker[btname]['balls'] > 15 and batterTracker[btname]['balls'] < 30):
-            adjust = random.uniform(0.03, 0.08)
+            adjust = random.uniform(0.03, 0.07)
             denAvg['0'] -= adjust * (1/3)
-            denAvg['1'] -= adjust *(1/3)
-            denAvg['4'] += adjust * (2/3)
+            # denAvg['1'] -= adjust *(1/3)
+            denAvg['4'] += adjust * (1/3)
 
         # if(batterTracker[btname]['balls'] > 30):
         #     adjust = random.uniform(0.05, 0.1)
@@ -496,18 +518,18 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
         #     outAvg += 0.01
 
         if(batterTracker[btname]['balls'] > 20 and (batterTracker[btname]['runs'] / batterTracker[btname]['balls']) < 110):
-            adjust = random.uniform(0.05, 0.11)
+            adjust = random.uniform(0.05, 0.08)
             denAvg['0'] += adjust * (1.5/3)
             denAvg['1'] += adjust * (0.5/3)
             denAvg['6'] += adjust * (2/3)
-            outAvg += 0.04
+            outAvg += 0.05
 
         if(batterTracker[btname]['balls'] > 30 and (batterTracker[btname]['runs'] / batterTracker[btname]['balls']) > 145 and (wickets < 5) or balls > 102):
-            adjust = random.uniform(0.06, 0.1)
-            denAvg['0'] -= adjust * (1.5/3)
+            adjust = random.uniform(0.06, 0.09)
+            denAvg['0'] -= adjust * (1/3)
             denAvg['1'] -= adjust * (1.5/3)
-            denAvg['4'] += adjust * (1.5/3)
-            denAvg['6'] += adjust * (1.5/3)
+            denAvg['4'] += adjust * (1.6/3)
+            denAvg['6'] += adjust * (1.9/3)
             outAvg += 0.02
 
 
@@ -535,15 +557,15 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
                 defenseAndOneAdjustment = random.uniform(0.05, 0.11)
                 denAvg['0'] -= defenseAndOneAdjustment * (2/3)
                 denAvg['1'] -= defenseAndOneAdjustment * (1/3)
-                denAvg['4'] += defenseAndOneAdjustment * (1.4/3)
-                denAvg['6'] += defenseAndOneAdjustment * (1.6/3)
+                denAvg['4'] += defenseAndOneAdjustment * (2/3)
+                denAvg['6'] += defenseAndOneAdjustment * (1/3)
                 getOutcome(denAvg, outAvg, over)
             else:
                 defenseAndOneAdjustment = random.uniform(0.02, 0.08)
-                denAvg['0'] -= defenseAndOneAdjustment * (1.5/3)
+                denAvg['0'] -= defenseAndOneAdjustment * (2/3)
                 denAvg['1'] -= defenseAndOneAdjustment * (1/3)
-                denAvg['4'] += defenseAndOneAdjustment * (1.7/3)
-                denAvg['6'] += defenseAndOneAdjustment * (0.8/3)
+                denAvg['4'] += defenseAndOneAdjustment * (2.5/3)
+                denAvg['6'] += defenseAndOneAdjustment * (0.5/3)
                 outAvg -= 0.03
 
                 getOutcome(denAvg, outAvg, over)
@@ -551,18 +573,17 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
         elif(balls >= 36 and balls < 102): #works very well with 120, try to adjust a bit for death and middle but
         #dont tinker too much
             if(wickets < 3):
-                defenseAndOneAdjustment = random.uniform(0.06, 0.1)
+                defenseAndOneAdjustment = random.uniform(0.05, 0.11)
                 denAvg['0'] -= defenseAndOneAdjustment * (1.5/3)
                 denAvg['1'] -= defenseAndOneAdjustment * (1/3)
-                denAvg['4'] += defenseAndOneAdjustment * (1.8/3)
-                denAvg['6'] += defenseAndOneAdjustment * (1.7/3)
-                # outAvg += 0.025
+                denAvg['4'] += defenseAndOneAdjustment * (1.5/3)
+                denAvg['6'] += defenseAndOneAdjustment * (1/3)
                 getOutcome(denAvg, outAvg, over)
             else:
-                defenseAndOneAdjustment = random.uniform(0.03, 0.06)
-                denAvg['0'] -= defenseAndOneAdjustment * (1/3)
-                denAvg['1'] += defenseAndOneAdjustment * (0.4/3)
-                denAvg['4'] += defenseAndOneAdjustment * (1.4/3)
+                defenseAndOneAdjustment = random.uniform(0.02, 0.07)
+                denAvg['0'] -= defenseAndOneAdjustment * (1.8/3)
+                denAvg['1'] -= defenseAndOneAdjustment * (1.2/3)
+                denAvg['4'] += defenseAndOneAdjustment * (2.1/3)
                 denAvg['6'] += defenseAndOneAdjustment * (0.9/3)
                 outAvg -= 0.03
 
@@ -576,15 +597,15 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
                 denAvg['1'] -= defenseAndOneAdjustment * (1/3)
                 denAvg['4'] += defenseAndOneAdjustment * (1.4/3)
                 denAvg['6'] += defenseAndOneAdjustment * (1.6/3)
-                outAvg += 0.025
+                outAvg += 0.035
                 getOutcome(denAvg, outAvg, over)
             else:
-                defenseAndOneAdjustment = random.uniform(0.09, 0.12)
-                denAvg['0'] -= defenseAndOneAdjustment * (1.5/3)
-                denAvg['1'] -= defenseAndOneAdjustment * (1.5/3)
-                denAvg['4'] += defenseAndOneAdjustment * (1/3)
-                denAvg['6'] += defenseAndOneAdjustment * (2/3)
-                outAvg += 0.05
+                defenseAndOneAdjustment = random.uniform(0.07, 0.09)
+                denAvg['0'] -= defenseAndOneAdjustment * (1.2/3)
+                denAvg['1'] -= defenseAndOneAdjustment * (1.8/3)
+                denAvg['4'] += defenseAndOneAdjustment * (1.5/3)
+                denAvg['6'] += defenseAndOneAdjustment * (1.5/3)
+                outAvg += 0.03
 
                 getOutcome(denAvg, outAvg, over)
 
@@ -786,7 +807,7 @@ def innings(batting, bowling, battingName, bowlingName, pace, spin, outfield, de
 
 
 def game():
-    f = open("teams/csk_v_rr.txt", "r")
+    f = open("teams/mi_v_dc.txt", "r")
     team1 = None
     team2 = None
     venue = None
