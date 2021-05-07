@@ -2,6 +2,15 @@ import random
 import accessDB
 import copy
 
+#EVENTUALLY ->
+#Add each matcch info to DB to create new data
+#Training will improve player peformance against specific styles, by editing the
+#avgs, denominations, outrates in the db
+#aging -> reduce denoms, outrets, etc. in db
+
+#-----------X-----------#
+
+
 # rrr, run rate, last 7 balls of player
 
 #TO ADD IMPORTANT -> MORE BALLS THE PLAYER PLAYS, CALCULATE CONFIDENCE BASED ON ->
@@ -38,7 +47,9 @@ import copy
 #OVER DECISIONS GOOD FOR NOW, LATER CHANGE TO TAKE INTO ACCOUNT
 #OVERNUMBERSOBJECT OF PLAYER AND OUTRATE, ECONOMY OF THAT GAME
 
-def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch):
+#DB - last 5 years
+
+def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch, team1, team2):
     battingLikely =  0.45
     if(secondInnDew):
           battingLikely = battingLikely - random.uniform(0.09, 0.2)
@@ -56,15 +67,19 @@ def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch):
     if(toss == 0):
         outcome = random.uniform(0, 1)
         if(outcome > battingLikely):
+            print(team1, "won the toss and chose to field")
             return(1)
         else:
+            print(team1, "won the toss and chose to bat")
             return(0)
 
     else:
         outcome = random.uniform(0, 1)
         if(outcome > battingLikely):
+            print(team2, "won the toss and chose to field")
             return(0)
         else:
+            print(team2, "won the toss and chose to bat")
             return(1)
 
 
@@ -449,7 +464,7 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                     bowlerTracker[blname]['balls'] += 1
                                     bowlerTracker[blname]['wickets'] += 1
                                     batterTracker[btname]['runs'] += int(prob['denomination'])
-                                    batterTracker[btname]['ballLog'].append(f"{str(balls)}:W")
+                                    batterTracker[btname]['ballLog'].append(f"{str(balls)}:W-CaughtBy-{catcher['playerInitials']}-Bowler-{blname}")
                                     batterTracker[btname]['balls'] += 1
                                     playerDismissed(onStrike)
 
@@ -462,7 +477,7 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                     bowlerTracker[blname]['balls'] += 1
                                     bowlerTracker[blname]['wickets'] += 1
                                     batterTracker[btname]['runs'] += int(prob['denomination'])
-                                    batterTracker[btname]['ballLog'].append(f"{str(balls)}:W")
+                                    batterTracker[btname]['ballLog'].append(f"{str(balls)}:W-{out_type}-Bowler-{blname}")
                                     batterTracker[btname]['balls'] += 1
                                     playerDismissed(onStrike)
 
@@ -898,7 +913,14 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
 
 def game():
-    f = open("teams/csk_v_rr.txt", "r")
+    team_one_inp = input("enter first team ").lower()
+    team_two_inp = input("enter second team ").lower()
+    # pitchTypeInput = input("Enter type of pitch (green, dusty, or dead) ")
+    pitchTypeInput = "dusty"
+
+    # f = open("matches/csk_v_rr.txt", "r")
+    f1 = open(f"teams/{team_one_inp}.txt", "r")
+    f2 = open(f"teams/{team_two_inp}.txt", "r")
     team1 = None
     team2 = None
     venue = None
@@ -914,7 +936,7 @@ def game():
     paceFactor = None
     spinFactor = None
     outfield = None
-    typeOfPitch = "dusty"
+    typeOfPitch = pitchTypeInput
 
     team1Players = []
     team2Players = []
@@ -923,23 +945,41 @@ def game():
     team2Info = []
 
     # spin, pace factor -> 0.0 - 1.0
-    for l in f:
+    for l in f1:
         l = l.replace("\n", "")
         if("XVENUE" in l):
             venue = l.split("-")[1]
             # print(venue)
 
         elif("XTEAM" in l):
-            if(team1 == None):
-                team1 = l.split("-")[1]
-            else:
-                team2 = l.split("-")[1]
+            # if(team1 == None):
+            team1 = l.split("-")[1]
+            # else:
+                # team2 = l.split("-")[1]
 
         elif(l != ''):
-            if(team2 == None):
-                team1Players.append(l)
-            else:
-                team2Players.append(l)
+            # if(team2 == None):
+            team1Players.append(l)
+            # else:
+                # team2Players.append(l)
+
+    for l in f2:
+        l = l.replace("\n", "")
+        if("XVENUE" in l):
+            venue = l.split("-")[1]
+            # print(venue)
+
+        elif("XTEAM" in l):
+            # if(team1 == None):
+            team2 = l.split("-")[1]
+            # else:
+                # team2 = l.split("-")[1]
+
+        elif(l != ''):
+            # if(team2 == None):
+            team2Players.append(l)
+            # else:
+                # team2Players.append(l)
 
     for player in team1Players:
         obj = accessDB.getPlayerInfo(player)
@@ -953,7 +993,7 @@ def game():
     paceFactor, spinFactor, outfield = pitchInfo_[
         0], pitchInfo_[1], pitchInfo_[2]
     battingFirst = doToss(paceFactor, spinFactor, outfield,
-                          secondInnDew, pitchDetoriate, typeOfPitch)
+                          secondInnDew, pitchDetoriate, typeOfPitch, team1, team2)
     # print(paceFactor, spinFactor, outfield)
 
     def getBatting():
