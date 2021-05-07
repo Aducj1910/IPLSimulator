@@ -49,7 +49,13 @@ import copy
 
 #DB - last 5 years
 
+
+
+
+
+
 #ADD FOR DEATH OVERS CHASE
+#IMPROVE BOWLER ROTATION
 from tabulate import tabulate
 
 target = 1
@@ -939,12 +945,17 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
 
             
-    print(batterTracker)
-    print(bowlerTracker)
+    # print(batterTracker)
+    # print(bowlerTracker)
     batsmanTabulate = []
     for btckd in batterTracker:
         localArrayTabulate = [btckd]
         localArrayTabulate += [batterTracker[btckd]['runs'], batterTracker[btckd]['balls']]
+        sr_ = 'NA'
+        if(batterTracker[btckd]['balls'] != 0):
+            sr_ = (batterTracker[btckd]['runs']*100) / (batterTracker[btckd]['balls'])
+            sr_ = str(round(sr_, 2))
+            localArrayTabulate.append(sr_)
         out = False
         howOut = "DNB"
         batted = False
@@ -968,7 +979,24 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
         batsmanTabulate.append(localArrayTabulate)
         
 
-    print(tabulate(batsmanTabulate, ["Player", "Runs", "Balls", "Out"], tablefmt="grid"))
+    bowlerTabulate = []
+    for btrack in bowlerTracker:
+        localBowlerTabulate = [btrack, bowlerTracker[btrack]['runs']]
+        overs_tb = 0
+        remainder_balls = bowlerTracker[btrack]['balls'] % 6 
+        number_overs = bowlerTracker[btrack]['balls'] // 6
+        localBowlerTabulate.append(f"{number_overs}.{remainder_balls}")
+        localBowlerTabulate.append(bowlerTracker[btrack]['wickets'])
+        econ_tb = "NA"
+        if(bowlerTracker[btrack]['balls'] != 0):
+            econ_tb = (bowlerTracker[btrack]['runs'] / bowlerTracker[btrack]['balls'])*6
+            econ_tb = str(round(econ_tb, 2))
+        localBowlerTabulate.append(econ_tb)
+        bowlerTabulate.append(localBowlerTabulate)
+
+    print(tabulate(batsmanTabulate, ["Player", "Runs", "Balls", "SR" ,"Out"], tablefmt="grid"))
+    print(tabulate(bowlerTabulate, ["Player", "Runs", "Overs", "Wickets", "Eco"], tablefmt="grid"))
+        
     target = runs + 1
 
 def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, dew, detoriate):
@@ -1604,6 +1632,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
         else:
             #logic for last 3 overs chase
+            pass
                     
         if(runs >= target):
             print("TARGET CHASED")
@@ -1916,12 +1945,17 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
 
             
-    print(batterTracker)
-    print(bowlerTracker)
+    # print(batterTracker)
+    # print(bowlerTracker)
     batsmanTabulate = []
     for btckd in batterTracker:
         localArrayTabulate = [btckd]
         localArrayTabulate += [batterTracker[btckd]['runs'], batterTracker[btckd]['balls']]
+        sr_ = 'NA'
+        if(batterTracker[btckd]['balls'] != 0):
+            sr_ = (batterTracker[btckd]['runs']*100) / (batterTracker[btckd]['balls'])
+            sr_ = str(round(sr_, 2))
+            localArrayTabulate.append(sr_)
         out = False
         howOut = "DNB"
         batted = False
@@ -1945,7 +1979,23 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
         batsmanTabulate.append(localArrayTabulate)
         
 
-    print(tabulate(batsmanTabulate, ["Player", "Runs", "Balls", "Out"], tablefmt="grid"))
+    bowlerTabulate = []
+    for btrack in bowlerTracker:
+        localBowlerTabulate = [btrack, bowlerTracker[btrack]['runs']]
+        overs_tb = 0
+        remainder_balls = bowlerTracker[btrack]['balls'] % 6 
+        number_overs = bowlerTracker[btrack]['balls'] // 6
+        localBowlerTabulate.append(f"{number_overs}.{remainder_balls}")
+        localBowlerTabulate.append(bowlerTracker[btrack]['wickets'])
+        econ_tb = "NA"
+        if(bowlerTracker[btrack]['balls'] != 0):
+            econ_tb = (bowlerTracker[btrack]['runs'] / bowlerTracker[btrack]['balls'])*6
+            econ_tb = str(round(econ_tb, 2))
+        localBowlerTabulate.append(econ_tb)
+        bowlerTabulate.append(localBowlerTabulate)
+
+    print(tabulate(batsmanTabulate, ["Player", "Runs", "Balls", "SR" ,"Out"], tablefmt="grid"))
+    print(tabulate(bowlerTabulate, ["Player", "Runs", "Overs", "Wickets", "Eco"], tablefmt="grid"))
 
 
 def game():
