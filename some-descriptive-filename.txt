@@ -1,0 +1,17 @@
+ Volume in drive C is OS
+ Volume Serial Number is EC8E-3EE9
+
+ Directory of C:\Users\adish\Desktop\cricketmanager\sim
+
+07-May-21  09:52 PM    <DIR>          .
+07-May-21  09:52 PM    <DIR>          ..
+07-May-21  09:27 PM                 0 36
+07-May-21  05:49 PM               359 accessDB.py
+07-May-21  09:51 PM            95,281 main.py
+06-May-21  11:23 AM    <DIR>          matches
+07-May-21  09:52 PM                 0 some-descriptive-filename.txt
+07-May-21  05:48 PM    <DIR>          teams
+06-May-21  11:24 PM            45,923 testmain.py
+07-May-21  05:50 PM    <DIR>          __pycache__
+               5 File(s)        141,563 bytes
+               5 Dir(s)  281,065,910,272 bytes free
