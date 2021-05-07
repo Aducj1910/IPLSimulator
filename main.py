@@ -1174,18 +1174,18 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
         if('break' or 'spin' in bowler['bowlStyle']):
             effect = (1.0 - spin)/2
             # print("effect:", effect, "original:", spin)
-            bowlInfo['bowlOutsRate'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.38)
+            bowlInfo['bowlOutsRate'] += (effect * 0.22)
+            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.18)
+            bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.22)
+            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.4)
             bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.3)
         elif('medium' or 'fast' in bowler['bowlStyle']):
             effect = (1.0 - fast)/2
             # print("effect:", effect, "original:", fast)
-            bowlInfo['bowlOutsRate'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.25)
-            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.38)
+            bowlInfo['bowlOutsRate'] += (effect * 0.22)
+            bowlInfo['bowlRunDenominationsObject']['0'] += (effect * 0.18)
+            bowlInfo['bowlRunDenominationsObject']['1'] += (effect * 0.22)
+            bowlInfo['bowlRunDenominationsObject']['4'] -= (effect * 0.4)
             bowlInfo['bowlRunDenominationsObject']['6'] -= (effect * 0.3)
 
         # print(batInfo)
@@ -1512,12 +1512,12 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                     
                 else:
                     adjust = random.uniform(0.04, 0.08)
-                    denAvg['6'] += adjust * (0.6/3)
-                    denAvg['4'] += adjust * (1/3)
-                    denAvg['0'] += adjust * (1/3)
+                    denAvg['6'] += adjust * (0.75/3)
+                    denAvg['4'] += adjust * (1.15/3)
+                    denAvg['0'] += adjust * (0.9/3)
                     denAvg['1'] -= adjust * (1/3)
                     denAvg['2'] -= adjust * (0.6/3)
-                    outAvg -= 0.03
+                    outAvg -= 0.025
                     getOutcome(denAvg, outAvg, over)
 
 
@@ -1532,7 +1532,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                     denAvg['1'] -= adjust * (1.5/3)
                     denAvg['2'] -= adjust * (1.5/3)
                     denAvg['3'] -= adjust * (0.7/3)
-                    outAvg += 0.045
+                    outAvg += 0.025
                     getOutcome(denAvg, outAvg, over)
                 else:
                     adjust = random.uniform(0.06, 0.1)
@@ -1548,16 +1548,16 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 
 
             elif(rrro >= 12 and rrro <= 15):
-                if(balls > 70):
+                if(balls > 85):
                     if(wickets < 3):
                         adjust = random.uniform(0.065, 0.115)
-                        denAvg['6'] += adjust * (1.5/3)
+                        denAvg['6'] += adjust * (2/3)
                         denAvg['4'] += adjust * (1.5/3)
-                        denAvg['0'] += adjust * (1.7/3)
+                        denAvg['0'] += adjust * (1.4/3)
                         denAvg['1'] -= adjust * (1.2/3)
                         denAvg['2'] -= adjust * (1.6/3)
                         denAvg['3'] -= adjust * (0.9/3)
-                        outAvg += 0.0695
+                        outAvg += 0.045
                         getOutcome(denAvg, outAvg, over)
                     else:
                         adjust = random.uniform(0.05, 0.1)
@@ -1571,13 +1571,13 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                         getOutcome(denAvg, outAvg, over)
                 else:
                         adjust = random.uniform(0.05, 0.1)
-                        denAvg['6'] += adjust * (1.5/3)
+                        denAvg['6'] += adjust * (1.3/3)
                         denAvg['4'] += adjust * (1/3)
                         denAvg['0'] += adjust * (1.2/3)
                         denAvg['1'] -= adjust * (1.2/3)
                         denAvg['2'] -= adjust * (1.6/3)
                         denAvg['3'] -= adjust * (0.9/3)
-                        outAvg += 0.055
+                        outAvg += 0.04
                         getOutcome(denAvg, outAvg, over)
             else:
                 if(wickets < 3):
@@ -1588,7 +1588,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                     denAvg['1'] -= adjust * (1.2/3)
                     denAvg['2'] -= adjust * (1.6/3)
                     denAvg['3'] -= adjust * (0.9/3)
-                    outAvg += 0.07
+                    outAvg += 0.05
                     getOutcome(denAvg, outAvg, over)
                 else:
                     adjust = random.uniform(0.07, 0.12)
@@ -1598,11 +1598,14 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                     denAvg['1'] -= adjust * (1.6/3)
                     denAvg['2'] -= adjust * (1.7/3)
                     denAvg['3'] -= adjust * (0.9/3)
-                    outAvg += 0.065
+                    outAvg += 0.04
                     getOutcome(denAvg, outAvg, over)
 
 
-        if(runs >= target or wickets == 10):
+        else:
+            #logic for last 3 overs chase
+                    
+        if(runs >= target):
             print("TARGET CHASED")
             targetChased = True
 
@@ -1662,7 +1665,9 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             n = 0
             while(balls < 6 ):
                 if(runs >= target or wickets == 10):
-                    print("Target Chased")
+                    if(runs >= target):
+                        print("Target Chased")
+                        break
                     break
                 else:     
                 # print(overBowler['byBatsman']['right-hand bat']['bowlRunDenominationsObject']['4'])
@@ -1675,7 +1680,9 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             n = 0
             while(balls < 12 ):
                 if(runs >= target or wickets == 10):
-                    print("Target Chased")
+                    if(runs >= target):
+                        print("Target Chased")
+                        break
                     break
                 else:
                     delivery(copy.deepcopy(overBowler), copy.deepcopy(
@@ -1714,7 +1721,9 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             n = 0
             while(balls < ((i + 1)*6) ):
                 if(runs >= target or wickets == 10):
-                    print("Target Chased")
+                    if(runs >= target):
+                        print("Target Chased")
+                        break
                     break
                 else: #Add for the case that the team has to save bowler for death (if death bowler certain number of overs then after 2 in pp, save for later)
                     delivery(copy.deepcopy(overBowler), copy.deepcopy(onStrike), str(i) + "." + str(n + 1))
@@ -1835,7 +1844,9 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             n = 0
             while(balls < ((i + 1)*6) ):
                 if(runs >= target or wickets == 10):
-                    print("Target Chased")
+                    if(runs >= target):
+                        print("Target Chased")
+                        break
                     break
                 else:
                  #Add for the case that the team has to save bowler for death (if death bowler certain number of overs then after 2 in pp, save for later)         
@@ -1893,7 +1904,9 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             n = 0
             while(balls < ((i + 1)*6) ):
                 if(runs >= target or wickets == 10):
-                    print("Target Chased")
+                    if(runs >= target):
+                        print("Target Chased")
+                        break
                     break
                 else:
                  #Add for the case that the team has to save bowler for death (if death bowler certain number of overs then after 2 in pp, save for later)         
