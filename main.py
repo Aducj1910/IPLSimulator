@@ -518,7 +518,9 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                 batterTracker[btname]['ballLog'].append(f"{str(balls)}:{prob['denomination']}")
                                 batterTracker[btname]['balls'] += 1
 
-        
+           
+         
+
         sumLast10 = 0
         outsLast10 = 0
         for i in ballLog:
@@ -944,15 +946,16 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                         else:
                             if(pickInfo['balls'] < 19 and pickInfo['playerInitials'] != lastOver):
                                 for track in bowlerTracker: #SAMPLE FOR OTHER PICKER DEFS | MAKE SURE LESS THAN 24 BALLS BOWLED
-                                    if bowlerTracker[track]['balls'] != 0 and bowlerTracker[track]['balls'] < 23:
-                                        if(bowlerTracker[track]['runs'] == 0 and track != lastOver):
-                                            bowlerToReturn = pick
-                                            valid = True
-
-                                        elif((bowlerTracker[track]['balls'] / bowlerTracker[track]['runs']) < 1.2) or (bowlerTracker[track]['wickets'] / bowlerTracker[track]['balls']) > 0.16:
-                                            if(track != lastOver):
+                                    if(lastOver != track):
+                                        if bowlerTracker[track]['balls'] != 0 and bowlerTracker[track]['balls'] < 23:
+                                            if(bowlerTracker[track]['runs'] == 0 and track != lastOver):
                                                 bowlerToReturn = pick
                                                 valid = True
+
+                                            elif((bowlerTracker[track]['balls'] / bowlerTracker[track]['runs']) < 1.2) or (bowlerTracker[track]['wickets'] / bowlerTracker[track]['balls']) > 0.16:
+                                                if(track != lastOver):
+                                                    bowlerToReturn = pick
+                                                    valid = True
 
                                 bowlerToReturn = pick
                                 valid = True
