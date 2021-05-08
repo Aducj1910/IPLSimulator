@@ -1,4 +1,4 @@
-from main import game
+from mainconnect import game
 from tabulate import tabulate
 
 teams = ['dc', 'csk', 'rcb', 'mi', 'kkr', 'pbks', 'rr', 'srh']

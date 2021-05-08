@@ -1,4 +1,4 @@
-from main import game
+from mainconnect import game
 from tabulate import tabulate
 
 teams = ['dc', 'csk', 'rcb', 'mi', 'kkr', 'pbks', 'rr', 'srh']
@@ -11,8 +11,15 @@ alreadyDone = {"mivrcb", "cskvdc", "kkrvsrh", "pbksvrr",
 	
 }
 points = {}
-for i in teams:
-	points[i] = {"P": 0, "W": 0, "L": 0, "T": 0, "runsScored": 0, "ballsFaced": 0, "runsConceded": 0, "ballsBowled": 0, "pts": 0}
+points['dc'] = {"P": 8, "W": 6, "L": 2, "T": 0, "runsScored": 1325, "ballsFaced": 902, "runsConceded": 1320, "ballsBowled": 958, "pts": 12}
+points['csk'] = {"P": 7, "W": 5, "L": 2, "T": 0, "runsScored": 1285, "ballsFaced": 805, "runsConceded": 1153, "ballsBowled": 832, "pts": 10}
+points['rcb'] = {"P": 7, "W": 5, "L": 2, "T": 0, "runsScored": 1132, "ballsFaced": 819, "runsConceded": 1185, "ballsBowled": 840, "pts": 10}
+points['mi'] = {"P": 7, "W": 4, "L": 3, "T": 0, "runsScored": 1120, "ballsFaced": 831, "runsConceded": 1098, "ballsBowled": 821, "pts": 8}
+points['rr'] = {"P": 7, "W": 3, "L": 4, "T": 0, "runsScored": 1212, "ballsFaced": 831, "runsConceded": 1207, "ballsBowled": 810, "pts": 6}
+points['pbks'] = {"P": 8, "W": 3, "L": 5, "T": 0, "runsScored": 1242, "ballsFaced": 946, "runsConceded": 1212, "ballsBowled": 882, "pts": 6}
+points['kkr'] = {"P": 7, "W": 2, "L": 5, "T": 0, "runsScored": 1110, "ballsFaced": 820, "runsConceded": 1166, "ballsBowled": 812, "pts": 4}
+points['srh'] = {"P": 7, "W": 1, "L": 6, "T": 0, "runsScored": 1073, "ballsFaced": 820, "runsConceded": 1158, "ballsBowled": 819, "pts": 2}
+
 
 battingf = 0
 bowlingf = 0

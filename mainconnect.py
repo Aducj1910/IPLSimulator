@@ -2088,7 +2088,7 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None):
     # pitchTypeInput = input("Enter type of pitch (green, dusty, or dead) ")
     pitchTypeInput = "dusty"
     stdoutOrigin=sys.stdout 
-    sys.stdout = open(f"playoffs/{team_one_inp}v{team_two_inp}.txt", "w")
+    sys.stdout = open(f"scoresremainder/{team_one_inp}v{team_two_inp}.txt", "w")
 
     # f = open("matches/csk_v_rr.txt", "r")
     f1 = open(f"teams/{team_one_inp}.txt", "r")
@@ -2187,4 +2187,4 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None):
 
 
 
-game()
+# game()
