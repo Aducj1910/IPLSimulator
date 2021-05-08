@@ -1,6 +1,8 @@
 import random
 import accessDB
 import copy
+import sys 
+
 
 #EVENTUALLY ->
 #Add each matcch info to DB to create new data
@@ -59,6 +61,16 @@ import copy
 from tabulate import tabulate
 
 target = 1
+
+innings1Batting = None
+innings1Bowling = None
+innings2Batting = None
+innings2Bowling = None
+innings1Balls = None
+innings2Balls = None
+innings1Runs = None
+innings2Runs = None
+winner = None
 
 def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch, team1, team2):
     battingLikely =  0.45
@@ -126,7 +138,7 @@ def pitchInfo(venue, typeOfPitch):
 
 
 def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, dew, detoriate):
-    global target
+    global target, innings1Balls, innings1Runs, innings1Batting, innings2Batting, winner
     # print(battingName, bowlingName, pace, spin, outfield, dew, detoriate)
     bowlerTracker = {} #add names of all in innings def
     batterTracker = {} #add names of all in innings def
@@ -725,18 +737,25 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             overBowler = bowler1
             n = 0
             while(balls < 6):
-                # print(overBowler['byBatsman']['right-hand bat']['bowlRunDenominationsObject']['4'])
-                delivery(copy.deepcopy(overBowler), copy.deepcopy(
-                    onStrike), str(i) + "." + str(n + 1))
-                n += 1
+                if(wickets == 10):
+                    break
+                else:
+                    # print(overBowler['byBatsman']['right-hand bat']['bowlRunDenominationsObject']['4'])
+                    delivery(copy.deepcopy(overBowler), copy.deepcopy(
+                        onStrike), str(i) + "." + str(n + 1))
+                    n += 1
             lastOver = overBowler['playerInitials']
         elif(i == 1):
             overBowler = bowler2
             n = 0
             while(balls < 12):
-                delivery(copy.deepcopy(overBowler), copy.deepcopy(
-                    onStrike), str(i) + "." + str(n + 1))
-                n += 1
+                if(wickets == 10):
+                    break
+                else:
+                    # print(overBowler['byBatsman']['right-hand bat']['bowlRunDenominationsObject']['4'])
+                    delivery(copy.deepcopy(overBowler), copy.deepcopy(
+                        onStrike), str(i) + "." + str(n + 1))
+                    n += 1
             lastOver = overBowler['playerInitials']
 
         elif(i < 6):
@@ -768,9 +787,14 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             # print(bowlingOpening[0])
 
             n = 0
-            while(balls < ((i + 1)*6)): #Add for the case that the team has to save bowler for death (if death bowler certain number of overs then after 2 in pp, save for later)
-                delivery(copy.deepcopy(overBowler), copy.deepcopy(onStrike), str(i) + "." + str(n + 1))
-                n += 1
+            while(balls < ((i + 1)*6)):
+                if(wickets == 10):
+                    break
+                else:
+                    # print(overBowler['byBatsman']['right-hand bat']['bowlRunDenominationsObject']['4'])
+                    delivery(copy.deepcopy(overBowler), copy.deepcopy(
+                        onStrike), str(i) + "." + str(n + 1))
+                    n += 1
             lastOver = overBowler['playerInitials']
 
         elif(i < 17): #21 for now but 17 later
@@ -885,9 +909,14 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 overBowler = bowler1
 
             n = 0
-            while(balls < ((i + 1)*6)): #Add for the case that the team has to save bowler for death (if death bowler certain number of overs then after 2 in pp, save for later)         
-                delivery(copy.deepcopy(overBowler), copy.deepcopy(onStrike), str(i) + "." + str(n + 1))
-                n += 1
+            while(balls < ((i + 1)*6)):
+                if(wickets == 10):
+                    break
+                else:
+                    # print(overBowler['byBatsman']['right-hand bat']['bowlRunDenominationsObject']['4'])
+                    delivery(copy.deepcopy(overBowler), copy.deepcopy(
+                        onStrike), str(i) + "." + str(n + 1))
+                    n += 1
             lastOver = overBowler['playerInitials']
 
         else:
@@ -938,9 +967,14 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 overBowler = bowler1
 
             n = 0
-            while(balls < ((i + 1)*6)): #Add for the case that the team has to save bowler for death (if death bowler certain number of overs then after 2 in pp, save for later)         
-                delivery(copy.deepcopy(overBowler), copy.deepcopy(onStrike), str(i) + "." + str(n + 1))
-                n += 1
+            while(balls < ((i + 1)*6)):
+                if(wickets == 10):
+                    break
+                else:
+                    # print(overBowler['byBatsman']['right-hand bat']['bowlRunDenominationsObject']['4'])
+                    delivery(copy.deepcopy(overBowler), copy.deepcopy(
+                        onStrike), str(i) + "." + str(n + 1))
+                    n += 1
             lastOver = overBowler['playerInitials']
 
 
@@ -998,9 +1032,14 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
     print(tabulate(bowlerTabulate, ["Player", "Runs", "Overs", "Wickets", "Eco"], tablefmt="grid"))
         
     target = runs + 1
+    innings1Balls = balls
+    innings1Runs = runs
+    innings1Batting = tabulate(batsmanTabulate, ["Player", "Runs", "Balls", "SR" ,"Out"], tablefmt="grid")
+    innings1Bowling = tabulate(bowlerTabulate, ["Player", "Runs", "Overs", "Wickets", "Eco"], tablefmt="grid")
 
 def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, dew, detoriate):
     # print(battingName, bowlingName, pace, spin, outfield, dew, detoriate)
+    global innings2Batting, innings2Bowling, innings2Runs, innings2Balls, winner
     bowlerTracker = {} #add names of all in innings def
     batterTracker = {} #add names of all in innings def
     battingOrder = []
@@ -1133,7 +1172,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
 
     def playerDismissed(player):
-        nonlocal batter1, batter2, onStrike
+        nonlocal batter1, batter2, onStrike, targetChased
         # print("OUT", player['player']['playerInitials'])
         if(wickets == 10):
             print("ALL OUT")
@@ -1174,6 +1213,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
     def delivery(bowler, batter, over):
         nonlocal batterTracker, bowlerTracker, onStrike, ballLog, balls, runs, wickets, targetChased
+        global winner
         batInfo = None
         bowlInfo = None
         wideRate = bowler['bowlWideRate']
@@ -1511,7 +1551,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             rrro = rrr*6
             if(rrro < 8):
                 if(wickets < 3):
-                    adjust = random.uniform(0.06, 0.1)
+                    adjust = random.uniform(0.05, 0.09)
                     denAvg['6'] -= adjust * (0.8/3)
                     # denAvg['4'] -= adjust * (0.5/3)
                     denAvg['0'] -= adjust * (1/3)
@@ -1529,7 +1569,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
             elif(rrro >= 8 and rrro <= 10.4):
                 if(wickets < 3):
-                    adjust = random.uniform(0.65, 0.1)
+                    adjust = random.uniform(0.6, 0.095)
                     denAvg['6'] += adjust * (1.2/3)
                     denAvg['4'] += adjust * (1.4/3)
                     denAvg['0'] += adjust * (0.3/3)
@@ -1653,11 +1693,17 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             #logic for last 3 overs chase
             pass
                     
-        if(runs >= target):
-            print(f"{battingName} won by {10 - wickets} wickets")
-            targetChased = True
-        elif(balls == 120 or wickets == 10):
-            print(f"{bowlingName} won by {(target - 1) - runs} runs")
+        if(runs == (target - 1) and (balls == 120 or wickets == 10)):
+            print("Match tied")
+            winner = "tie"
+        else:
+            if(runs >= target):
+                print(f"{battingName} won by {10 - wickets} wickets")
+                winner = battingName
+                targetChased = True
+            elif(balls == 120 or wickets == 10):
+                print(f"{bowlingName} won by {(target - 1) - runs} runs")
+                winner = bowlingName
 
 
         # elif(balls >= 36 and balls < 102):
@@ -1928,7 +1974,8 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                         else:
                             if(pickInfo['balls'] < 19 and pickInfo['playerInitials'] != lastOver):
                                 for track in bowlerTracker: #SAMPLE FOR OTHER PICKER DEFS | MAKE SURE LESS THAN 24 BALLS BOWLED
-                                    if bowlerTracker[track]['balls'] != 0 and bowlerTracker[track]['balls'] < 23:
+                                   if(track != lastOver):
+                                     if bowlerTracker[track]['balls'] != 0 and bowlerTracker[track]['balls'] < 23:
                                         if(bowlerTracker[track]['runs'] == 0 and track != lastOver):
                                             bowlerToReturn = pick
                                             valid = True
@@ -2017,13 +2064,25 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
     print(tabulate(batsmanTabulate, ["Player", "Runs", "Balls", "SR" ,"Out"], tablefmt="grid"))
     print(tabulate(bowlerTabulate, ["Player", "Runs", "Overs", "Wickets", "Eco"], tablefmt="grid"))
+    innings2Balls = balls
+    innings2Runs = runs
+    innings2Batting = tabulate(batsmanTabulate, ["Player", "Runs", "Balls", "SR" ,"Out"], tablefmt="grid")
+    innings2Bowling = tabulate(bowlerTabulate, ["Player", "Runs", "Overs", "Wickets", "Eco"], tablefmt="grid")
 
+def game(manual=True, sentTeamOne=None, sentTeamTwo=None):
+    team_one_inp = None
+    team_two_inp = None
+    if(manual):
+        team_one_inp = input("enter first team ").lower()
+        team_two_inp = input("enter second team ").lower()
+    else:
+        team_one_inp = sentTeamOne
+        team_two_inp = sentTeamTwo
 
-def game():
-    team_one_inp = input("enter first team ").lower()
-    team_two_inp = input("enter second team ").lower()
     # pitchTypeInput = input("Enter type of pitch (green, dusty, or dead) ")
     pitchTypeInput = "dusty"
+    stdoutOrigin=sys.stdout 
+    sys.stdout = open(f"scores/{team_one_inp}v{team_two_inp}.txt", "w")
 
     # f = open("matches/csk_v_rr.txt", "r")
     f1 = open(f"teams/{team_one_inp}.txt", "r")
@@ -2114,7 +2173,11 @@ def game():
 
     innings2(getBatting()[1], getBatting()[0], getBatting()[3], getBatting()[
             2], paceFactor, spinFactor, outfield, dew, detoriate)
+    sys.stdout.close()
+    sys.stdout=stdoutOrigin
+    return [innings1Batting, innings1Bowling, innings2Batting, innings2Bowling, 120, 
+        innings2Balls, innings1Runs, innings2Runs,getBatting()[2] ,getBatting()[3] ,  winner]
 
 
 
-game()
+# game()
