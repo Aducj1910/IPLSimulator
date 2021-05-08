@@ -1,311 +1,153 @@
-kkr won the toss and chose to bat
-0.1 Khaleel Ahmed to Rahul Tripathi 4 Score: 4/0
-0.2 Khaleel Ahmed to Rahul Tripathi 4 Score: 8/0
-0.3 Khaleel Ahmed to Rahul Tripathi 1 Score: 9/0
-0.4 Khaleel Ahmed to Nitish Rana Wide Score: 10/0
-0.5 Khaleel Ahmed to Nitish Rana 1 Score: 11/0
-0.6 Khaleel Ahmed to Rahul Tripathi 1 Score: 12/0
-0.7 Khaleel Ahmed to Nitish Rana 4 Score: 16/0
-1.1 Abhishek Sharma to Rahul Tripathi 1 Score: 17/0
-1.2 Abhishek Sharma to Nitish Rana 1 Score: 18/0
-1.3 Abhishek Sharma to Rahul Tripathi 1 Score: 19/0
-1.4 Abhishek Sharma to Nitish Rana 0 Score: 19/0
-1.5 Abhishek Sharma to Nitish Rana 0 Score: 19/0
-1.6 Abhishek Sharma to Nitish Rana 2 Score: 21/0
-2.1 Khaleel Ahmed to Rahul Tripathi W Score: 21/1 Caught by Vijay Shankar
-2.2 Khaleel Ahmed to Shubman Gill 1 Score: 22/1
-2.3 Khaleel Ahmed to Nitish Rana 0 Score: 22/1
-2.4 Khaleel Ahmed to Nitish Rana 2 Score: 24/1
-2.5 Khaleel Ahmed to Nitish Rana 6 Score: 30/1
-2.6 Khaleel Ahmed to Nitish Rana 1 Score: 31/1
-3.1 Abhishek Sharma to Nitish Rana 0 Score: 31/1
-3.2 Abhishek Sharma to Nitish Rana 4 Score: 35/1
-3.3 Abhishek Sharma to Nitish Rana 1 Score: 36/1
-3.4 Abhishek Sharma to Shubman Gill 0 Score: 36/1
-3.5 Abhishek Sharma to Shubman Gill 1 Score: 37/1
-3.6 Abhishek Sharma to Nitish Rana 1 Score: 38/1
-4.1 Jagadeesha Suchith to Nitish Rana 0 Score: 38/1
-4.2 Jagadeesha Suchith to Nitish Rana 0 Score: 38/1
-4.3 Jagadeesha Suchith to Nitish Rana 0 Score: 38/1
-4.4 Jagadeesha Suchith to Nitish Rana 0 Score: 38/1
-4.5 Jagadeesha Suchith to Nitish Rana 0 Score: 38/1
-4.6 Jagadeesha Suchith to Nitish Rana 0 Score: 38/1
-5.1 Rashid Khan to Shubman Gill 0 Score: 38/1
-5.2 Rashid Khan to Shubman Gill 0 Score: 38/1
-5.3 Rashid Khan to Shubman Gill 0 Score: 38/1
-5.4 Rashid Khan to Shubman Gill 1 Score: 39/1
-5.5 Rashid Khan to Nitish Rana 0 Score: 39/1
-5.6 Rashid Khan to Nitish Rana 0 Score: 39/1
-6.1 Jagadeesha Suchith to Shubman Gill 0 Score: 39/1
-6.2 Jagadeesha Suchith to Shubman Gill 1 Score: 40/1
-6.3 Jagadeesha Suchith to Nitish Rana W Score: 40/2 Caught by Manish Pandey
-6.4 Jagadeesha Suchith to Dinesh Karthik 1 Score: 41/2
-6.5 Jagadeesha Suchith to Shubman Gill 2 Score: 43/2
-6.6 Jagadeesha Suchith to Shubman Gill 6 Score: 49/2
-7.1 Rashid Khan to Dinesh Karthik 0 Score: 49/2
-7.2 Rashid Khan to Dinesh Karthik 1 Score: 50/2
-7.3 Rashid Khan to Shubman Gill 2 Score: 52/2
-7.4 Rashid Khan to Shubman Gill 2 Score: 54/2
-7.5 Rashid Khan to Shubman Gill 0 Score: 54/2
-7.6 Rashid Khan to Shubman Gill 1 Score: 55/2
-8.1 Jagadeesha Suchith to Shubman Gill 1 Score: 56/2
-8.2 Jagadeesha Suchith to Dinesh Karthik 0 Score: 56/2
-8.3 Jagadeesha Suchith to Dinesh Karthik 1 Score: 57/2
-8.4 Jagadeesha Suchith to Shubman Gill 2 Score: 59/2
-8.5 Jagadeesha Suchith to Shubman Gill 1 Score: 60/2
-8.6 Jagadeesha Suchith to Dinesh Karthik 1 Score: 61/2
-9.1 Rashid Khan to Dinesh Karthik 0 Score: 61/2
-9.2 Rashid Khan to Dinesh Karthik 1 Score: 62/2
-9.3 Rashid Khan to Shubman Gill 6 Score: 68/2
-9.4 Rashid Khan to Shubman Gill 1 Score: 69/2
-9.5 Rashid Khan to Dinesh Karthik 0 Score: 69/2
-9.6 Rashid Khan to Dinesh Karthik 0 Score: 69/2
-10.1 Jagadeesha Suchith to Shubman Gill 2 Score: 71/2
-10.2 Jagadeesha Suchith to Shubman Gill 0 Score: 71/2
-10.3 Jagadeesha Suchith to Shubman Gill 1 Score: 72/2
-10.4 Jagadeesha Suchith to Dinesh Karthik 6 Score: 78/2
-10.5 Jagadeesha Suchith to Dinesh Karthik 0 Score: 78/2
-10.6 Jagadeesha Suchith to Dinesh Karthik 1 Score: 79/2
-11.1 Rashid Khan to Dinesh Karthik 0 Score: 79/2
-11.2 Rashid Khan to Dinesh Karthik 0 Score: 79/2
-11.3 Rashid Khan to Dinesh Karthik 2 Score: 81/2
-11.4 Rashid Khan to Dinesh Karthik 1 Score: 82/2
-11.5 Rashid Khan to Shubman Gill 1 Score: 83/2
-11.6 Rashid Khan to Dinesh Karthik 1 Score: 84/2
-12.1 Abhishek Sharma to Dinesh Karthik 1 Score: 85/2
-12.2 Abhishek Sharma to Shubman Gill 1 Score: 86/2
-12.3 Abhishek Sharma to Dinesh Karthik 1 Score: 87/2
-12.4 Abhishek Sharma to Shubman Gill 0 Score: 87/2
-12.5 Abhishek Sharma to Shubman Gill W Score: 87/3 Caught by Rashid Khan
-12.6 Abhishek Sharma to Eoin Morgan 1 Score: 88/3
-13.1 Siddarth Kaul to Eoin Morgan 0 Score: 88/3
-13.2 Siddarth Kaul to Eoin Morgan 0 Score: 88/3
-13.3 Siddarth Kaul to Eoin Morgan 1 Score: 89/3
-13.4 Siddarth Kaul to Dinesh Karthik 1 Score: 90/3
-13.5 Siddarth Kaul to Eoin Morgan 1 Score: 91/3
-13.6 Siddarth Kaul to Dinesh Karthik 0 Score: 91/3
-14.1 Abhishek Sharma to Eoin Morgan 2 Score: 93/3
-14.2 Abhishek Sharma to Eoin Morgan 0 Score: 93/3
-14.3 Abhishek Sharma to Eoin Morgan 1 Score: 94/3
-14.4 Abhishek Sharma to Dinesh Karthik 1 Score: 95/3
-14.5 Abhishek Sharma to Eoin Morgan 1 Score: 96/3
-14.6 Abhishek Sharma to Dinesh Karthik 0 Score: 96/3
-15.1 Siddarth Kaul to Eoin Morgan 4 Score: 100/3
-15.2 Siddarth Kaul to Eoin Morgan 2 Score: 102/3
-15.3 Siddarth Kaul to Eoin Morgan 1 Score: 103/3
-15.4 Siddarth Kaul to Dinesh Karthik 1 Score: 104/3
-15.5 Siddarth Kaul to Eoin Morgan 0 Score: 104/3
-15.6 Siddarth Kaul to Eoin Morgan W Score: 104/4 Caught by Manish Pandey
-16.1 Vijay Shankar to Dinesh Karthik 1 Score: 105/4
-16.2 Vijay Shankar to Andre Russell 0 Score: 105/4
-16.3 Vijay Shankar to Andre Russell 1 Score: 106/4
-16.4 Vijay Shankar to Dinesh Karthik 4 Score: 110/4
-16.5 Vijay Shankar to Dinesh Karthik 0 Score: 110/4
-16.6 Vijay Shankar to Dinesh Karthik 0 Score: 110/4
-17.1 Siddarth Kaul to Andre Russell 1 Score: 111/4
-17.2 Siddarth Kaul to Dinesh Karthik W Score: 111/5 Lbw
-17.3 Siddarth Kaul to Pat Cummins 1 Score: 112/5
-17.4 Siddarth Kaul to Andre Russell 1 Score: 113/5
-17.5 Siddarth Kaul to Pat Cummins 2 Score: 115/5
-17.6 Siddarth Kaul to Pat Cummins 2 Score: 117/5
-18.1 Vijay Shankar to Andre Russell 0 Score: 117/5
-18.2 Vijay Shankar to Andre Russell 0 Score: 117/5
-18.3 Vijay Shankar to Andre Russell 6 Score: 123/5
-18.4 Vijay Shankar to Andre Russell 1 Score: 124/5
-18.5 Vijay Shankar to Pat Cummins 2 Score: 126/5
-18.6 Vijay Shankar to Pat Cummins W Score: 126/6 Caught by Kane Williamson
-19.1 Siddarth Kaul to Andre Russell 1 Score: 127/6
-19.2 Siddarth Kaul to Shivam Mavi 0 Score: 127/6
-19.3 Siddarth Kaul to Shivam Mavi 6 Score: 133/6
-19.4 Siddarth Kaul to Shivam Mavi 4 Score: 137/6
-19.5 Siddarth Kaul to Shivam Mavi 4 Score: 141/6
-19.6 Siddarth Kaul to Shivam Mavi 1 Score: 142/6
-+-------------------+--------+---------+--------+---------------------------------+
-| Player            |   Runs |   Balls | SR     | Out                             |
-+===================+========+=========+========+=================================+
-| N Rana            |     23 |      23 | 100.0  | c MK Pandey b J Suchith         |
-+-------------------+--------+---------+--------+---------------------------------+
-| Shubman Gill      |     33 |      27 | 122.22 | c Rashid Khan b Abhishek Sharma |
-+-------------------+--------+---------+--------+---------------------------------+
-| RA Tripathi       |     12 |       7 | 171.43 | c V Shankar b KK Ahmed          |
-+-------------------+--------+---------+--------+---------------------------------+
-| EJG Morgan        |     14 |      14 | 100.0  | c MK Pandey b S Kaul            |
-+-------------------+--------+---------+--------+---------------------------------+
-| AD Russell        |     11 |       9 | 122.22 | Not out                         |
-+-------------------+--------+---------+--------+---------------------------------+
-| KD Karthik        |     26 |      30 | 86.67  | lbw b S Kaul                    |
-+-------------------+--------+---------+--------+---------------------------------+
-| SP Narine         |      0 |       0 | DNB    |                                 |
-+-------------------+--------+---------+--------+---------------------------------+
-| PJ Cummins        |      7 |       5 | 140.0  | c KS Williamson b V Shankar     |
-+-------------------+--------+---------+--------+---------------------------------+
-| Shivam Mavi       |     15 |       5 | 300.0  | Not out                         |
-+-------------------+--------+---------+--------+---------------------------------+
-| CV Varun          |      0 |       0 | DNB    |                                 |
-+-------------------+--------+---------+--------+---------------------------------+
-| M Prasidh Krishna |      0 |       0 | DNB    |                                 |
-+-------------------+--------+---------+--------+---------------------------------+
-+-----------------+--------+---------+-----------+-------+
-| Player          |   Runs |   Overs |   Wickets | Eco   |
-+=================+========+=========+===========+=======+
-| DA Warner       |      0 |       0 |         0 | NA    |
-+-----------------+--------+---------+-----------+-------+
-| JM Bairstow     |      0 |       0 |         0 | NA    |
-+-----------------+--------+---------+-----------+-------+
-| KS Williamson   |      0 |       0 |         0 | NA    |
-+-----------------+--------+---------+-----------+-------+
-| MK Pandey       |      0 |       0 |         0 | NA    |
-+-----------------+--------+---------+-----------+-------+
-| KM Jadhav       |      0 |       0 |         0 | NA    |
-+-----------------+--------+---------+-----------+-------+
-| Abhishek Sharma |     21 |       4 |         1 | 5.25  |
-+-----------------+--------+---------+-----------+-------+
-| Rashid Khan     |     20 |       4 |         0 | 5.0   |
-+-----------------+--------+---------+-----------+-------+
-| V Shankar       |     15 |       2 |         1 | 7.5   |
-+-----------------+--------+---------+-----------+-------+
-| J Suchith       |     26 |       4 |         1 | 6.5   |
-+-----------------+--------+---------+-----------+-------+
-| S Kaul          |     34 |       4 |         2 | 8.5   |
-+-----------------+--------+---------+-----------+-------+
-| KK Ahmed        |     26 |       2 |         1 | 13.0  |
-+-----------------+--------+---------+-----------+-------+
-0.1 Shivam Mavi to David Warner 1 Score: 1/0
-0.2 Shivam Mavi to Jonny Bairstow 1 Score: 2/0
-0.3 Shivam Mavi to David Warner 4 Score: 6/0
-0.4 Shivam Mavi to David Warner 4 Score: 10/0
-0.5 Shivam Mavi to David Warner 0 Score: 10/0
-0.6 Shivam Mavi to David Warner 0 Score: 10/0
-1.1 Pat Cummins to Jonny Bairstow 4 Score: 14/0
-1.2 Pat Cummins to Jonny Bairstow 4 Score: 18/0
-1.3 Pat Cummins to Jonny Bairstow 0 Score: 18/0
-1.4 Pat Cummins to Jonny Bairstow 0 Score: 18/0
-1.5 Pat Cummins to Jonny Bairstow 4 Score: 22/0
-1.6 Pat Cummins to Jonny Bairstow 4 Score: 26/0
-2.1 Shivam Mavi to David Warner 0 Score: 26/0
-2.2 Shivam Mavi to David Warner 0 Score: 26/0
-2.3 Shivam Mavi to David Warner 0 Score: 26/0
-2.4 Shivam Mavi to David Warner 1 Score: 27/0
-2.5 Shivam Mavi to Jonny Bairstow 0 Score: 27/0
-2.6 Shivam Mavi to Jonny Bairstow 0 Score: 27/0
-3.1 Andre Russell to David Warner 0 Score: 27/0
-3.2 Andre Russell to David Warner 1 Score: 28/0
-3.3 Andre Russell to Jonny Bairstow Wide Score: 29/0
-3.4 Andre Russell to Jonny Bairstow 0 Score: 29/0
-3.5 Andre Russell to Jonny Bairstow 1 Score: 30/0
-3.6 Andre Russell to David Warner 1 Score: 31/0
-3.7 Andre Russell to Jonny Bairstow 0 Score: 31/0
-4.1 Varun Chakravarthy to David Warner 1 Score: 32/0
-4.2 Varun Chakravarthy to Jonny Bairstow 1 Score: 33/0
-4.3 Varun Chakravarthy to David Warner 0 Score: 33/0
-4.4 Varun Chakravarthy to David Warner 1 Score: 34/0
-4.5 Varun Chakravarthy to Jonny Bairstow 0 Score: 34/0
-4.6 Varun Chakravarthy to Jonny Bairstow 4 Score: 38/0
-5.1 Andre Russell to David Warner 2 Score: 40/0
-5.2 Andre Russell to David Warner 0 Score: 40/0
-5.3 Andre Russell to David Warner 4 Score: 44/0
-5.4 Andre Russell to David Warner 4 Score: 48/0
-5.5 Andre Russell to David Warner 1 Score: 49/0
-5.6 Andre Russell to Jonny Bairstow 0 Score: 49/0
-6.1 Varun Chakravarthy to David Warner 1 Score: 50/0
-6.2 Varun Chakravarthy to Jonny Bairstow 1 Score: 51/0
-6.3 Varun Chakravarthy to David Warner 1 Score: 52/0
-6.4 Varun Chakravarthy to Jonny Bairstow 0 Score: 52/0
-6.5 Varun Chakravarthy to Jonny Bairstow 4 Score: 56/0
-6.6 Varun Chakravarthy to Jonny Bairstow 0 Score: 56/0
-7.1 Andre Russell to David Warner W Score: 56/1 Caught by Shubman Gill
-7.2 Andre Russell to Kane Williamson 2 Score: 58/1
-7.3 Andre Russell to Kane Williamson 0 Score: 58/1
-7.4 Andre Russell to Kane Williamson 1 Score: 59/1
-7.5 Andre Russell to Jonny Bairstow 1 Score: 60/1
-7.6 Andre Russell to Kane Williamson 1 Score: 61/1
-8.1 Varun Chakravarthy to Kane Williamson 1 Score: 62/1
-8.2 Varun Chakravarthy to Jonny Bairstow 1 Score: 63/1
-8.3 Varun Chakravarthy to Kane Williamson 0 Score: 63/1
-8.4 Varun Chakravarthy to Kane Williamson 2 Score: 65/1
-8.5 Varun Chakravarthy to Kane Williamson 1 Score: 66/1
-8.6 Varun Chakravarthy to Jonny Bairstow 1 Score: 67/1
-9.1 Sunil Narine to Jonny Bairstow 0 Score: 67/1
-9.2 Sunil Narine to Jonny Bairstow 1 Score: 68/1
-9.3 Sunil Narine to Kane Williamson 0 Score: 68/1
-9.4 Sunil Narine to Kane Williamson 2 Score: 70/1
-9.5 Sunil Narine to Kane Williamson 1 Score: 71/1
-9.6 Sunil Narine to Jonny Bairstow 0 Score: 71/1
-10.1 Varun Chakravarthy to Kane Williamson 1 Score: 72/1
-10.2 Varun Chakravarthy to Jonny Bairstow 0 Score: 72/1
-10.3 Varun Chakravarthy to Jonny Bairstow W Score: 72/2 Caught by Shubman Gill
-10.4 Varun Chakravarthy to Manish Pandey 1 Score: 73/2
-10.5 Varun Chakravarthy to Kane Williamson 1 Score: 74/2
-10.6 Varun Chakravarthy to Manish Pandey 1 Score: 75/2
-11.1 Sunil Narine to Manish Pandey 1 Score: 76/2
-11.2 Sunil Narine to Kane Williamson 1 Score: 77/2
-11.3 Sunil Narine to Manish Pandey 1 Score: 78/2
-11.4 Sunil Narine to Kane Williamson 0 Score: 78/2
-11.5 Sunil Narine to Kane Williamson 2 Score: 80/2
-11.6 Sunil Narine to Kane Williamson 1 Score: 81/2
-12.1 Andre Russell to Kane Williamson 1 Score: 82/2
-12.2 Andre Russell to Manish Pandey 0 Score: 82/2
-12.3 Andre Russell to Manish Pandey 0 Score: 82/2
-12.4 Andre Russell to Manish Pandey 0 Score: 82/2
-12.5 Andre Russell to Manish Pandey 1 Score: 83/2
-12.6 Andre Russell to Kane Williamson 0 Score: 83/2
-13.1 Sunil Narine to Manish Pandey 0 Score: 83/2
-13.2 Sunil Narine to Manish Pandey 4 Score: 87/2
-13.3 Sunil Narine to Manish Pandey 0 Score: 87/2
-13.4 Sunil Narine to Manish Pandey 4 Score: 91/2
-13.5 Sunil Narine to Manish Pandey 6 Score: 97/2
-13.6 Sunil Narine to Manish Pandey 1 Score: 98/2
-14.1 Pat Cummins to Manish Pandey 2 Score: 100/2
-14.2 Pat Cummins to Manish Pandey 1 Score: 101/2
-14.3 Pat Cummins to Kane Williamson 0 Score: 101/2
-14.4 Pat Cummins to Kane Williamson 2 Score: 103/2
-14.5 Pat Cummins to Kane Williamson 4 Score: 107/2
-14.6 Pat Cummins to Kane Williamson 1 Score: 108/2
-15.1 Sunil Narine to Kane Williamson 0 Score: 108/2
-15.2 Sunil Narine to Kane Williamson 0 Score: 108/2
-15.3 Sunil Narine to Kane Williamson 3 Score: 111/2
-15.4 Sunil Narine to Manish Pandey 0 Score: 111/2
-15.5 Sunil Narine to Manish Pandey 4 Score: 115/2
-15.6 Sunil Narine to Manish Pandey 4 Score: 119/2
-16.1 Pat Cummins to Kane Williamson 1 Score: 120/2
-16.2 Pat Cummins to Manish Pandey 0 Score: 120/2
-16.3 Pat Cummins to Manish Pandey 1 Score: 121/2
-16.4 Pat Cummins to Kane Williamson 4 Score: 125/2
-16.5 Pat Cummins to Kane Williamson 1 Score: 126/2
-16.6 Pat Cummins to Manish Pandey Wide Score: 127/2
-16.7 Pat Cummins to Manish Pandey 1 Score: 128/2
-17.1 Prasidh Krishna to Manish Pandey 2 Score: 130/2
-17.2 Prasidh Krishna to Manish Pandey 1 Score: 131/2
-17.3 Prasidh Krishna to Kane Williamson 4 Score: 135/2
-17.4 Prasidh Krishna to Kane Williamson 6 Score: 141/2
-17.5 Prasidh Krishna to Kane Williamson 0 Score: 141/2
-17.6 Prasidh Krishna to Kane Williamson 4 Score: 145/2
-srh won by 8 wickets
-+-----------------+--------+---------+--------+-----------------------------+
-| Player          |   Runs |   Balls | SR     | Out                         |
-+=================+========+=========+========+=============================+
-| DA Warner       |     27 |      23 | 117.39 | c Shubman Gill b AD Russell |
-+-----------------+--------+---------+--------+-----------------------------+
-| JM Bairstow     |     32 |      28 | 114.29 | c Shubman Gill b CV Varun   |
-+-----------------+--------+---------+--------+-----------------------------+
-| KS Williamson   |     48 |      33 | 145.45 | Not out                     |
-+-----------------+--------+---------+--------+-----------------------------+
-| MK Pandey       |     36 |      24 | 150.0  | Not out                     |
-+-----------------+--------+---------+--------+-----------------------------+
-| KM Jadhav       |      0 |       0 | DNB    |                             |
-+-----------------+--------+---------+--------+-----------------------------+
-| Abhishek Sharma |      0 |       0 | DNB    |                             |
-+-----------------+--------+---------+--------+-----------------------------+
-| Rashid Khan     |      0 |       0 | DNB    |                             |
-+-----------------+--------+---------+--------+-----------------------------+
-| V Shankar       |      0 |       0 | DNB    |                             |
-+-----------------+--------+---------+--------+-----------------------------+
-| J Suchith       |      0 |       0 | DNB    |                             |
-+-----------------+--------+---------+--------+-----------------------------+
-| S Kaul          |      0 |       0 | DNB    |                             |
-+-----------------+--------+---------+--------+-----------------------------+
-| KK Ahmed        |      0 |       0 | DNB    |                             |
-+-----------------+--------+---------+--------+-----------------------------+
+srh won the toss and chose to bat
+0.1 Shivam Mavi to David Warner 2 Score: 2/0
+0.2 Shivam Mavi to David Warner 4 Score: 6/0
+0.3 Shivam Mavi to David Warner 1 Score: 7/0
+0.4 Shivam Mavi to Jonny Bairstow 1 Score: 8/0
+0.5 Shivam Mavi to David Warner 1 Score: 9/0
+0.6 Shivam Mavi to Jonny Bairstow 0 Score: 9/0
+1.1 Pat Cummins to David Warner 1 Score: 10/0
+1.2 Pat Cummins to Jonny Bairstow 0 Score: 10/0
+1.3 Pat Cummins to Jonny Bairstow 1 Score: 11/0
+1.4 Pat Cummins to David Warner 1 Score: 12/0
+1.5 Pat Cummins to Jonny Bairstow 4 Score: 16/0
+1.6 Pat Cummins to Jonny Bairstow 2 Score: 18/0
+2.1 Shivam Mavi to David Warner 4 Score: 22/0
+2.2 Shivam Mavi to David Warner 2 Score: 24/0
+2.3 Shivam Mavi to David Warner 0 Score: 24/0
+2.4 Shivam Mavi to David Warner 4 Score: 28/0
+2.5 Shivam Mavi to David Warner 0 Score: 28/0
+2.6 Shivam Mavi to David Warner 4 Score: 32/0
+3.1 Pat Cummins to Jonny Bairstow 1 Score: 33/0
+3.2 Pat Cummins to David Warner 2 Score: 35/0
+3.3 Pat Cummins to David Warner 0 Score: 35/0
+3.4 Pat Cummins to David Warner 4 Score: 39/0
+3.5 Pat Cummins to David Warner 6 Score: 45/0
+3.6 Pat Cummins to David Warner 0 Score: 45/0
+4.1 Prasidh Krishna to Jonny Bairstow 4 Score: 49/0
+4.2 Prasidh Krishna to Jonny Bairstow 0 Score: 49/0
+4.3 Prasidh Krishna to Jonny Bairstow 1 Score: 50/0
+4.4 Prasidh Krishna to David Warner 0 Score: 50/0
+4.5 Prasidh Krishna to David Warner 0 Score: 50/0
+4.6 Prasidh Krishna to David Warner 4 Score: 54/0
+5.1 Sunil Narine to Jonny Bairstow 4 Score: 58/0
+5.2 Sunil Narine to Jonny Bairstow 4 Score: 62/0
+5.3 Sunil Narine to Jonny Bairstow 2 Score: 64/0
+5.4 Sunil Narine to Jonny Bairstow 4 Score: 68/0
+5.5 Sunil Narine to Jonny Bairstow 0 Score: 68/0
+5.6 Sunil Narine to Jonny Bairstow 1 Score: 69/0
+6.1 Prasidh Krishna to Jonny Bairstow 6 Score: 75/0
+6.2 Prasidh Krishna to Jonny Bairstow 4 Score: 79/0
+6.3 Prasidh Krishna to Jonny Bairstow 2 Score: 81/0
+6.4 Prasidh Krishna to Jonny Bairstow 0 Score: 81/0
+6.5 Prasidh Krishna to Jonny Bairstow 1 Score: 82/0
+6.6 Prasidh Krishna to David Warner 1 Score: 83/0
+7.1 Sunil Narine to David Warner 0 Score: 83/0
+7.2 Sunil Narine to David Warner 4 Score: 87/0
+7.3 Sunil Narine to David Warner 0 Score: 87/0
+7.4 Sunil Narine to David Warner 0 Score: 87/0
+7.5 Sunil Narine to David Warner Wide Score: 88/0
+7.6 Sunil Narine to David Warner 1 Score: 89/0
+7.7 Sunil Narine to Jonny Bairstow 0 Score: 89/0
+8.1 Prasidh Krishna to David Warner 4 Score: 93/0
+8.2 Prasidh Krishna to David Warner 4 Score: 97/0
+8.3 Prasidh Krishna to David Warner 1 Score: 98/0
+8.4 Prasidh Krishna to Jonny Bairstow 0 Score: 98/0
+8.5 Prasidh Krishna to Jonny Bairstow 6 Score: 104/0
+8.6 Prasidh Krishna to Jonny Bairstow W Score: 104/1 Caught by Andre Russell
+9.1 Sunil Narine to David Warner 1 Score: 105/1
+9.2 Sunil Narine to Kane Williamson Wide Score: 106/1
+9.3 Sunil Narine to Kane Williamson 1 Score: 107/1
+9.4 Sunil Narine to David Warner 4 Score: 111/1
+9.5 Sunil Narine to David Warner 1 Score: 112/1
+9.6 Sunil Narine to Kane Williamson 1 Score: 113/1
+9.7 Sunil Narine to David Warner 0 Score: 113/1
+10.1 Varun Chakravarthy to Kane Williamson 1 Score: 114/1
+10.2 Varun Chakravarthy to David Warner 1 Score: 115/1
+10.3 Varun Chakravarthy to Kane Williamson 4 Score: 119/1
+10.4 Varun Chakravarthy to Kane Williamson 1 Score: 120/1
+10.5 Varun Chakravarthy to David Warner 0 Score: 120/1
+10.6 Varun Chakravarthy to David Warner 6 Score: 126/1
+11.1 Sunil Narine to Kane Williamson W Score: 126/2 Caught by Shubman Gill
+11.2 Sunil Narine to Manish Pandey 0 Score: 126/2
+11.3 Sunil Narine to Manish Pandey 1 Score: 127/2
+11.4 Sunil Narine to David Warner 0 Score: 127/2
+11.5 Sunil Narine to David Warner 6 Score: 133/2
+11.6 Sunil Narine to David Warner 0 Score: 133/2
+12.1 Varun Chakravarthy to Manish Pandey 1 Score: 134/2
+12.2 Varun Chakravarthy to David Warner 0 Score: 134/2
+12.3 Varun Chakravarthy to David Warner 2 Score: 136/2
+12.4 Varun Chakravarthy to David Warner 1 Score: 137/2
+12.5 Varun Chakravarthy to Manish Pandey 1 Score: 138/2
+12.6 Varun Chakravarthy to David Warner 0 Score: 138/2
+13.1 Andre Russell to Manish Pandey 0 Score: 138/2
+13.2 Andre Russell to Manish Pandey 1 Score: 139/2
+13.3 Andre Russell to David Warner 0 Score: 139/2
+13.4 Andre Russell to David Warner 1 Score: 140/2
+13.5 Andre Russell to Manish Pandey 1 Score: 141/2
+13.6 Andre Russell to David Warner 0 Score: 141/2
+14.1 Varun Chakravarthy to Manish Pandey 1 Score: 142/2
+14.2 Varun Chakravarthy to David Warner 1 Score: 143/2
+14.3 Varun Chakravarthy to Manish Pandey 0 Score: 143/2
+14.4 Varun Chakravarthy to Manish Pandey 1 Score: 144/2
+14.5 Varun Chakravarthy to David Warner 1 Score: 145/2
+14.6 Varun Chakravarthy to Manish Pandey 1 Score: 146/2
+15.1 Andre Russell to Manish Pandey 2 Score: 148/2
+15.2 Andre Russell to Manish Pandey Wide Score: 149/2
+15.3 Andre Russell to Manish Pandey 1 Score: 150/2
+15.4 Andre Russell to David Warner 0 Score: 150/2
+15.5 Andre Russell to David Warner 1 Score: 151/2
+15.6 Andre Russell to Manish Pandey 0 Score: 151/2
+15.7 Andre Russell to Manish Pandey 0 Score: 151/2
+16.1 Varun Chakravarthy to David Warner 0 Score: 151/2
+16.2 Varun Chakravarthy to David Warner 1 Score: 152/2
+16.3 Varun Chakravarthy to Manish Pandey 2 Score: 154/2
+16.4 Varun Chakravarthy to Manish Pandey 0 Score: 154/2
+16.5 Varun Chakravarthy to Manish Pandey 1 Score: 155/2
+16.6 Varun Chakravarthy to David Warner 0 Score: 155/2
+17.1 Andre Russell to Manish Pandey 0 Score: 155/2
+17.2 Andre Russell to Manish Pandey 0 Score: 155/2
+17.3 Andre Russell to Manish Pandey 0 Score: 155/2
+17.4 Andre Russell to Manish Pandey 0 Score: 155/2
+17.5 Andre Russell to Manish Pandey 1 Score: 156/2
+17.6 Andre Russell to David Warner 0 Score: 156/2
+18.1 Prasidh Krishna to Manish Pandey Wide Score: 157/2
+18.2 Prasidh Krishna to Manish Pandey 1 Score: 158/2
+18.3 Prasidh Krishna to David Warner W Score: 160/3 Run Out!
+18.4 Prasidh Krishna to Vijay Shankar 4 Score: 164/3
+18.5 Prasidh Krishna to Vijay Shankar 0 Score: 164/3
+18.6 Prasidh Krishna to Vijay Shankar 2 Score: 166/3
+18.7 Prasidh Krishna to Vijay Shankar 6 Score: 172/3
+19.1 Andre Russell to Manish Pandey 6 Score: 178/3
+19.2 Andre Russell to Manish Pandey 1 Score: 179/3
+19.3 Andre Russell to Vijay Shankar 2 Score: 181/3
+19.4 Andre Russell to Vijay Shankar 4 Score: 185/3
+19.5 Andre Russell to Vijay Shankar 4 Score: 189/3
+19.6 Andre Russell to Vijay Shankar 2 Score: 191/3
++-----------------+--------+---------+--------+----------------------------------+
+| Player          |   Runs |   Balls | SR     | Out                              |
++=================+========+=========+========+==================================+
+| DA Warner       |     84 |      55 | 152.73 | Not out                          |
++-----------------+--------+---------+--------+----------------------------------+
+| JM Bairstow     |     48 |      25 | 192.0  | c AD Russell b M Prasidh Krishna |
++-----------------+--------+---------+--------+----------------------------------+
+| KS Williamson   |      8 |       6 | 133.33 | c Shubman Gill b SP Narine       |
++-----------------+--------+---------+--------+----------------------------------+
+| MK Pandey       |     23 |      26 | 88.46  | Not out                          |
++-----------------+--------+---------+--------+----------------------------------+
+| KM Jadhav       |      0 |       0 | DNB    |                                  |
++-----------------+--------+---------+--------+----------------------------------+
+| Abhishek Sharma |      0 |       0 | DNB    |                                  |
++-----------------+--------+---------+--------+----------------------------------+
+| Rashid Khan     |      0 |       0 | DNB    |                                  |
++-----------------+--------+---------+--------+----------------------------------+
+| V Shankar       |     24 |       8 | 300.0  | Not out                          |
++-----------------+--------+---------+--------+----------------------------------+
+| J Suchith       |      0 |       0 | DNB    |                                  |
++-----------------+--------+---------+--------+----------------------------------+
+| S Kaul          |      0 |       0 | DNB    |                                  |
++-----------------+--------+---------+--------+----------------------------------+
+| KK Ahmed        |      0 |       0 | DNB    |                                  |
++-----------------+--------+---------+--------+----------------------------------+
 +-------------------+--------+---------+-----------+-------+
 | Player            |   Runs |   Overs |   Wickets | Eco   |
 +===================+========+=========+===========+=======+
@@ -317,17 +159,182 @@ srh won by 8 wickets
 +-------------------+--------+---------+-----------+-------+
 | EJG Morgan        |      0 |       0 |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| AD Russell        |     22 |       4 |         1 | 5.5   |
+| AD Russell        |     28 |       4 |         0 | 7.0   |
 +-------------------+--------+---------+-----------+-------+
 | KD Karthik        |      0 |       0 |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| SP Narine         |     36 |       4 |         0 | 9.0   |
+| SP Narine         |     37 |       4 |         1 | 9.25  |
 +-------------------+--------+---------+-----------+-------+
-| PJ Cummins        |     35 |       3 |         0 | 11.67 |
+| PJ Cummins        |     22 |       2 |         0 | 11.0  |
 +-------------------+--------+---------+-----------+-------+
-| Shivam Mavi       |     11 |       2 |         0 | 5.5   |
+| Shivam Mavi       |     23 |       2 |         0 | 11.5  |
 +-------------------+--------+---------+-----------+-------+
-| CV Varun          |     24 |       4 |         1 | 6.0   |
+| CV Varun          |     27 |       4 |         0 | 6.75  |
 +-------------------+--------+---------+-----------+-------+
-| M Prasidh Krishna |     17 |       1 |         0 | 17.0  |
+| M Prasidh Krishna |     54 |       4 |         1 | 13.5  |
 +-------------------+--------+---------+-----------+-------+
+0.1 Khaleel Ahmed to Rahul Tripathi 6 Score: 6/0
+0.2 Khaleel Ahmed to Rahul Tripathi 0 Score: 6/0
+0.3 Khaleel Ahmed to Rahul Tripathi 1 Score: 7/0
+0.4 Khaleel Ahmed to Nitish Rana 2 Score: 9/0
+0.5 Khaleel Ahmed to Nitish Rana 0 Score: 9/0
+0.6 Khaleel Ahmed to Nitish Rana 1 Score: 10/0
+1.1 Abhishek Sharma to Nitish Rana 2 Score: 12/0
+1.2 Abhishek Sharma to Nitish Rana 1 Score: 13/0
+1.3 Abhishek Sharma to Rahul Tripathi 0 Score: 13/0
+1.4 Abhishek Sharma to Rahul Tripathi 2 Score: 15/0
+1.5 Abhishek Sharma to Rahul Tripathi 2 Score: 17/0
+1.6 Abhishek Sharma to Rahul Tripathi 1 Score: 18/0
+2.1 Khaleel Ahmed to Rahul Tripathi 6 Score: 24/0
+2.2 Khaleel Ahmed to Rahul Tripathi 6 Score: 30/0
+2.3 Khaleel Ahmed to Rahul Tripathi 4 Score: 34/0
+2.4 Khaleel Ahmed to Rahul Tripathi 0 Score: 34/0
+2.5 Khaleel Ahmed to Rahul Tripathi 1 Score: 35/0
+2.6 Khaleel Ahmed to Nitish Rana 0 Score: 35/0
+3.1 Abhishek Sharma to Rahul Tripathi 4 Score: 39/0
+3.2 Abhishek Sharma to Rahul Tripathi 0 Score: 39/0
+3.3 Abhishek Sharma to Rahul Tripathi 1 Score: 40/0
+3.4 Abhishek Sharma to Nitish Rana 1 Score: 41/0
+3.5 Abhishek Sharma to Rahul Tripathi Wide Score: 42/0
+3.6 Abhishek Sharma to Rahul Tripathi 0 Score: 42/0
+3.7 Abhishek Sharma to Rahul Tripathi 0 Score: 42/0
+4.1 Siddarth Kaul to Nitish Rana 1 Score: 43/0
+4.2 Siddarth Kaul to Rahul Tripathi W Score: 43/1 Run Out!
+4.3 Siddarth Kaul to Shubman Gill 1 Score: 44/1
+4.4 Siddarth Kaul to Nitish Rana 4 Score: 48/1
+4.5 Siddarth Kaul to Nitish Rana W Score: 48/2 Caught by Jonny Bairstow
+4.6 Siddarth Kaul to Dinesh Karthik 0 Score: 48/2
+5.1 Rashid Khan to Shubman Gill 0 Score: 48/2
+5.2 Rashid Khan to Shubman Gill 1 Score: 49/2
+5.3 Rashid Khan to Dinesh Karthik 2 Score: 51/2
+5.4 Rashid Khan to Dinesh Karthik 2 Score: 53/2
+5.5 Rashid Khan to Dinesh Karthik 1 Score: 54/2
+5.6 Rashid Khan to Shubman Gill 0 Score: 54/2
+6.1 Siddarth Kaul to Dinesh Karthik 4 Score: 58/2
+6.2 Siddarth Kaul to Dinesh Karthik 6 Score: 64/2
+6.3 Siddarth Kaul to Dinesh Karthik 1 Score: 65/2
+6.4 Siddarth Kaul to Shubman Gill 1 Score: 66/2
+6.5 Siddarth Kaul to Dinesh Karthik 0 Score: 66/2
+6.6 Siddarth Kaul to Dinesh Karthik 0 Score: 66/2
+7.1 Rashid Khan to Shubman Gill 6 Score: 72/2
+7.2 Rashid Khan to Shubman Gill 0 Score: 72/2
+7.3 Rashid Khan to Shubman Gill 1 Score: 73/2
+7.4 Rashid Khan to Dinesh Karthik 1 Score: 74/2
+7.5 Rashid Khan to Shubman Gill 0 Score: 74/2
+7.6 Rashid Khan to Shubman Gill 1 Score: 75/2
+8.1 Siddarth Kaul to Shubman Gill 1 Score: 76/2
+8.2 Siddarth Kaul to Dinesh Karthik 4 Score: 80/2
+8.3 Siddarth Kaul to Dinesh Karthik 0 Score: 80/2
+8.4 Siddarth Kaul to Dinesh Karthik 0 Score: 80/2
+8.5 Siddarth Kaul to Dinesh Karthik W Score: 80/3 Bowled
+8.6 Siddarth Kaul to Eoin Morgan 4 Score: 84/3
+9.1 Rashid Khan to Shubman Gill 1 Score: 85/3
+9.2 Rashid Khan to Eoin Morgan 0 Score: 85/3
+9.3 Rashid Khan to Eoin Morgan 1 Score: 86/3
+9.4 Rashid Khan to Shubman Gill 0 Score: 86/3
+9.5 Rashid Khan to Shubman Gill 0 Score: 86/3
+9.6 Rashid Khan to Shubman Gill 0 Score: 86/3
+10.1 Jagadeesha Suchith to Eoin Morgan 1 Score: 87/3
+10.2 Jagadeesha Suchith to Shubman Gill 0 Score: 87/3
+10.3 Jagadeesha Suchith to Shubman Gill 1 Score: 88/3
+10.4 Jagadeesha Suchith to Eoin Morgan 0 Score: 88/3
+10.5 Jagadeesha Suchith to Eoin Morgan 0 Score: 88/3
+10.6 Jagadeesha Suchith to Eoin Morgan 0 Score: 88/3
+11.1 Rashid Khan to Shubman Gill 1 Score: 89/3
+11.2 Rashid Khan to Eoin Morgan W Score: 89/4 Lbw
+11.3 Rashid Khan to Andre Russell 4 Score: 93/4
+11.4 Rashid Khan to Andre Russell 0 Score: 93/4
+11.5 Rashid Khan to Andre Russell 0 Score: 93/4
+11.6 Rashid Khan to Andre Russell 6 Score: 99/4
+12.1 Jagadeesha Suchith to Shubman Gill 0 Score: 99/4
+12.2 Jagadeesha Suchith to Shubman Gill 1 Score: 100/4
+12.3 Jagadeesha Suchith to Andre Russell 2 Score: 102/4
+12.4 Jagadeesha Suchith to Andre Russell 2 Score: 104/4
+12.4 Jagadeesha Suchith to Andre Russell 4 Score: 108/4
+12.5 Jagadeesha Suchith to Andre Russell 1 Score: 109/4
+12.6 Jagadeesha Suchith to Shubman Gill 0 Score: 109/4
+13.1 Abhishek Sharma to Andre Russell W Score: 109/5 Bowled
+13.2 Abhishek Sharma to Pat Cummins 1 Score: 110/5
+13.3 Abhishek Sharma to Shubman Gill 6 Score: 116/5
+13.4 Abhishek Sharma to Shubman Gill 0 Score: 116/5
+13.5 Abhishek Sharma to Shubman Gill 0 Score: 116/5
+13.6 Abhishek Sharma to Shubman Gill W Score: 117/6 Run Out!
+14.1 Jagadeesha Suchith to Pat Cummins 4 Score: 121/6
+14.2 Jagadeesha Suchith to Pat Cummins 1 Score: 122/6
+14.3 Jagadeesha Suchith to Shivam Mavi 0 Score: 122/6
+14.4 Jagadeesha Suchith to Shivam Mavi 0 Score: 122/6
+14.5 Jagadeesha Suchith to Shivam Mavi 6 Score: 128/6
+14.6 Jagadeesha Suchith to Shivam Mavi 1 Score: 129/6
+15.1 Abhishek Sharma to Shivam Mavi 0 Score: 129/6
+15.2 Abhishek Sharma to Shivam Mavi 1 Score: 130/6
+15.3 Abhishek Sharma to Pat Cummins 0 Score: 130/6
+15.4 Abhishek Sharma to Pat Cummins 1 Score: 131/6
+15.5 Abhishek Sharma to Shivam Mavi 2 Score: 133/6
+15.6 Abhishek Sharma to Shivam Mavi 0 Score: 133/6
+16.1 Jagadeesha Suchith to Pat Cummins 0 Score: 133/6
+16.2 Jagadeesha Suchith to Pat Cummins Wide Score: 134/6
+16.3 Jagadeesha Suchith to Pat Cummins W Score: 134/7 Lbw
+16.4 Jagadeesha Suchith to Sunil Narine 0 Score: 134/7
+16.5 Jagadeesha Suchith to Sunil Narine 0 Score: 134/7
+16.6 Jagadeesha Suchith to Sunil Narine 1 Score: 135/7
+16.7 Jagadeesha Suchith to Shivam Mavi 0 Score: 135/7
+17.1 Siddarth Kaul to Sunil Narine 4 Score: 139/7
+17.2 Siddarth Kaul to Sunil Narine 0 Score: 139/7
+17.3 Siddarth Kaul to Sunil Narine 0 Score: 139/7
+17.4 Siddarth Kaul to Sunil Narine 1 Score: 140/7
+17.5 Siddarth Kaul to Shivam Mavi 1 Score: 141/7
+17.6 Siddarth Kaul to Sunil Narine W Score: 143/8 Run Out!
+18.1 Khaleel Ahmed to Shivam Mavi W Score: 143/9 Bowled
+18.2 Khaleel Ahmed to Varun Chakravarthy W Score: 143/10 Caught by Vijay Shankar
+ALL OUT
+srh won by 48 runs
++-------------------+--------+---------+--------+--------------------------+
+| Player            |   Runs |   Balls | SR     | Out                      |
++===================+========+=========+========+==========================+
+| N Rana            |     12 |      10 | 120.0  | c JM Bairstow b S Kaul   |
++-------------------+--------+---------+--------+--------------------------+
+| Shubman Gill      |     23 |      25 | 92.0   | Not out                  |
++-------------------+--------+---------+--------+--------------------------+
+| RA Tripathi       |     34 |      18 | 188.89 | Not out                  |
++-------------------+--------+---------+--------+--------------------------+
+| EJG Morgan        |      6 |       8 | 75.0   | lbw b Rashid Khan        |
++-------------------+--------+---------+--------+--------------------------+
+| AD Russell        |     19 |       9 | 211.11 | bowled b Abhishek Sharma |
++-------------------+--------+---------+--------+--------------------------+
+| KD Karthik        |     21 |      14 | 150.0  | bowled b S Kaul          |
++-------------------+--------+---------+--------+--------------------------+
+| SP Narine         |      8 |       8 | 100.0  | Not out                  |
++-------------------+--------+---------+--------+--------------------------+
+| PJ Cummins        |      7 |       7 | 100.0  | lbw b J Suchith          |
++-------------------+--------+---------+--------+--------------------------+
+| Shivam Mavi       |     11 |      11 | 100.0  | bowled b KK Ahmed        |
++-------------------+--------+---------+--------+--------------------------+
+| CV Varun          |      0 |       1 | 0.0    | c V Shankar b KK Ahmed   |
++-------------------+--------+---------+--------+--------------------------+
+| M Prasidh Krishna |      0 |       0 | DNB    |                          |
++-------------------+--------+---------+--------+--------------------------+
++-----------------+--------+---------+-----------+-------+
+| Player          |   Runs |   Overs |   Wickets | Eco   |
++=================+========+=========+===========+=======+
+| DA Warner       |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| JM Bairstow     |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| KS Williamson   |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MK Pandey       |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| KM Jadhav       |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| Abhishek Sharma |     27 |     4   |         1 | 6.75  |
++-----------------+--------+---------+-----------+-------+
+| Rashid Khan     |     28 |     4   |         1 | 7.0   |
++-----------------+--------+---------+-----------+-------+
+| V Shankar       |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| J Suchith       |     26 |     4.1 |         1 | 6.24  |
++-----------------+--------+---------+-----------+-------+
+| S Kaul          |     35 |     4   |         2 | 8.75  |
++-----------------+--------+---------+-----------+-------+
+| KK Ahmed        |     27 |     2.2 |         2 | 11.57 |
++-----------------+--------+---------+-----------+-------+

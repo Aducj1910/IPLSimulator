@@ -4,60 +4,18 @@ import copy
 import sys 
 
 
-#EVENTUALLY ->
-#Add each matcch info to DB to create new data
-#Training will improve player peformance against specific styles, by editing the
-#avgs, denominations, outrates in the db
-#aging -> reduce denoms, outrets, etc. in db
-
-#-----------X-----------#
-
-
-# rrr, run rate, last 7 balls of player
-
-#TO ADD IMPORTANT -> MORE BALLS THE PLAYER PLAYS, CALCULATE CONFIDENCE BASED ON ->
-#1.LAST 7 BALLS, STRIKE RATE, NUMBER OF BALLS (like spin & pace factor it will +vely impact, allow player to accelerate)
-#Eliminate slow partnership. Also, maybe increase wicket chance in middle overs to balance out,
-#reduce out avg when high confidence (probably not)
-#at the start slow sr then when, more balls higher sr 
-#accelerate if sr is too low after certain number of balls or
-#in accordance with rrr
-
-#REDO ENTIRE BALL ALGORITH, LOOK FROM JAMIE001
-
-#Rehaul -> remake entire ball by ball thing, look at past data to analyse 
-#run rate worms of teams and correspond to that
-
-#if certain number of wickets fell quickly, play more defensively
-
-#Try to hit more if rr or rrr becomes low or large respectively
-
-#When chasing or at death overs, make decision whether to attack on the ball or not -> attacking means
-#6,4,W,0 but not attacking would get 0,1,2 more reliably
-
-#If last x balls going well for entire team, then more attacking, else more defensive to protect wickets, if slow rr in last x balls
-#then attack
-
-#As player progresses through innings confidence will increase attacking rate (line 7)
-#Batting order -> highest rate at that pos
-#Maybe try to average out the denominations and the rest over the course of the innings
-
-#CHASE LOGIC - take rrr into account every ball, importance increases by ball
-#Try for certain number of runs (calc. by runs/balls) and try for that
-
-#Add noballs
-#OVER DECISIONS GOOD FOR NOW, LATER CHANGE TO TAKE INTO ACCOUNT
-#OVERNUMBERSOBJECT OF PLAYER AND OUTRATE, ECONOMY OF THAT GAME
-
-#DB - last 5 years
+#NEXT UPDATE -
+#ADD NO-BALLS
+#ADD BYES/LEGBYES
+#3 NOT-OUTS BUG FIX
+#SHOW NOT OUT IF CAME IN BUT DIDN'T BAT
+#FIX BOWLING SELECTION
+#If bowling rate is less than x then dont bowl
 
 
 
-
-
-
-#ADD FOR DEATH OVERS CHASE
 #IMPROVE BOWLER ROTATION
+#designate 6 bowlers and bowl them in a shuffled
 from tabulate import tabulate
 
 target = 1
@@ -72,6 +30,11 @@ innings1Runs = None
 innings2Runs = None
 winner = None
 winMsg = None
+
+innings1Battracker = None
+innings2Battracker = None
+innings1Bowltracker = None
+innings2Bowltracker = None
 
 def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch, team1, team2):
     battingLikely =  0.45
@@ -139,7 +102,7 @@ def pitchInfo(venue, typeOfPitch):
 
 
 def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, dew, detoriate):
-    global target, innings1Balls, innings1Runs, innings1Batting, innings2Batting, winner, winMsg
+    global target, innings1Balls, innings1Runs, innings1Batting, innings2Batting, winner, winMsg, innings1Battracker, innings1Bowltracker
     # print(battingName, bowlingName, pace, spin, outfield, dew, detoriate)
     bowlerTracker = {} #add names of all in innings def
     batterTracker = {} #add names of all in innings def
@@ -858,46 +821,65 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                                 bowlerToReturn = pick
                                                 valid = True
                                 loopIndex += 1
+                                if(loopIndex >= 10):
+                                    for i2 in range(10):
+                                        picked_ = bowlingMiddle[i2]
+                                        picked_info = bowlerTracker[picked_['playerInitials']]
+                                        if(not inDeathBowlers(picked_) and picked_['playerInitials'] != lastOver):
+                                            bowlerToReturn = picked_
+                                            valid = True
+
 
                 else:
-                    if((bowlerDict['balls'] > 19) or (bowlerDict['runs'] / bowlerDict['balls']) > 1.6 or ((bowlerDict['runs'] / bowlerDict['balls']) - (balls / runs)) > 0.2 ):
-                        if(bowlerDict['balls'] > 19 or (bowlerDict['runs'] / bowlerDict['balls'] < 0.095)):
-                            valid = False
-                            loopIndex = 3
-                            playersExp = sorted(bowling, key=lambda k: k['bowlBallsTotalRate'])
-                            playersExp.reverse()        
-                            # print(playersExp)
-                            expIndex = 0
-                            for pexp in playersExp:
-                                if(expIndex < 4):
-                                    if(not inDeathBowlers(pexp)):
-                                        if(bowlerTracker[pexp['playerInitials']]['balls'] < 7):
-                                            bowlerToReturn = pexp
-                                            valid = True
-                                else:
-                                    break
-                                expIndex += 1
-                                expIndex += 1
-                            while(not valid):
-                                pick = bowlingMiddle[random.randint(0,loopIndex)]
-                                pickInfo = bowlerTracker[pick['playerInitials']]
-                                if(pickInfo['balls'] == 0):
-                                    bowlerToReturn = pick
-                                    valid = True
-                                else:
-                                    if(inDeathBowlers(pickInfo)):
-                                        if(pickInfo['balls'] < 11 and ((pickInfo['runs'] / pickInfo['balls']) < 1.7) or
-                                            (pickInfo['runs'] / pickInfo['balls']) > 0.088):
-                                            if(pickInfo['playerInitials'] != lastOver):
-                                                bowlerToReturn = pick
+                    if(bowlerDict['balls']) == 0:
+                        pass
+                    else:
+                            
+                        if((bowlerDict['balls'] > 19) or (bowlerDict['runs'] / bowlerDict['balls']) > 1.6 or ((bowlerDict['runs'] / bowlerDict['balls']) - (balls / runs)) > 0.2 ):
+                            if(bowlerDict['balls'] > 19 or (bowlerDict['runs'] / bowlerDict['balls'] < 0.095)):
+                                valid = False
+                                loopIndex = 3
+                                playersExp = sorted(bowling, key=lambda k: k['bowlBallsTotalRate'])
+                                playersExp.reverse()        
+                                # print(playersExp)
+                                expIndex = 0
+                                for pexp in playersExp:
+                                    if(expIndex < 4):
+                                        if(not inDeathBowlers(pexp)):
+                                            if(bowlerTracker[pexp['playerInitials']]['balls'] < 7):
+                                                bowlerToReturn = pexp
                                                 valid = True
                                     else:
-                                        if(pickInfo['balls'] < 24 and ((pickInfo['runs'] / pickInfo['balls']) < 1.6) or 
-                                            (pickInfo['runs'] / pickInfo['balls'] < 0.1)):
-                                            if(pickInfo['playerInitials'] != lastOver):
-                                                bowlerToReturn = pick
+                                        break
+                                    expIndex += 1
+                                    expIndex += 1
+                                while(not valid):
+                                    pick = bowlingMiddle[random.randint(0,loopIndex)]
+                                    pickInfo = bowlerTracker[pick['playerInitials']]
+                                    if(pickInfo['balls'] == 0):
+                                        bowlerToReturn = pick
+                                        valid = True
+                                    else:
+                                        if(inDeathBowlers(pickInfo)):
+                                            if(pickInfo['balls'] < 11 and ((pickInfo['runs'] / pickInfo['balls']) < 1.7) or
+                                                (pickInfo['runs'] / pickInfo['balls']) > 0.088):
+                                                if(pickInfo['playerInitials'] != lastOver):
+                                                    bowlerToReturn = pick
+                                                    valid = True
+                                        else:
+                                            if(pickInfo['balls'] < 24 and ((pickInfo['runs'] / pickInfo['balls']) < 1.6) or 
+                                                (pickInfo['runs'] / pickInfo['balls'] < 0.1)):
+                                                if(pickInfo['playerInitials'] != lastOver):
+                                                    bowlerToReturn = pick
+                                                    valid = True
+                                    loopIndex += 1
+                                    if(loopIndex >= 10):
+                                        for i2 in range(10):
+                                            picked_ = bowlingMiddle[i2]
+                                            picked_info = bowlerTracker[picked_['playerInitials']]
+                                            if(not inDeathBowlers(picked_) and picked_['playerInitials'] != lastOver):
+                                                bowlerToReturn = picked_
                                                 valid = True
-                                loopIndex += 1
 
 
                 return bowlerToReturn
@@ -1041,9 +1023,12 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
     innings1Batting = tabulate(batsmanTabulate, ["Player", "Runs", "Balls", "SR" ,"Out"], tablefmt="grid")
     innings1Bowling = tabulate(bowlerTabulate, ["Player", "Runs", "Overs", "Wickets", "Eco"], tablefmt="grid")
 
+    innings1Battracker = batterTracker
+    innings1Bowltracker = bowlerTracker
+
 def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, dew, detoriate):
     # print(battingName, bowlingName, pace, spin, outfield, dew, detoriate)
-    global innings2Batting, innings2Bowling, innings2Runs, innings2Balls, winner, winMsg
+    global innings2Batting, innings2Bowling, innings2Runs, innings2Balls, winner, winMsg, innings2Bowltracker, innings2Battracker
     bowlerTracker = {} #add names of all in innings def
     batterTracker = {} #add names of all in innings def
     battingOrder = []
@@ -1575,8 +1560,8 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 if(wickets < 3):
                     adjust = random.uniform(0.6, 0.08)
                     denAvg['6'] += adjust * (1/3)
-                    denAvg['4'] += adjust * (1.2/3)
-                    denAvg['0'] += adjust * (0.5/3)
+                    denAvg['4'] += adjust * (1.15/3)
+                    denAvg['0'] += adjust * (0.1/3)
                     denAvg['1'] -= adjust * (1/3)
                     denAvg['2'] -= adjust * (1/3)
                     outAvg += 0.015
@@ -1585,8 +1570,8 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 else:
                     adjust = random.uniform(0.04, 0.08)
                     denAvg['6'] += adjust * (0.95/3)
-                    denAvg['4'] += adjust * (1.15/3)
-                    denAvg['0'] += adjust * (0.5/3)
+                    denAvg['4'] += adjust * (1.12/3)
+                    denAvg['0'] += adjust * (0.2/3)
                     denAvg['1'] -= adjust * (0.9/3)
                     denAvg['2'] -= adjust * (0.7/3)
                     outAvg += 0.01
@@ -1629,7 +1614,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                         denAvg['1'] -= adjust * (1.2/3)
                         denAvg['2'] -= adjust * (1.7/3)
                         denAvg['3'] -= adjust * (0.9/3)
-                        outAvg += 0.05
+                        outAvg += 0.04
                         getOutcome(denAvg, outAvg, over)
                     else:
                         adjust = random.uniform(0.05, 0.1)
@@ -1639,7 +1624,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                         denAvg['1'] -= adjust * (1.2/3)
                         denAvg['2'] -= adjust * (1.6/3)
                         denAvg['3'] -= adjust * (0.9/3)
-                        outAvg += 0.06
+                        outAvg += 0.05
                         getOutcome(denAvg, outAvg, over)
                 else:
                         adjust = random.uniform(0.05, 0.1)
@@ -1649,7 +1634,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                         denAvg['1'] -= adjust * (1.2/3)
                         denAvg['2'] -= adjust * (1.6/3)
                         denAvg['3'] -= adjust * (0.9/3)
-                        outAvg += 0.04
+                        outAvg += 0.03
                         getOutcome(denAvg, outAvg, over)
             else:
                 if(wickets < 3):
@@ -1896,44 +1881,47 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                     loopIndex += 1
 
                 else:
-                    if((bowlerDict['balls'] > 19) or (bowlerDict['runs'] / bowlerDict['balls']) > 1.6 or ((bowlerDict['runs'] / bowlerDict['balls']) - (balls / runs)) > 0.2 ):
-                        if(bowlerDict['balls'] > 19 or (bowlerDict['runs'] / bowlerDict['balls'] < 0.095)):
-                            valid = False
-                            loopIndex = 3
-                            playersExp = sorted(bowling, key=lambda k: k['bowlBallsTotalRate'])
-                            playersExp.reverse()        
-                            # print(playersExp)
-                            expIndex = 0
-                            for pexp in playersExp:
-                                if(expIndex < 4):
-                                    if(not inDeathBowlers(pexp)):
-                                        if(bowlerTracker[pexp['playerInitials']]['balls'] < 7):
-                                            bowlerToReturn = pexp
-                                            valid = True
-                                else:
-                                    break
-                                expIndex += 1
-                                expIndex += 1
-                            while(not valid):
-                                pick = bowlingMiddle[random.randint(0,loopIndex)]
-                                pickInfo = bowlerTracker[pick['playerInitials']]
-                                if(pickInfo['balls'] == 0):
-                                    bowlerToReturn = pick
-                                    valid = True
-                                else:
-                                    if(inDeathBowlers(pickInfo)):
-                                        if(pickInfo['balls'] < 11 and ((pickInfo['runs'] / pickInfo['balls']) < 1.7) or
-                                            (pickInfo['runs'] / pickInfo['balls']) > 0.088):
-                                            if(pickInfo['playerInitials'] != lastOver):
-                                                bowlerToReturn = pick
+                    if(bowlerDict['balls'] == 0):
+                        pass
+                    else:
+                        if((bowlerDict['balls'] > 19) or (bowlerDict['runs'] / bowlerDict['balls']) > 1.6 or ((bowlerDict['runs'] / bowlerDict['balls']) - (balls / runs)) > 0.2 ):
+                            if(bowlerDict['balls'] > 19 or (bowlerDict['runs'] / bowlerDict['balls'] < 0.095)):
+                                valid = False
+                                loopIndex = 3
+                                playersExp = sorted(bowling, key=lambda k: k['bowlBallsTotalRate'])
+                                playersExp.reverse()        
+                                # print(playersExp)
+                                expIndex = 0
+                                for pexp in playersExp:
+                                    if(expIndex < 4):
+                                        if(not inDeathBowlers(pexp)):
+                                            if(bowlerTracker[pexp['playerInitials']]['balls'] < 7):
+                                                bowlerToReturn = pexp
                                                 valid = True
                                     else:
-                                        if(pickInfo['balls'] < 24 and ((pickInfo['runs'] / pickInfo['balls']) < 1.6) or 
-                                            (pickInfo['runs'] / pickInfo['balls'] < 0.1)):
-                                            if(pickInfo['playerInitials'] != lastOver):
-                                                bowlerToReturn = pick
-                                                valid = True
-                                loopIndex += 1
+                                        break
+                                    expIndex += 1
+                                    expIndex += 1
+                                while(not valid):
+                                    pick = bowlingMiddle[random.randint(0,loopIndex)]
+                                    pickInfo = bowlerTracker[pick['playerInitials']]
+                                    if(pickInfo['balls'] == 0):
+                                        bowlerToReturn = pick
+                                        valid = True
+                                    else:
+                                        if(inDeathBowlers(pickInfo)):
+                                            if(pickInfo['balls'] < 11 and ((pickInfo['runs'] / pickInfo['balls']) < 1.7) or
+                                                (pickInfo['runs'] / pickInfo['balls']) > 0.088):
+                                                if(pickInfo['playerInitials'] != lastOver):
+                                                    bowlerToReturn = pick
+                                                    valid = True
+                                        else:
+                                            if(pickInfo['balls'] < 24 and ((pickInfo['runs'] / pickInfo['balls']) < 1.6) or 
+                                                (pickInfo['runs'] / pickInfo['balls'] < 0.1)):
+                                                if(pickInfo['playerInitials'] != lastOver):
+                                                    bowlerToReturn = pick
+                                                    valid = True
+                                    loopIndex += 1
 
 
                 return bowlerToReturn
@@ -2079,6 +2067,9 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
     innings2Batting = tabulate(batsmanTabulate, ["Player", "Runs", "Balls", "SR" ,"Out"], tablefmt="grid")
     innings2Bowling = tabulate(bowlerTabulate, ["Player", "Runs", "Overs", "Wickets", "Eco"], tablefmt="grid")
 
+    innings2Battracker = batterTracker
+    innings2Bowltracker = bowlerTracker
+
 def game(manual=True, sentTeamOne=None, sentTeamTwo=None):
     team_one_inp = None
     team_two_inp = None
@@ -2186,7 +2177,8 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None):
     sys.stdout.close()
     sys.stdout=stdoutOrigin
     return [innings1Batting, innings1Bowling, innings2Batting, innings2Bowling, 120, 
-        innings2Balls, innings1Runs, innings2Runs,winMsg , getBatting()[2] ,getBatting()[3] ,  winner]
+        innings2Balls, innings1Runs, innings2Runs,winMsg ,innings1Battracker,
+        innings2Battracker,innings1Bowltracker,innings2Bowltracker ,getBatting()[2] ,getBatting()[3] ,  winner]
 
 
 

@@ -1,151 +1,150 @@
 rr won the toss and chose to bat
-0.1 Khaleel Ahmed to Manan Vohra 0 Score: 0/0
-0.2 Khaleel Ahmed to Manan Vohra 1 Score: 1/0
-0.3 Khaleel Ahmed to Sanju Samson Wide Score: 2/0
-0.4 Khaleel Ahmed to Sanju Samson 0 Score: 2/0
-0.5 Khaleel Ahmed to Sanju Samson 1 Score: 3/0
-0.6 Khaleel Ahmed to Manan Vohra 1 Score: 4/0
-0.7 Khaleel Ahmed to Sanju Samson 1 Score: 5/0
-1.1 Abhishek Sharma to Sanju Samson 0 Score: 5/0
-1.2 Abhishek Sharma to Sanju Samson 0 Score: 5/0
-1.3 Abhishek Sharma to Sanju Samson 0 Score: 5/0
-1.4 Abhishek Sharma to Sanju Samson 0 Score: 5/0
-1.5 Abhishek Sharma to Sanju Samson 1 Score: 6/0
-1.6 Abhishek Sharma to Manan Vohra 0 Score: 6/0
-2.1 Khaleel Ahmed to Sanju Samson 6 Score: 12/0
-2.2 Khaleel Ahmed to Sanju Samson 4 Score: 16/0
-2.3 Khaleel Ahmed to Sanju Samson 4 Score: 20/0
-2.4 Khaleel Ahmed to Sanju Samson 1 Score: 21/0
-2.5 Khaleel Ahmed to Manan Vohra 1 Score: 22/0
-2.6 Khaleel Ahmed to Sanju Samson 0 Score: 22/0
-3.1 Abhishek Sharma to Manan Vohra 6 Score: 28/0
-3.2 Abhishek Sharma to Manan Vohra 0 Score: 28/0
-3.3 Abhishek Sharma to Manan Vohra 0 Score: 28/0
-3.4 Abhishek Sharma to Manan Vohra 0 Score: 28/0
-3.5 Abhishek Sharma to Manan Vohra 0 Score: 28/0
-3.6 Abhishek Sharma to Manan Vohra 0 Score: 28/0
-4.1 Jagadeesha Suchith to Sanju Samson 1 Score: 29/0
-4.2 Jagadeesha Suchith to Manan Vohra 0 Score: 29/0
-4.3 Jagadeesha Suchith to Manan Vohra 1 Score: 30/0
-4.4 Jagadeesha Suchith to Sanju Samson 0 Score: 30/0
-4.5 Jagadeesha Suchith to Sanju Samson 0 Score: 30/0
-4.6 Jagadeesha Suchith to Sanju Samson 1 Score: 31/0
-5.1 Siddarth Kaul to Sanju Samson 1 Score: 32/0
-5.2 Siddarth Kaul to Manan Vohra 6 Score: 38/0
-5.3 Siddarth Kaul to Manan Vohra 4 Score: 42/0
-5.4 Siddarth Kaul to Manan Vohra 1 Score: 43/0
-5.5 Siddarth Kaul to Sanju Samson 2 Score: 45/0
-5.6 Siddarth Kaul to Sanju Samson 1 Score: 46/0
-6.1 Jagadeesha Suchith to Sanju Samson 4 Score: 50/0
-6.2 Jagadeesha Suchith to Sanju Samson 4 Score: 54/0
-6.3 Jagadeesha Suchith to Sanju Samson 0 Score: 54/0
-6.4 Jagadeesha Suchith to Sanju Samson 0 Score: 54/0
-6.5 Jagadeesha Suchith to Sanju Samson 0 Score: 54/0
-6.6 Jagadeesha Suchith to Sanju Samson 1 Score: 55/0
-7.1 Siddarth Kaul to Sanju Samson 1 Score: 56/0
-7.2 Siddarth Kaul to Manan Vohra 6 Score: 62/0
-7.3 Siddarth Kaul to Manan Vohra 0 Score: 62/0
-7.4 Siddarth Kaul to Manan Vohra 1 Score: 63/0
-7.5 Siddarth Kaul to Sanju Samson 1 Score: 64/0
-7.6 Siddarth Kaul to Manan Vohra 2 Score: 66/0
-8.1 Jagadeesha Suchith to Sanju Samson 0 Score: 66/0
-8.2 Jagadeesha Suchith to Sanju Samson 1 Score: 67/0
-8.3 Jagadeesha Suchith to Manan Vohra 4 Score: 71/0
-8.4 Jagadeesha Suchith to Manan Vohra 0 Score: 71/0
-8.5 Jagadeesha Suchith to Manan Vohra 4 Score: 75/0
-8.6 Jagadeesha Suchith to Manan Vohra 0 Score: 75/0
-9.1 Siddarth Kaul to Sanju Samson 2 Score: 77/0
-9.2 Siddarth Kaul to Sanju Samson 6 Score: 83/0
-9.3 Siddarth Kaul to Sanju Samson 0 Score: 83/0
-9.4 Siddarth Kaul to Sanju Samson 1 Score: 84/0
-9.5 Siddarth Kaul to Manan Vohra 1 Score: 85/0
-9.6 Siddarth Kaul to Sanju Samson 1 Score: 86/0
-10.1 Jagadeesha Suchith to Sanju Samson 1 Score: 87/0
-10.2 Jagadeesha Suchith to Manan Vohra 0 Score: 87/0
-10.3 Jagadeesha Suchith to Manan Vohra 6 Score: 93/0
-10.4 Jagadeesha Suchith to Manan Vohra 0 Score: 93/0
-10.5 Jagadeesha Suchith to Manan Vohra 1 Score: 94/0
-10.6 Jagadeesha Suchith to Sanju Samson 4 Score: 98/0
-11.1 Rashid Khan to Manan Vohra W Score: 98/1 Lbw
-11.2 Rashid Khan to David Miller 2 Score: 100/1
-11.3 Rashid Khan to David Miller 1 Score: 101/1
-11.4 Rashid Khan to Sanju Samson 0 Score: 101/1
-11.5 Rashid Khan to Sanju Samson 0 Score: 101/1
-11.6 Rashid Khan to Sanju Samson 1 Score: 102/1
-12.1 Rashid Khan to Sanju Samson 0 Score: 102/1
-12.2 Rashid Khan to Sanju Samson 0 Score: 102/1
-12.3 Rashid Khan to Sanju Samson 4 Score: 106/1
-12.4 Rashid Khan to Sanju Samson W Score: 106/2 Bowled
-12.5 Rashid Khan to Jos Buttler W Score: 106/3 Bowled
-12.6 Rashid Khan to Shivam Dube 1 Score: 107/3
-13.1 Rashid Khan to Shivam Dube 0 Score: 107/3
-13.2 Rashid Khan to Shivam Dube 0 Score: 107/3
-13.3 Rashid Khan to Shivam Dube 1 Score: 108/3
-13.4 Rashid Khan to David Miller 2 Score: 110/3
-13.5 Rashid Khan to David Miller 0 Score: 110/3
-13.6 Rashid Khan to David Miller 0 Score: 110/3
-14.1 Rashid Khan to Shivam Dube 1 Score: 111/3
-14.2 Rashid Khan to David Miller 1 Score: 112/3
-14.3 Rashid Khan to Shivam Dube 1 Score: 113/3
-14.4 Rashid Khan to David Miller 2 Score: 115/3
-14.5 Rashid Khan to David Miller 1 Score: 116/3
-14.6 Rashid Khan to Shivam Dube 1 Score: 117/3
-15.1 Vijay Shankar to Shivam Dube 0 Score: 117/3
-15.2 Vijay Shankar to Shivam Dube 1 Score: 118/3
-15.3 Vijay Shankar to David Miller 0 Score: 118/3
-15.4 Vijay Shankar to David Miller 0 Score: 118/3
-15.5 Vijay Shankar to David Miller 0 Score: 118/3
-15.6 Vijay Shankar to David Miller 1 Score: 119/3
-16.1 Abhishek Sharma to David Miller 0 Score: 119/3
-16.2 Abhishek Sharma to David Miller 6 Score: 125/3
-16.3 Abhishek Sharma to David Miller 1 Score: 126/3
-16.4 Abhishek Sharma to Shivam Dube 0 Score: 126/3
-16.5 Abhishek Sharma to Shivam Dube 1 Score: 127/3
-16.6 Abhishek Sharma to David Miller 6 Score: 133/3
-17.1 Vijay Shankar to Shivam Dube 4 Score: 137/3
-17.2 Vijay Shankar to Shivam Dube 0 Score: 137/3
-17.3 Vijay Shankar to Shivam Dube W Score: 138/4 Run Out!
-17.4 Vijay Shankar to Riyan Parag 1 Score: 139/4
-17.5 Vijay Shankar to David Miller W Score: 139/5 Bowled
-17.6 Vijay Shankar to Chris Morris 1 Score: 140/5
-18.1 Siddarth Kaul to Chris Morris 6 Score: 146/5
-18.2 Siddarth Kaul to Chris Morris 0 Score: 146/5
-18.3 Siddarth Kaul to Chris Morris 1 Score: 147/5
-18.4 Siddarth Kaul to Riyan Parag 2 Score: 149/5
-18.5 Siddarth Kaul to Riyan Parag 1 Score: 150/5
-18.6 Siddarth Kaul to Chris Morris 4 Score: 154/5
-19.1 Vijay Shankar to Riyan Parag W Score: 154/6 Caught by Kedar Jadhav
-19.2 Vijay Shankar to Rahul Tewatia 6 Score: 160/6
-19.3 Vijay Shankar to Rahul Tewatia Wide Score: 161/6
-19.4 Vijay Shankar to Rahul Tewatia 1 Score: 162/6
-19.5 Vijay Shankar to Chris Morris 1 Score: 163/6
-19.6 Vijay Shankar to Rahul Tewatia 0 Score: 163/6
-19.7 Vijay Shankar to Rahul Tewatia 6 Score: 169/6
-+-------------------+--------+---------+--------+-------------------------+
-| Player            |   Runs |   Balls | SR     | Out                     |
-+===================+========+=========+========+=========================+
-| JC Buttler        |      0 |       1 | 0.0    | bowled b Rashid Khan    |
-+-------------------+--------+---------+--------+-------------------------+
-| M Vohra           |     46 |      30 | 153.33 | lbw b Rashid Khan       |
-+-------------------+--------+---------+--------+-------------------------+
-| SV Samson         |     56 |      44 | 127.27 | bowled b Rashid Khan    |
-+-------------------+--------+---------+--------+-------------------------+
-| S Dube            |     12 |      14 | 85.71  | Not out                 |
-+-------------------+--------+---------+--------+-------------------------+
-| DA Miller         |     23 |      17 | 135.29 | bowled b V Shankar      |
-+-------------------+--------+---------+--------+-------------------------+
-| R Parag           |      4 |       4 | 100.0  | c KM Jadhav b V Shankar |
-+-------------------+--------+---------+--------+-------------------------+
-| R Tewatia         |     13 |       4 | 325.0  | Not out                 |
-+-------------------+--------+---------+--------+-------------------------+
-| CH Morris         |     13 |       6 | 216.67 | Not out                 |
-+-------------------+--------+---------+--------+-------------------------+
-| JD Unadkat        |      0 |       0 | DNB    |                         |
-+-------------------+--------+---------+--------+-------------------------+
-| C Sakariya        |      0 |       0 | DNB    |                         |
-+-------------------+--------+---------+--------+-------------------------+
-| Mustafizur Rahman |      0 |       0 | DNB    |                         |
-+-------------------+--------+---------+--------+-------------------------+
+0.1 Khaleel Ahmed to Manan Vohra Wide Score: 1/0
+0.2 Khaleel Ahmed to Manan Vohra 0 Score: 1/0
+0.3 Khaleel Ahmed to Manan Vohra 2 Score: 3/0
+0.4 Khaleel Ahmed to Manan Vohra 1 Score: 4/0
+0.5 Khaleel Ahmed to Sanju Samson 1 Score: 5/0
+0.6 Khaleel Ahmed to Manan Vohra 2 Score: 7/0
+0.7 Khaleel Ahmed to Manan Vohra 0 Score: 7/0
+1.1 Abhishek Sharma to Sanju Samson 1 Score: 8/0
+1.2 Abhishek Sharma to Manan Vohra 4 Score: 12/0
+1.3 Abhishek Sharma to Manan Vohra 4 Score: 16/0
+1.4 Abhishek Sharma to Manan Vohra 1 Score: 17/0
+1.5 Abhishek Sharma to Sanju Samson 0 Score: 17/0
+1.6 Abhishek Sharma to Sanju Samson 1 Score: 18/0
+2.1 Khaleel Ahmed to Sanju Samson 0 Score: 18/0
+2.2 Khaleel Ahmed to Sanju Samson 4 Score: 22/0
+2.3 Khaleel Ahmed to Sanju Samson 4 Score: 26/0
+2.4 Khaleel Ahmed to Sanju Samson 4 Score: 30/0
+2.5 Khaleel Ahmed to Sanju Samson 2 Score: 32/0
+2.6 Khaleel Ahmed to Sanju Samson 6 Score: 38/0
+3.1 Siddarth Kaul to Manan Vohra 1 Score: 39/0
+3.2 Siddarth Kaul to Sanju Samson W Score: 39/1 Caught by Manish Pandey
+3.3 Siddarth Kaul to David Miller 0 Score: 39/1
+3.4 Siddarth Kaul to David Miller 0 Score: 39/1
+3.5 Siddarth Kaul to David Miller 1 Score: 40/1
+3.6 Siddarth Kaul to Manan Vohra 2 Score: 42/1
+4.1 Rashid Khan to David Miller 2 Score: 44/1
+4.2 Rashid Khan to David Miller 4 Score: 48/1
+4.3 Rashid Khan to David Miller 1 Score: 49/1
+4.4 Rashid Khan to Manan Vohra 0 Score: 49/1
+4.5 Rashid Khan to Manan Vohra 2 Score: 51/1
+4.6 Rashid Khan to Manan Vohra 0 Score: 51/1
+5.1 Siddarth Kaul to David Miller 1 Score: 52/1
+5.2 Siddarth Kaul to Manan Vohra 0 Score: 52/1
+5.3 Siddarth Kaul to Manan Vohra 1 Score: 53/1
+5.4 Siddarth Kaul to David Miller 4 Score: 57/1
+5.5 Siddarth Kaul to David Miller 2 Score: 59/1
+5.6 Siddarth Kaul to David Miller 2 Score: 61/1
+6.1 Rashid Khan to Manan Vohra 0 Score: 61/1
+6.2 Rashid Khan to Manan Vohra 0 Score: 61/1
+6.3 Rashid Khan to Manan Vohra 1 Score: 62/1
+6.4 Rashid Khan to David Miller 6 Score: 68/1
+6.5 Rashid Khan to David Miller 6 Score: 74/1
+6.6 Rashid Khan to David Miller 2 Score: 76/1
+7.1 Siddarth Kaul to Manan Vohra 0 Score: 76/1
+7.2 Siddarth Kaul to Manan Vohra 0 Score: 76/1
+7.3 Siddarth Kaul to Manan Vohra 1 Score: 77/1
+7.4 Siddarth Kaul to David Miller W Score: 77/2 Lbw
+7.5 Siddarth Kaul to Jos Buttler 2 Score: 79/2
+7.6 Siddarth Kaul to Jos Buttler 4 Score: 83/2
+8.1 Rashid Khan to Manan Vohra 0 Score: 83/2
+8.2 Rashid Khan to Manan Vohra 1 Score: 84/2
+8.3 Rashid Khan to Jos Buttler 1 Score: 85/2
+8.4 Rashid Khan to Manan Vohra 0 Score: 85/2
+8.5 Rashid Khan to Manan Vohra 1 Score: 86/2
+8.6 Rashid Khan to Jos Buttler 2 Score: 88/2
+9.1 Jagadeesha Suchith to Manan Vohra 0 Score: 88/2
+9.2 Jagadeesha Suchith to Manan Vohra 0 Score: 88/2
+9.3 Jagadeesha Suchith to Manan Vohra 1 Score: 89/2
+9.4 Jagadeesha Suchith to Jos Buttler 1 Score: 90/2
+9.5 Jagadeesha Suchith to Manan Vohra 0 Score: 90/2
+9.6 Jagadeesha Suchith to Manan Vohra 1 Score: 91/2
+10.1 Rashid Khan to Manan Vohra 6 Score: 97/2
+10.2 Rashid Khan to Manan Vohra 0 Score: 97/2
+10.3 Rashid Khan to Manan Vohra 4 Score: 101/2
+10.4 Rashid Khan to Manan Vohra 0 Score: 101/2
+10.5 Rashid Khan to Manan Vohra 1 Score: 102/2
+10.6 Rashid Khan to Jos Buttler 1 Score: 103/2
+11.1 Jagadeesha Suchith to Jos Buttler 1 Score: 104/2
+11.2 Jagadeesha Suchith to Manan Vohra 3 Score: 107/2
+11.3 Jagadeesha Suchith to Jos Buttler 1 Score: 108/2
+11.4 Jagadeesha Suchith to Manan Vohra 0 Score: 108/2
+11.5 Jagadeesha Suchith to Manan Vohra 2 Score: 110/2
+11.6 Jagadeesha Suchith to Manan Vohra 6 Score: 116/2
+12.1 Vijay Shankar to Jos Buttler 0 Score: 116/2
+12.2 Vijay Shankar to Jos Buttler 1 Score: 117/2
+12.3 Vijay Shankar to Manan Vohra 0 Score: 117/2
+12.4 Vijay Shankar to Manan Vohra 1 Score: 118/2
+12.5 Vijay Shankar to Jos Buttler 4 Score: 122/2
+12.6 Vijay Shankar to Jos Buttler 0 Score: 122/2
+13.1 Jagadeesha Suchith to Manan Vohra W Score: 122/3 Lbw
+13.2 Jagadeesha Suchith to Shivam Dube 4 Score: 126/3
+13.3 Jagadeesha Suchith to Shivam Dube 0 Score: 126/3
+13.4 Jagadeesha Suchith to Shivam Dube 2 Score: 128/3
+13.5 Jagadeesha Suchith to Shivam Dube 1 Score: 129/3
+13.6 Jagadeesha Suchith to Jos Buttler 1 Score: 130/3
+14.1 Vijay Shankar to Jos Buttler 0 Score: 130/3
+14.2 Vijay Shankar to Jos Buttler 4 Score: 134/3
+14.3 Vijay Shankar to Jos Buttler 1 Score: 135/3
+14.4 Vijay Shankar to Shivam Dube 0 Score: 135/3
+14.5 Vijay Shankar to Shivam Dube 0 Score: 135/3
+14.6 Vijay Shankar to Shivam Dube 0 Score: 135/3
+15.1 Jagadeesha Suchith to Jos Buttler 0 Score: 135/3
+15.2 Jagadeesha Suchith to Jos Buttler 0 Score: 135/3
+15.3 Jagadeesha Suchith to Jos Buttler 0 Score: 135/3
+15.4 Jagadeesha Suchith to Jos Buttler 0 Score: 135/3
+15.5 Jagadeesha Suchith to Jos Buttler 0 Score: 135/3
+15.6 Jagadeesha Suchith to Jos Buttler 0 Score: 135/3
+16.1 Vijay Shankar to Shivam Dube 0 Score: 135/3
+16.2 Vijay Shankar to Shivam Dube 0 Score: 135/3
+16.3 Vijay Shankar to Shivam Dube 1 Score: 136/3
+16.4 Vijay Shankar to Jos Buttler 6 Score: 142/3
+16.5 Vijay Shankar to Jos Buttler 1 Score: 143/3
+16.6 Vijay Shankar to Shivam Dube 0 Score: 143/3
+17.1 Siddarth Kaul to Jos Buttler 6 Score: 149/3
+17.2 Siddarth Kaul to Jos Buttler 6 Score: 155/3
+17.3 Siddarth Kaul to Jos Buttler 4 Score: 159/3
+17.4 Siddarth Kaul to Jos Buttler 6 Score: 165/3
+17.5 Siddarth Kaul to Jos Buttler 0 Score: 165/3
+17.6 Siddarth Kaul to Jos Buttler 6 Score: 171/3
+18.1 Vijay Shankar to Shivam Dube 1 Score: 172/3
+18.2 Vijay Shankar to Jos Buttler W Score: 172/4 Caught by Rashid Khan
+18.3 Vijay Shankar to Riyan Parag 1 Score: 173/4
+18.4 Vijay Shankar to Shivam Dube 1 Score: 174/4
+18.5 Vijay Shankar to Riyan Parag W Score: 174/5 Bowled
+18.6 Vijay Shankar to Chris Morris 0 Score: 174/5
+19.1 Khaleel Ahmed to Shivam Dube 4 Score: 178/5
+19.2 Khaleel Ahmed to Shivam Dube 0 Score: 178/5
+19.3 Khaleel Ahmed to Shivam Dube 0 Score: 178/5
+19.4 Khaleel Ahmed to Shivam Dube 6 Score: 184/5
+19.5 Khaleel Ahmed to Shivam Dube 1 Score: 185/5
+19.6 Khaleel Ahmed to Chris Morris 0 Score: 185/5
++-------------------+--------+---------+--------+---------------------------+
+| Player            |   Runs |   Balls | SR     | Out                       |
++===================+========+=========+========+===========================+
+| JC Buttler        |     59 |      31 | 190.32 | c Rashid Khan b V Shankar |
++-------------------+--------+---------+--------+---------------------------+
+| M Vohra           |     49 |      42 | 116.67 | lbw b J Suchith           |
++-------------------+--------+---------+--------+---------------------------+
+| SV Samson         |     23 |      11 | 209.09 | c MK Pandey b S Kaul      |
++-------------------+--------+---------+--------+---------------------------+
+| S Dube            |     21 |      18 | 116.67 | Not out                   |
++-------------------+--------+---------+--------+---------------------------+
+| DA Miller         |     31 |      14 | 221.43 | lbw b S Kaul              |
++-------------------+--------+---------+--------+---------------------------+
+| R Parag           |      1 |       2 | 50.0   | bowled b V Shankar        |
++-------------------+--------+---------+--------+---------------------------+
+| R Tewatia         |      0 |       0 | DNB    |                           |
++-------------------+--------+---------+--------+---------------------------+
+| CH Morris         |      0 |       2 | 0.0    | Not out                   |
++-------------------+--------+---------+--------+---------------------------+
+| JD Unadkat        |      0 |       0 | DNB    |                           |
++-------------------+--------+---------+--------+---------------------------+
+| C Sakariya        |      0 |       0 | DNB    |                           |
++-------------------+--------+---------+--------+---------------------------+
+| Mustafizur Rahman |      0 |       0 | DNB    |                           |
++-------------------+--------+---------+--------+---------------------------+
 +-----------------+--------+---------+-----------+-------+
 | Player          |   Runs |   Overs |   Wickets | Eco   |
 +=================+========+=========+===========+=======+
@@ -159,160 +158,162 @@ rr won the toss and chose to bat
 +-----------------+--------+---------+-----------+-------+
 | KM Jadhav       |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| Abhishek Sharma |     21 |       3 |         0 | 7.0   |
+| Abhishek Sharma |     11 |       1 |         0 | 11.0  |
 +-----------------+--------+---------+-----------+-------+
-| Rashid Khan     |     19 |       4 |         3 | 4.75  |
+| Rashid Khan     |     41 |       4 |         0 | 10.25 |
 +-----------------+--------+---------+-----------+-------+
-| V Shankar       |     24 |       3 |         2 | 8.0   |
+| V Shankar       |     22 |       4 |         2 | 5.5   |
 +-----------------+--------+---------+-----------+-------+
-| J Suchith       |     33 |       4 |         0 | 8.25  |
+| J Suchith       |     24 |       4 |         1 | 6.0   |
 +-----------------+--------+---------+-----------+-------+
-| S Kaul          |     51 |       4 |         0 | 12.75 |
+| S Kaul          |     49 |       4 |         2 | 12.25 |
 +-----------------+--------+---------+-----------+-------+
-| KK Ahmed        |     21 |       2 |         0 | 10.5  |
+| KK Ahmed        |     38 |       3 |         0 | 12.67 |
 +-----------------+--------+---------+-----------+-------+
-0.1 Chetan Sakariya to David Warner 0 Score: 0/0
-0.2 Chetan Sakariya to David Warner 1 Score: 1/0
-0.3 Chetan Sakariya to Jonny Bairstow 1 Score: 2/0
-0.4 Chetan Sakariya to David Warner 0 Score: 2/0
-0.5 Chetan Sakariya to David Warner 1 Score: 3/0
-0.6 Chetan Sakariya to Jonny Bairstow 2 Score: 5/0
-1.1 Jaydev Unadkat to David Warner 1 Score: 6/0
-1.2 Jaydev Unadkat to Jonny Bairstow 1 Score: 7/0
-1.3 Jaydev Unadkat to David Warner 0 Score: 7/0
-1.4 Jaydev Unadkat to David Warner 2 Score: 9/0
-1.5 Jaydev Unadkat to David Warner 1 Score: 10/0
-1.6 Jaydev Unadkat to Jonny Bairstow 1 Score: 11/0
-2.1 Chetan Sakariya to Jonny Bairstow 0 Score: 11/0
-2.2 Chetan Sakariya to Jonny Bairstow 2 Score: 13/0
-2.3 Chetan Sakariya to Jonny Bairstow 2 Score: 15/0
-2.4 Chetan Sakariya to Jonny Bairstow 1 Score: 16/0
-2.5 Chetan Sakariya to David Warner 1 Score: 17/0
-2.6 Chetan Sakariya to Jonny Bairstow 0 Score: 17/0
-3.1 Jaydev Unadkat to David Warner 0 Score: 17/0
-3.2 Jaydev Unadkat to David Warner W Score: 17/1 Caught by Sanju Samson
-3.3 Jaydev Unadkat to Kane Williamson 4 Score: 21/1
-3.4 Jaydev Unadkat to Kane Williamson 1 Score: 22/1
-3.5 Jaydev Unadkat to Jonny Bairstow 2 Score: 24/1
-3.6 Jaydev Unadkat to Jonny Bairstow 6 Score: 30/1
-4.1 Mustafizur Rahman to Kane Williamson 1 Score: 31/1
-4.2 Mustafizur Rahman to Jonny Bairstow 1 Score: 32/1
-4.3 Mustafizur Rahman to Kane Williamson 6 Score: 38/1
-4.4 Mustafizur Rahman to Kane Williamson 4 Score: 42/1
-4.5 Mustafizur Rahman to Kane Williamson 2 Score: 44/1
-4.6 Mustafizur Rahman to Kane Williamson 1 Score: 45/1
-5.1 Chris Morris to Kane Williamson 1 Score: 46/1
-5.2 Chris Morris to Jonny Bairstow 0 Score: 46/1
-5.3 Chris Morris to Jonny Bairstow 1 Score: 47/1
-5.4 Chris Morris to Kane Williamson 0 Score: 47/1
-5.5 Chris Morris to Kane Williamson 4 Score: 51/1
-5.6 Chris Morris to Kane Williamson 0 Score: 51/1
-6.1 Mustafizur Rahman to Jonny Bairstow 0 Score: 51/1
-6.2 Mustafizur Rahman to Jonny Bairstow 1 Score: 52/1
-6.3 Mustafizur Rahman to Kane Williamson 0 Score: 52/1
-6.4 Mustafizur Rahman to Kane Williamson 0 Score: 52/1
-6.5 Mustafizur Rahman to Kane Williamson 0 Score: 52/1
-6.6 Mustafizur Rahman to Kane Williamson 0 Score: 52/1
-7.1 Chris Morris to Jonny Bairstow 0 Score: 52/1
-7.2 Chris Morris to Jonny Bairstow 4 Score: 56/1
-7.3 Chris Morris to Jonny Bairstow W Score: 56/2 Caught by Jos Buttler
-7.4 Chris Morris to Manish Pandey 0 Score: 56/2
-7.5 Chris Morris to Manish Pandey 0 Score: 56/2
-7.6 Chris Morris to Manish Pandey 1 Score: 57/2
-8.1 Mustafizur Rahman to Manish Pandey 0 Score: 57/2
-8.2 Mustafizur Rahman to Manish Pandey 0 Score: 57/2
-8.3 Mustafizur Rahman to Manish Pandey 4 Score: 61/2
-8.4 Mustafizur Rahman to Manish Pandey 0 Score: 61/2
-8.5 Mustafizur Rahman to Manish Pandey 1 Score: 62/2
-8.6 Mustafizur Rahman to Kane Williamson 0 Score: 62/2
-9.1 Chris Morris to Manish Pandey 1 Score: 63/2
-9.2 Chris Morris to Kane Williamson 1 Score: 64/2
-9.3 Chris Morris to Manish Pandey 0 Score: 64/2
-9.4 Chris Morris to Manish Pandey 0 Score: 64/2
-9.5 Chris Morris to Manish Pandey 4 Score: 68/2
-9.6 Chris Morris to Manish Pandey 0 Score: 68/2
-10.1 Rahul Tewatia to Kane Williamson 4 Score: 72/2
-10.2 Rahul Tewatia to Kane Williamson 1 Score: 73/2
-10.2 Rahul Tewatia to Kane Williamson 4 Score: 77/2
-10.3 Rahul Tewatia to Manish Pandey 1 Score: 78/2
-10.3 Rahul Tewatia to Manish Pandey 4 Score: 82/2
-10.4 Rahul Tewatia to Kane Williamson 4 Score: 86/2
-10.5 Rahul Tewatia to Kane Williamson 1 Score: 87/2
-10.6 Rahul Tewatia to Manish Pandey 1 Score: 88/2
-11.1 David Miller to Manish Pandey 4 Score: 92/2
-11.2 David Miller to Manish Pandey 6 Score: 98/2
-11.3 David Miller to Manish Pandey 4 Score: 102/2
-11.4 David Miller to Manish Pandey 0 Score: 102/2
-11.5 David Miller to Manish Pandey 6 Score: 108/2
-11.6 David Miller to Manish Pandey 2 Score: 110/2
-12.1 Rahul Tewatia to Kane Williamson 1 Score: 111/2
-12.2 Rahul Tewatia to Manish Pandey 1 Score: 112/2
-12.3 Rahul Tewatia to Kane Williamson 1 Score: 113/2
-12.4 Rahul Tewatia to Manish Pandey 1 Score: 114/2
-12.5 Rahul Tewatia to Kane Williamson 1 Score: 115/2
-12.6 Rahul Tewatia to Manish Pandey 1 Score: 116/2
-13.1 David Miller to Manish Pandey 0 Score: 116/2
-13.2 David Miller to Manish Pandey 1 Score: 117/2
-13.3 David Miller to Kane Williamson 1 Score: 118/2
-13.4 David Miller to Manish Pandey 4 Score: 122/2
-13.5 David Miller to Manish Pandey 0 Score: 122/2
-13.6 David Miller to Manish Pandey 1 Score: 123/2
-14.1 Rahul Tewatia to Manish Pandey 0 Score: 123/2
-14.2 Rahul Tewatia to Manish Pandey 0 Score: 123/2
-14.3 Rahul Tewatia to Manish Pandey 4 Score: 127/2
-14.4 Rahul Tewatia to Manish Pandey 4 Score: 131/2
-14.5 Rahul Tewatia to Manish Pandey 1 Score: 132/2
-14.6 Rahul Tewatia to Kane Williamson 1 Score: 133/2
-15.1 David Miller to Kane Williamson 0 Score: 133/2
-15.2 David Miller to Kane Williamson 0 Score: 133/2
-15.3 David Miller to Kane Williamson 2 Score: 135/2
-15.4 David Miller to Kane Williamson 2 Score: 137/2
-15.5 David Miller to Kane Williamson 1 Score: 138/2
-15.6 David Miller to Manish Pandey 1 Score: 139/2
-16.1 Mustafizur Rahman to Manish Pandey 2 Score: 141/2
-16.2 Mustafizur Rahman to Manish Pandey 1 Score: 142/2
-16.3 Mustafizur Rahman to Kane Williamson W Score: 142/3 Caught by Manan Vohra
-16.4 Mustafizur Rahman to Vijay Shankar 1 Score: 143/3
-16.5 Mustafizur Rahman to Manish Pandey 1 Score: 144/3
-16.6 Mustafizur Rahman to Vijay Shankar 0 Score: 144/3
-17.1 Chris Morris to Manish Pandey 4 Score: 148/3
-17.2 Chris Morris to Manish Pandey 1 Score: 149/3
-17.3 Chris Morris to Vijay Shankar 0 Score: 149/3
-17.4 Chris Morris to Vijay Shankar 4 Score: 153/3
-17.5 Chris Morris to Vijay Shankar 4 Score: 157/3
-17.6 Chris Morris to Vijay Shankar 0 Score: 157/3
-18.1 Jaydev Unadkat to Manish Pandey 2 Score: 159/3
-18.2 Jaydev Unadkat to Manish Pandey 0 Score: 159/3
-18.3 Jaydev Unadkat to Manish Pandey 0 Score: 159/3
-18.4 Jaydev Unadkat to Manish Pandey 6 Score: 165/3
-18.5 Jaydev Unadkat to Manish Pandey 1 Score: 166/3
-18.6 Jaydev Unadkat to Vijay Shankar 4 Score: 170/3
-srh won by 7 wickets
-+-----------------+--------+---------+--------+-------------------------------+
-| Player          |   Runs |   Balls | SR     | Out                           |
-+=================+========+=========+========+===============================+
-| DA Warner       |      7 |      11 | 63.64  | c SV Samson b JD Unadkat      |
-+-----------------+--------+---------+--------+-------------------------------+
-| JM Bairstow     |     25 |      19 | 131.58 | c JC Buttler b CH Morris      |
-+-----------------+--------+---------+--------+-------------------------------+
-| KS Williamson   |     49 |      33 | 148.48 | c M Vohra b Mustafizur Rahman |
-+-----------------+--------+---------+--------+-------------------------------+
-| MK Pandey       |     76 |      46 | 165.22 | Not out                       |
-+-----------------+--------+---------+--------+-------------------------------+
-| KM Jadhav       |      0 |       0 | DNB    |                               |
-+-----------------+--------+---------+--------+-------------------------------+
-| Abhishek Sharma |      0 |       0 | DNB    |                               |
-+-----------------+--------+---------+--------+-------------------------------+
-| Rashid Khan     |      0 |       0 | DNB    |                               |
-+-----------------+--------+---------+--------+-------------------------------+
-| V Shankar       |     13 |       7 | 185.71 | Not out                       |
-+-----------------+--------+---------+--------+-------------------------------+
-| J Suchith       |      0 |       0 | DNB    |                               |
-+-----------------+--------+---------+--------+-------------------------------+
-| S Kaul          |      0 |       0 | DNB    |                               |
-+-----------------+--------+---------+--------+-------------------------------+
-| KK Ahmed        |      0 |       0 | DNB    |                               |
-+-----------------+--------+---------+--------+-------------------------------+
+0.1 Chetan Sakariya to David Warner 1 Score: 1/0
+0.2 Chetan Sakariya to Jonny Bairstow 1 Score: 2/0
+0.3 Chetan Sakariya to David Warner 1 Score: 3/0
+0.4 Chetan Sakariya to Jonny Bairstow 1 Score: 4/0
+0.5 Chetan Sakariya to David Warner W Score: 4/1 Caught by Chetan Sakariya
+0.6 Chetan Sakariya to Kane Williamson 2 Score: 6/1
+1.1 Jaydev Unadkat to Jonny Bairstow 1 Score: 7/1
+1.2 Jaydev Unadkat to Kane Williamson 1 Score: 8/1
+1.3 Jaydev Unadkat to Jonny Bairstow 6 Score: 14/1
+1.4 Jaydev Unadkat to Jonny Bairstow 4 Score: 18/1
+1.5 Jaydev Unadkat to Jonny Bairstow 1 Score: 19/1
+1.6 Jaydev Unadkat to Kane Williamson 0 Score: 19/1
+2.1 Chetan Sakariya to Jonny Bairstow 1 Score: 20/1
+2.2 Chetan Sakariya to Kane Williamson 0 Score: 20/1
+2.3 Chetan Sakariya to Kane Williamson 6 Score: 26/1
+2.4 Chetan Sakariya to Kane Williamson 0 Score: 26/1
+2.5 Chetan Sakariya to Kane Williamson 1 Score: 27/1
+2.6 Chetan Sakariya to Jonny Bairstow 4 Score: 31/1
+3.1 Jaydev Unadkat to Kane Williamson 6 Score: 37/1
+3.2 Jaydev Unadkat to Kane Williamson 0 Score: 37/1
+3.3 Jaydev Unadkat to Kane Williamson 4 Score: 41/1
+3.4 Jaydev Unadkat to Kane Williamson 1 Score: 42/1
+3.5 Jaydev Unadkat to Jonny Bairstow Wide Score: 43/1
+3.6 Jaydev Unadkat to Jonny Bairstow 6 Score: 49/1
+3.7 Jaydev Unadkat to Jonny Bairstow 1 Score: 50/1
+4.1 Chris Morris to Jonny Bairstow 0 Score: 50/1
+4.2 Chris Morris to Jonny Bairstow 0 Score: 50/1
+4.3 Chris Morris to Jonny Bairstow 4 Score: 54/1
+4.4 Chris Morris to Jonny Bairstow 0 Score: 54/1
+4.5 Chris Morris to Jonny Bairstow 1 Score: 55/1
+4.6 Chris Morris to Kane Williamson 0 Score: 55/1
+5.1 Mustafizur Rahman to Jonny Bairstow 1 Score: 56/1
+5.2 Mustafizur Rahman to Kane Williamson 1 Score: 57/1
+5.3 Mustafizur Rahman to Jonny Bairstow 0 Score: 57/1
+5.4 Mustafizur Rahman to Jonny Bairstow 4 Score: 61/1
+5.5 Mustafizur Rahman to Jonny Bairstow 1 Score: 62/1
+5.6 Mustafizur Rahman to Kane Williamson 0 Score: 62/1
+6.1 Chris Morris to Jonny Bairstow 6 Score: 68/1
+6.2 Chris Morris to Jonny Bairstow 0 Score: 68/1
+6.3 Chris Morris to Jonny Bairstow 6 Score: 74/1
+6.4 Chris Morris to Jonny Bairstow 1 Score: 75/1
+6.5 Chris Morris to Kane Williamson 1 Score: 76/1
+6.6 Chris Morris to Jonny Bairstow W Score: 76/2 Caught by David Miller
+7.1 Mustafizur Rahman to Kane Williamson W Score: 76/3 Stumped
+7.2 Mustafizur Rahman to Vijay Shankar 1 Score: 77/3
+7.3 Mustafizur Rahman to Manish Pandey 0 Score: 77/3
+7.4 Mustafizur Rahman to Manish Pandey 2 Score: 79/3
+7.5 Mustafizur Rahman to Manish Pandey W Score: 79/4 Caught by Chetan Sakariya
+7.6 Mustafizur Rahman to Abhishek Sharma 6 Score: 85/4
+8.1 Chris Morris to Vijay Shankar 0 Score: 85/4
+8.2 Chris Morris to Vijay Shankar 0 Score: 85/4
+8.3 Chris Morris to Vijay Shankar 2 Score: 87/4
+8.4 Chris Morris to Vijay Shankar 0 Score: 87/4
+8.5 Chris Morris to Vijay Shankar 2 Score: 89/4
+8.6 Chris Morris to Vijay Shankar 0 Score: 89/4
+9.1 Mustafizur Rahman to Abhishek Sharma 1 Score: 90/4
+9.2 Mustafizur Rahman to Vijay Shankar 2 Score: 92/4
+9.3 Mustafizur Rahman to Vijay Shankar 0 Score: 92/4
+9.4 Mustafizur Rahman to Vijay Shankar 1 Score: 93/4
+9.5 Mustafizur Rahman to Abhishek Sharma 1 Score: 94/4
+9.6 Mustafizur Rahman to Vijay Shankar W Score: 94/5 Bowled
+10.1 Riyan Parag to Abhishek Sharma 6 Score: 100/5
+10.2 Riyan Parag to Abhishek Sharma 0 Score: 100/5
+10.3 Riyan Parag to Abhishek Sharma 4 Score: 104/5
+10.4 Riyan Parag to Abhishek Sharma 0 Score: 104/5
+10.5 Riyan Parag to Abhishek Sharma 0 Score: 104/5
+10.6 Riyan Parag to Abhishek Sharma 1 Score: 105/5
+11.1 Rahul Tewatia to Abhishek Sharma 1 Score: 106/5
+11.2 Rahul Tewatia to Kedar Jadhav 0 Score: 106/5
+11.3 Rahul Tewatia to Kedar Jadhav 0 Score: 106/5
+11.4 Rahul Tewatia to Kedar Jadhav 0 Score: 106/5
+11.5 Rahul Tewatia to Kedar Jadhav 6 Score: 112/5
+11.6 Rahul Tewatia to Kedar Jadhav 1 Score: 113/5
+12.1 Riyan Parag to Kedar Jadhav 0 Score: 113/5
+12.2 Riyan Parag to Kedar Jadhav 0 Score: 113/5
+12.3 Riyan Parag to Kedar Jadhav 0 Score: 113/5
+12.4 Riyan Parag to Kedar Jadhav 1 Score: 114/5
+12.5 Riyan Parag to Abhishek Sharma 0 Score: 114/5
+12.6 Riyan Parag to Abhishek Sharma 2 Score: 116/5
+13.1 Rahul Tewatia to Kedar Jadhav 4 Score: 120/5
+13.2 Rahul Tewatia to Kedar Jadhav 4 Score: 124/5
+13.3 Rahul Tewatia to Kedar Jadhav 0 Score: 124/5
+13.4 Rahul Tewatia to Kedar Jadhav 1 Score: 125/5
+13.5 Rahul Tewatia to Abhishek Sharma 6 Score: 131/5
+13.6 Rahul Tewatia to Abhishek Sharma 0 Score: 131/5
+14.1 Riyan Parag to Kedar Jadhav 0 Score: 131/5
+14.2 Riyan Parag to Kedar Jadhav 4 Score: 135/5
+14.3 Riyan Parag to Kedar Jadhav W Score: 135/6 Caught by Chris Morris
+14.4 Riyan Parag to Rashid Khan 4 Score: 139/6
+14.5 Riyan Parag to Rashid Khan 0 Score: 139/6
+14.6 Riyan Parag to Rashid Khan 0 Score: 139/6
+15.1 Rahul Tewatia to Abhishek Sharma 1 Score: 140/6
+15.2 Rahul Tewatia to Rashid Khan 6 Score: 146/6
+15.3 Rahul Tewatia to Rashid Khan 1 Score: 147/6
+15.4 Rahul Tewatia to Abhishek Sharma 0 Score: 147/6
+15.5 Rahul Tewatia to Abhishek Sharma 1 Score: 148/6
+15.6 Rahul Tewatia to Rashid Khan 1 Score: 149/6
+16.1 Riyan Parag to Rashid Khan 0 Score: 149/6
+16.2 Riyan Parag to Rashid Khan 0 Score: 149/6
+16.3 Riyan Parag to Rashid Khan 0 Score: 149/6
+16.4 Riyan Parag to Rashid Khan W Score: 149/7 Run Out!
+16.5 Riyan Parag to Khaleel Ahmed 1 Score: 150/7
+16.6 Riyan Parag to Abhishek Sharma 6 Score: 156/7
+17.1 Mustafizur Rahman to Khaleel Ahmed 0 Score: 156/7
+17.2 Mustafizur Rahman to Khaleel Ahmed 0 Score: 156/7
+17.3 Mustafizur Rahman to Khaleel Ahmed 0 Score: 156/7
+17.4 Mustafizur Rahman to Khaleel Ahmed 6 Score: 162/7
+17.5 Mustafizur Rahman to Khaleel Ahmed 0 Score: 162/7
+17.6 Mustafizur Rahman to Khaleel Ahmed 0 Score: 162/7
+18.1 Chris Morris to Abhishek Sharma 2 Score: 164/7
+18.2 Chris Morris to Abhishek Sharma 4 Score: 168/7
+18.3 Chris Morris to Abhishek Sharma 1 Score: 169/7
+18.4 Chris Morris to Khaleel Ahmed 4 Score: 173/7
+18.5 Chris Morris to Khaleel Ahmed W Score: 175/8 Run Out!
+18.6 Chris Morris to Siddarth Kaul 0 Score: 175/8
+19.1 Jaydev Unadkat to Abhishek Sharma 6 Score: 181/8
+19.2 Jaydev Unadkat to Abhishek Sharma 4 Score: 185/8
+19.3 Jaydev Unadkat to Abhishek Sharma 1 Score: 186/8
+srh won by 2 wickets
++-----------------+--------+---------+--------+----------------------------------+
+| Player          |   Runs |   Balls | SR     | Out                              |
++=================+========+=========+========+==================================+
+| DA Warner       |      2 |       3 | 66.67  | c C Sakariya b C Sakariya        |
++-----------------+--------+---------+--------+----------------------------------+
+| JM Bairstow     |     50 |      24 | 208.33 | c DA Miller b CH Morris          |
++-----------------+--------+---------+--------+----------------------------------+
+| KS Williamson   |     23 |      16 | 143.75 | stumped b Mustafizur Rahman      |
++-----------------+--------+---------+--------+----------------------------------+
+| MK Pandey       |      2 |       3 | 66.67  | c C Sakariya b Mustafizur Rahman |
++-----------------+--------+---------+--------+----------------------------------+
+| KM Jadhav       |     21 |      16 | 131.25 | c CH Morris b R Parag            |
++-----------------+--------+---------+--------+----------------------------------+
+| Abhishek Sharma |     54 |      24 | 225.0  | Not out                          |
++-----------------+--------+---------+--------+----------------------------------+
+| Rashid Khan     |     12 |      10 | 120.0  | Not out                          |
++-----------------+--------+---------+--------+----------------------------------+
+| V Shankar       |      8 |      11 | 72.73  | bowled b Mustafizur Rahman       |
++-----------------+--------+---------+--------+----------------------------------+
+| J Suchith       |      0 |       0 | DNB    |                                  |
++-----------------+--------+---------+--------+----------------------------------+
+| S Kaul          |      0 |       1 | 0.0    | Not out                          |
++-----------------+--------+---------+--------+----------------------------------+
+| KK Ahmed        |     13 |       9 | 144.44 | Not out                          |
++-----------------+--------+---------+--------+----------------------------------+
 +-------------------+--------+---------+-----------+-------+
 | Player            |   Runs |   Overs |   Wickets | Eco   |
 +===================+========+=========+===========+=======+
@@ -324,17 +325,17 @@ srh won by 7 wickets
 +-------------------+--------+---------+-----------+-------+
 | S Dube            |      0 |     0   |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| DA Miller         |     35 |     3   |         0 | 11.67 |
+| DA Miller         |      0 |     0   |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| R Parag           |      0 |     0   |         0 | NA    |
+| R Parag           |     29 |     4   |         1 | 7.25  |
 +-------------------+--------+---------+-----------+-------+
-| R Tewatia         |     36 |     3.2 |         0 | 10.8  |
+| R Tewatia         |     33 |     3   |         0 | 11.0  |
 +-------------------+--------+---------+-----------+-------+
-| CH Morris         |     30 |     4   |         1 | 7.5   |
+| CH Morris         |     36 |     4   |         1 | 9.0   |
 +-------------------+--------+---------+-----------+-------+
-| JD Unadkat        |     32 |     3   |         1 | 10.67 |
+| JD Unadkat        |     43 |     2.3 |         0 | 17.2  |
 +-------------------+--------+---------+-----------+-------+
-| C Sakariya        |     11 |     2   |         0 | 5.5   |
+| C Sakariya        |     18 |     2   |         1 | 9.0   |
 +-------------------+--------+---------+-----------+-------+
-| Mustafizur Rahman |     26 |     4   |         1 | 6.5   |
+| Mustafizur Rahman |     27 |     4   |         3 | 6.75  |
 +-------------------+--------+---------+-----------+-------+

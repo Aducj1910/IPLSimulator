@@ -97,7 +97,7 @@ for team in points:
 	pointsTabulate.append(l)
 
 
-pointsTabulate = sorted(pointsTabulate, key=lambda x: (x[6], -x[5]))
+pointsTabulate = sorted(pointsTabulate, key=lambda x: (x[6], x[5]))
 pointsTabulate.reverse()
 
 print(tabulate(pointsTabulate, ["Team", "Played", "Won", "Lost" ,"Tied", "NRR", "Points"], tablefmt="grid"))

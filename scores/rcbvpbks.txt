@@ -1,158 +1,330 @@
-pbks won the toss and chose to field
-0.1 Riley Meredith to Devdutt Padikkal 1 Score: 1/0
-0.2 Riley Meredith to Virat Kohli 2 Score: 3/0
-0.3 Riley Meredith to Virat Kohli 2 Score: 5/0
-0.4 Riley Meredith to Virat Kohli 4 Score: 9/0
-0.5 Riley Meredith to Virat Kohli 2 Score: 11/0
-0.6 Riley Meredith to Virat Kohli 4 Score: 15/0
-1.1 Harpreet Brar to Devdutt Padikkal 1 Score: 16/0
-1.2 Harpreet Brar to Virat Kohli 1 Score: 17/0
-1.3 Harpreet Brar to Devdutt Padikkal 0 Score: 17/0
-1.4 Harpreet Brar to Devdutt Padikkal 0 Score: 17/0
-1.5 Harpreet Brar to Devdutt Padikkal 0 Score: 17/0
-1.6 Harpreet Brar to Devdutt Padikkal 1 Score: 18/0
-2.1 Mohammed Shami to Devdutt Padikkal 4 Score: 22/0
-2.2 Mohammed Shami to Devdutt Padikkal 0 Score: 22/0
-2.3 Mohammed Shami to Devdutt Padikkal 0 Score: 22/0
-2.4 Mohammed Shami to Devdutt Padikkal 0 Score: 22/0
-2.5 Mohammed Shami to Devdutt Padikkal 4 Score: 26/0
-2.6 Mohammed Shami to Devdutt Padikkal 1 Score: 27/0
-3.1 Harpreet Brar to Devdutt Padikkal 6 Score: 33/0
-3.2 Harpreet Brar to Devdutt Padikkal 6 Score: 39/0
-3.3 Harpreet Brar to Devdutt Padikkal 1 Score: 40/0
-3.4 Harpreet Brar to Virat Kohli 1 Score: 41/0
-3.5 Harpreet Brar to Devdutt Padikkal Wide Score: 42/0
-3.6 Harpreet Brar to Devdutt Padikkal 2 Score: 44/0
-3.7 Harpreet Brar to Devdutt Padikkal 4 Score: 48/0
-4.1 Mohammed Shami to Virat Kohli 1 Score: 49/0
-4.2 Mohammed Shami to Devdutt Padikkal 1 Score: 50/0
-4.3 Mohammed Shami to Virat Kohli 1 Score: 51/0
-4.4 Mohammed Shami to Devdutt Padikkal 6 Score: 57/0
-4.5 Mohammed Shami to Devdutt Padikkal 2 Score: 59/0
-4.6 Mohammed Shami to Devdutt Padikkal 4 Score: 63/0
-5.1 Riley Meredith to Virat Kohli 6 Score: 69/0
-5.2 Riley Meredith to Virat Kohli 1 Score: 70/0
-5.3 Riley Meredith to Devdutt Padikkal 1 Score: 71/0
-5.4 Riley Meredith to Virat Kohli 0 Score: 71/0
-5.5 Riley Meredith to Virat Kohli 1 Score: 72/0
-5.6 Riley Meredith to Devdutt Padikkal 0 Score: 72/0
-6.1 Mohammed Shami to Virat Kohli 0 Score: 72/0
-6.2 Mohammed Shami to Virat Kohli 0 Score: 72/0
-6.3 Mohammed Shami to Virat Kohli 4 Score: 76/0
-6.4 Mohammed Shami to Virat Kohli 1 Score: 77/0
-6.5 Mohammed Shami to Devdutt Padikkal 4 Score: 81/0
-6.6 Mohammed Shami to Devdutt Padikkal 6 Score: 87/0
-7.1 Riley Meredith to Virat Kohli 4 Score: 91/0
-7.2 Riley Meredith to Virat Kohli 1 Score: 92/0
-7.3 Riley Meredith to Devdutt Padikkal 0 Score: 92/0
-7.4 Riley Meredith to Devdutt Padikkal 0 Score: 92/0
-7.5 Riley Meredith to Devdutt Padikkal 1 Score: 93/0
-7.6 Riley Meredith to Virat Kohli 1 Score: 94/0
-8.1 Ravi Bishnoi to Virat Kohli Wide Score: 95/0
-8.2 Ravi Bishnoi to Virat Kohli 0 Score: 95/0
-8.3 Ravi Bishnoi to Virat Kohli 1 Score: 96/0
-8.4 Ravi Bishnoi to Devdutt Padikkal 0 Score: 96/0
-8.5 Ravi Bishnoi to Devdutt Padikkal Wide Score: 97/0
-8.6 Ravi Bishnoi to Devdutt Padikkal 0 Score: 97/0
-8.7 Ravi Bishnoi to Devdutt Padikkal 0 Score: 97/0
-8.8 Ravi Bishnoi to Devdutt Padikkal 0 Score: 97/0
-9.1 Chris Jordan to Virat Kohli 1 Score: 98/0
-9.2 Chris Jordan to Devdutt Padikkal Wide Score: 99/0
-9.3 Chris Jordan to Devdutt Padikkal 2 Score: 101/0
-9.4 Chris Jordan to Devdutt Padikkal 0 Score: 101/0
-9.5 Chris Jordan to Devdutt Padikkal 0 Score: 101/0
-9.6 Chris Jordan to Devdutt Padikkal Wide Score: 102/0
-9.7 Chris Jordan to Devdutt Padikkal Wide Score: 103/0
-9.8 Chris Jordan to Devdutt Padikkal 2 Score: 105/0
-9.9 Chris Jordan to Devdutt Padikkal 0 Score: 105/0
-10.1 Ravi Bishnoi to Virat Kohli W Score: 105/1 Caught by Chris Jordan
-10.2 Ravi Bishnoi to AB de Villiers 6 Score: 111/1
-10.3 Ravi Bishnoi to AB de Villiers 4 Score: 115/1
-10.4 Ravi Bishnoi to AB de Villiers 4 Score: 119/1
-10.5 Ravi Bishnoi to AB de Villiers 0 Score: 119/1
-10.6 Ravi Bishnoi to AB de Villiers 1 Score: 120/1
-11.1 Chris Jordan to AB de Villiers 4 Score: 124/1
-11.2 Chris Jordan to AB de Villiers 2 Score: 126/1
-11.3 Chris Jordan to AB de Villiers 4 Score: 130/1
-11.4 Chris Jordan to AB de Villiers 1 Score: 131/1
-11.5 Chris Jordan to Devdutt Padikkal 0 Score: 131/1
-11.6 Chris Jordan to Devdutt Padikkal Wide Score: 132/1
-11.7 Chris Jordan to Devdutt Padikkal 0 Score: 132/1
-12.1 Ravi Bishnoi to AB de Villiers 2 Score: 134/1
-12.2 Ravi Bishnoi to AB de Villiers 4 Score: 138/1
-12.3 Ravi Bishnoi to AB de Villiers 0 Score: 138/1
-12.4 Ravi Bishnoi to AB de Villiers W Score: 138/2 Lbw
-12.5 Ravi Bishnoi to Glenn Maxwell 1 Score: 139/2
-12.6 Ravi Bishnoi to Devdutt Padikkal 0 Score: 139/2
-13.1 Chris Jordan to Glenn Maxwell 1 Score: 140/2
-13.2 Chris Jordan to Devdutt Padikkal 1 Score: 141/2
-13.3 Chris Jordan to Glenn Maxwell 0 Score: 141/2
-13.4 Chris Jordan to Glenn Maxwell 1 Score: 142/2
-13.5 Chris Jordan to Devdutt Padikkal 6 Score: 148/2
-13.6 Chris Jordan to Devdutt Padikkal W Score: 148/3 Caught by Mohammed Shami
-14.1 Ravi Bishnoi to Glenn Maxwell 0 Score: 148/3
-14.2 Ravi Bishnoi to Glenn Maxwell 4 Score: 152/3
-14.3 Ravi Bishnoi to Glenn Maxwell 6 Score: 158/3
-14.4 Ravi Bishnoi to Glenn Maxwell 0 Score: 158/3
-14.5 Ravi Bishnoi to Glenn Maxwell 0 Score: 158/3
-14.6 Ravi Bishnoi to Glenn Maxwell 0 Score: 158/3
-15.1 Deepak Hooda to Harshal Patel 6 Score: 164/3
-15.2 Deepak Hooda to Harshal Patel 1 Score: 165/3
-15.3 Deepak Hooda to Glenn Maxwell 0 Score: 165/3
-15.4 Deepak Hooda to Glenn Maxwell 1 Score: 166/3
-15.5 Deepak Hooda to Harshal Patel 1 Score: 167/3
-15.6 Deepak Hooda to Glenn Maxwell 1 Score: 168/3
-16.1 Mohammed Shami to Glenn Maxwell 5 Score: 173/3
-16.2 Mohammed Shami to Harshal Patel 0 Score: 173/3
-16.3 Mohammed Shami to Harshal Patel 4 Score: 177/3
-16.4 Mohammed Shami to Harshal Patel 0 Score: 177/3
-16.5 Mohammed Shami to Harshal Patel 0 Score: 177/3
-16.6 Mohammed Shami to Harshal Patel 4 Score: 181/3
-17.1 Riley Meredith to Glenn Maxwell 1 Score: 182/3
-17.2 Riley Meredith to Harshal Patel 4 Score: 186/3
-17.3 Riley Meredith to Harshal Patel W Score: 186/4 Caught by Chris Jordan
-17.4 Riley Meredith to Washington Sundar 0 Score: 186/4
-17.5 Riley Meredith to Washington Sundar 4 Score: 190/4
-17.6 Riley Meredith to Washington Sundar 4 Score: 194/4
-18.1 Chris Jordan to Glenn Maxwell 6 Score: 200/4
-18.2 Chris Jordan to Glenn Maxwell 0 Score: 200/4
-18.3 Chris Jordan to Glenn Maxwell 1 Score: 201/4
-18.4 Chris Jordan to Washington Sundar Wide Score: 202/4
-18.5 Chris Jordan to Washington Sundar 2 Score: 204/4
-18.6 Chris Jordan to Washington Sundar 0 Score: 204/4
-18.7 Chris Jordan to Washington Sundar Wide Score: 205/4
-18.8 Chris Jordan to Washington Sundar 0 Score: 205/4
-19.1 Chris Gayle to Glenn Maxwell W Score: 205/5 Caught by KL Rahul
-19.2 Chris Gayle to Daniel Sams 6 Score: 211/5
-19.3 Chris Gayle to Daniel Sams W Score: 211/6 Caught by Shahrukh Khan
-19.4 Chris Gayle to Navdeep Saini 1 Score: 212/6
-19.5 Chris Gayle to Washington Sundar 1 Score: 213/6
-19.6 Chris Gayle to Navdeep Saini 4 Score: 217/6
-+-------------------+--------+---------+--------+------------------------------+
-| Player            |   Runs |   Balls | SR     | Out                          |
-+===================+========+=========+========+==============================+
-| D Padikkal        |     67 |      43 | 155.81 | c Mohammed Shami b CJ Jordan |
-+-------------------+--------+---------+--------+------------------------------+
-| V Kohli           |     39 |      24 | 162.5  | c CJ Jordan b Ravi Bishnoi   |
-+-------------------+--------+---------+--------+------------------------------+
-| GJ Maxwell        |     28 |      19 | 147.37 | c KL Rahul b CH Gayle        |
-+-------------------+--------+---------+--------+------------------------------+
-| AB de Villiers    |     32 |      13 | 246.15 | lbw b Ravi Bishnoi           |
-+-------------------+--------+---------+--------+------------------------------+
-| Shahbaz Ahmed     |      0 |       0 | DNB    |                              |
-+-------------------+--------+---------+--------+------------------------------+
-| Washington Sundar |     11 |       7 | 157.14 | Not out                      |
-+-------------------+--------+---------+--------+------------------------------+
-| DR Sams           |      6 |       2 | 300.0  | c M Shahrukh Khan b CH Gayle |
-+-------------------+--------+---------+--------+------------------------------+
-| Mohammed Siraj    |      0 |       0 | DNB    |                              |
-+-------------------+--------+---------+--------+------------------------------+
-| HV Patel          |     20 |      10 | 200.0  | c CJ Jordan b RP Meredith    |
-+-------------------+--------+---------+--------+------------------------------+
-| NA Saini          |      5 |       2 | 250.0  | Not out                      |
-+-------------------+--------+---------+--------+------------------------------+
-| YS Chahal         |      0 |       0 | DNB    |                              |
-+-------------------+--------+---------+--------+------------------------------+
+pbks won the toss and chose to bat
+0.1 Daniel Sams to KL Rahul 1 Score: 1/0
+0.2 Daniel Sams to Chris Gayle 4 Score: 5/0
+0.3 Daniel Sams to Chris Gayle 1 Score: 6/0
+0.4 Daniel Sams to KL Rahul 1 Score: 7/0
+0.5 Daniel Sams to Chris Gayle 1 Score: 8/0
+0.6 Daniel Sams to KL Rahul 2 Score: 10/0
+1.1 Mohammed Siraj to Chris Gayle 6 Score: 16/0
+1.2 Mohammed Siraj to Chris Gayle 6 Score: 22/0
+1.3 Mohammed Siraj to Chris Gayle 0 Score: 22/0
+1.4 Mohammed Siraj to Chris Gayle 1 Score: 23/0
+1.5 Mohammed Siraj to KL Rahul 4 Score: 27/0
+1.6 Mohammed Siraj to KL Rahul 0 Score: 27/0
+2.1 Daniel Sams to Chris Gayle 2 Score: 29/0
+2.2 Daniel Sams to Chris Gayle 0 Score: 29/0
+2.3 Daniel Sams to Chris Gayle 0 Score: 29/0
+2.4 Daniel Sams to Chris Gayle 6 Score: 35/0
+2.5 Daniel Sams to Chris Gayle 1 Score: 36/0
+2.6 Daniel Sams to KL Rahul 6 Score: 42/0
+3.1 Mohammed Siraj to Chris Gayle 1 Score: 43/0
+3.2 Mohammed Siraj to KL Rahul 0 Score: 43/0
+3.3 Mohammed Siraj to KL Rahul Wide Score: 44/0
+3.4 Mohammed Siraj to KL Rahul 0 Score: 44/0
+3.5 Mohammed Siraj to KL Rahul 1 Score: 45/0
+3.6 Mohammed Siraj to Chris Gayle 1 Score: 46/0
+3.7 Mohammed Siraj to KL Rahul 4 Score: 50/0
+4.1 Washington Sundar to Chris Gayle 1 Score: 51/0
+4.2 Washington Sundar to KL Rahul 4 Score: 55/0
+4.3 Washington Sundar to KL Rahul 1 Score: 56/0
+4.4 Washington Sundar to Chris Gayle Wide Score: 57/0
+4.5 Washington Sundar to Chris Gayle 0 Score: 57/0
+4.6 Washington Sundar to Chris Gayle 0 Score: 57/0
+4.7 Washington Sundar to Chris Gayle 4 Score: 61/0
+5.1 Harshal Patel to KL Rahul 0 Score: 61/0
+5.2 Harshal Patel to KL Rahul 1 Score: 62/0
+5.3 Harshal Patel to Chris Gayle 0 Score: 62/0
+5.4 Harshal Patel to Chris Gayle 1 Score: 63/0
+5.5 Harshal Patel to KL Rahul 6 Score: 69/0
+5.6 Harshal Patel to KL Rahul 1 Score: 70/0
+6.1 Washington Sundar to KL Rahul 0 Score: 70/0
+6.2 Washington Sundar to KL Rahul 0 Score: 70/0
+6.3 Washington Sundar to KL Rahul 1 Score: 71/0
+6.4 Washington Sundar to Chris Gayle 1 Score: 72/0
+6.5 Washington Sundar to KL Rahul 4 Score: 76/0
+6.6 Washington Sundar to KL Rahul 1 Score: 77/0
+7.1 Harshal Patel to KL Rahul 2 Score: 79/0
+7.2 Harshal Patel to KL Rahul 1 Score: 80/0
+7.3 Harshal Patel to Chris Gayle 6 Score: 86/0
+7.4 Harshal Patel to Chris Gayle 4 Score: 90/0
+7.5 Harshal Patel to Chris Gayle W Score: 90/1 Lbw
+7.6 Harshal Patel to Mayank Agarwal 0 Score: 90/1
+8.1 Washington Sundar to KL Rahul W Score: 90/2 Caught by Shahbaz Ahmed
+8.2 Washington Sundar to Nicholas Pooran 4 Score: 94/2
+8.3 Washington Sundar to Nicholas Pooran 1 Score: 95/2
+8.4 Washington Sundar to Mayank Agarwal 0 Score: 95/2
+8.5 Washington Sundar to Mayank Agarwal 0 Score: 95/2
+8.6 Washington Sundar to Mayank Agarwal 0 Score: 95/2
+9.1 Harshal Patel to Nicholas Pooran 1 Score: 96/2
+9.2 Harshal Patel to Mayank Agarwal Wide Score: 97/2
+9.3 Harshal Patel to Mayank Agarwal 1 Score: 98/2
+9.4 Harshal Patel to Nicholas Pooran 1 Score: 99/2
+9.5 Harshal Patel to Mayank Agarwal W Score: 99/3 Caught by Navdeep Saini
+9.6 Harshal Patel to Deepak Hooda 0 Score: 99/3
+9.7 Harshal Patel to Deepak Hooda 1 Score: 100/3
+10.1 Washington Sundar to Deepak Hooda 0 Score: 100/3
+10.2 Washington Sundar to Deepak Hooda 1 Score: 101/3
+10.3 Washington Sundar to Nicholas Pooran 6 Score: 107/3
+10.4 Washington Sundar to Nicholas Pooran 1 Score: 108/3
+10.5 Washington Sundar to Deepak Hooda 1 Score: 109/3
+10.6 Washington Sundar to Nicholas Pooran 1 Score: 110/3
+11.1 Harshal Patel to Nicholas Pooran 6 Score: 116/3
+11.2 Harshal Patel to Nicholas Pooran 6 Score: 122/3
+11.3 Harshal Patel to Nicholas Pooran 1 Score: 123/3
+11.4 Harshal Patel to Deepak Hooda 0 Score: 123/3
+11.5 Harshal Patel to Deepak Hooda 4 Score: 127/3
+11.6 Harshal Patel to Deepak Hooda 1 Score: 128/3
+12.1 Yuzvendra Chahal to Deepak Hooda 1 Score: 129/3
+12.2 Yuzvendra Chahal to Nicholas Pooran 6 Score: 135/3
+12.3 Yuzvendra Chahal to Nicholas Pooran 4 Score: 139/3
+12.4 Yuzvendra Chahal to Nicholas Pooran 0 Score: 139/3
+12.5 Yuzvendra Chahal to Nicholas Pooran 0 Score: 139/3
+12.6 Yuzvendra Chahal to Nicholas Pooran 0 Score: 139/3
+13.1 Yuzvendra Chahal to Deepak Hooda 4 Score: 143/3
+13.2 Yuzvendra Chahal to Deepak Hooda 0 Score: 143/3
+13.3 Yuzvendra Chahal to Deepak Hooda 0 Score: 143/3
+13.4 Yuzvendra Chahal to Deepak Hooda 1 Score: 144/3
+13.5 Yuzvendra Chahal to Nicholas Pooran 1 Score: 145/3
+13.6 Yuzvendra Chahal to Deepak Hooda 0 Score: 145/3
+14.1 Yuzvendra Chahal to Nicholas Pooran 0 Score: 145/3
+14.2 Yuzvendra Chahal to Nicholas Pooran 2 Score: 147/3
+14.3 Yuzvendra Chahal to Nicholas Pooran 0 Score: 147/3
+14.4 Yuzvendra Chahal to Nicholas Pooran 0 Score: 147/3
+14.5 Yuzvendra Chahal to Nicholas Pooran 0 Score: 147/3
+14.6 Yuzvendra Chahal to Nicholas Pooran 0 Score: 147/3
+15.1 Yuzvendra Chahal to Deepak Hooda 0 Score: 147/3
+15.2 Yuzvendra Chahal to Deepak Hooda 2 Score: 149/3
+15.3 Yuzvendra Chahal to Deepak Hooda 1 Score: 150/3
+15.4 Yuzvendra Chahal to Nicholas Pooran 0 Score: 150/3
+15.5 Yuzvendra Chahal to Nicholas Pooran 0 Score: 150/3
+15.6 Yuzvendra Chahal to Nicholas Pooran 2 Score: 152/3
+16.1 Glenn Maxwell to Deepak Hooda 1 Score: 153/3
+16.2 Glenn Maxwell to Nicholas Pooran 1 Score: 154/3
+16.3 Glenn Maxwell to Deepak Hooda 1 Score: 155/3
+16.4 Glenn Maxwell to Nicholas Pooran 1 Score: 156/3
+16.5 Glenn Maxwell to Deepak Hooda 2 Score: 158/3
+16.6 Glenn Maxwell to Deepak Hooda 6 Score: 164/3
+17.1 Mohammed Siraj to Nicholas Pooran 6 Score: 170/3
+17.2 Mohammed Siraj to Nicholas Pooran 4 Score: 174/3
+17.3 Mohammed Siraj to Nicholas Pooran 6 Score: 180/3
+17.4 Mohammed Siraj to Nicholas Pooran 1 Score: 181/3
+17.5 Mohammed Siraj to Deepak Hooda 0 Score: 181/3
+17.6 Mohammed Siraj to Deepak Hooda 2 Score: 183/3
+18.1 Daniel Sams to Nicholas Pooran 0 Score: 183/3
+18.2 Daniel Sams to Nicholas Pooran 4 Score: 187/3
+18.3 Daniel Sams to Nicholas Pooran 0 Score: 187/3
+18.4 Daniel Sams to Nicholas Pooran 1 Score: 188/3
+18.5 Daniel Sams to Deepak Hooda 1 Score: 189/3
+18.6 Daniel Sams to Nicholas Pooran 1 Score: 190/3
+19.1 Mohammed Siraj to Nicholas Pooran W Score: 190/4 Caught by Shahbaz Ahmed
+19.2 Mohammed Siraj to Shahrukh Khan 4 Score: 194/4
+19.3 Mohammed Siraj to Shahrukh Khan 4 Score: 198/4
+19.4 Mohammed Siraj to Shahrukh Khan W Score: 198/5 Bowled
+19.5 Mohammed Siraj to Harpreet Brar 0 Score: 198/5
+19.6 Mohammed Siraj to Harpreet Brar 1 Score: 199/5
++-----------------+--------+---------+--------+-------------------------------------+
+| Player          |   Runs |   Balls | SR     | Out                                 |
++=================+========+=========+========+=====================================+
+| KL Rahul        |     41 |      24 | 170.83 | c Shahbaz Ahmed b Washington Sundar |
++-----------------+--------+---------+--------+-------------------------------------+
+| MA Agarwal      |      1 |       6 | 16.67  | c NA Saini b HV Patel               |
++-----------------+--------+---------+--------+-------------------------------------+
+| CH Gayle        |     47 |      24 | 195.83 | lbw b HV Patel                      |
++-----------------+--------+---------+--------+-------------------------------------+
+| DJ Hooda        |     30 |      24 | 125.0  | Not out                             |
++-----------------+--------+---------+--------+-------------------------------------+
+| N Pooran        |     68 |      37 | 183.78 | c Shahbaz Ahmed b Mohammed Siraj    |
++-----------------+--------+---------+--------+-------------------------------------+
+| M Shahrukh Khan |      8 |       3 | 266.67 | bowled b Mohammed Siraj             |
++-----------------+--------+---------+--------+-------------------------------------+
+| Harpreet Brar   |      1 |       2 | 50.0   | Not out                             |
++-----------------+--------+---------+--------+-------------------------------------+
+| RP Meredith     |      0 |       0 | DNB    |                                     |
++-----------------+--------+---------+--------+-------------------------------------+
+| Ravi Bishnoi    |      0 |       0 | DNB    |                                     |
++-----------------+--------+---------+--------+-------------------------------------+
+| Mohammed Shami  |      0 |       0 | DNB    |                                     |
++-----------------+--------+---------+--------+-------------------------------------+
+| CJ Jordan       |      0 |       0 | DNB    |                                     |
++-----------------+--------+---------+--------+-------------------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| D Padikkal        |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| V Kohli           |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| GJ Maxwell        |     12 |       1 |         0 | 12.0  |
++-------------------+--------+---------+-----------+-------+
+| AB de Villiers    |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Shahbaz Ahmed     |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Washington Sundar |     33 |       4 |         1 | 8.25  |
++-------------------+--------+---------+-----------+-------+
+| DR Sams           |     32 |       3 |         0 | 10.67 |
++-------------------+--------+---------+-----------+-------+
+| Mohammed Siraj    |     53 |       4 |         2 | 13.25 |
++-------------------+--------+---------+-----------+-------+
+| HV Patel          |     45 |       4 |         2 | 11.25 |
++-------------------+--------+---------+-----------+-------+
+| NA Saini          |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| YS Chahal         |     24 |       4 |         0 | 6.0   |
++-------------------+--------+---------+-----------+-------+
+0.1 Riley Meredith to Devdutt Padikkal 2 Score: 2/0
+0.2 Riley Meredith to Devdutt Padikkal 0 Score: 2/0
+0.3 Riley Meredith to Devdutt Padikkal 4 Score: 6/0
+0.4 Riley Meredith to Devdutt Padikkal 0 Score: 6/0
+0.5 Riley Meredith to Devdutt Padikkal 1 Score: 7/0
+0.6 Riley Meredith to Virat Kohli 0 Score: 7/0
+1.1 Harpreet Brar to Devdutt Padikkal 0 Score: 7/0
+1.2 Harpreet Brar to Devdutt Padikkal 1 Score: 8/0
+1.3 Harpreet Brar to Virat Kohli 2 Score: 10/0
+1.4 Harpreet Brar to Virat Kohli 1 Score: 11/0
+1.5 Harpreet Brar to Devdutt Padikkal 1 Score: 12/0
+1.6 Harpreet Brar to Virat Kohli 0 Score: 12/0
+2.1 Riley Meredith to Devdutt Padikkal 1 Score: 13/0
+2.2 Riley Meredith to Virat Kohli 4 Score: 17/0
+2.3 Riley Meredith to Virat Kohli 0 Score: 17/0
+2.4 Riley Meredith to Virat Kohli 0 Score: 17/0
+2.5 Riley Meredith to Virat Kohli 1 Score: 18/0
+2.6 Riley Meredith to Devdutt Padikkal 6 Score: 24/0
+3.1 Harpreet Brar to Virat Kohli 0 Score: 24/0
+3.2 Harpreet Brar to Virat Kohli 1 Score: 25/0
+3.3 Harpreet Brar to Devdutt Padikkal 2 Score: 27/0
+3.4 Harpreet Brar to Devdutt Padikkal 1 Score: 28/0
+3.5 Harpreet Brar to Virat Kohli 4 Score: 32/0
+3.6 Harpreet Brar to Virat Kohli 1 Score: 33/0
+4.1 Ravi Bishnoi to Virat Kohli 6 Score: 39/0
+4.2 Ravi Bishnoi to Virat Kohli 2 Score: 41/0
+4.3 Ravi Bishnoi to Virat Kohli 1 Score: 42/0
+4.4 Ravi Bishnoi to Devdutt Padikkal 0 Score: 42/0
+4.5 Ravi Bishnoi to Devdutt Padikkal 1 Score: 43/0
+4.6 Ravi Bishnoi to Virat Kohli 1 Score: 44/0
+5.1 Mohammed Shami to Virat Kohli 4 Score: 48/0
+5.2 Mohammed Shami to Virat Kohli 2 Score: 50/0
+5.3 Mohammed Shami to Virat Kohli 1 Score: 51/0
+5.4 Mohammed Shami to Devdutt Padikkal 1 Score: 52/0
+5.5 Mohammed Shami to Virat Kohli 0 Score: 52/0
+5.6 Mohammed Shami to Virat Kohli 0 Score: 52/0
+6.1 Ravi Bishnoi to Devdutt Padikkal 0 Score: 52/0
+6.2 Ravi Bishnoi to Devdutt Padikkal 1 Score: 53/0
+6.3 Ravi Bishnoi to Virat Kohli 2 Score: 55/0
+6.4 Ravi Bishnoi to Virat Kohli Wide Score: 56/0
+6.5 Ravi Bishnoi to Virat Kohli 1 Score: 57/0
+6.6 Ravi Bishnoi to Devdutt Padikkal Wide Score: 58/0
+6.7 Ravi Bishnoi to Devdutt Padikkal 0 Score: 58/0
+6.8 Ravi Bishnoi to Devdutt Padikkal 1 Score: 59/0
+7.1 Mohammed Shami to Devdutt Padikkal 1 Score: 60/0
+7.2 Mohammed Shami to Virat Kohli W Score: 60/1 Caught by Deepak Hooda
+7.3 Mohammed Shami to AB de Villiers 0 Score: 60/1
+7.4 Mohammed Shami to AB de Villiers 1 Score: 61/1
+7.5 Mohammed Shami to Devdutt Padikkal 4 Score: 65/1
+7.6 Mohammed Shami to Devdutt Padikkal 0 Score: 65/1
+8.1 Ravi Bishnoi to AB de Villiers 6 Score: 71/1
+8.2 Ravi Bishnoi to AB de Villiers 1 Score: 72/1
+8.3 Ravi Bishnoi to Devdutt Padikkal 6 Score: 78/1
+8.4 Ravi Bishnoi to Devdutt Padikkal 0 Score: 78/1
+8.5 Ravi Bishnoi to Devdutt Padikkal 0 Score: 78/1
+8.6 Ravi Bishnoi to Devdutt Padikkal Wide Score: 79/1
+8.7 Ravi Bishnoi to Devdutt Padikkal 1 Score: 80/1
+9.1 Mohammed Shami to Devdutt Padikkal 1 Score: 81/1
+9.2 Mohammed Shami to AB de Villiers 6 Score: 87/1
+9.3 Mohammed Shami to AB de Villiers 1 Score: 88/1
+9.4 Mohammed Shami to Devdutt Padikkal W Score: 88/2 Caught by Harpreet Brar
+9.5 Mohammed Shami to Glenn Maxwell 1 Score: 89/2
+9.6 Mohammed Shami to AB de Villiers 4 Score: 93/2
+10.1 Ravi Bishnoi to Glenn Maxwell 4 Score: 97/2
+10.2 Ravi Bishnoi to Glenn Maxwell 4 Score: 101/2
+10.3 Ravi Bishnoi to Glenn Maxwell 0 Score: 101/2
+10.4 Ravi Bishnoi to Glenn Maxwell 4 Score: 105/2
+10.5 Ravi Bishnoi to Glenn Maxwell 0 Score: 105/2
+10.6 Ravi Bishnoi to Glenn Maxwell 4 Score: 109/2
+11.1 Chris Gayle to AB de Villiers 0 Score: 109/2
+11.2 Chris Gayle to AB de Villiers 6 Score: 115/2
+11.3 Chris Gayle to AB de Villiers 0 Score: 115/2
+11.4 Chris Gayle to AB de Villiers 6 Score: 121/2
+11.5 Chris Gayle to AB de Villiers 0 Score: 121/2
+11.6 Chris Gayle to AB de Villiers Wide Score: 122/2
+11.7 Chris Gayle to AB de Villiers 6 Score: 128/2
+12.1 Deepak Hooda to Glenn Maxwell 4 Score: 132/2
+12.2 Deepak Hooda to Glenn Maxwell 0 Score: 132/2
+12.3 Deepak Hooda to Glenn Maxwell 1 Score: 133/2
+12.4 Deepak Hooda to AB de Villiers 0 Score: 133/2
+12.5 Deepak Hooda to AB de Villiers 4 Score: 137/2
+12.6 Deepak Hooda to AB de Villiers 1 Score: 138/2
+13.1 Chris Gayle to AB de Villiers Wide Score: 139/2
+13.2 Chris Gayle to AB de Villiers Wide Score: 140/2
+13.3 Chris Gayle to AB de Villiers 4 Score: 144/2
+13.4 Chris Gayle to AB de Villiers 4 Score: 148/2
+13.5 Chris Gayle to AB de Villiers 1 Score: 149/2
+13.6 Chris Gayle to Glenn Maxwell 0 Score: 149/2
+13.7 Chris Gayle to Glenn Maxwell 0 Score: 149/2
+13.8 Chris Gayle to Glenn Maxwell 0 Score: 149/2
+14.1 Deepak Hooda to AB de Villiers 0 Score: 149/2
+14.2 Deepak Hooda to AB de Villiers 0 Score: 149/2
+14.3 Deepak Hooda to AB de Villiers W Score: 149/3 Stumped
+14.4 Deepak Hooda to Harshal Patel 1 Score: 150/3
+14.5 Deepak Hooda to Glenn Maxwell 4 Score: 154/3
+14.6 Deepak Hooda to Glenn Maxwell 4 Score: 158/3
+15.1 Chris Gayle to Harshal Patel 1 Score: 159/3
+15.2 Chris Gayle to Glenn Maxwell 1 Score: 160/3
+15.3 Chris Gayle to Harshal Patel 1 Score: 161/3
+15.4 Chris Gayle to Glenn Maxwell 0 Score: 161/3
+15.5 Chris Gayle to Glenn Maxwell 1 Score: 162/3
+15.6 Chris Gayle to Harshal Patel 0 Score: 162/3
+16.1 Deepak Hooda to Glenn Maxwell W Score: 162/4 Bowled
+16.2 Deepak Hooda to Washington Sundar 1 Score: 163/4
+16.3 Deepak Hooda to Harshal Patel W Score: 163/5 Run Out!
+16.4 Deepak Hooda to Daniel Sams 1 Score: 164/5
+16.5 Deepak Hooda to Washington Sundar 0 Score: 164/5
+16.6 Deepak Hooda to Washington Sundar 1 Score: 165/5
+17.1 Riley Meredith to Washington Sundar 1 Score: 166/5
+17.2 Riley Meredith to Daniel Sams Wide Score: 167/5
+17.3 Riley Meredith to Daniel Sams 6 Score: 173/5
+17.4 Riley Meredith to Daniel Sams 1 Score: 174/5
+17.5 Riley Meredith to Washington Sundar 0 Score: 174/5
+17.6 Riley Meredith to Washington Sundar 2 Score: 176/5
+17.7 Riley Meredith to Washington Sundar 1 Score: 177/5
+18.1 Mohammed Shami to Washington Sundar 1 Score: 178/5
+18.2 Mohammed Shami to Daniel Sams W Score: 178/6 Caught by Mohammed Shami
+18.3 Mohammed Shami to Navdeep Saini 1 Score: 179/6
+18.4 Mohammed Shami to Washington Sundar 0 Score: 179/6
+18.5 Mohammed Shami to Washington Sundar W Score: 179/7 Caught by Mohammed Shami
+18.6 Mohammed Shami to Shahbaz Ahmed W Score: 179/8 Bowled
+19.1 Riley Meredith to Navdeep Saini 4 Score: 183/8
+19.2 Riley Meredith to Navdeep Saini 4 Score: 187/8
+19.3 Riley Meredith to Navdeep Saini W Score: 187/9 Caught by Chris Gayle
+19.4 Riley Meredith to Mohammed Siraj 1 Score: 188/9
+19.5 Riley Meredith to Mohammed Siraj 0 Score: 188/9
+19.6 Riley Meredith to Mohammed Siraj 0 Score: 188/9
+pbks won by 11 runs
++-------------------+--------+---------+--------+-----------------------------------+
+| Player            |   Runs |   Balls | SR     | Out                               |
++===================+========+=========+========+===================================+
+| D Padikkal        |     36 |      28 | 128.57 | c Harpreet Brar b Mohammed Shami  |
++-------------------+--------+---------+--------+-----------------------------------+
+| V Kohli           |     34 |      24 | 141.67 | c DJ Hooda b Mohammed Shami       |
++-------------------+--------+---------+--------+-----------------------------------+
+| GJ Maxwell        |     32 |      19 | 168.42 | bowled b DJ Hooda                 |
++-------------------+--------+---------+--------+-----------------------------------+
+| AB de Villiers    |     51 |      22 | 231.82 | stumped b DJ Hooda                |
++-------------------+--------+---------+--------+-----------------------------------+
+| Shahbaz Ahmed     |      0 |       1 | 0.0    | bowled b Mohammed Shami           |
++-------------------+--------+---------+--------+-----------------------------------+
+| Washington Sundar |      7 |      10 | 70.0   | c Mohammed Shami b Mohammed Shami |
++-------------------+--------+---------+--------+-----------------------------------+
+| DR Sams           |      8 |       4 | 200.0  | c Mohammed Shami b Mohammed Shami |
++-------------------+--------+---------+--------+-----------------------------------+
+| Mohammed Siraj    |      1 |       3 | 33.33  | Not out                           |
++-------------------+--------+---------+--------+-----------------------------------+
+| HV Patel          |      3 |       5 | 60.0   | Not out                           |
++-------------------+--------+---------+--------+-----------------------------------+
+| NA Saini          |      9 |       4 | 225.0  | c CH Gayle b RP Meredith          |
++-------------------+--------+---------+--------+-----------------------------------+
+| YS Chahal         |      0 |       0 | DNB    |                                   |
++-------------------+--------+---------+--------+-----------------------------------+
 +-----------------+--------+---------+-----------+-------+
 | Player          |   Runs |   Overs |   Wickets | Eco   |
 +=================+========+=========+===========+=======+
@@ -160,201 +332,21 @@ pbks won the toss and chose to field
 +-----------------+--------+---------+-----------+-------+
 | MA Agarwal      |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| CH Gayle        |     12 |       1 |         2 | 12.0  |
+| CH Gayle        |     34 |       3 |         0 | 11.33 |
 +-----------------+--------+---------+-----------+-------+
-| DJ Hooda        |     10 |       1 |         0 | 10.0  |
+| DJ Hooda        |     22 |       3 |         2 | 7.33  |
 +-----------------+--------+---------+-----------+-------+
 | N Pooran        |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
 | M Shahrukh Khan |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| Harpreet Brar   |     24 |       2 |         0 | 12.0  |
+| Harpreet Brar   |     14 |       2 |         0 | 7.0   |
 +-----------------+--------+---------+-----------+-------+
-| RP Meredith     |     44 |       4 |         1 | 11.0  |
+| RP Meredith     |     40 |       4 |         1 | 10.0  |
 +-----------------+--------+---------+-----------+-------+
-| Ravi Bishnoi    |     35 |       4 |         2 | 8.75  |
+| Ravi Bishnoi    |     49 |       4 |         0 | 12.25 |
 +-----------------+--------+---------+-----------+-------+
-| Mohammed Shami  |     52 |       4 |         0 | 13.0  |
+| Mohammed Shami  |     29 |       4 |         5 | 7.25  |
 +-----------------+--------+---------+-----------+-------+
-| CJ Jordan       |     40 |       4 |         1 | 10.0  |
+| CJ Jordan       |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-0.1 Daniel Sams to KL Rahul 1 Score: 1/0
-0.2 Daniel Sams to Chris Gayle 1 Score: 2/0
-0.3 Daniel Sams to KL Rahul 1 Score: 3/0
-0.4 Daniel Sams to Chris Gayle 2 Score: 5/0
-0.5 Daniel Sams to Chris Gayle 6 Score: 11/0
-0.6 Daniel Sams to Chris Gayle 0 Score: 11/0
-1.1 Mohammed Siraj to KL Rahul 4 Score: 15/0
-1.2 Mohammed Siraj to KL Rahul Wide Score: 16/0
-1.3 Mohammed Siraj to KL Rahul 1 Score: 17/0
-1.4 Mohammed Siraj to Chris Gayle 4 Score: 21/0
-1.5 Mohammed Siraj to Chris Gayle 4 Score: 25/0
-1.6 Mohammed Siraj to Chris Gayle 0 Score: 25/0
-1.7 Mohammed Siraj to Chris Gayle 1 Score: 26/0
-2.1 Yuzvendra Chahal to Chris Gayle 1 Score: 27/0
-2.2 Yuzvendra Chahal to KL Rahul 6 Score: 33/0
-2.3 Yuzvendra Chahal to KL Rahul 1 Score: 34/0
-2.4 Yuzvendra Chahal to Chris Gayle Wide Score: 35/0
-2.5 Yuzvendra Chahal to Chris Gayle 1 Score: 36/0
-2.6 Yuzvendra Chahal to KL Rahul 0 Score: 36/0
-2.7 Yuzvendra Chahal to KL Rahul 6 Score: 42/0
-3.1 Navdeep Saini to Chris Gayle 0 Score: 42/0
-3.2 Navdeep Saini to Chris Gayle 4 Score: 46/0
-3.3 Navdeep Saini to Chris Gayle 0 Score: 46/0
-3.4 Navdeep Saini to Chris Gayle 4 Score: 50/0
-3.5 Navdeep Saini to Chris Gayle 0 Score: 50/0
-3.6 Navdeep Saini to Chris Gayle 0 Score: 50/0
-4.1 Mohammed Siraj to KL Rahul 1 Score: 51/0
-4.2 Mohammed Siraj to Chris Gayle 6 Score: 57/0
-4.3 Mohammed Siraj to Chris Gayle 0 Score: 57/0
-4.4 Mohammed Siraj to Chris Gayle 0 Score: 57/0
-4.5 Mohammed Siraj to Chris Gayle 0 Score: 57/0
-4.6 Mohammed Siraj to Chris Gayle 1 Score: 58/0
-5.1 Navdeep Saini to Chris Gayle 0 Score: 58/0
-5.2 Navdeep Saini to Chris Gayle 0 Score: 58/0
-5.3 Navdeep Saini to Chris Gayle 6 Score: 64/0
-5.4 Navdeep Saini to Chris Gayle 0 Score: 64/0
-5.5 Navdeep Saini to Chris Gayle 4 Score: 68/0
-5.6 Navdeep Saini to Chris Gayle Wide Score: 69/0
-5.7 Navdeep Saini to Chris Gayle 0 Score: 69/0
-6.1 Mohammed Siraj to KL Rahul 4 Score: 73/0
-6.2 Mohammed Siraj to KL Rahul 0 Score: 73/0
-6.3 Mohammed Siraj to KL Rahul W Score: 73/1 Bowled
-6.4 Mohammed Siraj to Mayank Agarwal 0 Score: 73/1
-6.5 Mohammed Siraj to Mayank Agarwal 1 Score: 74/1
-6.6 Mohammed Siraj to Chris Gayle 0 Score: 74/1
-7.1 Navdeep Saini to Mayank Agarwal 0 Score: 74/1
-7.2 Navdeep Saini to Mayank Agarwal 1 Score: 75/1
-7.3 Navdeep Saini to Chris Gayle 4 Score: 79/1
-7.4 Navdeep Saini to Chris Gayle 0 Score: 79/1
-7.5 Navdeep Saini to Chris Gayle 1 Score: 80/1
-7.6 Navdeep Saini to Mayank Agarwal 0 Score: 80/1
-8.1 Harshal Patel to Chris Gayle 0 Score: 80/1
-8.2 Harshal Patel to Chris Gayle 1 Score: 81/1
-8.3 Harshal Patel to Mayank Agarwal 0 Score: 81/1
-8.4 Harshal Patel to Mayank Agarwal 0 Score: 81/1
-8.5 Harshal Patel to Mayank Agarwal 1 Score: 82/1
-8.6 Harshal Patel to Chris Gayle Wide Score: 83/1
-8.7 Harshal Patel to Chris Gayle 1 Score: 84/1
-9.1 Yuzvendra Chahal to Chris Gayle Wide Score: 85/1
-9.2 Yuzvendra Chahal to Chris Gayle 1 Score: 86/1
-9.3 Yuzvendra Chahal to Mayank Agarwal 1 Score: 87/1
-9.4 Yuzvendra Chahal to Chris Gayle 1 Score: 88/1
-9.5 Yuzvendra Chahal to Mayank Agarwal 0 Score: 88/1
-9.6 Yuzvendra Chahal to Mayank Agarwal 6 Score: 94/1
-9.7 Yuzvendra Chahal to Mayank Agarwal 1 Score: 95/1
-10.1 Harshal Patel to Mayank Agarwal 0 Score: 95/1
-10.2 Harshal Patel to Mayank Agarwal 0 Score: 95/1
-10.3 Harshal Patel to Mayank Agarwal 1 Score: 96/1
-10.4 Harshal Patel to Chris Gayle 0 Score: 96/1
-10.5 Harshal Patel to Chris Gayle 1 Score: 97/1
-10.5 Harshal Patel to Chris Gayle 4 Score: 101/1
-10.6 Harshal Patel to Mayank Agarwal 0 Score: 101/1
-11.1 Yuzvendra Chahal to Chris Gayle 0 Score: 101/1
-11.2 Yuzvendra Chahal to Chris Gayle 1 Score: 102/1
-11.3 Yuzvendra Chahal to Mayank Agarwal 2 Score: 104/1
-11.4 Yuzvendra Chahal to Mayank Agarwal 1 Score: 105/1
-11.5 Yuzvendra Chahal to Chris Gayle 1 Score: 106/1
-11.6 Yuzvendra Chahal to Mayank Agarwal 1 Score: 107/1
-12.1 Harshal Patel to Mayank Agarwal W Score: 107/2 Caught by Washington Sundar
-12.2 Harshal Patel to Nicholas Pooran 0 Score: 107/2
-12.3 Harshal Patel to Nicholas Pooran 1 Score: 108/2
-12.4 Harshal Patel to Chris Gayle 1 Score: 109/2
-12.5 Harshal Patel to Nicholas Pooran 1 Score: 110/2
-12.6 Harshal Patel to Chris Gayle 0 Score: 110/2
-13.1 Yuzvendra Chahal to Nicholas Pooran 0 Score: 110/2
-13.2 Yuzvendra Chahal to Nicholas Pooran 6 Score: 116/2
-13.3 Yuzvendra Chahal to Nicholas Pooran 0 Score: 116/2
-13.4 Yuzvendra Chahal to Nicholas Pooran 6 Score: 122/2
-13.5 Yuzvendra Chahal to Nicholas Pooran 1 Score: 123/2
-13.6 Yuzvendra Chahal to Chris Gayle 1 Score: 124/2
-14.1 Harshal Patel to Chris Gayle 0 Score: 124/2
-14.2 Harshal Patel to Chris Gayle W Score: 124/3 Caught by Daniel Sams
-14.3 Harshal Patel to Deepak Hooda 4 Score: 128/3
-14.4 Harshal Patel to Deepak Hooda 0 Score: 128/3
-14.5 Harshal Patel to Deepak Hooda 0 Score: 128/3
-14.6 Harshal Patel to Deepak Hooda 1 Score: 129/3
-15.1 Glenn Maxwell to Deepak Hooda 0 Score: 129/3
-15.2 Glenn Maxwell to Deepak Hooda 0 Score: 129/3
-15.3 Glenn Maxwell to Deepak Hooda 0 Score: 129/3
-15.4 Glenn Maxwell to Deepak Hooda 0 Score: 129/3
-15.5 Glenn Maxwell to Deepak Hooda 1 Score: 130/3
-15.6 Glenn Maxwell to Nicholas Pooran 1 Score: 131/3
-16.1 Navdeep Saini to Nicholas Pooran 1 Score: 132/3
-16.1 Navdeep Saini to Nicholas Pooran 4 Score: 136/3
-16.2 Navdeep Saini to Deepak Hooda 6 Score: 142/3
-16.3 Navdeep Saini to Deepak Hooda 4 Score: 146/3
-16.4 Navdeep Saini to Deepak Hooda 1 Score: 147/3
-16.5 Navdeep Saini to Nicholas Pooran 0 Score: 147/3
-16.6 Navdeep Saini to Nicholas Pooran W Score: 147/4 Caught by Shahbaz Ahmed
-17.1 Mohammed Siraj to Deepak Hooda 0 Score: 147/4
-17.2 Mohammed Siraj to Deepak Hooda 0 Score: 147/4
-17.3 Mohammed Siraj to Deepak Hooda 1 Score: 148/4
-17.4 Mohammed Siraj to Shahrukh Khan 1 Score: 149/4
-17.5 Mohammed Siraj to Deepak Hooda Wide Score: 150/4
-17.6 Mohammed Siraj to Deepak Hooda 0 Score: 150/4
-17.7 Mohammed Siraj to Deepak Hooda 0 Score: 150/4
-18.1 Daniel Sams to Shahrukh Khan 4 Score: 154/4
-18.2 Daniel Sams to Shahrukh Khan 0 Score: 154/4
-18.3 Daniel Sams to Shahrukh Khan Wide Score: 155/4
-18.4 Daniel Sams to Shahrukh Khan 0 Score: 155/4
-18.5 Daniel Sams to Shahrukh Khan 4 Score: 159/4
-18.6 Daniel Sams to Shahrukh Khan 1 Score: 160/4
-18.7 Daniel Sams to Deepak Hooda 1 Score: 161/4
-19.1 Glenn Maxwell to Deepak Hooda 1 Score: 162/4
-19.2 Glenn Maxwell to Shahrukh Khan 0 Score: 162/4
-19.3 Glenn Maxwell to Shahrukh Khan 6 Score: 168/4
-19.4 Glenn Maxwell to Shahrukh Khan 4 Score: 172/4
-19.5 Glenn Maxwell to Shahrukh Khan 2 Score: 174/4
-19.6 Glenn Maxwell to Shahrukh Khan 4 Score: 178/4
-rcb won by 39 runs
-+-----------------+--------+---------+--------+--------------------------------+
-| Player          |   Runs |   Balls | SR     | Out                            |
-+=================+========+=========+========+================================+
-| KL Rahul        |     25 |      12 | 208.33 | bowled b Mohammed Siraj        |
-+-----------------+--------+---------+--------+--------------------------------+
-| MA Agarwal      |     16 |      20 | 80.0   | c Washington Sundar b HV Patel |
-+-----------------+--------+---------+--------+--------------------------------+
-| CH Gayle        |     63 |      47 | 134.04 | c DR Sams b HV Patel           |
-+-----------------+--------+---------+--------+--------------------------------+
-| DJ Hooda        |     20 |      19 | 105.26 | Not out                        |
-+-----------------+--------+---------+--------+--------------------------------+
-| N Pooran        |     21 |      13 | 161.54 | c Shahbaz Ahmed b NA Saini     |
-+-----------------+--------+---------+--------+--------------------------------+
-| M Shahrukh Khan |     26 |      11 | 236.36 | Not out                        |
-+-----------------+--------+---------+--------+--------------------------------+
-| Harpreet Brar   |      0 |       0 | DNB    |                                |
-+-----------------+--------+---------+--------+--------------------------------+
-| RP Meredith     |      0 |       0 | DNB    |                                |
-+-----------------+--------+---------+--------+--------------------------------+
-| Ravi Bishnoi    |      0 |       0 | DNB    |                                |
-+-----------------+--------+---------+--------+--------------------------------+
-| Mohammed Shami  |      0 |       0 | DNB    |                                |
-+-----------------+--------+---------+--------+--------------------------------+
-| CJ Jordan       |      0 |       0 | DNB    |                                |
-+-----------------+--------+---------+--------+--------------------------------+
-+-------------------+--------+---------+-----------+-------+
-| Player            |   Runs |   Overs |   Wickets | Eco   |
-+===================+========+=========+===========+=======+
-| D Padikkal        |      0 |     0   |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| V Kohli           |      0 |     0   |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| GJ Maxwell        |     19 |     2   |         0 | 9.5   |
-+-------------------+--------+---------+-----------+-------+
-| AB de Villiers    |      0 |     0   |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| Shahbaz Ahmed     |      0 |     0   |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| Washington Sundar |      0 |     0   |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| DR Sams           |     22 |     2   |         0 | 11.0  |
-+-------------------+--------+---------+-----------+-------+
-| Mohammed Siraj    |     31 |     4   |         1 | 7.75  |
-+-------------------+--------+---------+-----------+-------+
-| HV Patel          |     18 |     4.1 |         2 | 4.32  |
-+-------------------+--------+---------+-----------+-------+
-| NA Saini          |     41 |     4.1 |         1 | 9.84  |
-+-------------------+--------+---------+-----------+-------+
-| YS Chahal         |     47 |     4   |         0 | 11.75 |
-+-------------------+--------+---------+-----------+-------+
