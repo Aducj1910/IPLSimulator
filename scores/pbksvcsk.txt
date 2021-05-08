@@ -1,157 +1,152 @@
 pbks won the toss and chose to bat
 0.1 Deepak Chahar to KL Rahul 0 Score: 0/0
-0.2 Deepak Chahar to KL Rahul 4 Score: 4/0
-0.3 Deepak Chahar to KL Rahul 0 Score: 4/0
-0.4 Deepak Chahar to KL Rahul 2 Score: 6/0
-0.5 Deepak Chahar to KL Rahul 4 Score: 10/0
-0.6 Deepak Chahar to KL Rahul 4 Score: 14/0
-1.1 Moeen Ali to Chris Gayle 1 Score: 15/0
-1.2 Moeen Ali to KL Rahul 4 Score: 19/0
-1.3 Moeen Ali to KL Rahul 4 Score: 23/0
-1.4 Moeen Ali to KL Rahul 0 Score: 23/0
-1.5 Moeen Ali to KL Rahul 0 Score: 23/0
-1.6 Moeen Ali to KL Rahul 4 Score: 27/0
-2.1 Shardul Thakur to Chris Gayle 1 Score: 28/0
-2.2 Shardul Thakur to KL Rahul 0 Score: 28/0
-2.3 Shardul Thakur to KL Rahul 1 Score: 29/0
-2.4 Shardul Thakur to Chris Gayle 4 Score: 33/0
-2.5 Shardul Thakur to Chris Gayle Wide Score: 34/0
-2.6 Shardul Thakur to Chris Gayle 1 Score: 35/0
-2.7 Shardul Thakur to KL Rahul 1 Score: 36/0
-3.1 Sam Curran to KL Rahul 0 Score: 36/0
-3.2 Sam Curran to KL Rahul Wide Score: 37/0
-3.3 Sam Curran to KL Rahul 0 Score: 37/0
-3.4 Sam Curran to KL Rahul 0 Score: 37/0
-3.5 Sam Curran to KL Rahul 1 Score: 38/0
-3.6 Sam Curran to Chris Gayle 6 Score: 44/0
-3.7 Sam Curran to Chris Gayle 4 Score: 48/0
-4.1 Shardul Thakur to KL Rahul 0 Score: 48/0
-4.2 Shardul Thakur to KL Rahul Wide Score: 49/0
-4.3 Shardul Thakur to KL Rahul 1 Score: 50/0
-4.4 Shardul Thakur to Chris Gayle 0 Score: 50/0
-4.5 Shardul Thakur to Chris Gayle 0 Score: 50/0
-4.6 Shardul Thakur to Chris Gayle 1 Score: 51/0
-4.7 Shardul Thakur to KL Rahul 1 Score: 52/0
-5.1 Deepak Chahar to KL Rahul 1 Score: 53/0
-5.2 Deepak Chahar to Chris Gayle 4 Score: 57/0
-5.3 Deepak Chahar to Chris Gayle 1 Score: 58/0
-5.4 Deepak Chahar to KL Rahul 0 Score: 58/0
-5.5 Deepak Chahar to KL Rahul 0 Score: 58/0
-5.6 Deepak Chahar to KL Rahul 0 Score: 58/0
-6.1 Shardul Thakur to Chris Gayle 0 Score: 58/0
-6.2 Shardul Thakur to Chris Gayle 0 Score: 58/0
-6.3 Shardul Thakur to Chris Gayle 1 Score: 59/0
-6.4 Shardul Thakur to KL Rahul 6 Score: 65/0
-6.5 Shardul Thakur to KL Rahul 6 Score: 71/0
-6.6 Shardul Thakur to KL Rahul 4 Score: 75/0
-7.1 Deepak Chahar to Chris Gayle 0 Score: 75/0
-7.2 Deepak Chahar to Chris Gayle 0 Score: 75/0
-7.3 Deepak Chahar to Chris Gayle 1 Score: 76/0
-7.4 Deepak Chahar to KL Rahul 1 Score: 77/0
-7.5 Deepak Chahar to Chris Gayle 4 Score: 81/0
-7.6 Deepak Chahar to Chris Gayle 4 Score: 85/0
-8.1 Dwayne Bravo to KL Rahul 1 Score: 86/0
-8.2 Dwayne Bravo to Chris Gayle 1 Score: 87/0
-8.3 Dwayne Bravo to KL Rahul 1 Score: 88/0
-8.4 Dwayne Bravo to Chris Gayle 0 Score: 88/0
-8.5 Dwayne Bravo to Chris Gayle 0 Score: 88/0
-8.6 Dwayne Bravo to Chris Gayle 1 Score: 89/0
-9.1 Deepak Chahar to Chris Gayle Wide Score: 90/0
-9.2 Deepak Chahar to Chris Gayle Wide Score: 91/0
-9.3 Deepak Chahar to Chris Gayle 0 Score: 91/0
-9.4 Deepak Chahar to Chris Gayle 1 Score: 92/0
-9.5 Deepak Chahar to KL Rahul 0 Score: 92/0
-9.6 Deepak Chahar to KL Rahul 4 Score: 96/0
-9.7 Deepak Chahar to KL Rahul 1 Score: 97/0
-9.8 Deepak Chahar to Chris Gayle 0 Score: 97/0
-10.1 Dwayne Bravo to KL Rahul 4 Score: 101/0
-10.2 Dwayne Bravo to KL Rahul 6 Score: 107/0
-10.3 Dwayne Bravo to KL Rahul 6 Score: 113/0
-10.4 Dwayne Bravo to KL Rahul 2 Score: 115/0
-10.5 Dwayne Bravo to KL Rahul 6 Score: 121/0
-10.6 Dwayne Bravo to KL Rahul 1 Score: 122/0
-11.1 Suresh Raina to KL Rahul 0 Score: 122/0
-11.2 Suresh Raina to KL Rahul W Score: 122/1 Caught by Ambati Rayudu
-11.3 Suresh Raina to Mayank Agarwal 1 Score: 123/1
-11.4 Suresh Raina to Chris Gayle 1 Score: 124/1
-11.5 Suresh Raina to Mayank Agarwal 1 Score: 125/1
-11.6 Suresh Raina to Chris Gayle W Score: 125/2 Bowled
-12.1 Dwayne Bravo to Mayank Agarwal 1 Score: 126/2
-12.2 Dwayne Bravo to Nicholas Pooran 0 Score: 126/2
-12.3 Dwayne Bravo to Nicholas Pooran 1 Score: 127/2
-12.4 Dwayne Bravo to Mayank Agarwal 2 Score: 129/2
-12.5 Dwayne Bravo to Mayank Agarwal 4 Score: 133/2
-12.6 Dwayne Bravo to Mayank Agarwal 1 Score: 134/2
-13.1 Suresh Raina to Mayank Agarwal 0 Score: 134/2
-13.2 Suresh Raina to Mayank Agarwal 1 Score: 135/2
-13.3 Suresh Raina to Nicholas Pooran 0 Score: 135/2
-13.4 Suresh Raina to Nicholas Pooran 0 Score: 135/2
-13.5 Suresh Raina to Nicholas Pooran 6 Score: 141/2
-13.6 Suresh Raina to Nicholas Pooran 0 Score: 141/2
-14.1 Sam Curran to Mayank Agarwal 1 Score: 142/2
-14.2 Sam Curran to Nicholas Pooran 1 Score: 143/2
-14.3 Sam Curran to Mayank Agarwal 4 Score: 147/2
-14.4 Sam Curran to Mayank Agarwal Wide Score: 148/2
-14.5 Sam Curran to Mayank Agarwal 1 Score: 149/2
-14.6 Sam Curran to Nicholas Pooran 0 Score: 149/2
-14.7 Sam Curran to Nicholas Pooran 1 Score: 150/2
-15.1 Suresh Raina to Nicholas Pooran 1 Score: 151/2
-15.2 Suresh Raina to Mayank Agarwal 6 Score: 157/2
-15.3 Suresh Raina to Mayank Agarwal 0 Score: 157/2
-15.4 Suresh Raina to Mayank Agarwal 1 Score: 158/2
-15.5 Suresh Raina to Nicholas Pooran 1 Score: 159/2
-15.6 Suresh Raina to Mayank Agarwal 1 Score: 160/2
-16.1 Sam Curran to Mayank Agarwal 0 Score: 160/2
-16.2 Sam Curran to Mayank Agarwal 1 Score: 161/2
-16.3 Sam Curran to Nicholas Pooran Wide Score: 162/2
-16.4 Sam Curran to Nicholas Pooran 2 Score: 164/2
-16.5 Sam Curran to Nicholas Pooran 2 Score: 166/2
-16.6 Sam Curran to Nicholas Pooran 0 Score: 166/2
-16.7 Sam Curran to Nicholas Pooran 2 Score: 168/2
-17.1 Shardul Thakur to Mayank Agarwal 6 Score: 174/2
-17.2 Shardul Thakur to Mayank Agarwal 4 Score: 178/2
-17.3 Shardul Thakur to Mayank Agarwal 0 Score: 178/2
-17.4 Shardul Thakur to Mayank Agarwal W Score: 178/3 Bowled
-17.5 Shardul Thakur to Deepak Hooda 0 Score: 178/3
-17.6 Shardul Thakur to Deepak Hooda W Score: 178/4 Stumped
-18.1 Sam Curran to Nicholas Pooran 4 Score: 182/4
-18.2 Sam Curran to Nicholas Pooran 1 Score: 183/4
-18.3 Sam Curran to Shahrukh Khan W Score: 183/5 Caught by Ravindra Jadeja
-18.4 Sam Curran to Harpreet Brar 0 Score: 183/5
-18.5 Sam Curran to Harpreet Brar 0 Score: 183/5
-18.6 Sam Curran to Harpreet Brar Wide Score: 184/5
-18.7 Sam Curran to Harpreet Brar 6 Score: 190/5
-19.1 Dwayne Bravo to Nicholas Pooran 0 Score: 190/5
-19.2 Dwayne Bravo to Nicholas Pooran 4 Score: 194/5
-19.3 Dwayne Bravo to Nicholas Pooran W Score: 194/6 Caught by MS Dhoni
-19.4 Dwayne Bravo to Chris Jordan W Score: 194/7 Bowled
-19.5 Dwayne Bravo to Mohammed Shami 4 Score: 198/7
-19.6 Dwayne Bravo to Mohammed Shami 1 Score: 199/7
-+-----------------+--------+---------+--------+-------------------------+
-| Player          |   Runs |   Balls | SR     | Out                     |
-+=================+========+=========+========+=========================+
-| KL Rahul        |     81 |      42 | 192.86 | c AT Rayudu b SK Raina  |
-+-----------------+--------+---------+--------+-------------------------+
-| MA Agarwal      |     36 |      21 | 171.43 | bowled b SN Thakur      |
-+-----------------+--------+---------+--------+-------------------------+
-| CH Gayle        |     37 |      28 | 132.14 | bowled b SK Raina       |
-+-----------------+--------+---------+--------+-------------------------+
-| DJ Hooda        |      0 |       2 | 0.0    | stumped b SN Thakur     |
-+-----------------+--------+---------+--------+-------------------------+
-| N Pooran        |     26 |      20 | 130.0  | c MS Dhoni b DJ Bravo   |
-+-----------------+--------+---------+--------+-------------------------+
-| M Shahrukh Khan |      0 |       1 | 0.0    | c RA Jadeja b SM Curran |
-+-----------------+--------+---------+--------+-------------------------+
-| Harpreet Brar   |      6 |       3 | 200.0  | Not out                 |
-+-----------------+--------+---------+--------+-------------------------+
-| RP Meredith     |      0 |       0 | DNB    |                         |
-+-----------------+--------+---------+--------+-------------------------+
-| Ravi Bishnoi    |      0 |       0 | DNB    |                         |
-+-----------------+--------+---------+--------+-------------------------+
-| Mohammed Shami  |      5 |       2 | 250.0  | Not out                 |
-+-----------------+--------+---------+--------+-------------------------+
-| CJ Jordan       |      0 |       1 | 0.0    | bowled b DJ Bravo       |
-+-----------------+--------+---------+--------+-------------------------+
+0.2 Deepak Chahar to KL Rahul 1 Score: 1/0
+0.3 Deepak Chahar to Chris Gayle 0 Score: 1/0
+0.4 Deepak Chahar to Chris Gayle 1 Score: 2/0
+0.5 Deepak Chahar to KL Rahul 1 Score: 3/0
+0.6 Deepak Chahar to Chris Gayle 0 Score: 3/0
+1.1 Moeen Ali to KL Rahul 2 Score: 5/0
+1.2 Moeen Ali to KL Rahul 2 Score: 7/0
+1.3 Moeen Ali to KL Rahul 4 Score: 11/0
+1.4 Moeen Ali to KL Rahul 0 Score: 11/0
+1.5 Moeen Ali to KL Rahul 4 Score: 15/0
+1.6 Moeen Ali to KL Rahul 0 Score: 15/0
+2.1 Deepak Chahar to Chris Gayle 1 Score: 16/0
+2.2 Deepak Chahar to KL Rahul 4 Score: 20/0
+2.3 Deepak Chahar to KL Rahul 2 Score: 22/0
+2.4 Deepak Chahar to KL Rahul Wide Score: 23/0
+2.5 Deepak Chahar to KL Rahul 4 Score: 27/0
+2.6 Deepak Chahar to KL Rahul 1 Score: 28/0
+2.7 Deepak Chahar to Chris Gayle 1 Score: 29/0
+3.1 Sam Curran to Chris Gayle 1 Score: 30/0
+3.2 Sam Curran to KL Rahul 0 Score: 30/0
+3.3 Sam Curran to KL Rahul 1 Score: 31/0
+3.4 Sam Curran to Chris Gayle 6 Score: 37/0
+3.5 Sam Curran to Chris Gayle 1 Score: 38/0
+3.6 Sam Curran to KL Rahul 6 Score: 44/0
+4.1 Shardul Thakur to Chris Gayle 4 Score: 48/0
+4.2 Shardul Thakur to Chris Gayle 0 Score: 48/0
+4.3 Shardul Thakur to Chris Gayle 4 Score: 52/0
+4.4 Shardul Thakur to Chris Gayle 1 Score: 53/0
+4.5 Shardul Thakur to KL Rahul W Score: 53/1 Caught by Dwayne Bravo
+4.6 Shardul Thakur to Mayank Agarwal 1 Score: 54/1
+5.1 Ravindra Jadeja to Mayank Agarwal 0 Score: 54/1
+5.2 Ravindra Jadeja to Mayank Agarwal 0 Score: 54/1
+5.3 Ravindra Jadeja to Mayank Agarwal 0 Score: 54/1
+5.4 Ravindra Jadeja to Mayank Agarwal 0 Score: 54/1
+5.5 Ravindra Jadeja to Mayank Agarwal 0 Score: 54/1
+5.6 Ravindra Jadeja to Mayank Agarwal 1 Score: 55/1
+6.1 Shardul Thakur to Mayank Agarwal 1 Score: 56/1
+6.2 Shardul Thakur to Chris Gayle 1 Score: 57/1
+6.3 Shardul Thakur to Mayank Agarwal 0 Score: 57/1
+6.4 Shardul Thakur to Mayank Agarwal 0 Score: 57/1
+6.5 Shardul Thakur to Mayank Agarwal 2 Score: 59/1
+6.6 Shardul Thakur to Mayank Agarwal 0 Score: 59/1
+7.1 Ravindra Jadeja to Chris Gayle 0 Score: 59/1
+7.2 Ravindra Jadeja to Chris Gayle 0 Score: 59/1
+7.3 Ravindra Jadeja to Chris Gayle 0 Score: 59/1
+7.4 Ravindra Jadeja to Chris Gayle W Score: 59/2 Caught by Ruturaj Gaikwad
+7.5 Ravindra Jadeja to Nicholas Pooran W Score: 59/3 Bowled
+7.6 Ravindra Jadeja to Deepak Hooda 1 Score: 60/3
+8.1 Shardul Thakur to Deepak Hooda 0 Score: 60/3
+8.2 Shardul Thakur to Deepak Hooda 0 Score: 60/3
+8.3 Shardul Thakur to Deepak Hooda 0 Score: 60/3
+8.4 Shardul Thakur to Deepak Hooda 0 Score: 60/3
+8.5 Shardul Thakur to Deepak Hooda 2 Score: 62/3
+8.6 Shardul Thakur to Deepak Hooda 0 Score: 62/3
+9.1 Ravindra Jadeja to Mayank Agarwal 0 Score: 62/3
+9.2 Ravindra Jadeja to Mayank Agarwal 1 Score: 63/3
+9.3 Ravindra Jadeja to Deepak Hooda 0 Score: 63/3
+9.4 Ravindra Jadeja to Deepak Hooda 6 Score: 69/3
+9.5 Ravindra Jadeja to Deepak Hooda 6 Score: 75/3
+9.6 Ravindra Jadeja to Deepak Hooda 4 Score: 79/3
+10.1 Dwayne Bravo to Mayank Agarwal 1 Score: 80/3
+10.2 Dwayne Bravo to Deepak Hooda 1 Score: 81/3
+10.3 Dwayne Bravo to Mayank Agarwal 1 Score: 82/3
+10.4 Dwayne Bravo to Deepak Hooda 0 Score: 82/3
+10.5 Dwayne Bravo to Deepak Hooda 2 Score: 84/3
+10.6 Dwayne Bravo to Deepak Hooda 4 Score: 88/3
+11.1 Ravindra Jadeja to Mayank Agarwal 0 Score: 88/3
+11.2 Ravindra Jadeja to Mayank Agarwal 1 Score: 89/3
+11.3 Ravindra Jadeja to Deepak Hooda 1 Score: 90/3
+11.4 Ravindra Jadeja to Mayank Agarwal 0 Score: 90/3
+11.5 Ravindra Jadeja to Mayank Agarwal 1 Score: 91/3
+11.6 Ravindra Jadeja to Deepak Hooda 0 Score: 91/3
+12.1 Dwayne Bravo to Mayank Agarwal 1 Score: 92/3
+12.2 Dwayne Bravo to Deepak Hooda 1 Score: 93/3
+12.3 Dwayne Bravo to Mayank Agarwal 1 Score: 94/3
+12.4 Dwayne Bravo to Deepak Hooda 1 Score: 95/3
+12.5 Dwayne Bravo to Mayank Agarwal 4 Score: 99/3
+12.6 Dwayne Bravo to Mayank Agarwal 0 Score: 99/3
+13.1 Shardul Thakur to Deepak Hooda Wide Score: 100/3
+13.2 Shardul Thakur to Deepak Hooda 0 Score: 100/3
+13.3 Shardul Thakur to Deepak Hooda 1 Score: 101/3
+13.4 Shardul Thakur to Mayank Agarwal 6 Score: 107/3
+13.5 Shardul Thakur to Mayank Agarwal 1 Score: 108/3
+13.6 Shardul Thakur to Deepak Hooda W Score: 108/4 Caught by Faf du Plessis
+13.7 Shardul Thakur to Shahrukh Khan 0 Score: 108/4
+14.1 Dwayne Bravo to Mayank Agarwal 0 Score: 108/4
+14.2 Dwayne Bravo to Mayank Agarwal 1 Score: 109/4
+14.3 Dwayne Bravo to Shahrukh Khan 1 Score: 110/4
+14.4 Dwayne Bravo to Mayank Agarwal W Score: 111/5 Run Out!
+14.5 Dwayne Bravo to Harpreet Brar Wide Score: 112/5
+14.6 Dwayne Bravo to Harpreet Brar 4 Score: 116/5
+14.7 Dwayne Bravo to Harpreet Brar 0 Score: 116/5
+15.1 Sam Curran to Shahrukh Khan 0 Score: 116/5
+15.2 Sam Curran to Shahrukh Khan 2 Score: 118/5
+15.3 Sam Curran to Shahrukh Khan 2 Score: 120/5
+15.4 Sam Curran to Shahrukh Khan 0 Score: 120/5
+15.5 Sam Curran to Shahrukh Khan 0 Score: 120/5
+15.6 Sam Curran to Shahrukh Khan 0 Score: 120/5
+16.1 Moeen Ali to Harpreet Brar 0 Score: 120/5
+16.2 Moeen Ali to Harpreet Brar 1 Score: 121/5
+16.3 Moeen Ali to Shahrukh Khan 0 Score: 121/5
+16.4 Moeen Ali to Shahrukh Khan 1 Score: 122/5
+16.5 Moeen Ali to Harpreet Brar 0 Score: 122/5
+16.6 Moeen Ali to Harpreet Brar 0 Score: 122/5
+17.1 Sam Curran to Shahrukh Khan W Score: 122/6 Caught by Deepak Chahar
+17.2 Sam Curran to Chris Jordan W Score: 122/7 Caught by Moeen Ali
+17.3 Sam Curran to Mohammed Shami 0 Score: 122/7
+17.4 Sam Curran to Mohammed Shami 6 Score: 128/7
+17.5 Sam Curran to Mohammed Shami 1 Score: 129/7
+17.6 Sam Curran to Harpreet Brar 1 Score: 130/7
+18.1 Dwayne Bravo to Harpreet Brar 1 Score: 131/7
+18.2 Dwayne Bravo to Mohammed Shami 1 Score: 132/7
+18.3 Dwayne Bravo to Harpreet Brar 4 Score: 136/7
+18.4 Dwayne Bravo to Harpreet Brar 0 Score: 136/7
+18.5 Dwayne Bravo to Harpreet Brar 4 Score: 140/7
+18.6 Dwayne Bravo to Harpreet Brar 6 Score: 146/7
+19.1 Sam Curran to Mohammed Shami 1 Score: 147/7
+19.2 Sam Curran to Harpreet Brar 1 Score: 148/7
+19.3 Sam Curran to Mohammed Shami 1 Score: 149/7
+19.4 Sam Curran to Harpreet Brar 4 Score: 153/7
+19.5 Sam Curran to Harpreet Brar 4 Score: 157/7
+19.6 Sam Curran to Harpreet Brar 6 Score: 163/7
++-----------------+--------+---------+--------+----------------------------+
+| Player          |   Runs |   Balls | SR     | Out                        |
++=================+========+=========+========+============================+
+| KL Rahul        |     32 |      17 | 188.24 | c DJ Bravo b SN Thakur     |
++-----------------+--------+---------+--------+----------------------------+
+| MA Agarwal      |     25 |      29 | 86.21  | Not out                    |
++-----------------+--------+---------+--------+----------------------------+
+| CH Gayle        |     21 |      17 | 123.53 | c RD Gaikwad b RA Jadeja   |
++-----------------+--------+---------+--------+----------------------------+
+| DJ Hooda        |     30 |      22 | 136.36 | c F du Plessis b SN Thakur |
++-----------------+--------+---------+--------+----------------------------+
+| N Pooran        |      0 |       1 | 0.0    | bowled b RA Jadeja         |
++-----------------+--------+---------+--------+----------------------------+
+| M Shahrukh Khan |      6 |      11 | 54.55  | c DL Chahar b SM Curran    |
++-----------------+--------+---------+--------+----------------------------+
+| Harpreet Brar   |     36 |      16 | 225.0  | Not out                    |
++-----------------+--------+---------+--------+----------------------------+
+| RP Meredith     |      0 |       0 | DNB    |                            |
++-----------------+--------+---------+--------+----------------------------+
+| Ravi Bishnoi    |      0 |       0 | DNB    |                            |
++-----------------+--------+---------+--------+----------------------------+
+| Mohammed Shami  |     10 |       6 | 166.67 | Not out                    |
++-----------------+--------+---------+--------+----------------------------+
+| CJ Jordan       |      0 |       1 | 0.0    | c MM Ali b SM Curran       |
++-----------------+--------+---------+--------+----------------------------+
 +--------------+--------+---------+-----------+-------+
 | Player       |   Runs |   Overs |   Wickets | Eco   |
 +==============+========+=========+===========+=======+
@@ -159,163 +154,173 @@ pbks won the toss and chose to bat
 +--------------+--------+---------+-----------+-------+
 | F du Plessis |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| MM Ali       |     13 |       1 |         0 | 13.0  |
+| MM Ali       |     14 |       2 |         0 | 7.0   |
 +--------------+--------+---------+-----------+-------+
-| SK Raina     |     20 |       3 |         2 | 6.67  |
+| SK Raina     |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
 | AT Rayudu    |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| RA Jadeja    |      0 |       0 |         0 | NA    |
+| RA Jadeja    |     22 |       4 |         2 | 5.5   |
 +--------------+--------+---------+-----------+-------+
 | MS Dhoni     |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| SM Curran    |     41 |       4 |         1 | 10.25 |
+| SM Curran    |     44 |       4 |         2 | 11.0  |
 +--------------+--------+---------+-----------+-------+
-| DJ Bravo     |     47 |       4 |         2 | 11.75 |
+| DJ Bravo     |     41 |       4 |         0 | 10.25 |
 +--------------+--------+---------+-----------+-------+
-| SN Thakur    |     40 |       4 |         2 | 10.0  |
+| SN Thakur    |     25 |       4 |         2 | 6.25  |
 +--------------+--------+---------+-----------+-------+
-| DL Chahar    |     38 |       4 |         0 | 9.5   |
+| DL Chahar    |     17 |       2 |         0 | 8.5   |
 +--------------+--------+---------+-----------+-------+
-0.1 Riley Meredith to Ruturaj Gaikwad Wide Score: 1/0
-0.2 Riley Meredith to Ruturaj Gaikwad 0 Score: 1/0
-0.3 Riley Meredith to Ruturaj Gaikwad 0 Score: 1/0
-0.4 Riley Meredith to Ruturaj Gaikwad 6 Score: 7/0
-0.5 Riley Meredith to Ruturaj Gaikwad W Score: 7/1 Caught by Nicholas Pooran
-0.6 Riley Meredith to Suresh Raina 0 Score: 7/1
-0.7 Riley Meredith to Suresh Raina 1 Score: 8/1
-1.1 Harpreet Brar to Suresh Raina 4 Score: 12/1
-1.2 Harpreet Brar to Suresh Raina 0 Score: 12/1
-1.3 Harpreet Brar to Suresh Raina 0 Score: 12/1
-1.4 Harpreet Brar to Suresh Raina 0 Score: 12/1
-1.5 Harpreet Brar to Suresh Raina 0 Score: 12/1
-1.6 Harpreet Brar to Suresh Raina 1 Score: 13/1
-2.1 Riley Meredith to Suresh Raina 1 Score: 14/1
-2.2 Riley Meredith to Faf du Plessis 6 Score: 20/1
-2.3 Riley Meredith to Faf du Plessis 1 Score: 21/1
-2.4 Riley Meredith to Suresh Raina 6 Score: 27/1
-2.5 Riley Meredith to Suresh Raina 4 Score: 31/1
-2.6 Riley Meredith to Suresh Raina 0 Score: 31/1
-3.1 Harpreet Brar to Faf du Plessis 0 Score: 31/1
-3.2 Harpreet Brar to Faf du Plessis 1 Score: 32/1
-3.3 Harpreet Brar to Suresh Raina 1 Score: 33/1
-3.4 Harpreet Brar to Faf du Plessis 1 Score: 34/1
-3.5 Harpreet Brar to Suresh Raina 1 Score: 35/1
-3.6 Harpreet Brar to Faf du Plessis 0 Score: 35/1
-4.1 Chris Jordan to Suresh Raina 1 Score: 36/1
-4.2 Chris Jordan to Faf du Plessis 0 Score: 36/1
-4.3 Chris Jordan to Faf du Plessis 0 Score: 36/1
-4.4 Chris Jordan to Faf du Plessis W Score: 36/2 Bowled
-4.5 Chris Jordan to Moeen Ali 4 Score: 40/2
-4.6 Chris Jordan to Moeen Ali 6 Score: 46/2
-5.1 Ravi Bishnoi to Suresh Raina 1 Score: 47/2
-5.2 Ravi Bishnoi to Moeen Ali 1 Score: 48/2
-5.3 Ravi Bishnoi to Suresh Raina 1 Score: 49/2
-5.4 Ravi Bishnoi to Moeen Ali 0 Score: 49/2
-5.5 Ravi Bishnoi to Moeen Ali 6 Score: 55/2
-5.6 Ravi Bishnoi to Moeen Ali 1 Score: 56/2
-6.1 Chris Jordan to Moeen Ali 0 Score: 56/2
-6.2 Chris Jordan to Moeen Ali 1 Score: 57/2
-6.3 Chris Jordan to Suresh Raina Wide Score: 58/2
-6.4 Chris Jordan to Suresh Raina 0 Score: 58/2
-6.5 Chris Jordan to Suresh Raina 0 Score: 58/2
-6.6 Chris Jordan to Suresh Raina 0 Score: 58/2
-6.7 Chris Jordan to Suresh Raina 4 Score: 62/2
-7.1 Ravi Bishnoi to Moeen Ali 1 Score: 63/2
-7.2 Ravi Bishnoi to Suresh Raina Wide Score: 64/2
-7.3 Ravi Bishnoi to Suresh Raina 0 Score: 64/2
-7.4 Ravi Bishnoi to Suresh Raina 0 Score: 64/2
-7.5 Ravi Bishnoi to Suresh Raina 4 Score: 68/2
-7.6 Ravi Bishnoi to Suresh Raina 4 Score: 72/2
-7.7 Ravi Bishnoi to Suresh Raina 4 Score: 76/2
-8.1 Chris Jordan to Moeen Ali 6 Score: 82/2
-8.2 Chris Jordan to Moeen Ali 0 Score: 82/2
-8.3 Chris Jordan to Moeen Ali 0 Score: 82/2
-8.4 Chris Jordan to Moeen Ali 6 Score: 88/2
-8.5 Chris Jordan to Moeen Ali 1 Score: 89/2
-8.6 Chris Jordan to Suresh Raina 4 Score: 93/2
-9.1 Ravi Bishnoi to Moeen Ali 1 Score: 94/2
-9.2 Ravi Bishnoi to Suresh Raina 6 Score: 100/2
-9.3 Ravi Bishnoi to Suresh Raina 0 Score: 100/2
-9.4 Ravi Bishnoi to Suresh Raina 6 Score: 106/2
-9.5 Ravi Bishnoi to Suresh Raina 1 Score: 107/2
-9.6 Ravi Bishnoi to Moeen Ali 0 Score: 107/2
-10.1 Mohammed Shami to Suresh Raina 6 Score: 113/2
-10.2 Mohammed Shami to Suresh Raina 4 Score: 117/2
-10.3 Mohammed Shami to Suresh Raina 1 Score: 118/2
-10.4 Mohammed Shami to Moeen Ali 1 Score: 119/2
-10.5 Mohammed Shami to Suresh Raina 4 Score: 123/2
-10.6 Mohammed Shami to Suresh Raina 6 Score: 129/2
-11.1 Ravi Bishnoi to Moeen Ali 1 Score: 130/2
-11.2 Ravi Bishnoi to Suresh Raina 1 Score: 131/2
-11.3 Ravi Bishnoi to Moeen Ali 4 Score: 135/2
-11.4 Ravi Bishnoi to Moeen Ali 0 Score: 135/2
-11.5 Ravi Bishnoi to Moeen Ali 4 Score: 139/2
-11.6 Ravi Bishnoi to Moeen Ali 0 Score: 139/2
-12.1 Mohammed Shami to Suresh Raina W Score: 139/3 Bowled
-12.2 Mohammed Shami to MS Dhoni 0 Score: 139/3
-12.3 Mohammed Shami to MS Dhoni 0 Score: 139/3
-12.4 Mohammed Shami to MS Dhoni 1 Score: 140/3
-12.5 Mohammed Shami to Moeen Ali 1 Score: 141/3
-12.6 Mohammed Shami to MS Dhoni 0 Score: 141/3
-13.1 Chris Jordan to Moeen Ali 4 Score: 145/3
-13.2 Chris Jordan to Moeen Ali W Score: 145/4 Caught by Chris Jordan
-13.3 Chris Jordan to Ravindra Jadeja 1 Score: 146/4
-13.4 Chris Jordan to MS Dhoni 2 Score: 148/4
-13.5 Chris Jordan to MS Dhoni 1 Score: 149/4
-13.6 Chris Jordan to Ravindra Jadeja 1 Score: 150/4
-14.1 Mohammed Shami to Ravindra Jadeja 2 Score: 152/4
-14.2 Mohammed Shami to Ravindra Jadeja 1 Score: 153/4
-14.3 Mohammed Shami to MS Dhoni 0 Score: 153/4
-14.4 Mohammed Shami to MS Dhoni 0 Score: 153/4
-14.5 Mohammed Shami to MS Dhoni 0 Score: 153/4
-14.6 Mohammed Shami to MS Dhoni 6 Score: 159/4
-15.1 Chris Gayle to Ravindra Jadeja 4 Score: 163/4
-15.2 Chris Gayle to Ravindra Jadeja 0 Score: 163/4
-15.3 Chris Gayle to Ravindra Jadeja 1 Score: 164/4
-15.4 Chris Gayle to MS Dhoni 1 Score: 165/4
-15.5 Chris Gayle to Ravindra Jadeja 1 Score: 166/4
-15.6 Chris Gayle to MS Dhoni 6 Score: 172/4
-16.1 Deepak Hooda to Ravindra Jadeja 0 Score: 172/4
-16.2 Deepak Hooda to Ravindra Jadeja Wide Score: 173/4
-16.3 Deepak Hooda to Ravindra Jadeja 4 Score: 177/4
-16.4 Deepak Hooda to Ravindra Jadeja 0 Score: 177/4
-16.5 Deepak Hooda to Ravindra Jadeja 2 Score: 179/4
-16.6 Deepak Hooda to Ravindra Jadeja 1 Score: 180/4
-16.7 Deepak Hooda to MS Dhoni 1 Score: 181/4
-17.1 Riley Meredith to MS Dhoni 2 Score: 183/4
-17.2 Riley Meredith to MS Dhoni 1 Score: 184/4
-17.3 Riley Meredith to Ravindra Jadeja 1 Score: 185/4
-17.4 Riley Meredith to MS Dhoni 6 Score: 191/4
-17.5 Riley Meredith to MS Dhoni 1 Score: 192/4
-17.6 Riley Meredith to Ravindra Jadeja 6 Score: 198/4
-18.1 Mohammed Shami to MS Dhoni 6 Score: 204/4
-csk won by 6 wickets
-+--------------+--------+---------+--------+--------------------------+
-| Player       |   Runs |   Balls | SR     | Out                      |
-+==============+========+=========+========+==========================+
-| RD Gaikwad   |      6 |       4 | 150.0  | c N Pooran b RP Meredith |
-+--------------+--------+---------+--------+--------------------------+
-| F du Plessis |      9 |       9 | 100.0  | bowled b CJ Jordan       |
-+--------------+--------+---------+--------+--------------------------+
-| MM Ali       |     49 |      25 | 196.0  | c CJ Jordan b CJ Jordan  |
-+--------------+--------+---------+--------+--------------------------+
-| SK Raina     |     77 |      38 | 202.63 | bowled b Mohammed Shami  |
-+--------------+--------+---------+--------+--------------------------+
-| AT Rayudu    |      0 |       0 | DNB    |                          |
-+--------------+--------+---------+--------+--------------------------+
-| RA Jadeja    |     25 |      15 | 166.67 | Not out                  |
-+--------------+--------+---------+--------+--------------------------+
-| MS Dhoni     |     34 |      18 | 188.89 | Not out                  |
-+--------------+--------+---------+--------+--------------------------+
-| SM Curran    |      0 |       0 | DNB    |                          |
-+--------------+--------+---------+--------+--------------------------+
-| DJ Bravo     |      0 |       0 | DNB    |                          |
-+--------------+--------+---------+--------+--------------------------+
-| SN Thakur    |      0 |       0 | DNB    |                          |
-+--------------+--------+---------+--------+--------------------------+
-| DL Chahar    |      0 |       0 | DNB    |                          |
-+--------------+--------+---------+--------+--------------------------+
+0.1 Riley Meredith to Ruturaj Gaikwad 1 Score: 1/0
+0.2 Riley Meredith to Faf du Plessis 0 Score: 1/0
+0.3 Riley Meredith to Faf du Plessis 1 Score: 2/0
+0.4 Riley Meredith to Ruturaj Gaikwad 1 Score: 3/0
+0.5 Riley Meredith to Faf du Plessis 0 Score: 3/0
+0.6 Riley Meredith to Faf du Plessis 1 Score: 4/0
+1.1 Harpreet Brar to Faf du Plessis 4 Score: 8/0
+1.2 Harpreet Brar to Faf du Plessis 2 Score: 10/0
+1.3 Harpreet Brar to Faf du Plessis 0 Score: 10/0
+1.4 Harpreet Brar to Faf du Plessis 1 Score: 11/0
+1.5 Harpreet Brar to Ruturaj Gaikwad 0 Score: 11/0
+1.6 Harpreet Brar to Ruturaj Gaikwad 1 Score: 12/0
+2.1 Riley Meredith to Ruturaj Gaikwad 1 Score: 13/0
+2.2 Riley Meredith to Faf du Plessis 4 Score: 17/0
+2.3 Riley Meredith to Faf du Plessis 1 Score: 18/0
+2.4 Riley Meredith to Ruturaj Gaikwad 0 Score: 18/0
+2.5 Riley Meredith to Ruturaj Gaikwad 0 Score: 18/0
+2.6 Riley Meredith to Ruturaj Gaikwad 4 Score: 22/0
+3.1 Harpreet Brar to Faf du Plessis 6 Score: 28/0
+3.2 Harpreet Brar to Faf du Plessis 6 Score: 34/0
+3.3 Harpreet Brar to Faf du Plessis 0 Score: 34/0
+3.4 Harpreet Brar to Faf du Plessis 1 Score: 35/0
+3.5 Harpreet Brar to Ruturaj Gaikwad 1 Score: 36/0
+3.6 Harpreet Brar to Faf du Plessis 3 Score: 39/0
+4.1 Chris Jordan to Faf du Plessis 1 Score: 40/0
+4.2 Chris Jordan to Ruturaj Gaikwad 1 Score: 41/0
+4.3 Chris Jordan to Faf du Plessis 0 Score: 41/0
+4.4 Chris Jordan to Faf du Plessis 1 Score: 42/0
+4.5 Chris Jordan to Ruturaj Gaikwad 0 Score: 42/0
+4.6 Chris Jordan to Ruturaj Gaikwad 6 Score: 48/0
+5.1 Ravi Bishnoi to Faf du Plessis 0 Score: 48/0
+5.2 Ravi Bishnoi to Faf du Plessis 1 Score: 49/0
+5.3 Ravi Bishnoi to Ruturaj Gaikwad 1 Score: 50/0
+5.4 Ravi Bishnoi to Faf du Plessis 0 Score: 50/0
+5.5 Ravi Bishnoi to Faf du Plessis 0 Score: 50/0
+5.6 Ravi Bishnoi to Faf du Plessis 0 Score: 50/0
+6.1 Chris Jordan to Ruturaj Gaikwad Wide Score: 51/0
+6.2 Chris Jordan to Ruturaj Gaikwad 1 Score: 52/0
+6.3 Chris Jordan to Faf du Plessis 0 Score: 52/0
+6.4 Chris Jordan to Faf du Plessis 1 Score: 53/0
+6.5 Chris Jordan to Ruturaj Gaikwad 4 Score: 57/0
+6.6 Chris Jordan to Ruturaj Gaikwad 6 Score: 63/0
+6.7 Chris Jordan to Ruturaj Gaikwad 0 Score: 63/0
+7.1 Ravi Bishnoi to Faf du Plessis 4 Score: 67/0
+7.2 Ravi Bishnoi to Faf du Plessis 6 Score: 73/0
+7.3 Ravi Bishnoi to Faf du Plessis 0 Score: 73/0
+7.4 Ravi Bishnoi to Faf du Plessis 1 Score: 74/0
+7.5 Ravi Bishnoi to Ruturaj Gaikwad 2 Score: 76/0
+7.6 Ravi Bishnoi to Ruturaj Gaikwad 0 Score: 76/0
+8.1 Chris Jordan to Faf du Plessis 1 Score: 77/0
+8.2 Chris Jordan to Ruturaj Gaikwad 0 Score: 77/0
+8.3 Chris Jordan to Ruturaj Gaikwad 2 Score: 79/0
+8.4 Chris Jordan to Ruturaj Gaikwad 6 Score: 85/0
+8.5 Chris Jordan to Ruturaj Gaikwad 2 Score: 87/0
+8.6 Chris Jordan to Ruturaj Gaikwad 0 Score: 87/0
+9.1 Ravi Bishnoi to Faf du Plessis 1 Score: 88/0
+9.2 Ravi Bishnoi to Ruturaj Gaikwad 1 Score: 89/0
+9.3 Ravi Bishnoi to Faf du Plessis 0 Score: 89/0
+9.4 Ravi Bishnoi to Faf du Plessis 1 Score: 90/0
+9.5 Ravi Bishnoi to Ruturaj Gaikwad 1 Score: 91/0
+9.6 Ravi Bishnoi to Faf du Plessis 1 Score: 92/0
+10.1 Deepak Hooda to Faf du Plessis 1 Score: 93/0
+10.2 Deepak Hooda to Ruturaj Gaikwad 0 Score: 93/0
+10.3 Deepak Hooda to Ruturaj Gaikwad 4 Score: 97/0
+10.4 Deepak Hooda to Ruturaj Gaikwad 0 Score: 97/0
+10.5 Deepak Hooda to Ruturaj Gaikwad 2 Score: 99/0
+10.6 Deepak Hooda to Ruturaj Gaikwad 2 Score: 101/0
+11.1 Ravi Bishnoi to Faf du Plessis 0 Score: 101/0
+11.2 Ravi Bishnoi to Faf du Plessis 0 Score: 101/0
+11.3 Ravi Bishnoi to Faf du Plessis 1 Score: 102/0
+11.4 Ravi Bishnoi to Ruturaj Gaikwad 0 Score: 102/0
+11.5 Ravi Bishnoi to Ruturaj Gaikwad 1 Score: 103/0
+11.6 Ravi Bishnoi to Faf du Plessis 0 Score: 103/0
+12.1 Deepak Hooda to Ruturaj Gaikwad W Score: 103/1 Caught by Chris Gayle
+12.2 Deepak Hooda to Suresh Raina 1 Score: 104/1
+12.3 Deepak Hooda to Faf du Plessis 6 Score: 110/1
+12.4 Deepak Hooda to Faf du Plessis 1 Score: 111/1
+12.5 Deepak Hooda to Suresh Raina 2 Score: 113/1
+12.6 Deepak Hooda to Suresh Raina 1 Score: 114/1
+13.1 Mohammed Shami to Suresh Raina 2 Score: 116/1
+13.2 Mohammed Shami to Suresh Raina 1 Score: 117/1
+13.3 Mohammed Shami to Faf du Plessis 4 Score: 121/1
+13.4 Mohammed Shami to Faf du Plessis 2 Score: 123/1
+13.5 Mohammed Shami to Faf du Plessis 1 Score: 124/1
+13.6 Mohammed Shami to Suresh Raina 4 Score: 128/1
+14.1 Deepak Hooda to Faf du Plessis 0 Score: 128/1
+14.2 Deepak Hooda to Faf du Plessis 1 Score: 129/1
+14.3 Deepak Hooda to Suresh Raina 0 Score: 129/1
+14.4 Deepak Hooda to Suresh Raina 1 Score: 130/1
+14.5 Deepak Hooda to Faf du Plessis 1 Score: 131/1
+14.6 Deepak Hooda to Suresh Raina 1 Score: 132/1
+15.1 Mohammed Shami to Suresh Raina 0 Score: 132/1
+15.2 Mohammed Shami to Suresh Raina 0 Score: 132/1
+15.3 Mohammed Shami to Suresh Raina 0 Score: 132/1
+15.4 Mohammed Shami to Suresh Raina 0 Score: 132/1
+15.5 Mohammed Shami to Suresh Raina 1 Score: 133/1
+15.6 Mohammed Shami to Faf du Plessis W Score: 133/2 Caught by Mayank Agarwal
+16.1 Deepak Hooda to Suresh Raina 0 Score: 133/2
+16.2 Deepak Hooda to Suresh Raina 6 Score: 139/2
+16.3 Deepak Hooda to Suresh Raina 0 Score: 139/2
+16.4 Deepak Hooda to Suresh Raina 0 Score: 139/2
+16.5 Deepak Hooda to Suresh Raina Wide Score: 140/2
+16.6 Deepak Hooda to Suresh Raina 1 Score: 141/2
+16.7 Deepak Hooda to Moeen Ali 1 Score: 142/2
+17.1 Mohammed Shami to Moeen Ali 1 Score: 143/2
+17.2 Mohammed Shami to Suresh Raina 0 Score: 143/2
+17.3 Mohammed Shami to Suresh Raina 2 Score: 145/2
+17.4 Mohammed Shami to Suresh Raina 1 Score: 146/2
+17.5 Mohammed Shami to Moeen Ali 0 Score: 146/2
+17.6 Mohammed Shami to Moeen Ali 0 Score: 146/2
+18.1 Riley Meredith to Suresh Raina W Score: 146/3 Caught by Chris Jordan
+18.2 Riley Meredith to MS Dhoni 6 Score: 152/3
+18.3 Riley Meredith to MS Dhoni Wide Score: 153/3
+18.4 Riley Meredith to MS Dhoni 1 Score: 154/3
+18.5 Riley Meredith to Moeen Ali 1 Score: 155/3
+18.6 Riley Meredith to MS Dhoni 2 Score: 157/3
+18.7 Riley Meredith to MS Dhoni 0 Score: 157/3
+19.1 Mohammed Shami to Moeen Ali 0 Score: 157/3
+19.2 Mohammed Shami to Moeen Ali 4 Score: 161/3
+19.3 Mohammed Shami to Moeen Ali 0 Score: 161/3
+19.4 Mohammed Shami to Moeen Ali 1 Score: 162/3
+19.5 Mohammed Shami to MS Dhoni Wide Score: 163/3
+19.6 Mohammed Shami to MS Dhoni 6 Score: 169/3
+csk won by 7 wickets
++--------------+--------+---------+--------+-------------------------------+
+| Player       |   Runs |   Balls | SR     | Out                           |
++==============+========+=========+========+===============================+
+| RD Gaikwad   |     51 |      34 | 150.0  | c CH Gayle b DJ Hooda         |
++--------------+--------+---------+--------+-------------------------------+
+| F du Plessis |     67 |      48 | 139.58 | c MA Agarwal b Mohammed Shami |
++--------------+--------+---------+--------+-------------------------------+
+| MM Ali       |      8 |       9 | 88.89  | Not out                       |
++--------------+--------+---------+--------+-------------------------------+
+| SK Raina     |     24 |      23 | 104.35 | c CJ Jordan b RP Meredith     |
++--------------+--------+---------+--------+-------------------------------+
+| AT Rayudu    |      0 |       0 | DNB    |                               |
++--------------+--------+---------+--------+-------------------------------+
+| RA Jadeja    |      0 |       0 | DNB    |                               |
++--------------+--------+---------+--------+-------------------------------+
+| MS Dhoni     |     15 |       5 | 300.0  | Not out                       |
++--------------+--------+---------+--------+-------------------------------+
+| SM Curran    |      0 |       0 | DNB    |                               |
++--------------+--------+---------+--------+-------------------------------+
+| DJ Bravo     |      0 |       0 | DNB    |                               |
++--------------+--------+---------+--------+-------------------------------+
+| SN Thakur    |      0 |       0 | DNB    |                               |
++--------------+--------+---------+--------+-------------------------------+
+| DL Chahar    |      0 |       0 | DNB    |                               |
++--------------+--------+---------+--------+-------------------------------+
 +-----------------+--------+---------+-----------+-------+
 | Player          |   Runs |   Overs |   Wickets | Eco   |
 +=================+========+=========+===========+=======+
@@ -323,21 +328,21 @@ csk won by 6 wickets
 +-----------------+--------+---------+-----------+-------+
 | MA Agarwal      |      0 |     0   |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| CH Gayle        |     13 |     1   |         0 | 13.0  |
+| CH Gayle        |      0 |     0   |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| DJ Hooda        |      9 |     1   |         0 | 9.0   |
+| DJ Hooda        |     33 |     4   |         1 | 8.25  |
 +-----------------+--------+---------+-----------+-------+
 | N Pooran        |      0 |     0   |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
 | M Shahrukh Khan |      0 |     0   |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| Harpreet Brar   |      9 |     2   |         0 | 4.5   |
+| Harpreet Brar   |     25 |     2   |         0 | 12.5  |
 +-----------------+--------+---------+-----------+-------+
-| RP Meredith     |     43 |     3   |         1 | 14.33 |
+| RP Meredith     |     25 |     3   |         1 | 8.33  |
 +-----------------+--------+---------+-----------+-------+
-| Ravi Bishnoi    |     48 |     4   |         0 | 12.0  |
+| Ravi Bishnoi    |     22 |     4   |         0 | 5.5   |
 +-----------------+--------+---------+-----------+-------+
-| Mohammed Shami  |     39 |     3.1 |         1 | 12.32 |
+| Mohammed Shami  |     31 |     3.5 |         1 | 8.09  |
 +-----------------+--------+---------+-----------+-------+
-| CJ Jordan       |     43 |     4   |         2 | 10.75 |
+| CJ Jordan       |     33 |     3   |         0 | 11.0  |
 +-----------------+--------+---------+-----------+-------+

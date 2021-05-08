@@ -1,151 +1,154 @@
 pbks won the toss and chose to bat
-0.1 Trent Boult to KL Rahul 0 Score: 0/0
-0.2 Trent Boult to KL Rahul 1 Score: 1/0
+0.1 Trent Boult to KL Rahul 1 Score: 1/0
+0.2 Trent Boult to Chris Gayle 0 Score: 1/0
 0.3 Trent Boult to Chris Gayle 0 Score: 1/0
-0.4 Trent Boult to Chris Gayle 2 Score: 3/0
-0.5 Trent Boult to Chris Gayle 0 Score: 3/0
-0.6 Trent Boult to Chris Gayle 0 Score: 3/0
-1.1 Jayant Yadav to KL Rahul 0 Score: 3/0
-1.2 Jayant Yadav to KL Rahul 4 Score: 7/0
-1.3 Jayant Yadav to KL Rahul 0 Score: 7/0
-1.4 Jayant Yadav to KL Rahul 0 Score: 7/0
-1.5 Jayant Yadav to KL Rahul 1 Score: 8/0
-1.6 Jayant Yadav to Chris Gayle 0 Score: 8/0
-2.1 Trent Boult to KL Rahul 4 Score: 12/0
-2.2 Trent Boult to KL Rahul 2 Score: 14/0
-2.3 Trent Boult to KL Rahul 1 Score: 15/0
-2.4 Trent Boult to Chris Gayle 1 Score: 16/0
-2.5 Trent Boult to KL Rahul 1 Score: 17/0
-2.6 Trent Boult to Chris Gayle 4 Score: 21/0
-3.1 Jayant Yadav to KL Rahul 6 Score: 27/0
-3.2 Jayant Yadav to KL Rahul 4 Score: 31/0
-3.3 Jayant Yadav to KL Rahul 1 Score: 32/0
-3.4 Jayant Yadav to Chris Gayle W Score: 32/1 Caught by Ishan Kishan
-3.5 Jayant Yadav to Mayank Agarwal 0 Score: 32/1
-3.6 Jayant Yadav to Mayank Agarwal 1 Score: 33/1
-4.1 Jasprit Bumrah to Mayank Agarwal 0 Score: 33/1
-4.2 Jasprit Bumrah to Mayank Agarwal 0 Score: 33/1
-4.3 Jasprit Bumrah to Mayank Agarwal 6 Score: 39/1
-4.4 Jasprit Bumrah to Mayank Agarwal 1 Score: 40/1
-4.5 Jasprit Bumrah to KL Rahul 1 Score: 41/1
-4.6 Jasprit Bumrah to Mayank Agarwal 0 Score: 41/1
-5.1 Krunal Pandya to KL Rahul 0 Score: 41/1
-5.2 Krunal Pandya to KL Rahul 1 Score: 42/1
-5.3 Krunal Pandya to Mayank Agarwal 4 Score: 46/1
-5.4 Krunal Pandya to Mayank Agarwal 0 Score: 46/1
-5.5 Krunal Pandya to Mayank Agarwal 1 Score: 47/1
-5.6 Krunal Pandya to KL Rahul 4 Score: 51/1
-6.1 Jasprit Bumrah to Mayank Agarwal Wide Score: 52/1
-6.2 Jasprit Bumrah to Mayank Agarwal 0 Score: 52/1
-6.3 Jasprit Bumrah to Mayank Agarwal 0 Score: 52/1
-6.4 Jasprit Bumrah to Mayank Agarwal 0 Score: 52/1
-6.5 Jasprit Bumrah to Mayank Agarwal 0 Score: 52/1
-6.6 Jasprit Bumrah to Mayank Agarwal 2 Score: 54/1
-6.7 Jasprit Bumrah to Mayank Agarwal 0 Score: 54/1
-7.1 Krunal Pandya to KL Rahul 1 Score: 55/1
-7.2 Krunal Pandya to Mayank Agarwal 4 Score: 59/1
-7.3 Krunal Pandya to Mayank Agarwal 0 Score: 59/1
-7.4 Krunal Pandya to Mayank Agarwal 4 Score: 63/1
-7.5 Krunal Pandya to Mayank Agarwal 0 Score: 63/1
-7.6 Krunal Pandya to Mayank Agarwal 1 Score: 64/1
-8.1 Jasprit Bumrah to Mayank Agarwal 6 Score: 70/1
+0.4 Trent Boult to Chris Gayle 4 Score: 5/0
+0.5 Trent Boult to Chris Gayle 0 Score: 5/0
+0.6 Trent Boult to Chris Gayle 1 Score: 6/0
+1.1 Jayant Yadav to Chris Gayle 1 Score: 7/0
+1.2 Jayant Yadav to KL Rahul 1 Score: 8/0
+1.3 Jayant Yadav to Chris Gayle 1 Score: 9/0
+1.4 Jayant Yadav to KL Rahul 0 Score: 9/0
+1.5 Jayant Yadav to KL Rahul 0 Score: 9/0
+1.6 Jayant Yadav to KL Rahul 1 Score: 10/0
+2.1 Trent Boult to KL Rahul 0 Score: 10/0
+2.2 Trent Boult to KL Rahul 1 Score: 11/0
+2.3 Trent Boult to Chris Gayle 1 Score: 12/0
+2.4 Trent Boult to KL Rahul 0 Score: 12/0
+2.5 Trent Boult to KL Rahul 6 Score: 18/0
+2.6 Trent Boult to KL Rahul 6 Score: 24/0
+3.1 Jayant Yadav to Chris Gayle 1 Score: 25/0
+3.2 Jayant Yadav to KL Rahul 1 Score: 26/0
+3.3 Jayant Yadav to Chris Gayle 2 Score: 28/0
+3.4 Jayant Yadav to Chris Gayle W Score: 28/1 Caught by Hardik Pandya
+3.5 Jayant Yadav to Mayank Agarwal 1 Score: 29/1
+3.6 Jayant Yadav to KL Rahul 4 Score: 33/1
+4.1 Jasprit Bumrah to Mayank Agarwal 1 Score: 34/1
+4.2 Jasprit Bumrah to KL Rahul 0 Score: 34/1
+4.3 Jasprit Bumrah to KL Rahul 4 Score: 38/1
+4.4 Jasprit Bumrah to KL Rahul 1 Score: 39/1
+4.5 Jasprit Bumrah to Mayank Agarwal 4 Score: 43/1
+4.6 Jasprit Bumrah to Mayank Agarwal 1 Score: 44/1
+5.1 Krunal Pandya to Mayank Agarwal 0 Score: 44/1
+5.2 Krunal Pandya to Mayank Agarwal 0 Score: 44/1
+5.3 Krunal Pandya to Mayank Agarwal 2 Score: 46/1
+5.4 Krunal Pandya to Mayank Agarwal Wide Score: 47/1
+5.5 Krunal Pandya to Mayank Agarwal 2 Score: 49/1
+5.6 Krunal Pandya to Mayank Agarwal 0 Score: 49/1
+5.7 Krunal Pandya to Mayank Agarwal 1 Score: 50/1
+6.1 Jasprit Bumrah to Mayank Agarwal 0 Score: 50/1
+6.2 Jasprit Bumrah to Mayank Agarwal 2 Score: 52/1
+6.3 Jasprit Bumrah to Mayank Agarwal 4 Score: 56/1
+6.4 Jasprit Bumrah to Mayank Agarwal 2 Score: 58/1
+6.5 Jasprit Bumrah to Mayank Agarwal 0 Score: 58/1
+6.6 Jasprit Bumrah to Mayank Agarwal Wide Score: 59/1
+6.7 Jasprit Bumrah to Mayank Agarwal 1 Score: 60/1
+7.1 Krunal Pandya to Mayank Agarwal 1 Score: 61/1
+7.2 Krunal Pandya to KL Rahul Wide Score: 62/1
+7.3 Krunal Pandya to KL Rahul 1 Score: 63/1
+7.4 Krunal Pandya to Mayank Agarwal 2 Score: 65/1
+7.5 Krunal Pandya to Mayank Agarwal 0 Score: 65/1
+7.6 Krunal Pandya to Mayank Agarwal 1 Score: 66/1
+7.7 Krunal Pandya to KL Rahul 4 Score: 70/1
+8.1 Jasprit Bumrah to Mayank Agarwal 0 Score: 70/1
 8.2 Jasprit Bumrah to Mayank Agarwal 1 Score: 71/1
 8.3 Jasprit Bumrah to KL Rahul 0 Score: 71/1
-8.4 Jasprit Bumrah to KL Rahul 0 Score: 71/1
-8.5 Jasprit Bumrah to KL Rahul 1 Score: 72/1
-8.6 Jasprit Bumrah to Mayank Agarwal W Score: 72/2 Lbw
-9.1 Krunal Pandya to KL Rahul 0 Score: 72/2
-9.2 Krunal Pandya to KL Rahul 1 Score: 73/2
-9.3 Krunal Pandya to Nicholas Pooran 1 Score: 74/2
-9.4 Krunal Pandya to KL Rahul 4 Score: 78/2
-9.5 Krunal Pandya to KL Rahul 1 Score: 79/2
-9.6 Krunal Pandya to Nicholas Pooran 0 Score: 79/2
-10.1 Rahul Chahar to KL Rahul 0 Score: 79/2
-10.2 Rahul Chahar to KL Rahul 1 Score: 80/2
-10.3 Rahul Chahar to Nicholas Pooran 1 Score: 81/2
-10.4 Rahul Chahar to KL Rahul 1 Score: 82/2
-10.5 Rahul Chahar to Nicholas Pooran 0 Score: 82/2
-10.6 Rahul Chahar to Nicholas Pooran 1 Score: 83/2
-11.1 Krunal Pandya to Nicholas Pooran 0 Score: 83/2
-11.2 Krunal Pandya to Nicholas Pooran 1 Score: 84/2
-11.3 Krunal Pandya to KL Rahul 1 Score: 85/2
-11.4 Krunal Pandya to Nicholas Pooran Wide Score: 86/2
-11.5 Krunal Pandya to Nicholas Pooran 2 Score: 88/2
-11.6 Krunal Pandya to Nicholas Pooran W Score: 88/3 Caught by Krunal Pandya
-11.7 Krunal Pandya to Deepak Hooda 4 Score: 92/3
-12.1 Rahul Chahar to KL Rahul 2 Score: 94/3
-12.2 Rahul Chahar to KL Rahul 0 Score: 94/3
-12.3 Rahul Chahar to KL Rahul 0 Score: 94/3
-12.4 Rahul Chahar to KL Rahul 0 Score: 94/3
-12.5 Rahul Chahar to KL Rahul 0 Score: 94/3
-12.6 Rahul Chahar to KL Rahul W Score: 94/4 Bowled
-13.1 Jayant Yadav to Deepak Hooda 1 Score: 95/4
-13.2 Jayant Yadav to Shahrukh Khan 0 Score: 95/4
-13.3 Jayant Yadav to Shahrukh Khan 1 Score: 96/4
-13.4 Jayant Yadav to Deepak Hooda 0 Score: 96/4
-13.5 Jayant Yadav to Deepak Hooda 4 Score: 100/4
-13.6 Jayant Yadav to Deepak Hooda 2 Score: 102/4
-14.1 Rahul Chahar to Shahrukh Khan 6 Score: 108/4
-14.2 Rahul Chahar to Shahrukh Khan 0 Score: 108/4
-14.3 Rahul Chahar to Shahrukh Khan 6 Score: 114/4
-14.4 Rahul Chahar to Shahrukh Khan 0 Score: 114/4
-14.5 Rahul Chahar to Shahrukh Khan 0 Score: 114/4
-14.6 Rahul Chahar to Shahrukh Khan 1 Score: 115/4
-15.1 Jayant Yadav to Shahrukh Khan 0 Score: 115/4
-15.2 Jayant Yadav to Shahrukh Khan 1 Score: 116/4
-15.3 Jayant Yadav to Deepak Hooda 1 Score: 117/4
-15.4 Jayant Yadav to Shahrukh Khan 0 Score: 117/4
-15.5 Jayant Yadav to Shahrukh Khan 1 Score: 118/4
-15.6 Jayant Yadav to Deepak Hooda 1 Score: 119/4
-16.1 Rahul Chahar to Deepak Hooda 6 Score: 125/4
-16.2 Rahul Chahar to Deepak Hooda 0 Score: 125/4
-16.3 Rahul Chahar to Deepak Hooda 1 Score: 126/4
-16.4 Rahul Chahar to Shahrukh Khan 0 Score: 126/4
-16.5 Rahul Chahar to Shahrukh Khan 1 Score: 127/4
-16.6 Rahul Chahar to Deepak Hooda 1 Score: 128/4
-17.1 Jasprit Bumrah to Deepak Hooda 1 Score: 129/4
-17.2 Jasprit Bumrah to Shahrukh Khan 4 Score: 133/4
-17.3 Jasprit Bumrah to Shahrukh Khan 1 Score: 134/4
-17.4 Jasprit Bumrah to Deepak Hooda 0 Score: 134/4
-17.5 Jasprit Bumrah to Deepak Hooda 0 Score: 134/4
-17.6 Jasprit Bumrah to Deepak Hooda W Score: 134/5 Caught by Rohit Sharma
-18.1 Trent Boult to Shahrukh Khan W Score: 134/6 Caught by Ishan Kishan
-18.2 Trent Boult to Harpreet Brar 6 Score: 140/6
-18.3 Trent Boult to Harpreet Brar 1 Score: 141/6
-18.4 Trent Boult to Harpreet Brar W Score: 141/7 Caught by Krunal Pandya
-18.5 Trent Boult to Mohammed Shami 1 Score: 142/7
-18.6 Trent Boult to Harpreet Brar 4 Score: 146/7
-19.1 Hardik Pandya to Mohammed Shami 4 Score: 150/7
-19.2 Hardik Pandya to Mohammed Shami 4 Score: 154/7
-19.3 Hardik Pandya to Mohammed Shami 4 Score: 158/7
-19.4 Hardik Pandya to Mohammed Shami 1 Score: 159/7
-19.5 Hardik Pandya to Harpreet Brar 1 Score: 160/7
-19.6 Hardik Pandya to Mohammed Shami 1 Score: 161/7
-+-----------------+--------+---------+--------+---------------------------+
-| Player          |   Runs |   Balls | SR     | Out                       |
-+=================+========+=========+========+===========================+
-| KL Rahul        |     44 |      36 | 122.22 | bowled b RD Chahar        |
-+-----------------+--------+---------+--------+---------------------------+
-| MA Agarwal      |     31 |      24 | 129.17 | lbw b JJ Bumrah           |
-+-----------------+--------+---------+--------+---------------------------+
-| CH Gayle        |      7 |       8 | 87.5   | c Ishan Kishan b J Yadav  |
-+-----------------+--------+---------+--------+---------------------------+
-| DJ Hooda        |     22 |      15 | 146.67 | c RG Sharma b JJ Bumrah   |
-+-----------------+--------+---------+--------+---------------------------+
-| N Pooran        |      6 |       9 | 66.67  | c KH Pandya b KH Pandya   |
-+-----------------+--------+---------+--------+---------------------------+
-| M Shahrukh Khan |     22 |      17 | 129.41 | c Ishan Kishan b TA Boult |
-+-----------------+--------+---------+--------+---------------------------+
-| Harpreet Brar   |     12 |       5 | 240.0  | Not out                   |
-+-----------------+--------+---------+--------+---------------------------+
-| RP Meredith     |      0 |       0 | DNB    |                           |
-+-----------------+--------+---------+--------+---------------------------+
-| Ravi Bishnoi    |      0 |       0 | DNB    |                           |
-+-----------------+--------+---------+--------+---------------------------+
-| Mohammed Shami  |     15 |       6 | 250.0  | Not out                   |
-+-----------------+--------+---------+--------+---------------------------+
-| CJ Jordan       |      0 |       0 | DNB    |                           |
-+-----------------+--------+---------+--------+---------------------------+
+8.4 Jasprit Bumrah to KL Rahul 1 Score: 72/1
+8.5 Jasprit Bumrah to Mayank Agarwal 1 Score: 73/1
+8.6 Jasprit Bumrah to KL Rahul 0 Score: 73/1
+9.1 Krunal Pandya to Mayank Agarwal 1 Score: 74/1
+9.2 Krunal Pandya to KL Rahul 1 Score: 75/1
+9.3 Krunal Pandya to Mayank Agarwal 1 Score: 76/1
+9.4 Krunal Pandya to KL Rahul 2 Score: 78/1
+9.5 Krunal Pandya to KL Rahul 0 Score: 78/1
+9.6 Krunal Pandya to KL Rahul 2 Score: 80/1
+10.1 Rahul Chahar to Mayank Agarwal 0 Score: 80/1
+10.2 Rahul Chahar to Mayank Agarwal 0 Score: 80/1
+10.3 Rahul Chahar to Mayank Agarwal 1 Score: 81/1
+10.4 Rahul Chahar to KL Rahul 0 Score: 81/1
+10.5 Rahul Chahar to KL Rahul 1 Score: 82/1
+10.6 Rahul Chahar to Mayank Agarwal 1 Score: 83/1
+11.1 Krunal Pandya to Mayank Agarwal 1 Score: 84/1
+11.2 Krunal Pandya to KL Rahul 1 Score: 85/1
+11.3 Krunal Pandya to Mayank Agarwal 1 Score: 86/1
+11.4 Krunal Pandya to KL Rahul 4 Score: 90/1
+11.5 Krunal Pandya to KL Rahul 4 Score: 94/1
+11.6 Krunal Pandya to KL Rahul 1 Score: 95/1
+12.1 Rahul Chahar to KL Rahul 0 Score: 95/1
+12.2 Rahul Chahar to KL Rahul 1 Score: 96/1
+12.3 Rahul Chahar to Mayank Agarwal 1 Score: 97/1
+12.4 Rahul Chahar to KL Rahul 0 Score: 97/1
+12.5 Rahul Chahar to KL Rahul 0 Score: 97/1
+12.6 Rahul Chahar to KL Rahul W Score: 97/2 Bowled
+13.1 Kieron Pollard to Mayank Agarwal 1 Score: 98/2
+13.2 Kieron Pollard to Nicholas Pooran 0 Score: 98/2
+13.3 Kieron Pollard to Nicholas Pooran 2 Score: 100/2
+13.4 Kieron Pollard to Nicholas Pooran 1 Score: 101/2
+13.5 Kieron Pollard to Mayank Agarwal 1 Score: 102/2
+13.6 Kieron Pollard to Nicholas Pooran 1 Score: 103/2
+14.1 Rahul Chahar to Nicholas Pooran 0 Score: 103/2
+14.2 Rahul Chahar to Nicholas Pooran 1 Score: 104/2
+14.3 Rahul Chahar to Mayank Agarwal 1 Score: 105/2
+14.4 Rahul Chahar to Nicholas Pooran 4 Score: 109/2
+14.5 Rahul Chahar to Nicholas Pooran 0 Score: 109/2
+14.6 Rahul Chahar to Nicholas Pooran 0 Score: 109/2
+15.1 Kieron Pollard to Mayank Agarwal 4 Score: 113/2
+15.2 Kieron Pollard to Mayank Agarwal W Score: 113/3 Run Out!
+15.3 Kieron Pollard to Deepak Hooda 1 Score: 114/3
+15.4 Kieron Pollard to Nicholas Pooran 0 Score: 114/3
+15.5 Kieron Pollard to Nicholas Pooran 1 Score: 115/3
+15.6 Kieron Pollard to Deepak Hooda 0 Score: 115/3
+16.1 Rahul Chahar to Nicholas Pooran 6 Score: 121/3
+16.2 Rahul Chahar to Nicholas Pooran 4 Score: 125/3
+16.3 Rahul Chahar to Nicholas Pooran 0 Score: 125/3
+16.4 Rahul Chahar to Nicholas Pooran 2 Score: 127/3
+16.5 Rahul Chahar to Nicholas Pooran 1 Score: 128/3
+16.6 Rahul Chahar to Deepak Hooda Wide Score: 129/3
+16.7 Rahul Chahar to Deepak Hooda 0 Score: 129/3
+17.1 Jasprit Bumrah to Nicholas Pooran W Score: 129/4 Bowled
+17.2 Jasprit Bumrah to Shahrukh Khan 6 Score: 135/4
+17.3 Jasprit Bumrah to Shahrukh Khan 4 Score: 139/4
+17.4 Jasprit Bumrah to Shahrukh Khan W Score: 139/5 Caught by Rohit Sharma
+17.5 Jasprit Bumrah to Harpreet Brar 1 Score: 140/5
+17.6 Jasprit Bumrah to Deepak Hooda 0 Score: 140/5
+18.1 Trent Boult to Harpreet Brar 1 Score: 141/5
+18.2 Trent Boult to Deepak Hooda 0 Score: 141/5
+18.3 Trent Boult to Deepak Hooda 6 Score: 147/5
+18.4 Trent Boult to Deepak Hooda 1 Score: 148/5
+18.5 Trent Boult to Harpreet Brar 6 Score: 154/5
+18.6 Trent Boult to Harpreet Brar 0 Score: 154/5
+19.1 Hardik Pandya to Deepak Hooda 6 Score: 160/5
+19.2 Hardik Pandya to Deepak Hooda 1 Score: 161/5
+19.3 Hardik Pandya to Harpreet Brar W Score: 161/6 Caught by Suryakumar Yadav
+19.4 Hardik Pandya to Chris Jordan Wide Score: 162/6
+19.5 Hardik Pandya to Chris Jordan 1 Score: 163/6
+19.6 Hardik Pandya to Deepak Hooda 6 Score: 169/6
+19.7 Hardik Pandya to Deepak Hooda 2 Score: 171/6
++-----------------+--------+---------+--------+-------------------------+
+| Player          |   Runs |   Balls | SR     | Out                     |
++=================+========+=========+========+=========================+
+| KL Rahul        |     49 |      35 | 140.0  | bowled b RD Chahar      |
++-----------------+--------+---------+--------+-------------------------+
+| MA Agarwal      |     41 |      37 | 110.81 | Not out                 |
++-----------------+--------+---------+--------+-------------------------+
+| CH Gayle        |     11 |      11 | 100.0  | c HH Pandya b J Yadav   |
++-----------------+--------+---------+--------+-------------------------+
+| DJ Hooda        |     23 |      11 | 209.09 | Not out                 |
++-----------------+--------+---------+--------+-------------------------+
+| N Pooran        |     23 |      17 | 135.29 | bowled b JJ Bumrah      |
++-----------------+--------+---------+--------+-------------------------+
+| M Shahrukh Khan |     10 |       3 | 333.33 | c RG Sharma b JJ Bumrah |
++-----------------+--------+---------+--------+-------------------------+
+| Harpreet Brar   |      8 |       5 | 160.0  | c SA Yadav b HH Pandya  |
++-----------------+--------+---------+--------+-------------------------+
+| RP Meredith     |      0 |       0 | DNB    |                         |
++-----------------+--------+---------+--------+-------------------------+
+| Ravi Bishnoi    |      0 |       0 | DNB    |                         |
++-----------------+--------+---------+--------+-------------------------+
+| Mohammed Shami  |      0 |       0 | DNB    |                         |
++-----------------+--------+---------+--------+-------------------------+
+| CJ Jordan       |      1 |       1 | 100.0  | Not out                 |
++-----------------+--------+---------+--------+-------------------------+
 +--------------+--------+---------+-----------+-------+
 | Player       |   Runs |   Overs |   Wickets | Eco   |
 +==============+========+=========+===========+=======+
@@ -157,174 +160,121 @@ pbks won the toss and chose to bat
 +--------------+--------+---------+-----------+-------+
 | Ishan Kishan |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| KA Pollard   |      0 |       0 |         0 | NA    |
+| KA Pollard   |     12 |       2 |         0 | 6.0   |
 +--------------+--------+---------+-----------+-------+
-| HH Pandya    |     15 |       1 |         0 | 15.0  |
+| HH Pandya    |     17 |       1 |         1 | 17.0  |
 +--------------+--------+---------+-----------+-------+
-| KH Pandya    |     36 |       4 |         1 | 9.0   |
+| KH Pandya    |     35 |       4 |         0 | 8.75  |
 +--------------+--------+---------+-----------+-------+
-| J Yadav      |     29 |       4 |         1 | 7.25  |
+| J Yadav      |     13 |       2 |         1 | 6.5   |
 +--------------+--------+---------+-----------+-------+
-| RD Chahar    |     28 |       4 |         1 | 7.0   |
+| RD Chahar    |     25 |       4 |         1 | 6.25  |
 +--------------+--------+---------+-----------+-------+
-| JJ Bumrah    |     25 |       4 |         2 | 6.25  |
+| JJ Bumrah    |     35 |       4 |         2 | 8.75  |
 +--------------+--------+---------+-----------+-------+
-| TA Boult     |     28 |       3 |         2 | 9.33  |
+| TA Boult     |     34 |       3 |         0 | 11.33 |
 +--------------+--------+---------+-----------+-------+
-0.1 Riley Meredith to Quinton de Kock Wide Score: 1/0
-0.2 Riley Meredith to Quinton de Kock 0 Score: 1/0
-0.3 Riley Meredith to Quinton de Kock 4 Score: 5/0
-0.4 Riley Meredith to Quinton de Kock 0 Score: 5/0
-0.5 Riley Meredith to Quinton de Kock 0 Score: 5/0
-0.6 Riley Meredith to Quinton de Kock 1 Score: 6/0
-0.7 Riley Meredith to Rohit Sharma 0 Score: 6/0
-1.1 Harpreet Brar to Quinton de Kock 0 Score: 6/0
-1.2 Harpreet Brar to Quinton de Kock 2 Score: 8/0
-1.3 Harpreet Brar to Quinton de Kock 1 Score: 9/0
-1.4 Harpreet Brar to Rohit Sharma 0 Score: 9/0
-1.5 Harpreet Brar to Rohit Sharma 0 Score: 9/0
-1.6 Harpreet Brar to Rohit Sharma 1 Score: 10/0
-2.1 Riley Meredith to Rohit Sharma 2 Score: 12/0
-2.2 Riley Meredith to Rohit Sharma 0 Score: 12/0
-2.3 Riley Meredith to Rohit Sharma 1 Score: 13/0
-2.4 Riley Meredith to Quinton de Kock 1 Score: 14/0
-2.5 Riley Meredith to Rohit Sharma 4 Score: 18/0
-2.6 Riley Meredith to Rohit Sharma W Score: 18/1 Caught by Mohammed Shami
-3.1 Harpreet Brar to Quinton de Kock 0 Score: 18/1
-3.2 Harpreet Brar to Quinton de Kock 2 Score: 20/1
-3.3 Harpreet Brar to Quinton de Kock 0 Score: 20/1
-3.4 Harpreet Brar to Quinton de Kock 4 Score: 24/1
-3.5 Harpreet Brar to Quinton de Kock 6 Score: 30/1
-3.6 Harpreet Brar to Quinton de Kock 6 Score: 36/1
-4.1 Mohammed Shami to Suryakumar Yadav 4 Score: 40/1
-4.2 Mohammed Shami to Suryakumar Yadav 1 Score: 41/1
-4.3 Mohammed Shami to Quinton de Kock 0 Score: 41/1
-4.4 Mohammed Shami to Quinton de Kock 1 Score: 42/1
-4.5 Mohammed Shami to Suryakumar Yadav 0 Score: 42/1
-4.6 Mohammed Shami to Suryakumar Yadav 0 Score: 42/1
-5.1 Ravi Bishnoi to Quinton de Kock 1 Score: 43/1
-5.2 Ravi Bishnoi to Suryakumar Yadav 1 Score: 44/1
-5.3 Ravi Bishnoi to Quinton de Kock 2 Score: 46/1
-5.4 Ravi Bishnoi to Quinton de Kock 1 Score: 47/1
-5.5 Ravi Bishnoi to Suryakumar Yadav 0 Score: 47/1
-5.6 Ravi Bishnoi to Suryakumar Yadav 1 Score: 48/1
-6.1 Mohammed Shami to Suryakumar Yadav 0 Score: 48/1
-6.2 Mohammed Shami to Suryakumar Yadav 4 Score: 52/1
-6.3 Mohammed Shami to Suryakumar Yadav 4 Score: 56/1
-6.4 Mohammed Shami to Suryakumar Yadav 0 Score: 56/1
-6.5 Mohammed Shami to Suryakumar Yadav 0 Score: 56/1
-6.6 Mohammed Shami to Suryakumar Yadav 4 Score: 60/1
-7.1 Ravi Bishnoi to Quinton de Kock 1 Score: 61/1
-7.2 Ravi Bishnoi to Suryakumar Yadav Wide Score: 62/1
-7.3 Ravi Bishnoi to Suryakumar Yadav 1 Score: 63/1
-7.4 Ravi Bishnoi to Quinton de Kock 6 Score: 69/1
-7.5 Ravi Bishnoi to Quinton de Kock 1 Score: 70/1
-7.6 Ravi Bishnoi to Suryakumar Yadav 0 Score: 70/1
-7.7 Ravi Bishnoi to Suryakumar Yadav 4 Score: 74/1
-8.1 Mohammed Shami to Quinton de Kock 1 Score: 75/1
-8.2 Mohammed Shami to Suryakumar Yadav 0 Score: 75/1
-8.3 Mohammed Shami to Suryakumar Yadav 0 Score: 75/1
-8.4 Mohammed Shami to Suryakumar Yadav 4 Score: 79/1
-8.5 Mohammed Shami to Suryakumar Yadav 0 Score: 79/1
-8.6 Mohammed Shami to Suryakumar Yadav 4 Score: 83/1
-9.1 Ravi Bishnoi to Quinton de Kock W Score: 83/2 Bowled
-9.2 Ravi Bishnoi to Ishan Kishan 0 Score: 83/2
-9.3 Ravi Bishnoi to Ishan Kishan 0 Score: 83/2
-9.4 Ravi Bishnoi to Ishan Kishan 1 Score: 84/2
-9.5 Ravi Bishnoi to Suryakumar Yadav 0 Score: 84/2
-9.6 Ravi Bishnoi to Suryakumar Yadav 1 Score: 85/2
-10.1 Chris Jordan to Suryakumar Yadav 1 Score: 86/2
-10.2 Chris Jordan to Ishan Kishan 1 Score: 87/2
-10.3 Chris Jordan to Suryakumar Yadav 0 Score: 87/2
-10.4 Chris Jordan to Suryakumar Yadav 1 Score: 88/2
-10.5 Chris Jordan to Ishan Kishan 0 Score: 88/2
-10.6 Chris Jordan to Ishan Kishan 0 Score: 88/2
-11.1 Ravi Bishnoi to Suryakumar Yadav 0 Score: 88/2
-11.2 Ravi Bishnoi to Suryakumar Yadav 0 Score: 88/2
-11.3 Ravi Bishnoi to Suryakumar Yadav 4 Score: 92/2
-11.4 Ravi Bishnoi to Suryakumar Yadav W Score: 92/3 Bowled
-11.5 Ravi Bishnoi to Hardik Pandya 1 Score: 93/3
-11.6 Ravi Bishnoi to Ishan Kishan 1 Score: 94/3
-12.1 Chris Jordan to Ishan Kishan 0 Score: 94/3
-12.2 Chris Jordan to Ishan Kishan 4 Score: 98/3
-12.3 Chris Jordan to Ishan Kishan Wide Score: 99/3
-12.4 Chris Jordan to Ishan Kishan 0 Score: 99/3
-12.5 Chris Jordan to Ishan Kishan 0 Score: 99/3
-12.6 Chris Jordan to Ishan Kishan 0 Score: 99/3
-12.7 Chris Jordan to Ishan Kishan 1 Score: 100/3
-13.1 Mohammed Shami to Ishan Kishan 4 Score: 104/3
-13.2 Mohammed Shami to Ishan Kishan 1 Score: 105/3
-13.3 Mohammed Shami to Hardik Pandya 1 Score: 106/3
-13.4 Mohammed Shami to Ishan Kishan 0 Score: 106/3
-13.5 Mohammed Shami to Ishan Kishan 0 Score: 106/3
-13.6 Mohammed Shami to Ishan Kishan 0 Score: 106/3
-14.1 Chris Jordan to Hardik Pandya 0 Score: 106/3
-14.2 Chris Jordan to Hardik Pandya 1 Score: 107/3
-14.3 Chris Jordan to Ishan Kishan Wide Score: 108/3
-14.4 Chris Jordan to Ishan Kishan 1 Score: 109/3
-14.5 Chris Jordan to Hardik Pandya 0 Score: 109/3
-14.6 Chris Jordan to Hardik Pandya 2 Score: 111/3
-14.7 Chris Jordan to Hardik Pandya 2 Score: 113/3
-15.1 Chris Gayle to Ishan Kishan 0 Score: 113/3
-15.2 Chris Gayle to Ishan Kishan 1 Score: 114/3
-15.3 Chris Gayle to Hardik Pandya 0 Score: 114/3
-15.4 Chris Gayle to Hardik Pandya 0 Score: 114/3
-15.5 Chris Gayle to Hardik Pandya Wide Score: 115/3
-15.6 Chris Gayle to Hardik Pandya 1 Score: 116/3
-15.6 Chris Gayle to Hardik Pandya 4 Score: 120/3
-15.7 Chris Gayle to Ishan Kishan 0 Score: 120/3
-16.1 Deepak Hooda to Hardik Pandya 0 Score: 120/3
-16.2 Deepak Hooda to Hardik Pandya 1 Score: 121/3
-16.3 Deepak Hooda to Ishan Kishan 0 Score: 121/3
-16.4 Deepak Hooda to Ishan Kishan 0 Score: 121/3
-16.5 Deepak Hooda to Ishan Kishan 0 Score: 121/3
-16.6 Deepak Hooda to Ishan Kishan 0 Score: 121/3
-17.1 Riley Meredith to Hardik Pandya 0 Score: 121/3
-17.2 Riley Meredith to Hardik Pandya 1 Score: 122/3
-17.3 Riley Meredith to Ishan Kishan 4 Score: 126/3
-17.4 Riley Meredith to Ishan Kishan 1 Score: 127/3
-17.5 Riley Meredith to Hardik Pandya 0 Score: 127/3
-17.6 Riley Meredith to Hardik Pandya W Score: 127/4 Bowled
-18.1 Chris Jordan to Ishan Kishan 2 Score: 129/4
-18.2 Chris Jordan to Ishan Kishan 0 Score: 129/4
-18.3 Chris Jordan to Ishan Kishan W Score: 129/5 Caught by Mayank Agarwal
-18.4 Chris Jordan to Krunal Pandya 0 Score: 129/5
-18.5 Chris Jordan to Krunal Pandya 1 Score: 130/5
-18.6 Chris Jordan to Kieron Pollard 4 Score: 134/5
-19.1 Riley Meredith to Krunal Pandya 1 Score: 135/5
-19.2 Riley Meredith to Kieron Pollard 1 Score: 136/5
-19.3 Riley Meredith to Krunal Pandya Wide Score: 137/5
-19.4 Riley Meredith to Krunal Pandya 4 Score: 141/5
-19.5 Riley Meredith to Krunal Pandya Wide Score: 142/5
-19.6 Riley Meredith to Krunal Pandya 4 Score: 146/5
-19.7 Riley Meredith to Krunal Pandya 6 Score: 152/5
-19.8 Riley Meredith to Krunal Pandya 0 Score: 152/5
-pbks won by 9 runs
-+--------------+--------+---------+--------+--------------------------------+
-| Player       |   Runs |   Balls | SR     | Out                            |
-+==============+========+=========+========+================================+
-| Q de Kock    |     41 |      25 | 164.0  | bowled b Ravi Bishnoi          |
-+--------------+--------+---------+--------+--------------------------------+
-| RG Sharma    |      8 |       9 | 88.89  | c Mohammed Shami b RP Meredith |
-+--------------+--------+---------+--------+--------------------------------+
-| SA Yadav     |     39 |      30 | 130.0  | bowled b Ravi Bishnoi          |
-+--------------+--------+---------+--------+--------------------------------+
-| Ishan Kishan |     22 |      31 | 70.97  | c MA Agarwal b CJ Jordan       |
-+--------------+--------+---------+--------+--------------------------------+
-| KA Pollard   |      5 |       2 | 250.0  | Not out                        |
-+--------------+--------+---------+--------+--------------------------------+
-| HH Pandya    |     14 |      17 | 82.35  | bowled b RP Meredith           |
-+--------------+--------+---------+--------+--------------------------------+
-| KH Pandya    |     16 |       7 | 228.57 | Not out                        |
-+--------------+--------+---------+--------+--------------------------------+
-| J Yadav      |      0 |       0 | DNB    |                                |
-+--------------+--------+---------+--------+--------------------------------+
-| RD Chahar    |      0 |       0 | DNB    |                                |
-+--------------+--------+---------+--------+--------------------------------+
-| JJ Bumrah    |      0 |       0 | DNB    |                                |
-+--------------+--------+---------+--------+--------------------------------+
-| TA Boult     |      0 |       0 | DNB    |                                |
-+--------------+--------+---------+--------+--------------------------------+
+0.1 Riley Meredith to Quinton de Kock 1 Score: 1/0
+0.2 Riley Meredith to Rohit Sharma 0 Score: 1/0
+0.3 Riley Meredith to Rohit Sharma 1 Score: 2/0
+0.4 Riley Meredith to Quinton de Kock 4 Score: 6/0
+0.5 Riley Meredith to Quinton de Kock 1 Score: 7/0
+0.6 Riley Meredith to Rohit Sharma 0 Score: 7/0
+1.1 Harpreet Brar to Quinton de Kock 2 Score: 9/0
+1.2 Harpreet Brar to Quinton de Kock 0 Score: 9/0
+1.3 Harpreet Brar to Quinton de Kock 2 Score: 11/0
+1.4 Harpreet Brar to Quinton de Kock 2 Score: 13/0
+1.5 Harpreet Brar to Quinton de Kock 0 Score: 13/0
+1.6 Harpreet Brar to Quinton de Kock 1 Score: 14/0
+2.1 Riley Meredith to Quinton de Kock 0 Score: 14/0
+2.2 Riley Meredith to Quinton de Kock 2 Score: 16/0
+2.3 Riley Meredith to Quinton de Kock 1 Score: 17/0
+2.4 Riley Meredith to Rohit Sharma 2 Score: 19/0
+2.5 Riley Meredith to Rohit Sharma 1 Score: 20/0
+2.6 Riley Meredith to Quinton de Kock 0 Score: 20/0
+3.1 Harpreet Brar to Rohit Sharma 0 Score: 20/0
+3.2 Harpreet Brar to Rohit Sharma 4 Score: 24/0
+3.3 Harpreet Brar to Rohit Sharma 4 Score: 28/0
+3.4 Harpreet Brar to Rohit Sharma W Score: 28/1 Bowled
+3.5 Harpreet Brar to Suryakumar Yadav 1 Score: 29/1
+3.6 Harpreet Brar to Quinton de Kock 1 Score: 30/1
+4.1 Mohammed Shami to Quinton de Kock 4 Score: 34/1
+4.2 Mohammed Shami to Quinton de Kock 1 Score: 35/1
+4.3 Mohammed Shami to Suryakumar Yadav 1 Score: 36/1
+4.4 Mohammed Shami to Quinton de Kock 0 Score: 36/1
+4.5 Mohammed Shami to Quinton de Kock 1 Score: 37/1
+4.6 Mohammed Shami to Suryakumar Yadav 4 Score: 41/1
+5.1 Ravi Bishnoi to Quinton de Kock 4 Score: 45/1
+5.2 Ravi Bishnoi to Quinton de Kock 0 Score: 45/1
+5.3 Ravi Bishnoi to Quinton de Kock 0 Score: 45/1
+5.4 Ravi Bishnoi to Quinton de Kock 0 Score: 45/1
+5.5 Ravi Bishnoi to Quinton de Kock W Score: 45/2 Caught by Mayank Agarwal
+5.6 Ravi Bishnoi to Ishan Kishan 1 Score: 46/2
+6.1 Mohammed Shami to Ishan Kishan W Score: 46/3 Caught by Mayank Agarwal
+6.2 Mohammed Shami to Hardik Pandya 1 Score: 47/3
+6.3 Mohammed Shami to Suryakumar Yadav 0 Score: 47/3
+6.4 Mohammed Shami to Suryakumar Yadav 0 Score: 47/3
+6.5 Mohammed Shami to Suryakumar Yadav 1 Score: 48/3
+6.6 Mohammed Shami to Hardik Pandya 1 Score: 49/3
+7.1 Ravi Bishnoi to Hardik Pandya 0 Score: 49/3
+7.2 Ravi Bishnoi to Hardik Pandya 1 Score: 50/3
+7.3 Ravi Bishnoi to Suryakumar Yadav 1 Score: 51/3
+7.4 Ravi Bishnoi to Hardik Pandya 1 Score: 52/3
+7.5 Ravi Bishnoi to Suryakumar Yadav 4 Score: 56/3
+7.6 Ravi Bishnoi to Suryakumar Yadav 1 Score: 57/3
+8.1 Mohammed Shami to Suryakumar Yadav 0 Score: 57/3
+8.2 Mohammed Shami to Suryakumar Yadav 4 Score: 61/3
+8.3 Mohammed Shami to Suryakumar Yadav 0 Score: 61/3
+8.4 Mohammed Shami to Suryakumar Yadav Wide Score: 62/3
+8.5 Mohammed Shami to Suryakumar Yadav 1 Score: 63/3
+8.6 Mohammed Shami to Hardik Pandya 0 Score: 63/3
+8.7 Mohammed Shami to Hardik Pandya 1 Score: 64/3
+9.1 Ravi Bishnoi to Hardik Pandya W Score: 64/4 Caught by Nicholas Pooran
+9.2 Ravi Bishnoi to Kieron Pollard 0 Score: 64/4
+9.3 Ravi Bishnoi to Kieron Pollard W Score: 64/5 Caught by KL Rahul
+9.4 Ravi Bishnoi to Krunal Pandya Wide Score: 65/5
+9.5 Ravi Bishnoi to Krunal Pandya 2 Score: 67/5
+9.6 Ravi Bishnoi to Krunal Pandya 1 Score: 68/5
+9.7 Ravi Bishnoi to Suryakumar Yadav W Score: 68/6 Caught by Shahrukh Khan
+10.1 Chris Jordan to Krunal Pandya 1 Score: 69/6
+10.2 Chris Jordan to Jayant Yadav W Score: 69/7 Run Out!
+10.3 Chris Jordan to Rahul Chahar W Score: 69/8 Caught by Shahrukh Khan
+10.4 Chris Jordan to Jasprit Bumrah 1 Score: 70/8
+10.5 Chris Jordan to Krunal Pandya 0 Score: 70/8
+10.6 Chris Jordan to Krunal Pandya 4 Score: 74/8
+11.1 Ravi Bishnoi to Jasprit Bumrah Wide Score: 75/8
+11.2 Ravi Bishnoi to Jasprit Bumrah W Score: 75/9 Caught by KL Rahul
+11.3 Ravi Bishnoi to Trent Boult 6 Score: 81/9
+11.4 Ravi Bishnoi to Trent Boult 1 Score: 82/9
+11.5 Ravi Bishnoi to Krunal Pandya Wide Score: 83/9
+11.6 Ravi Bishnoi to Krunal Pandya W Score: 83/10 Caught by Mayank Agarwal
+ALL OUT
+pbks won by 88 runs
++--------------+--------+---------+--------+----------------------------------+
+| Player       |   Runs |   Balls |     SR | Out                              |
++==============+========+=========+========+==================================+
+| Q de Kock    |     27 |      23 | 117.39 | c MA Agarwal b Ravi Bishnoi      |
++--------------+--------+---------+--------+----------------------------------+
+| RG Sharma    |     12 |       9 | 133.33 | bowled b Harpreet Brar           |
++--------------+--------+---------+--------+----------------------------------+
+| SA Yadav     |     18 |      14 | 128.57 | c M Shahrukh Khan b Ravi Bishnoi |
++--------------+--------+---------+--------+----------------------------------+
+| Ishan Kishan |      1 |       2 |  50    | c MA Agarwal b Mohammed Shami    |
++--------------+--------+---------+--------+----------------------------------+
+| KA Pollard   |      0 |       2 |   0    | c KL Rahul b Ravi Bishnoi        |
++--------------+--------+---------+--------+----------------------------------+
+| HH Pandya    |      5 |       8 |  62.5  | c N Pooran b Ravi Bishnoi        |
++--------------+--------+---------+--------+----------------------------------+
+| KH Pandya    |      8 |       6 | 133.33 | c MA Agarwal b Ravi Bishnoi      |
++--------------+--------+---------+--------+----------------------------------+
+| J Yadav      |      0 |       1 |   0    | Not out                          |
++--------------+--------+---------+--------+----------------------------------+
+| RD Chahar    |      0 |       1 |   0    | c M Shahrukh Khan b CJ Jordan    |
++--------------+--------+---------+--------+----------------------------------+
+| JJ Bumrah    |      1 |       2 |  50    | c KL Rahul b Ravi Bishnoi        |
++--------------+--------+---------+--------+----------------------------------+
+| TA Boult     |      7 |       2 | 350    | Not out                          |
++--------------+--------+---------+--------+----------------------------------+
 +-----------------+--------+---------+-----------+-------+
 | Player          |   Runs |   Overs |   Wickets | Eco   |
 +=================+========+=========+===========+=======+
@@ -332,21 +282,21 @@ pbks won by 9 runs
 +-----------------+--------+---------+-----------+-------+
 | MA Agarwal      |      0 |     0   |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| CH Gayle        |      7 |     1.1 |         0 | 6.0   |
+| CH Gayle        |      0 |     0   |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| DJ Hooda        |      1 |     1   |         0 | 1.0   |
+| DJ Hooda        |      0 |     0   |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
 | N Pooran        |      0 |     0   |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
 | M Shahrukh Khan |      0 |     0   |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| Harpreet Brar   |     22 |     2   |         0 | 11.0  |
+| Harpreet Brar   |     17 |     2   |         1 | 8.5   |
 +-----------------+--------+---------+-----------+-------+
-| RP Meredith     |     38 |     4   |         2 | 9.5   |
+| RP Meredith     |     13 |     2   |         0 | 6.5   |
 +-----------------+--------+---------+-----------+-------+
-| Ravi Bishnoi    |     28 |     4   |         2 | 7.0   |
+| Ravi Bishnoi    |     26 |     3.4 |         6 | 7.09  |
 +-----------------+--------+---------+-----------+-------+
-| Mohammed Shami  |     33 |     4   |         0 | 8.25  |
+| Mohammed Shami  |     21 |     3   |         1 | 7.0   |
 +-----------------+--------+---------+-----------+-------+
-| CJ Jordan       |     23 |     4   |         1 | 5.75  |
+| CJ Jordan       |      6 |     1   |         1 | 6.0   |
 +-----------------+--------+---------+-----------+-------+

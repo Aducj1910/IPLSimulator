@@ -71,6 +71,7 @@ innings2Balls = None
 innings1Runs = None
 innings2Runs = None
 winner = None
+winMsg = None
 
 def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch, team1, team2):
     battingLikely =  0.45
@@ -138,7 +139,7 @@ def pitchInfo(venue, typeOfPitch):
 
 
 def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, dew, detoriate):
-    global target, innings1Balls, innings1Runs, innings1Batting, innings2Batting, winner
+    global target, innings1Balls, innings1Runs, innings1Batting, innings2Batting, winner, winMsg
     # print(battingName, bowlingName, pace, spin, outfield, dew, detoriate)
     bowlerTracker = {} #add names of all in innings def
     batterTracker = {} #add names of all in innings def
@@ -1039,7 +1040,7 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
 def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, dew, detoriate):
     # print(battingName, bowlingName, pace, spin, outfield, dew, detoriate)
-    global innings2Batting, innings2Bowling, innings2Runs, innings2Balls, winner
+    global innings2Batting, innings2Bowling, innings2Runs, innings2Balls, winner, winMsg
     bowlerTracker = {} #add names of all in innings def
     batterTracker = {} #add names of all in innings def
     battingOrder = []
@@ -1213,7 +1214,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
     def delivery(bowler, batter, over):
         nonlocal batterTracker, bowlerTracker, onStrike, ballLog, balls, runs, wickets, targetChased
-        global winner
+        global winner, winMsg
         batInfo = None
         bowlInfo = None
         wideRate = bowler['bowlWideRate']
@@ -1569,23 +1570,23 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
             elif(rrro >= 8 and rrro <= 10.4):
                 if(wickets < 3):
-                    adjust = random.uniform(0.6, 0.095)
-                    denAvg['6'] += adjust * (1.2/3)
-                    denAvg['4'] += adjust * (1.4/3)
-                    denAvg['0'] += adjust * (0.3/3)
+                    adjust = random.uniform(0.6, 0.08)
+                    denAvg['6'] += adjust * (1/3)
+                    denAvg['4'] += adjust * (1.2/3)
+                    denAvg['0'] += adjust * (0.5/3)
                     denAvg['1'] -= adjust * (1/3)
-                    denAvg['2'] -= adjust * (0.5/3)
-                    outAvg -= 0.018
+                    denAvg['2'] -= adjust * (1/3)
+                    outAvg += 0.015
                     getOutcome(denAvg, outAvg, over)
                     
                 else:
                     adjust = random.uniform(0.04, 0.08)
                     denAvg['6'] += adjust * (0.95/3)
-                    denAvg['4'] += adjust * (1.25/3)
-                    denAvg['0'] += adjust * (0.49/3)
+                    denAvg['4'] += adjust * (1.15/3)
+                    denAvg['0'] += adjust * (0.5/3)
                     denAvg['1'] -= adjust * (0.9/3)
                     denAvg['2'] -= adjust * (0.7/3)
-                    outAvg -= 0.022
+                    outAvg += 0.01
                     getOutcome(denAvg, outAvg, over)
 
 
@@ -1619,23 +1620,23 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 if(balls > 85):
                     if(wickets < 3):
                         adjust = random.uniform(0.065, 0.115)
-                        denAvg['6'] += adjust * (2/3)
-                        denAvg['4'] += adjust * (1.5/3)
+                        denAvg['6'] += adjust * (1.5/3)
+                        denAvg['4'] += adjust * (1.2/3)
                         denAvg['0'] += adjust * (1.4/3)
                         denAvg['1'] -= adjust * (1.2/3)
-                        denAvg['2'] -= adjust * (1.6/3)
+                        denAvg['2'] -= adjust * (1.7/3)
                         denAvg['3'] -= adjust * (0.9/3)
-                        outAvg += 0.045
+                        outAvg += 0.05
                         getOutcome(denAvg, outAvg, over)
                     else:
                         adjust = random.uniform(0.05, 0.1)
-                        denAvg['6'] += adjust * (1.5/3)
-                        denAvg['4'] += adjust * (1/3)
+                        denAvg['6'] += adjust * (1.2/3)
+                        denAvg['4'] += adjust * (0.8/3)
                         denAvg['0'] += adjust * (1.2/3)
                         denAvg['1'] -= adjust * (1.2/3)
                         denAvg['2'] -= adjust * (1.6/3)
                         denAvg['3'] -= adjust * (0.9/3)
-                        outAvg += 0.055
+                        outAvg += 0.06
                         getOutcome(denAvg, outAvg, over)
                 else:
                         adjust = random.uniform(0.05, 0.1)
@@ -1696,14 +1697,17 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
         if(runs == (target - 1) and (balls == 120 or wickets == 10)):
             print("Match tied")
             winner = "tie"
+            winMsg = "Match Tied"
         else:
             if(runs >= target):
                 print(f"{battingName} won by {10 - wickets} wickets")
                 winner = battingName
+                winMsg = f"{battingName} won by {10 - wickets} wickets"
                 targetChased = True
             elif(balls == 120 or wickets == 10):
                 print(f"{bowlingName} won by {(target - 1) - runs} runs")
                 winner = bowlingName
+                winMsg = f"{bowlingName} won by {(target - 1) - runs} runs"
 
 
         # elif(balls >= 36 and balls < 102):
@@ -1859,31 +1863,34 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                 expIndex += 1
 
                             while(not valid):
-                                pick = bowlingMiddle[random.randint(0,loopIndex)]
-                                pickInfo = bowlerTracker[pick['playerInitials']]
-                                if(pickInfo['balls'] == 0):
-                                    bowlerToReturn = pick
-                                    valid = True
-                                else:
-                                    if(inDeathBowlers(pickInfo)):
-                                        if(pickInfo['balls'] < 11 and (pickInfo['runs'] / pickInfo['balls']) < 1.5):
-                                            if(pickInfo['playerInitials'] != lastOver):
-                                                bowlerToReturn = pick
-                                                valid = True
-                                        elif(pickInfo['balls'] < 11 and pickInfo['runs'] / pickInfo['balls'] > 0.088):
-                                            if(pickInfo['playerInitials'] != lastOver):
-                                                bowlerToReturn = pick
-                                                valid = True
+                                if(loopIndex > 10):
+                                    pass
+                                else: 
+                                    pick = bowlingMiddle[random.randint(0,loopIndex)]
+                                    pickInfo = bowlerTracker[pick['playerInitials']]
+                                    if(pickInfo['balls'] == 0):
+                                        bowlerToReturn = pick
+                                        valid = True
                                     else:
-                                        if(pickInfo['balls'] < 24 and (pickInfo['runs'] / pickInfo['balls']) < 1.5):
-                                            if(pickInfo['playerInitials'] != lastOver):
-                                                bowlerToReturn = pick
-                                                valid = True
-                                        elif(pickInfo['balls'] < 11 and pickInfo['runs'] / pickInfo['balls'] > 0.088):
-                                            if(pickInfo['playerInitials'] != lastOver):
-                                                bowlerToReturn = pick
-                                                valid = True
-                                loopIndex += 1
+                                        if(inDeathBowlers(pickInfo)):
+                                            if(pickInfo['balls'] < 11 and (pickInfo['runs'] / pickInfo['balls']) < 1.5):
+                                                if(pickInfo['playerInitials'] != lastOver):
+                                                    bowlerToReturn = pick
+                                                    valid = True
+                                            elif(pickInfo['balls'] < 11 and pickInfo['runs'] / pickInfo['balls'] > 0.088):
+                                                if(pickInfo['playerInitials'] != lastOver):
+                                                    bowlerToReturn = pick
+                                                    valid = True
+                                        else:
+                                            if(pickInfo['balls'] < 24 and (pickInfo['runs'] / pickInfo['balls']) < 1.5):
+                                                if(pickInfo['playerInitials'] != lastOver):
+                                                    bowlerToReturn = pick
+                                                    valid = True
+                                            elif(pickInfo['balls'] < 11 and pickInfo['runs'] / pickInfo['balls'] > 0.088):
+                                                if(pickInfo['playerInitials'] != lastOver):
+                                                    bowlerToReturn = pick
+                                                    valid = True
+                                    loopIndex += 1
 
                 else:
                     if((bowlerDict['balls'] > 19) or (bowlerDict['runs'] / bowlerDict['balls']) > 1.6 or ((bowlerDict['runs'] / bowlerDict['balls']) - (balls / runs)) > 0.2 ):
@@ -2176,7 +2183,7 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None):
     sys.stdout.close()
     sys.stdout=stdoutOrigin
     return [innings1Batting, innings1Bowling, innings2Batting, innings2Bowling, 120, 
-        innings2Balls, innings1Runs, innings2Runs,getBatting()[2] ,getBatting()[3] ,  winner]
+        innings2Balls, innings1Runs, innings2Runs,winMsg , getBatting()[2] ,getBatting()[3] ,  winner]
 
 
 

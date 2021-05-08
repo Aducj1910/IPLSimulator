@@ -6,12 +6,15 @@ points = {}
 for i in teams:
 	points[i] = {"P": 0, "W": 0, "L": 0, "T": 0, "runsScored": 0, "ballsFaced": 0, "runsConceded": 0, "ballsBowled": 0, "pts": 0}
 
+battingf = 0
+bowlingf = 0
 
 for i in teams:
 	team1 = i
 	for j in teams:
 		if(i != j):
 			team2 = j
+			print(f"Welcome to {i.upper()} vs {j.upper()}")
 			resList = game(False, i, j)
 			print(resList[0])
 			print(resList[2])
@@ -23,10 +26,17 @@ for i in teams:
 
 			innings1Bat = resList[-3]
 			innings2Bat = resList[-2]
+			winMsg = resList[8]
 
 			loser = i
 			if(winner == i):
 				loser = j
+
+			print(winMsg)
+			if("runs" in winMsg):
+				battingf += 1
+			else:
+				bowlingf += 1
 			
 
 
@@ -91,5 +101,6 @@ pointsTabulate = sorted(pointsTabulate, key=lambda x: (x[6], -x[5]))
 pointsTabulate.reverse()
 
 print(tabulate(pointsTabulate, ["Team", "Played", "Won", "Lost" ,"Tied", "NRR", "Points"], tablefmt="grid"))
+print("bat", battingf, "bowl", bowlingf)
 
 
