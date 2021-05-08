@@ -1507,13 +1507,13 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 outAvg += (0.02 + ((rrro*1.1)/1000))
                 getOutcome(denAvg, outAvg, over)
 
-        elif(balls >= 36 and balls < 120): #102 usually, now 120
+        elif(balls >= 36 and balls < 102): #102 usually, now 120
             rrro = rrr*6
             if(rrro < 8):
                 if(wickets < 3):
                     adjust = random.uniform(0.06, 0.1)
-                    denAvg['6'] -= adjust * (1/3)
-                    denAvg['4'] -= adjust * (0.5/3)
+                    denAvg['6'] -= adjust * (0.8/3)
+                    # denAvg['4'] -= adjust * (0.5/3)
                     denAvg['0'] -= adjust * (1/3)
                     denAvg['2'] += adjust * (1/3)
                     denAvg['1'] += adjust * (1.5/3)
@@ -1521,31 +1521,31 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                     getOutcome(denAvg, outAvg, over)
                 else:
                     adjust = random.uniform(0.05, 0.09)
-                    denAvg['6'] -= adjust * (2/3)
-                    denAvg['4'] -= adjust * (1/3)
+                    # denAvg['6'] -= adjust * (2/3)
+                    # denAvg['4'] -= adjust * (1/3)
                     denAvg['1'] += adjust
                     outAvg -= 0.04
                     getOutcome(denAvg, outAvg, over)
 
             elif(rrro >= 8 and rrro <= 10.4):
                 if(wickets < 3):
-                    adjust = random.uniform(0.055, 0.095)
-                    denAvg['6'] += adjust * (1/3)
+                    adjust = random.uniform(0.65, 0.1)
+                    denAvg['6'] += adjust * (1.2/3)
                     denAvg['4'] += adjust * (1.4/3)
-                    denAvg['0'] += adjust * (0.6/3)
+                    denAvg['0'] += adjust * (0.3/3)
                     denAvg['1'] -= adjust * (1/3)
                     denAvg['2'] -= adjust * (0.5/3)
-                    outAvg -= 0.015
+                    outAvg -= 0.018
                     getOutcome(denAvg, outAvg, over)
                     
                 else:
                     adjust = random.uniform(0.04, 0.08)
-                    denAvg['6'] += adjust * (0.75/3)
-                    denAvg['4'] += adjust * (1.15/3)
-                    denAvg['0'] += adjust * (0.9/3)
-                    denAvg['1'] -= adjust * (1/3)
-                    denAvg['2'] -= adjust * (0.6/3)
-                    outAvg -= 0.025
+                    denAvg['6'] += adjust * (0.95/3)
+                    denAvg['4'] += adjust * (1.25/3)
+                    denAvg['0'] += adjust * (0.49/3)
+                    denAvg['1'] -= adjust * (0.9/3)
+                    denAvg['2'] -= adjust * (0.7/3)
+                    outAvg -= 0.022
                     getOutcome(denAvg, outAvg, over)
 
 
@@ -1630,7 +1630,26 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                     getOutcome(denAvg, outAvg, over)
 
 
-        else:
+        else: #works very well with 120, try to adjust a bit for death and middle but
+        #dont tinker too much
+            rrro = rrr*6
+            if(wickets < 7 or rrro > 12):
+                defenseAndOneAdjustment = random.uniform(0.07, 0.1)
+                denAvg['0'] += defenseAndOneAdjustment * (1.8/3)
+                denAvg['1'] -= defenseAndOneAdjustment * (1/3)
+                denAvg['4'] += defenseAndOneAdjustment * (1.45/3)
+                denAvg['6'] += defenseAndOneAdjustment * (1.85/3)
+                outAvg += 0.032
+                getOutcome(denAvg, outAvg, over)
+            else:
+                defenseAndOneAdjustment = random.uniform(0.07, 0.09)
+                denAvg['0'] -= defenseAndOneAdjustment * (1.2/3)
+                denAvg['1'] -= defenseAndOneAdjustment * (1.8/3)
+                denAvg['4'] += defenseAndOneAdjustment * (1.5/3)
+                denAvg['6'] += defenseAndOneAdjustment * (1.5/3)
+                outAvg += 0.028
+
+                getOutcome(denAvg, outAvg, over)
             #logic for last 3 overs chase
             pass
                     
