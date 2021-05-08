@@ -1,340 +1,346 @@
-dc won the toss and chose to bat
-0.1 Khaleel Ahmed to Prithvi Shaw 0 Score: 0/0
-0.2 Khaleel Ahmed to Prithvi Shaw 0 Score: 0/0
-0.3 Khaleel Ahmed to Prithvi Shaw 1 Score: 1/0
-0.4 Khaleel Ahmed to Shikhar Dhawan 0 Score: 1/0
-0.5 Khaleel Ahmed to Shikhar Dhawan 0 Score: 1/0
-0.6 Khaleel Ahmed to Shikhar Dhawan 2 Score: 3/0
-1.1 Abhishek Sharma to Prithvi Shaw 4 Score: 7/0
-1.2 Abhishek Sharma to Prithvi Shaw 2 Score: 9/0
-1.3 Abhishek Sharma to Prithvi Shaw 1 Score: 10/0
-1.4 Abhishek Sharma to Shikhar Dhawan 1 Score: 11/0
-1.5 Abhishek Sharma to Prithvi Shaw 4 Score: 15/0
-1.6 Abhishek Sharma to Prithvi Shaw 4 Score: 19/0
-2.1 Khaleel Ahmed to Shikhar Dhawan 0 Score: 19/0
-2.2 Khaleel Ahmed to Shikhar Dhawan 0 Score: 19/0
-2.3 Khaleel Ahmed to Shikhar Dhawan 4 Score: 23/0
-2.4 Khaleel Ahmed to Shikhar Dhawan 1 Score: 24/0
-2.5 Khaleel Ahmed to Prithvi Shaw 0 Score: 24/0
-2.6 Khaleel Ahmed to Prithvi Shaw W Score: 24/1 Caught by Kedar Jadhav
-3.1 Jagadeesha Suchith to Shikhar Dhawan 1 Score: 25/1
-3.2 Jagadeesha Suchith to Steven Smith 0 Score: 25/1
-3.3 Jagadeesha Suchith to Steven Smith 1 Score: 26/1
-3.4 Jagadeesha Suchith to Shikhar Dhawan 1 Score: 27/1
-3.5 Jagadeesha Suchith to Steven Smith 1 Score: 28/1
-3.6 Jagadeesha Suchith to Shikhar Dhawan 1 Score: 29/1
-4.1 Rashid Khan to Shikhar Dhawan 0 Score: 29/1
-4.2 Rashid Khan to Shikhar Dhawan 1 Score: 30/1
-4.3 Rashid Khan to Steven Smith 1 Score: 31/1
-4.4 Rashid Khan to Shikhar Dhawan 1 Score: 32/1
-4.5 Rashid Khan to Steven Smith 1 Score: 33/1
-4.6 Rashid Khan to Shikhar Dhawan 1 Score: 34/1
-5.1 Jagadeesha Suchith to Shikhar Dhawan 1 Score: 35/1
-5.2 Jagadeesha Suchith to Steven Smith 0 Score: 35/1
-5.3 Jagadeesha Suchith to Steven Smith 4 Score: 39/1
-5.4 Jagadeesha Suchith to Steven Smith 0 Score: 39/1
-5.5 Jagadeesha Suchith to Steven Smith 4 Score: 43/1
-5.6 Jagadeesha Suchith to Steven Smith 0 Score: 43/1
-6.1 Rashid Khan to Shikhar Dhawan 1 Score: 44/1
-6.2 Rashid Khan to Steven Smith 2 Score: 46/1
-6.3 Rashid Khan to Steven Smith 2 Score: 48/1
-6.4 Rashid Khan to Steven Smith 0 Score: 48/1
-6.5 Rashid Khan to Steven Smith 0 Score: 48/1
-6.6 Rashid Khan to Steven Smith 1 Score: 49/1
-7.1 Jagadeesha Suchith to Steven Smith 1 Score: 50/1
-7.2 Jagadeesha Suchith to Shikhar Dhawan 1 Score: 51/1
-7.3 Jagadeesha Suchith to Steven Smith Wide Score: 52/1
-7.4 Jagadeesha Suchith to Steven Smith 0 Score: 52/1
-7.5 Jagadeesha Suchith to Steven Smith Wide Score: 53/1
-7.6 Jagadeesha Suchith to Steven Smith 0 Score: 53/1
-7.7 Jagadeesha Suchith to Steven Smith 0 Score: 53/1
-7.8 Jagadeesha Suchith to Steven Smith 0 Score: 53/1
-8.1 Rashid Khan to Shikhar Dhawan 0 Score: 53/1
-8.2 Rashid Khan to Shikhar Dhawan 4 Score: 57/1
-8.3 Rashid Khan to Shikhar Dhawan 0 Score: 57/1
-8.4 Rashid Khan to Shikhar Dhawan 1 Score: 58/1
-8.5 Rashid Khan to Steven Smith 2 Score: 60/1
-8.6 Rashid Khan to Steven Smith 2 Score: 62/1
-9.1 Jagadeesha Suchith to Shikhar Dhawan 0 Score: 62/1
-9.2 Jagadeesha Suchith to Shikhar Dhawan 3 Score: 65/1
-9.3 Jagadeesha Suchith to Steven Smith W Score: 65/2 Caught by David Warner
-9.4 Jagadeesha Suchith to Rishabh Pant 1 Score: 66/2
-9.5 Jagadeesha Suchith to Shikhar Dhawan 1 Score: 67/2
-9.6 Jagadeesha Suchith to Rishabh Pant 4 Score: 71/2
-10.1 Rashid Khan to Shikhar Dhawan 1 Score: 72/2
-10.2 Rashid Khan to Rishabh Pant Wide Score: 73/2
-10.3 Rashid Khan to Rishabh Pant 1 Score: 74/2
-10.4 Rashid Khan to Shikhar Dhawan 0 Score: 74/2
-10.5 Rashid Khan to Shikhar Dhawan 6 Score: 80/2
-10.6 Rashid Khan to Shikhar Dhawan 0 Score: 80/2
-10.7 Rashid Khan to Shikhar Dhawan 0 Score: 80/2
-11.1 Vijay Shankar to Rishabh Pant 6 Score: 86/2
-11.2 Vijay Shankar to Rishabh Pant 1 Score: 87/2
-11.3 Vijay Shankar to Shikhar Dhawan 1 Score: 88/2
-11.4 Vijay Shankar to Rishabh Pant 1 Score: 89/2
-11.5 Vijay Shankar to Shikhar Dhawan 1 Score: 90/2
-11.6 Vijay Shankar to Rishabh Pant 6 Score: 96/2
-12.1 Kane Williamson to Shikhar Dhawan 1 Score: 97/2
-12.2 Kane Williamson to Rishabh Pant 1 Score: 98/2
-12.3 Kane Williamson to Shikhar Dhawan 1 Score: 99/2
-12.4 Kane Williamson to Rishabh Pant 4 Score: 103/2
-12.5 Kane Williamson to Rishabh Pant 0 Score: 103/2
-12.6 Kane Williamson to Rishabh Pant 1 Score: 104/2
-13.1 Vijay Shankar to Rishabh Pant Wide Score: 105/2
-13.2 Vijay Shankar to Rishabh Pant 0 Score: 105/2
-13.3 Vijay Shankar to Rishabh Pant 0 Score: 105/2
-13.4 Vijay Shankar to Rishabh Pant 2 Score: 107/2
-13.5 Vijay Shankar to Rishabh Pant 0 Score: 107/2
-13.6 Vijay Shankar to Rishabh Pant 0 Score: 107/2
-13.7 Vijay Shankar to Rishabh Pant 1 Score: 108/2
-14.1 Kane Williamson to Rishabh Pant 1 Score: 109/2
-14.2 Kane Williamson to Shikhar Dhawan 4 Score: 113/2
-14.3 Kane Williamson to Shikhar Dhawan 0 Score: 113/2
-14.4 Kane Williamson to Shikhar Dhawan 1 Score: 114/2
-14.5 Kane Williamson to Rishabh Pant 1 Score: 115/2
-14.6 Kane Williamson to Shikhar Dhawan 0 Score: 115/2
-15.1 Vijay Shankar to Rishabh Pant 1 Score: 116/2
-15.2 Vijay Shankar to Shikhar Dhawan Wide Score: 117/2
-15.3 Vijay Shankar to Shikhar Dhawan 4 Score: 121/2
-15.4 Vijay Shankar to Shikhar Dhawan 4 Score: 125/2
-15.5 Vijay Shankar to Shikhar Dhawan 4 Score: 129/2
-15.6 Vijay Shankar to Shikhar Dhawan 0 Score: 129/2
-15.7 Vijay Shankar to Shikhar Dhawan 6 Score: 135/2
-16.1 Kane Williamson to Rishabh Pant 4 Score: 139/2
-16.2 Kane Williamson to Rishabh Pant 4 Score: 143/2
-16.3 Kane Williamson to Rishabh Pant 6 Score: 149/2
-16.4 Kane Williamson to Rishabh Pant 2 Score: 151/2
-16.5 Kane Williamson to Rishabh Pant 1 Score: 152/2
-16.6 Kane Williamson to Shikhar Dhawan 6 Score: 158/2
-17.1 Vijay Shankar to Rishabh Pant 0 Score: 158/2
-17.2 Vijay Shankar to Rishabh Pant 1 Score: 159/2
-17.3 Vijay Shankar to Shikhar Dhawan 0 Score: 159/2
-17.4 Vijay Shankar to Shikhar Dhawan 2 Score: 161/2
-17.5 Vijay Shankar to Shikhar Dhawan 6 Score: 167/2
-17.6 Vijay Shankar to Shikhar Dhawan 2 Score: 169/2
-18.1 Siddarth Kaul to Rishabh Pant 0 Score: 169/2
-18.2 Siddarth Kaul to Rishabh Pant 6 Score: 175/2
-18.3 Siddarth Kaul to Rishabh Pant 0 Score: 175/2
-18.4 Siddarth Kaul to Rishabh Pant 1 Score: 176/2
-18.5 Siddarth Kaul to Shikhar Dhawan 6 Score: 182/2
-18.6 Siddarth Kaul to Shikhar Dhawan 6 Score: 188/2
-19.1 Khaleel Ahmed to Rishabh Pant 4 Score: 192/2
-19.2 Khaleel Ahmed to Rishabh Pant 1 Score: 193/2
-19.3 Khaleel Ahmed to Shikhar Dhawan 1 Score: 194/2
-19.4 Khaleel Ahmed to Rishabh Pant 4 Score: 198/2
-19.5 Khaleel Ahmed to Rishabh Pant 1 Score: 199/2
-19.6 Khaleel Ahmed to Shikhar Dhawan Wide Score: 200/2
-19.7 Khaleel Ahmed to Shikhar Dhawan 1 Score: 201/2
-+------------+--------+---------+--------+-------------------------+
-| Player     |   Runs |   Balls | SR     | Out                     |
-+============+========+=========+========+=========================+
-| PP Shaw    |     16 |      10 | 160.0  | c KM Jadhav b KK Ahmed  |
-+------------+--------+---------+--------+-------------------------+
-| S Dhawan   |     90 |      52 | 173.08 | Not out                 |
-+------------+--------+---------+--------+-------------------------+
-| SPD Smith  |     22 |      23 | 95.65  | c DA Warner b J Suchith |
-+------------+--------+---------+--------+-------------------------+
-| RR Pant    |     67 |      35 | 191.43 | Not out                 |
-+------------+--------+---------+--------+-------------------------+
-| SO Hetmyer |      0 |       0 | DNB    |                         |
-+------------+--------+---------+--------+-------------------------+
-| MP Stoinis |      0 |       0 | DNB    |                         |
-+------------+--------+---------+--------+-------------------------+
-| AR Patel   |      0 |       0 | DNB    |                         |
-+------------+--------+---------+--------+-------------------------+
-| R Ashwin   |      0 |       0 | DNB    |                         |
-+------------+--------+---------+--------+-------------------------+
-| A Mishra   |      0 |       0 | DNB    |                         |
-+------------+--------+---------+--------+-------------------------+
-| K Rabada   |      0 |       0 | DNB    |                         |
-+------------+--------+---------+--------+-------------------------+
-| Avesh Khan |      0 |       0 | DNB    |                         |
-+------------+--------+---------+--------+-------------------------+
-+-----------------+--------+---------+-----------+-------+
-| Player          |   Runs |   Overs |   Wickets | Eco   |
-+=================+========+=========+===========+=======+
-| DA Warner       |      0 |       0 |         0 | NA    |
-+-----------------+--------+---------+-----------+-------+
-| JM Bairstow     |      0 |       0 |         0 | NA    |
-+-----------------+--------+---------+-----------+-------+
-| KS Williamson   |     38 |       3 |         0 | 12.67 |
-+-----------------+--------+---------+-----------+-------+
-| MK Pandey       |      0 |       0 |         0 | NA    |
-+-----------------+--------+---------+-----------+-------+
-| KM Jadhav       |      0 |       0 |         0 | NA    |
-+-----------------+--------+---------+-----------+-------+
-| Abhishek Sharma |     16 |       1 |         0 | 16.0  |
-+-----------------+--------+---------+-----------+-------+
-| Rashid Khan     |     29 |       4 |         0 | 7.25  |
-+-----------------+--------+---------+-----------+-------+
-| V Shankar       |     51 |       4 |         0 | 12.75 |
-+-----------------+--------+---------+-----------+-------+
-| J Suchith       |     27 |       4 |         1 | 6.75  |
-+-----------------+--------+---------+-----------+-------+
-| S Kaul          |     19 |       1 |         0 | 19.0  |
-+-----------------+--------+---------+-----------+-------+
-| KK Ahmed        |     21 |       3 |         1 | 7.0   |
-+-----------------+--------+---------+-----------+-------+
+srh won the toss and chose to bat
 0.1 Kagiso Rabada to David Warner 2 Score: 2/0
-0.2 Kagiso Rabada to David Warner 6 Score: 8/0
-0.3 Kagiso Rabada to David Warner 1 Score: 9/0
-0.4 Kagiso Rabada to Jonny Bairstow W Score: 9/1 Caught by Rishabh Pant
-0.5 Kagiso Rabada to Kane Williamson 1 Score: 10/1
-0.6 Kagiso Rabada to David Warner 0 Score: 10/1
-1.1 Ravichandran Ashwin to Kane Williamson 1 Score: 11/1
-1.2 Ravichandran Ashwin to David Warner 1 Score: 12/1
-1.3 Ravichandran Ashwin to Kane Williamson 1 Score: 13/1
-1.4 Ravichandran Ashwin to David Warner 1 Score: 14/1
-1.5 Ravichandran Ashwin to Kane Williamson 1 Score: 15/1
-1.6 Ravichandran Ashwin to David Warner 1 Score: 16/1
-2.1 Kagiso Rabada to David Warner 4 Score: 20/1
-2.2 Kagiso Rabada to David Warner 1 Score: 21/1
-2.3 Kagiso Rabada to Kane Williamson 1 Score: 22/1
-2.4 Kagiso Rabada to David Warner W Score: 22/2 Run Out!
-2.5 Kagiso Rabada to Manish Pandey 4 Score: 26/2
-2.6 Kagiso Rabada to Manish Pandey 0 Score: 26/2
-3.1 Ravichandran Ashwin to Kane Williamson 0 Score: 26/2
-3.2 Ravichandran Ashwin to Kane Williamson 6 Score: 32/2
-3.3 Ravichandran Ashwin to Kane Williamson 1 Score: 33/2
-3.4 Ravichandran Ashwin to Manish Pandey 1 Score: 34/2
-3.5 Ravichandran Ashwin to Kane Williamson 0 Score: 34/2
-3.6 Ravichandran Ashwin to Kane Williamson 1 Score: 35/2
-4.1 Avesh Khan to Kane Williamson 6 Score: 41/2
-4.2 Avesh Khan to Kane Williamson 1 Score: 42/2
-4.3 Avesh Khan to Manish Pandey 0 Score: 42/2
-4.4 Avesh Khan to Manish Pandey 1 Score: 43/2
-4.5 Avesh Khan to Kane Williamson 1 Score: 44/2
-4.6 Avesh Khan to Manish Pandey 1 Score: 45/2
-5.1 Axar Patel to Manish Pandey 1 Score: 46/2
-5.2 Axar Patel to Kane Williamson 0 Score: 46/2
-5.3 Axar Patel to Kane Williamson 0 Score: 46/2
-5.4 Axar Patel to Kane Williamson 6 Score: 52/2
-5.5 Axar Patel to Kane Williamson 0 Score: 52/2
-5.6 Axar Patel to Kane Williamson 1 Score: 53/2
-6.1 Avesh Khan to Kane Williamson 4 Score: 57/2
-6.2 Avesh Khan to Kane Williamson 6 Score: 63/2
-6.3 Avesh Khan to Kane Williamson 4 Score: 67/2
-6.4 Avesh Khan to Kane Williamson 0 Score: 67/2
-6.5 Avesh Khan to Kane Williamson 0 Score: 67/2
-6.6 Avesh Khan to Kane Williamson 0 Score: 67/2
-7.1 Axar Patel to Manish Pandey 6 Score: 73/2
-7.2 Axar Patel to Manish Pandey 0 Score: 73/2
-7.3 Axar Patel to Manish Pandey 0 Score: 73/2
-7.4 Axar Patel to Manish Pandey 4 Score: 77/2
-7.5 Axar Patel to Manish Pandey 6 Score: 83/2
-7.6 Axar Patel to Manish Pandey W Score: 83/3 Caught by Shikhar Dhawan
-8.1 Avesh Khan to Kane Williamson 1 Score: 84/3
-8.2 Avesh Khan to Vijay Shankar 0 Score: 84/3
-8.3 Avesh Khan to Vijay Shankar 1 Score: 85/3
-8.4 Avesh Khan to Kane Williamson 1 Score: 86/3
-8.5 Avesh Khan to Vijay Shankar 1 Score: 87/3
-8.6 Avesh Khan to Kane Williamson 0 Score: 87/3
-9.1 Axar Patel to Vijay Shankar 1 Score: 88/3
-9.2 Axar Patel to Kane Williamson 1 Score: 89/3
-9.3 Axar Patel to Vijay Shankar 1 Score: 90/3
-9.4 Axar Patel to Kane Williamson 0 Score: 90/3
-9.5 Axar Patel to Kane Williamson W Score: 90/4 Caught by Shimron Hetmyer
-9.6 Axar Patel to Abhishek Sharma 2 Score: 92/4
-10.1 Amit Mishra to Vijay Shankar 0 Score: 92/4
-10.2 Amit Mishra to Vijay Shankar 4 Score: 96/4
-10.3 Amit Mishra to Vijay Shankar 1 Score: 97/4
-10.4 Amit Mishra to Abhishek Sharma 0 Score: 97/4
-10.5 Amit Mishra to Abhishek Sharma 1 Score: 98/4
-10.6 Amit Mishra to Vijay Shankar 0 Score: 98/4
-11.1 Axar Patel to Abhishek Sharma 0 Score: 98/4
-11.2 Axar Patel to Abhishek Sharma 1 Score: 99/4
-11.3 Axar Patel to Vijay Shankar 1 Score: 100/4
-11.4 Axar Patel to Abhishek Sharma 1 Score: 101/4
-11.5 Axar Patel to Vijay Shankar 1 Score: 102/4
-11.6 Axar Patel to Abhishek Sharma 1 Score: 103/4
-12.1 Amit Mishra to Abhishek Sharma 1 Score: 104/4
-12.2 Amit Mishra to Vijay Shankar 0 Score: 104/4
-12.3 Amit Mishra to Vijay Shankar 0 Score: 104/4
-12.4 Amit Mishra to Vijay Shankar 0 Score: 104/4
-12.5 Amit Mishra to Vijay Shankar 0 Score: 104/4
-12.6 Amit Mishra to Vijay Shankar 1 Score: 105/4
-13.1 Ravichandran Ashwin to Vijay Shankar 1 Score: 106/4
-13.2 Ravichandran Ashwin to Abhishek Sharma W Score: 106/5 Caught by Marcus Stoinis
-13.3 Ravichandran Ashwin to Kedar Jadhav W Score: 107/6 Run Out!
-13.4 Ravichandran Ashwin to Rashid Khan 4 Score: 111/6
-13.5 Ravichandran Ashwin to Rashid Khan 1 Score: 112/6
-13.6 Ravichandran Ashwin to Vijay Shankar 0 Score: 112/6
-14.1 Amit Mishra to Rashid Khan 1 Score: 113/6
-14.2 Amit Mishra to Vijay Shankar W Score: 113/7 Caught by Marcus Stoinis
-14.3 Amit Mishra to Khaleel Ahmed 1 Score: 114/7
-14.4 Amit Mishra to Rashid Khan 6 Score: 120/7
-14.5 Amit Mishra to Rashid Khan W Score: 120/8 Caught by Shikhar Dhawan
-14.6 Amit Mishra to Siddarth Kaul 0 Score: 120/8
-15.1 Ravichandran Ashwin to Khaleel Ahmed 1 Score: 121/8
-15.2 Ravichandran Ashwin to Siddarth Kaul 0 Score: 121/8
-15.3 Ravichandran Ashwin to Siddarth Kaul 0 Score: 121/8
-15.4 Ravichandran Ashwin to Siddarth Kaul 0 Score: 121/8
-15.5 Ravichandran Ashwin to Siddarth Kaul 1 Score: 122/8
-15.5 Ravichandran Ashwin to Siddarth Kaul 4 Score: 126/8
-15.6 Ravichandran Ashwin to Khaleel Ahmed 0 Score: 126/8
-16.1 Rishabh Pant to Siddarth Kaul 0 Score: 126/8
-16.2 Rishabh Pant to Siddarth Kaul 0 Score: 126/8
-16.3 Rishabh Pant to Siddarth Kaul 0 Score: 126/8
-16.4 Rishabh Pant to Siddarth Kaul W Score: 128/9 Run Out!
-16.5 Rishabh Pant to Jagadeesha Suchith 0 Score: 128/9
-16.6 Rishabh Pant to Jagadeesha Suchith 0 Score: 128/9
-17.1 Kagiso Rabada to Khaleel Ahmed 1 Score: 129/9
-17.2 Kagiso Rabada to Jagadeesha Suchith 1 Score: 130/9
-17.3 Kagiso Rabada to Khaleel Ahmed Wide Score: 131/9
-17.4 Kagiso Rabada to Khaleel Ahmed 1 Score: 132/9
-17.5 Kagiso Rabada to Jagadeesha Suchith 6 Score: 138/9
-17.6 Kagiso Rabada to Jagadeesha Suchith 0 Score: 138/9
-17.7 Kagiso Rabada to Jagadeesha Suchith 4 Score: 142/9
-18.1 Avesh Khan to Khaleel Ahmed W Score: 143/10 Run Out!
-ALL OUT
-dc won by 58 runs
+0.2 Kagiso Rabada to David Warner 0 Score: 2/0
+0.3 Kagiso Rabada to David Warner 0 Score: 2/0
+0.4 Kagiso Rabada to David Warner 4 Score: 6/0
+0.5 Kagiso Rabada to David Warner 0 Score: 6/0
+0.6 Kagiso Rabada to David Warner 6 Score: 12/0
+1.1 Ravichandran Ashwin to Jonny Bairstow 1 Score: 13/0
+1.2 Ravichandran Ashwin to David Warner 4 Score: 17/0
+1.3 Ravichandran Ashwin to David Warner 0 Score: 17/0
+1.4 Ravichandran Ashwin to David Warner 1 Score: 18/0
+1.5 Ravichandran Ashwin to Jonny Bairstow 1 Score: 19/0
+1.6 Ravichandran Ashwin to David Warner 0 Score: 19/0
+2.1 Axar Patel to Jonny Bairstow 1 Score: 20/0
+2.2 Axar Patel to David Warner 1 Score: 21/0
+2.3 Axar Patel to Jonny Bairstow 0 Score: 21/0
+2.4 Axar Patel to Jonny Bairstow 4 Score: 25/0
+2.5 Axar Patel to Jonny Bairstow 0 Score: 25/0
+2.6 Axar Patel to Jonny Bairstow 2 Score: 27/0
+3.1 Ravichandran Ashwin to David Warner 4 Score: 31/0
+3.2 Ravichandran Ashwin to David Warner 0 Score: 31/0
+3.3 Ravichandran Ashwin to David Warner 4 Score: 35/0
+3.4 Ravichandran Ashwin to David Warner 1 Score: 36/0
+3.5 Ravichandran Ashwin to Jonny Bairstow 1 Score: 37/0
+3.6 Ravichandran Ashwin to David Warner 1 Score: 38/0
+4.1 Axar Patel to David Warner 2 Score: 40/0
+4.2 Axar Patel to David Warner 0 Score: 40/0
+4.3 Axar Patel to David Warner 1 Score: 41/0
+4.4 Axar Patel to Jonny Bairstow 0 Score: 41/0
+4.5 Axar Patel to Jonny Bairstow 1 Score: 42/0
+4.6 Axar Patel to David Warner 1 Score: 43/0
+5.1 Kagiso Rabada to David Warner 0 Score: 43/0
+5.2 Kagiso Rabada to David Warner W Score: 43/1 Bowled
+5.3 Kagiso Rabada to Kane Williamson 1 Score: 44/1
+5.4 Kagiso Rabada to Jonny Bairstow Wide Score: 45/1
+5.5 Kagiso Rabada to Jonny Bairstow 4 Score: 49/1
+5.6 Kagiso Rabada to Jonny Bairstow 4 Score: 53/1
+5.7 Kagiso Rabada to Jonny Bairstow 1 Score: 54/1
+6.1 Axar Patel to Jonny Bairstow 1 Score: 55/1
+6.2 Axar Patel to Kane Williamson 1 Score: 56/1
+6.3 Axar Patel to Jonny Bairstow 1 Score: 57/1
+6.4 Axar Patel to Kane Williamson 1 Score: 58/1
+6.5 Axar Patel to Jonny Bairstow 0 Score: 58/1
+6.6 Axar Patel to Jonny Bairstow 1 Score: 59/1
+7.1 Kagiso Rabada to Jonny Bairstow W Score: 59/2 Caught by Kagiso Rabada
+7.2 Kagiso Rabada to Manish Pandey 1 Score: 60/2
+7.3 Kagiso Rabada to Kane Williamson 0 Score: 60/2
+7.4 Kagiso Rabada to Kane Williamson 0 Score: 60/2
+7.5 Kagiso Rabada to Kane Williamson 1 Score: 61/2
+7.6 Kagiso Rabada to Manish Pandey 1 Score: 62/2
+8.1 Axar Patel to Manish Pandey 2 Score: 64/2
+8.2 Axar Patel to Manish Pandey 1 Score: 65/2
+8.3 Axar Patel to Kane Williamson 0 Score: 65/2
+8.4 Axar Patel to Kane Williamson 6 Score: 71/2
+8.5 Axar Patel to Kane Williamson 0 Score: 71/2
+8.6 Axar Patel to Kane Williamson 0 Score: 71/2
+9.1 Marcus Stoinis to Manish Pandey 1 Score: 72/2
+9.2 Marcus Stoinis to Kane Williamson 0 Score: 72/2
+9.3 Marcus Stoinis to Kane Williamson 1 Score: 73/2
+9.4 Marcus Stoinis to Manish Pandey 1 Score: 74/2
+9.5 Marcus Stoinis to Kane Williamson 6 Score: 80/2
+9.6 Marcus Stoinis to Kane Williamson 0 Score: 80/2
+10.1 Amit Mishra to Manish Pandey 0 Score: 80/2
+10.2 Amit Mishra to Manish Pandey 0 Score: 80/2
+10.3 Amit Mishra to Manish Pandey 0 Score: 80/2
+10.4 Amit Mishra to Manish Pandey 2 Score: 82/2
+10.5 Amit Mishra to Manish Pandey 1 Score: 83/2
+10.6 Amit Mishra to Kane Williamson 4 Score: 87/2
+11.1 Marcus Stoinis to Manish Pandey 6 Score: 93/2
+11.2 Marcus Stoinis to Manish Pandey 1 Score: 94/2
+11.3 Marcus Stoinis to Kane Williamson 1 Score: 95/2
+11.4 Marcus Stoinis to Manish Pandey 0 Score: 95/2
+11.5 Marcus Stoinis to Manish Pandey 1 Score: 96/2
+11.6 Marcus Stoinis to Kane Williamson 6 Score: 102/2
+12.1 Amit Mishra to Manish Pandey 1 Score: 103/2
+12.2 Amit Mishra to Kane Williamson 1 Score: 104/2
+12.3 Amit Mishra to Manish Pandey 0 Score: 104/2
+12.4 Amit Mishra to Manish Pandey 0 Score: 104/2
+12.5 Amit Mishra to Manish Pandey 0 Score: 104/2
+12.6 Amit Mishra to Manish Pandey 1 Score: 105/2
+13.1 Marcus Stoinis to Manish Pandey 1 Score: 106/2
+13.2 Marcus Stoinis to Kane Williamson 1 Score: 107/2
+13.3 Marcus Stoinis to Manish Pandey 6 Score: 113/2
+13.4 Marcus Stoinis to Manish Pandey 0 Score: 113/2
+13.5 Marcus Stoinis to Manish Pandey 1 Score: 114/2
+13.6 Marcus Stoinis to Kane Williamson Wide Score: 115/2
+13.7 Marcus Stoinis to Kane Williamson 1 Score: 116/2
+14.1 Amit Mishra to Kane Williamson 2 Score: 118/2
+14.2 Amit Mishra to Kane Williamson 1 Score: 119/2
+14.3 Amit Mishra to Manish Pandey 1 Score: 120/2
+14.4 Amit Mishra to Kane Williamson 4 Score: 124/2
+14.5 Amit Mishra to Kane Williamson 4 Score: 128/2
+14.6 Amit Mishra to Kane Williamson 6 Score: 134/2
+15.1 Marcus Stoinis to Manish Pandey 1 Score: 135/2
+15.2 Marcus Stoinis to Kane Williamson Wide Score: 136/2
+15.3 Marcus Stoinis to Kane Williamson 1 Score: 137/2
+15.4 Marcus Stoinis to Manish Pandey 4 Score: 141/2
+15.5 Marcus Stoinis to Manish Pandey 0 Score: 141/2
+15.6 Marcus Stoinis to Manish Pandey 1 Score: 142/2
+15.7 Marcus Stoinis to Kane Williamson 1 Score: 143/2
+16.1 Avesh Khan to Kane Williamson 0 Score: 143/2
+16.2 Avesh Khan to Kane Williamson 4 Score: 147/2
+16.3 Avesh Khan to Kane Williamson 0 Score: 147/2
+16.4 Avesh Khan to Kane Williamson 6 Score: 153/2
+16.5 Avesh Khan to Kane Williamson 0 Score: 153/2
+16.6 Avesh Khan to Kane Williamson 6 Score: 159/2
+17.1 Kagiso Rabada to Manish Pandey 0 Score: 159/2
+17.2 Kagiso Rabada to Manish Pandey W Score: 159/3 Caught by Shimron Hetmyer
+17.3 Kagiso Rabada to Vijay Shankar W Score: 159/4 Caught by Steven Smith
+17.4 Kagiso Rabada to Abhishek Sharma 1 Score: 160/4
+17.5 Kagiso Rabada to Kane Williamson Wide Score: 161/4
+17.6 Kagiso Rabada to Kane Williamson 4 Score: 165/4
+17.7 Kagiso Rabada to Kane Williamson W Score: 165/5 Bowled
+18.1 Avesh Khan to Abhishek Sharma 0 Score: 165/5
+18.2 Avesh Khan to Abhishek Sharma 6 Score: 171/5
+18.3 Avesh Khan to Abhishek Sharma 6 Score: 177/5
+18.4 Avesh Khan to Abhishek Sharma 1 Score: 178/5
+18.5 Avesh Khan to Kedar Jadhav 0 Score: 178/5
+18.6 Avesh Khan to Kedar Jadhav 0 Score: 178/5
+19.1 Amit Mishra to Abhishek Sharma 1 Score: 179/5
+19.2 Amit Mishra to Kedar Jadhav 0 Score: 179/5
+19.3 Amit Mishra to Kedar Jadhav 1 Score: 180/5
+19.4 Amit Mishra to Abhishek Sharma 1 Score: 181/5
+19.5 Amit Mishra to Kedar Jadhav 1 Score: 182/5
+19.6 Amit Mishra to Abhishek Sharma 2 Score: 184/5
 +-----------------+--------+---------+--------+-------------------------+
-| Player          |   Runs |   Balls |     SR | Out                     |
+| Player          |   Runs |   Balls | SR     | Out                     |
 +=================+========+=========+========+=========================+
-| DA Warner       |     17 |      10 | 170    | Not out                 |
+| DA Warner       |     32 |      22 | 145.45 | bowled b K Rabada       |
 +-----------------+--------+---------+--------+-------------------------+
-| JM Bairstow     |      0 |       1 |   0    | c RR Pant b K Rabada    |
+| JM Bairstow     |     23 |      18 | 127.78 | c K Rabada b K Rabada   |
 +-----------------+--------+---------+--------+-------------------------+
-| KS Williamson   |     45 |      30 | 150    | c SO Hetmyer b AR Patel |
+| KS Williamson   |     70 |      35 | 200.0  | bowled b K Rabada       |
 +-----------------+--------+---------+--------+-------------------------+
-| MK Pandey       |     24 |      13 | 184.62 | c S Dhawan b AR Patel   |
+| MK Pandey       |     35 |      31 | 112.9  | c SO Hetmyer b K Rabada |
 +-----------------+--------+---------+--------+-------------------------+
-| KM Jadhav       |      1 |       1 | 100    | Not out                 |
+| KM Jadhav       |      2 |       5 | 40.0   | Not out                 |
 +-----------------+--------+---------+--------+-------------------------+
-| Abhishek Sharma |      7 |       9 |  77.78 | c MP Stoinis b R Ashwin |
+| Abhishek Sharma |     18 |       8 | 225.0  | Not out                 |
 +-----------------+--------+---------+--------+-------------------------+
-| Rashid Khan     |     12 |       5 | 240    | c S Dhawan b A Mishra   |
+| Rashid Khan     |      0 |       0 | DNB    |                         |
 +-----------------+--------+---------+--------+-------------------------+
-| V Shankar       |     13 |      19 |  68.42 | c MP Stoinis b A Mishra |
+| V Shankar       |      0 |       1 | 0.0    | c SPD Smith b K Rabada  |
 +-----------------+--------+---------+--------+-------------------------+
-| J Suchith       |     11 |       6 | 183.33 | Not out                 |
+| J Suchith       |      0 |       0 | DNB    |                         |
 +-----------------+--------+---------+--------+-------------------------+
-| S Kaul          |      7 |      10 |  70    | Not out                 |
+| S Kaul          |      0 |       0 | DNB    |                         |
 +-----------------+--------+---------+--------+-------------------------+
-| KK Ahmed        |      5 |       6 |  83.33 | Not out                 |
+| KK Ahmed        |      0 |       0 | DNB    |                         |
 +-----------------+--------+---------+--------+-------------------------+
 +------------+--------+---------+-----------+-------+
 | Player     |   Runs |   Overs |   Wickets | Eco   |
 +============+========+=========+===========+=======+
-| PP Shaw    |      0 |     0   |         0 | NA    |
+| PP Shaw    |      0 |       0 |         0 | NA    |
 +------------+--------+---------+-----------+-------+
-| S Dhawan   |      0 |     0   |         0 | NA    |
+| S Dhawan   |      0 |       0 |         0 | NA    |
 +------------+--------+---------+-----------+-------+
-| SPD Smith  |      0 |     0   |         0 | NA    |
+| SPD Smith  |      0 |       0 |         0 | NA    |
 +------------+--------+---------+-----------+-------+
-| RR Pant    |      2 |     1   |         0 | 2.0   |
+| RR Pant    |      0 |       0 |         0 | NA    |
 +------------+--------+---------+-----------+-------+
-| SO Hetmyer |      0 |     0   |         0 | NA    |
+| SO Hetmyer |      0 |       0 |         0 | NA    |
 +------------+--------+---------+-----------+-------+
-| MP Stoinis |      0 |     0   |         0 | NA    |
+| MP Stoinis |     44 |       4 |         0 | 11.0  |
 +------------+--------+---------+-----------+-------+
-| AR Patel   |     34 |     4   |         2 | 8.5   |
+| AR Patel   |     27 |       4 |         0 | 6.75  |
 +------------+--------+---------+-----------+-------+
-| R Ashwin   |     28 |     4.1 |         1 | 6.72  |
+| R Ashwin   |     18 |       2 |         0 | 9.0   |
 +------------+--------+---------+-----------+-------+
-| A Mishra   |     16 |     3   |         2 | 5.33  |
+| A Mishra   |     34 |       4 |         0 | 8.5   |
 +------------+--------+---------+-----------+-------+
-| K Rabada   |     34 |     3   |         1 | 11.33 |
+| K Rabada   |     32 |       4 |         5 | 8.0   |
 +------------+--------+---------+-----------+-------+
-| Avesh Khan |     29 |     3.1 |         0 | 9.16  |
+| Avesh Khan |     29 |       2 |         0 | 14.5  |
 +------------+--------+---------+-----------+-------+
+0.1 Khaleel Ahmed to Prithvi Shaw 1 Score: 1/0
+0.2 Khaleel Ahmed to Shikhar Dhawan 0 Score: 1/0
+0.3 Khaleel Ahmed to Shikhar Dhawan 0 Score: 1/0
+0.4 Khaleel Ahmed to Shikhar Dhawan 4 Score: 5/0
+0.5 Khaleel Ahmed to Shikhar Dhawan 0 Score: 5/0
+0.6 Khaleel Ahmed to Shikhar Dhawan 1 Score: 6/0
+1.1 Abhishek Sharma to Shikhar Dhawan 0 Score: 6/0
+1.2 Abhishek Sharma to Shikhar Dhawan 0 Score: 6/0
+1.3 Abhishek Sharma to Shikhar Dhawan 1 Score: 7/0
+1.4 Abhishek Sharma to Prithvi Shaw 1 Score: 8/0
+1.5 Abhishek Sharma to Shikhar Dhawan 1 Score: 9/0
+1.6 Abhishek Sharma to Prithvi Shaw 1 Score: 10/0
+2.1 Khaleel Ahmed to Prithvi Shaw 1 Score: 11/0
+2.2 Khaleel Ahmed to Shikhar Dhawan 4 Score: 15/0
+2.3 Khaleel Ahmed to Shikhar Dhawan 2 Score: 17/0
+2.4 Khaleel Ahmed to Shikhar Dhawan 1 Score: 18/0
+2.5 Khaleel Ahmed to Prithvi Shaw 0 Score: 18/0
+2.6 Khaleel Ahmed to Prithvi Shaw 2 Score: 20/0
+3.1 Abhishek Sharma to Shikhar Dhawan 4 Score: 24/0
+3.2 Abhishek Sharma to Shikhar Dhawan 4 Score: 28/0
+3.3 Abhishek Sharma to Shikhar Dhawan 4 Score: 32/0
+3.4 Abhishek Sharma to Shikhar Dhawan 1 Score: 33/0
+3.5 Abhishek Sharma to Prithvi Shaw 1 Score: 34/0
+3.6 Abhishek Sharma to Shikhar Dhawan 1 Score: 35/0
+4.1 Siddarth Kaul to Shikhar Dhawan 0 Score: 35/0
+4.2 Siddarth Kaul to Shikhar Dhawan 4 Score: 39/0
+4.3 Siddarth Kaul to Shikhar Dhawan 4 Score: 43/0
+4.4 Siddarth Kaul to Shikhar Dhawan 4 Score: 47/0
+4.5 Siddarth Kaul to Shikhar Dhawan W Score: 47/1 Caught by Kane Williamson
+4.6 Siddarth Kaul to Steven Smith 4 Score: 51/1
+5.1 Kane Williamson to Prithvi Shaw 2 Score: 53/1
+5.2 Kane Williamson to Prithvi Shaw 4 Score: 57/1
+5.3 Kane Williamson to Prithvi Shaw 1 Score: 58/1
+5.4 Kane Williamson to Steven Smith 3 Score: 61/1
+5.5 Kane Williamson to Prithvi Shaw 1 Score: 62/1
+5.6 Kane Williamson to Steven Smith 0 Score: 62/1
+6.1 Siddarth Kaul to Prithvi Shaw 0 Score: 62/1
+6.2 Siddarth Kaul to Prithvi Shaw 1 Score: 63/1
+6.3 Siddarth Kaul to Steven Smith 4 Score: 67/1
+6.4 Siddarth Kaul to Steven Smith Wide Score: 68/1
+6.5 Siddarth Kaul to Steven Smith 4 Score: 72/1
+6.6 Siddarth Kaul to Steven Smith 0 Score: 72/1
+6.7 Siddarth Kaul to Steven Smith 4 Score: 76/1
+7.1 Kane Williamson to Prithvi Shaw 0 Score: 76/1
+7.2 Kane Williamson to Prithvi Shaw 6 Score: 82/1
+7.3 Kane Williamson to Prithvi Shaw 1 Score: 83/1
+7.3 Kane Williamson to Prithvi Shaw 4 Score: 87/1
+7.4 Kane Williamson to Steven Smith 1 Score: 88/1
+7.5 Kane Williamson to Prithvi Shaw 0 Score: 88/1
+7.6 Kane Williamson to Prithvi Shaw 2 Score: 90/1
+8.1 Siddarth Kaul to Steven Smith 0 Score: 90/1
+8.2 Siddarth Kaul to Steven Smith 0 Score: 90/1
+8.3 Siddarth Kaul to Steven Smith 1 Score: 91/1
+8.4 Siddarth Kaul to Prithvi Shaw 6 Score: 97/1
+8.5 Siddarth Kaul to Prithvi Shaw 0 Score: 97/1
+8.6 Siddarth Kaul to Prithvi Shaw W Score: 97/2 Caught by Vijay Shankar
+9.1 Kane Williamson to Steven Smith 6 Score: 103/2
+9.2 Kane Williamson to Steven Smith 1 Score: 104/2
+9.3 Kane Williamson to Rishabh Pant 1 Score: 105/2
+9.4 Kane Williamson to Steven Smith 0 Score: 105/2
+9.5 Kane Williamson to Steven Smith 1 Score: 106/2
+9.6 Kane Williamson to Rishabh Pant 1 Score: 107/2
+10.1 Jagadeesha Suchith to Rishabh Pant 1 Score: 108/2
+10.2 Jagadeesha Suchith to Steven Smith 1 Score: 109/2
+10.3 Jagadeesha Suchith to Rishabh Pant 4 Score: 113/2
+10.4 Jagadeesha Suchith to Rishabh Pant 2 Score: 115/2
+10.5 Jagadeesha Suchith to Rishabh Pant Wide Score: 116/2
+10.6 Jagadeesha Suchith to Rishabh Pant 0 Score: 116/2
+10.7 Jagadeesha Suchith to Rishabh Pant 0 Score: 116/2
+11.1 Kane Williamson to Steven Smith 1 Score: 117/2
+11.2 Kane Williamson to Rishabh Pant 0 Score: 117/2
+11.3 Kane Williamson to Rishabh Pant 0 Score: 117/2
+11.4 Kane Williamson to Rishabh Pant 4 Score: 121/2
+11.5 Kane Williamson to Rishabh Pant 1 Score: 122/2
+11.6 Kane Williamson to Steven Smith 1 Score: 123/2
+12.1 Jagadeesha Suchith to Steven Smith 1 Score: 124/2
+12.2 Jagadeesha Suchith to Rishabh Pant 1 Score: 125/2
+12.3 Jagadeesha Suchith to Steven Smith 0 Score: 125/2
+12.4 Jagadeesha Suchith to Steven Smith 0 Score: 125/2
+12.5 Jagadeesha Suchith to Steven Smith 6 Score: 131/2
+12.6 Jagadeesha Suchith to Steven Smith 0 Score: 131/2
+13.1 Rashid Khan to Rishabh Pant 1 Score: 132/2
+13.2 Rashid Khan to Steven Smith 1 Score: 133/2
+13.3 Rashid Khan to Rishabh Pant 1 Score: 134/2
+13.4 Rashid Khan to Steven Smith 1 Score: 135/2
+13.5 Rashid Khan to Rishabh Pant 1 Score: 136/2
+13.6 Rashid Khan to Steven Smith W Score: 136/3 Caught by Manish Pandey
+14.1 Jagadeesha Suchith to Rishabh Pant 1 Score: 137/3
+14.2 Jagadeesha Suchith to Marcus Stoinis 1 Score: 138/3
+14.3 Jagadeesha Suchith to Rishabh Pant 0 Score: 138/3
+14.4 Jagadeesha Suchith to Rishabh Pant 1 Score: 139/3
+14.5 Jagadeesha Suchith to Marcus Stoinis 0 Score: 139/3
+14.6 Jagadeesha Suchith to Marcus Stoinis 1 Score: 140/3
+15.1 Rashid Khan to Marcus Stoinis 1 Score: 141/3
+15.2 Rashid Khan to Rishabh Pant 4 Score: 145/3
+15.3 Rashid Khan to Rishabh Pant 1 Score: 146/3
+15.4 Rashid Khan to Marcus Stoinis 0 Score: 146/3
+15.5 Rashid Khan to Marcus Stoinis 0 Score: 146/3
+15.6 Rashid Khan to Marcus Stoinis 4 Score: 150/3
+16.1 Jagadeesha Suchith to Rishabh Pant 1 Score: 151/3
+16.2 Jagadeesha Suchith to Marcus Stoinis 1 Score: 152/3
+16.3 Jagadeesha Suchith to Rishabh Pant 1 Score: 153/3
+16.4 Jagadeesha Suchith to Marcus Stoinis 1 Score: 154/3
+16.5 Jagadeesha Suchith to Rishabh Pant 0 Score: 154/3
+16.6 Jagadeesha Suchith to Rishabh Pant 1 Score: 155/3
+17.1 Siddarth Kaul to Rishabh Pant 4 Score: 159/3
+17.2 Siddarth Kaul to Rishabh Pant 0 Score: 159/3
+17.3 Siddarth Kaul to Rishabh Pant 1 Score: 160/3
+17.4 Siddarth Kaul to Marcus Stoinis 4 Score: 164/3
+17.5 Siddarth Kaul to Marcus Stoinis 1 Score: 165/3
+17.6 Siddarth Kaul to Rishabh Pant 1 Score: 166/3
+18.1 Khaleel Ahmed to Rishabh Pant 1 Score: 167/3
+18.2 Khaleel Ahmed to Marcus Stoinis 0 Score: 167/3
+18.3 Khaleel Ahmed to Marcus Stoinis 1 Score: 168/3
+18.4 Khaleel Ahmed to Rishabh Pant 6 Score: 174/3
+18.5 Khaleel Ahmed to Rishabh Pant 4 Score: 178/3
+18.6 Khaleel Ahmed to Rishabh Pant 0 Score: 178/3
+19.1 Vijay Shankar to Marcus Stoinis 6 Score: 184/3
+19.2 Vijay Shankar to Marcus Stoinis 0 Score: 184/3
+19.3 Vijay Shankar to Marcus Stoinis 1 Score: 185/3
+dc won by 7 wickets
++------------+--------+---------+--------+---------------------------+
+| Player     |   Runs |   Balls | SR     | Out                       |
++============+========+=========+========+===========================+
+| PP Shaw    |     35 |      22 | 159.09 | c V Shankar b S Kaul      |
++------------+--------+---------+--------+---------------------------+
+| S Dhawan   |     40 |      22 | 181.82 | c KS Williamson b S Kaul  |
++------------+--------+---------+--------+---------------------------+
+| SPD Smith  |     41 |      26 | 157.69 | c MK Pandey b Rashid Khan |
++------------+--------+---------+--------+---------------------------+
+| RR Pant    |     45 |      32 | 140.62 | Not out                   |
++------------+--------+---------+--------+---------------------------+
+| SO Hetmyer |      0 |       0 | DNB    |                           |
++------------+--------+---------+--------+---------------------------+
+| MP Stoinis |     22 |      16 | 137.5  | Not out                   |
++------------+--------+---------+--------+---------------------------+
+| AR Patel   |      0 |       0 | DNB    |                           |
++------------+--------+---------+--------+---------------------------+
+| R Ashwin   |      0 |       0 | DNB    |                           |
++------------+--------+---------+--------+---------------------------+
+| A Mishra   |      0 |       0 | DNB    |                           |
++------------+--------+---------+--------+---------------------------+
+| K Rabada   |      0 |       0 | DNB    |                           |
++------------+--------+---------+--------+---------------------------+
+| Avesh Khan |      0 |       0 | DNB    |                           |
++------------+--------+---------+--------+---------------------------+
++-----------------+--------+---------+-----------+-------+
+| Player          |   Runs |   Overs |   Wickets | Eco   |
++=================+========+=========+===========+=======+
+| DA Warner       |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| JM Bairstow     |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| KS Williamson   |     42 |     4.1 |         0 | 10.08 |
++-----------------+--------+---------+-----------+-------+
+| MK Pandey       |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| KM Jadhav       |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| Abhishek Sharma |     19 |     2   |         0 | 9.5   |
++-----------------+--------+---------+-----------+-------+
+| Rashid Khan     |     15 |     2   |         1 | 7.5   |
++-----------------+--------+---------+-----------+-------+
+| V Shankar       |      7 |     0.3 |         0 | 14.0  |
++-----------------+--------+---------+-----------+-------+
+| J Suchith       |     26 |     4   |         0 | 6.5   |
++-----------------+--------+---------+-----------+-------+
+| S Kaul          |     48 |     4   |         2 | 12.0  |
++-----------------+--------+---------+-----------+-------+
+| KK Ahmed        |     28 |     3   |         0 | 9.33  |
++-----------------+--------+---------+-----------+-------+

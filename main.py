@@ -1,5 +1,5 @@
 import random
-import accessDB
+import accessJSON
 import copy
 import sys 
 
@@ -2148,11 +2148,11 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None):
                 # team2Players.append(l)
 
     for player in team1Players:
-        obj = accessDB.getPlayerInfo(player)
+        obj = accessJSON.getPlayerInfo(player)
         team1Info.append(obj)
 
     for player in team2Players:
-        obj = accessDB.getPlayerInfo(player)
+        obj = accessJSON.getPlayerInfo(player)
         team2Info.append(obj)
 
     pitchInfo_ = pitchInfo(venue, typeOfPitch)

@@ -1,150 +1,314 @@
-kkr won the toss and chose to bat
+csk won the toss and chose to bat
+0.1 Shivam Mavi to Ruturaj Gaikwad 2 Score: 2/0
+0.2 Shivam Mavi to Ruturaj Gaikwad 1 Score: 3/0
+0.3 Shivam Mavi to Faf du Plessis 2 Score: 5/0
+0.4 Shivam Mavi to Faf du Plessis 2 Score: 7/0
+0.5 Shivam Mavi to Faf du Plessis 0 Score: 7/0
+0.6 Shivam Mavi to Faf du Plessis 1 Score: 8/0
+1.1 Pat Cummins to Faf du Plessis 0 Score: 8/0
+1.2 Pat Cummins to Faf du Plessis 0 Score: 8/0
+1.3 Pat Cummins to Faf du Plessis 0 Score: 8/0
+1.4 Pat Cummins to Faf du Plessis 1 Score: 9/0
+1.5 Pat Cummins to Ruturaj Gaikwad 1 Score: 10/0
+1.6 Pat Cummins to Faf du Plessis 1 Score: 11/0
+2.1 Shivam Mavi to Faf du Plessis 4 Score: 15/0
+2.2 Shivam Mavi to Faf du Plessis 1 Score: 16/0
+2.3 Shivam Mavi to Ruturaj Gaikwad 1 Score: 17/0
+2.4 Shivam Mavi to Faf du Plessis 1 Score: 18/0
+2.5 Shivam Mavi to Ruturaj Gaikwad 4 Score: 22/0
+2.6 Shivam Mavi to Ruturaj Gaikwad 0 Score: 22/0
+3.1 Pat Cummins to Faf du Plessis 4 Score: 26/0
+3.2 Pat Cummins to Faf du Plessis 4 Score: 30/0
+3.3 Pat Cummins to Faf du Plessis 4 Score: 34/0
+3.4 Pat Cummins to Faf du Plessis 6 Score: 40/0
+3.5 Pat Cummins to Faf du Plessis 1 Score: 41/0
+3.6 Pat Cummins to Ruturaj Gaikwad 0 Score: 41/0
+4.1 Sunil Narine to Faf du Plessis 0 Score: 41/0
+4.2 Sunil Narine to Faf du Plessis 4 Score: 45/0
+4.3 Sunil Narine to Faf du Plessis 4 Score: 49/0
+4.4 Sunil Narine to Faf du Plessis 1 Score: 50/0
+4.5 Sunil Narine to Ruturaj Gaikwad 1 Score: 51/0
+4.6 Sunil Narine to Faf du Plessis 1 Score: 52/0
+5.1 Prasidh Krishna to Faf du Plessis 0 Score: 52/0
+5.2 Prasidh Krishna to Faf du Plessis 0 Score: 52/0
+5.3 Prasidh Krishna to Faf du Plessis 1 Score: 53/0
+5.4 Prasidh Krishna to Ruturaj Gaikwad 4 Score: 57/0
+5.5 Prasidh Krishna to Ruturaj Gaikwad 0 Score: 57/0
+5.6 Prasidh Krishna to Ruturaj Gaikwad 2 Score: 59/0
+6.1 Sunil Narine to Faf du Plessis 0 Score: 59/0
+6.2 Sunil Narine to Faf du Plessis 6 Score: 65/0
+6.3 Sunil Narine to Faf du Plessis 0 Score: 65/0
+6.4 Sunil Narine to Faf du Plessis 0 Score: 65/0
+6.5 Sunil Narine to Faf du Plessis 1 Score: 66/0
+6.6 Sunil Narine to Ruturaj Gaikwad 4 Score: 70/0
+7.1 Prasidh Krishna to Faf du Plessis 4 Score: 74/0
+7.2 Prasidh Krishna to Faf du Plessis 1 Score: 75/0
+7.3 Prasidh Krishna to Ruturaj Gaikwad 4 Score: 79/0
+7.4 Prasidh Krishna to Ruturaj Gaikwad 0 Score: 79/0
+7.5 Prasidh Krishna to Ruturaj Gaikwad 0 Score: 79/0
+7.6 Prasidh Krishna to Ruturaj Gaikwad 0 Score: 79/0
+8.1 Sunil Narine to Faf du Plessis 1 Score: 80/0
+8.2 Sunil Narine to Ruturaj Gaikwad 1 Score: 81/0
+8.3 Sunil Narine to Faf du Plessis 0 Score: 81/0
+8.4 Sunil Narine to Faf du Plessis 1 Score: 82/0
+8.5 Sunil Narine to Ruturaj Gaikwad 1 Score: 83/0
+8.6 Sunil Narine to Faf du Plessis 6 Score: 89/0
+9.1 Prasidh Krishna to Ruturaj Gaikwad 0 Score: 89/0
+9.2 Prasidh Krishna to Ruturaj Gaikwad 1 Score: 90/0
+9.3 Prasidh Krishna to Faf du Plessis 0 Score: 90/0
+9.4 Prasidh Krishna to Faf du Plessis 0 Score: 90/0
+9.5 Prasidh Krishna to Faf du Plessis 2 Score: 92/0
+9.6 Prasidh Krishna to Faf du Plessis 1 Score: 93/0
+10.1 Sunil Narine to Faf du Plessis 1 Score: 94/0
+10.2 Sunil Narine to Ruturaj Gaikwad 1 Score: 95/0
+10.3 Sunil Narine to Faf du Plessis 2 Score: 97/0
+10.4 Sunil Narine to Faf du Plessis 1 Score: 98/0
+10.5 Sunil Narine to Ruturaj Gaikwad 4 Score: 102/0
+10.6 Sunil Narine to Ruturaj Gaikwad 1 Score: 103/0
+11.1 Varun Chakravarthy to Ruturaj Gaikwad W Score: 103/1 Caught by Andre Russell
+11.2 Varun Chakravarthy to Suresh Raina 0 Score: 103/1
+11.3 Varun Chakravarthy to Suresh Raina 1 Score: 104/1
+11.4 Varun Chakravarthy to Faf du Plessis 2 Score: 106/1
+11.5 Varun Chakravarthy to Faf du Plessis 1 Score: 107/1
+11.6 Varun Chakravarthy to Suresh Raina 1 Score: 108/1
+12.1 Varun Chakravarthy to Suresh Raina 1 Score: 109/1
+12.2 Varun Chakravarthy to Faf du Plessis 4 Score: 113/1
+12.3 Varun Chakravarthy to Faf du Plessis 2 Score: 115/1
+12.4 Varun Chakravarthy to Faf du Plessis 0 Score: 115/1
+12.5 Varun Chakravarthy to Faf du Plessis W Score: 115/2 Caught by Andre Russell
+12.6 Varun Chakravarthy to Moeen Ali 1 Score: 116/2
+13.1 Varun Chakravarthy to Moeen Ali 0 Score: 116/2
+13.2 Varun Chakravarthy to Moeen Ali 4 Score: 120/2
+13.3 Varun Chakravarthy to Moeen Ali 0 Score: 120/2
+13.4 Varun Chakravarthy to Moeen Ali 4 Score: 124/2
+13.5 Varun Chakravarthy to Moeen Ali 4 Score: 128/2
+13.6 Varun Chakravarthy to Moeen Ali 1 Score: 129/2
+14.1 Varun Chakravarthy to Moeen Ali 0 Score: 129/2
+14.2 Varun Chakravarthy to Moeen Ali W Score: 131/3 Run Out!
+14.3 Varun Chakravarthy to MS Dhoni 0 Score: 131/3
+14.4 Varun Chakravarthy to MS Dhoni 0 Score: 131/3
+14.5 Varun Chakravarthy to MS Dhoni 0 Score: 131/3
+14.6 Varun Chakravarthy to MS Dhoni 2 Score: 133/3
+15.1 Andre Russell to Suresh Raina 0 Score: 133/3
+15.2 Andre Russell to Suresh Raina 1 Score: 134/3
+15.3 Andre Russell to MS Dhoni 1 Score: 135/3
+15.4 Andre Russell to Suresh Raina 1 Score: 136/3
+15.5 Andre Russell to MS Dhoni 0 Score: 136/3
+15.6 Andre Russell to MS Dhoni 0 Score: 136/3
+16.1 Nitish Rana to Suresh Raina 1 Score: 137/3
+16.2 Nitish Rana to MS Dhoni 0 Score: 137/3
+16.3 Nitish Rana to MS Dhoni Wide Score: 138/3
+16.4 Nitish Rana to MS Dhoni 0 Score: 138/3
+16.5 Nitish Rana to MS Dhoni 2 Score: 140/3
+16.6 Nitish Rana to MS Dhoni 0 Score: 140/3
+16.7 Nitish Rana to MS Dhoni 1 Score: 141/3
+17.1 Andre Russell to MS Dhoni 0 Score: 141/3
+17.2 Andre Russell to MS Dhoni 1 Score: 142/3
+17.3 Andre Russell to Suresh Raina 1 Score: 143/3
+17.4 Andre Russell to MS Dhoni 0 Score: 143/3
+17.5 Andre Russell to MS Dhoni 6 Score: 149/3
+17.6 Andre Russell to MS Dhoni 2 Score: 151/3
+18.1 Prasidh Krishna to Suresh Raina 6 Score: 157/3
+18.2 Prasidh Krishna to Suresh Raina 4 Score: 161/3
+18.3 Prasidh Krishna to Suresh Raina 0 Score: 161/3
+18.4 Prasidh Krishna to Suresh Raina 0 Score: 161/3
+18.5 Prasidh Krishna to Suresh Raina 4 Score: 165/3
+18.6 Prasidh Krishna to Suresh Raina 0 Score: 165/3
+19.1 Andre Russell to MS Dhoni 0 Score: 165/3
+19.2 Andre Russell to MS Dhoni 1 Score: 166/3
+19.3 Andre Russell to Suresh Raina 1 Score: 167/3
+19.4 Andre Russell to MS Dhoni 1 Score: 168/3
+19.5 Andre Russell to Suresh Raina 0 Score: 168/3
+19.6 Andre Russell to Suresh Raina Wide Score: 169/3
+19.7 Andre Russell to Suresh Raina 1 Score: 170/3
++--------------+--------+---------+--------+-------------------------+
+| Player       |   Runs |   Balls | SR     | Out                     |
++==============+========+=========+========+=========================+
+| RD Gaikwad   |     33 |      24 | 137.5  | c AD Russell b CV Varun |
++--------------+--------+---------+--------+-------------------------+
+| F du Plessis |     79 |      49 | 161.22 | c AD Russell b CV Varun |
++--------------+--------+---------+--------+-------------------------+
+| MM Ali       |     16 |       9 | 177.78 | Not out                 |
++--------------+--------+---------+--------+-------------------------+
+| SK Raina     |     23 |      18 | 127.78 | Not out                 |
++--------------+--------+---------+--------+-------------------------+
+| AT Rayudu    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| RA Jadeja    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| MS Dhoni     |     17 |      20 | 85.0   | Not out                 |
++--------------+--------+---------+--------+-------------------------+
+| SM Curran    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| DJ Bravo     |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| SN Thakur    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| DL Chahar    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| N Rana            |      5 |       1 |         0 | 5.0   |
++-------------------+--------+---------+-----------+-------+
+| Shubman Gill      |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| RA Tripathi       |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| EJG Morgan        |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| AD Russell        |     18 |       3 |         0 | 6.0   |
++-------------------+--------+---------+-----------+-------+
+| KD Karthik        |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| SP Narine         |     42 |       4 |         0 | 10.5  |
++-------------------+--------+---------+-----------+-------+
+| PJ Cummins        |     22 |       2 |         0 | 11.0  |
++-------------------+--------+---------+-----------+-------+
+| Shivam Mavi       |     19 |       2 |         0 | 9.5   |
++-------------------+--------+---------+-----------+-------+
+| CV Varun          |     30 |       4 |         2 | 7.5   |
++-------------------+--------+---------+-----------+-------+
+| M Prasidh Krishna |     34 |       4 |         0 | 8.5   |
++-------------------+--------+---------+-----------+-------+
 0.1 Deepak Chahar to Rahul Tripathi 0 Score: 0/0
-0.2 Deepak Chahar to Rahul Tripathi 0 Score: 0/0
-0.3 Deepak Chahar to Rahul Tripathi 0 Score: 0/0
-0.4 Deepak Chahar to Rahul Tripathi 1 Score: 1/0
-0.5 Deepak Chahar to Nitish Rana 0 Score: 1/0
-0.6 Deepak Chahar to Nitish Rana 1 Score: 2/0
-1.1 Moeen Ali to Nitish Rana 0 Score: 2/0
-1.2 Moeen Ali to Nitish Rana 1 Score: 3/0
-1.3 Moeen Ali to Rahul Tripathi 2 Score: 5/0
-1.4 Moeen Ali to Rahul Tripathi 2 Score: 7/0
-1.5 Moeen Ali to Rahul Tripathi 0 Score: 7/0
-1.6 Moeen Ali to Rahul Tripathi 1 Score: 8/0
-2.1 Deepak Chahar to Rahul Tripathi 0 Score: 8/0
-2.2 Deepak Chahar to Rahul Tripathi 0 Score: 8/0
-2.3 Deepak Chahar to Rahul Tripathi 2 Score: 10/0
-2.4 Deepak Chahar to Rahul Tripathi 6 Score: 16/0
+0.2 Deepak Chahar to Rahul Tripathi 4 Score: 4/0
+0.3 Deepak Chahar to Rahul Tripathi 4 Score: 8/0
+0.4 Deepak Chahar to Rahul Tripathi 2 Score: 10/0
+0.5 Deepak Chahar to Rahul Tripathi 0 Score: 10/0
+0.6 Deepak Chahar to Rahul Tripathi 1 Score: 11/0
+1.1 Moeen Ali to Rahul Tripathi 0 Score: 11/0
+1.2 Moeen Ali to Rahul Tripathi 1 Score: 12/0
+1.3 Moeen Ali to Nitish Rana 0 Score: 12/0
+1.4 Moeen Ali to Nitish Rana 0 Score: 12/0
+1.5 Moeen Ali to Nitish Rana 1 Score: 13/0
+1.6 Moeen Ali to Rahul Tripathi 0 Score: 13/0
+2.1 Deepak Chahar to Nitish Rana 1 Score: 14/0
+2.2 Deepak Chahar to Rahul Tripathi 0 Score: 14/0
+2.3 Deepak Chahar to Rahul Tripathi 1 Score: 15/0
+2.4 Deepak Chahar to Nitish Rana 1 Score: 16/0
 2.5 Deepak Chahar to Rahul Tripathi 0 Score: 16/0
 2.6 Deepak Chahar to Rahul Tripathi 0 Score: 16/0
-3.1 Moeen Ali to Nitish Rana 6 Score: 22/0
-3.2 Moeen Ali to Nitish Rana 1 Score: 23/0
-3.3 Moeen Ali to Rahul Tripathi 4 Score: 27/0
-3.4 Moeen Ali to Rahul Tripathi W Score: 27/1 Caught by Dwayne Bravo
-3.5 Moeen Ali to Shubman Gill 0 Score: 27/1
-3.6 Moeen Ali to Shubman Gill 1 Score: 28/1
-4.1 Shardul Thakur to Shubman Gill 2 Score: 30/1
-4.2 Shardul Thakur to Shubman Gill 4 Score: 34/1
-4.3 Shardul Thakur to Shubman Gill 1 Score: 35/1
-4.4 Shardul Thakur to Nitish Rana 0 Score: 35/1
-4.5 Shardul Thakur to Nitish Rana 4 Score: 39/1
-4.6 Shardul Thakur to Nitish Rana 4 Score: 43/1
-5.1 Sam Curran to Shubman Gill 0 Score: 43/1
-5.2 Sam Curran to Shubman Gill 0 Score: 43/1
-5.3 Sam Curran to Shubman Gill 2 Score: 45/1
-5.4 Sam Curran to Shubman Gill 1 Score: 46/1
-5.5 Sam Curran to Nitish Rana 4 Score: 50/1
-5.6 Sam Curran to Nitish Rana 1 Score: 51/1
-6.1 Shardul Thakur to Nitish Rana 4 Score: 55/1
-6.2 Shardul Thakur to Nitish Rana 4 Score: 59/1
-6.3 Shardul Thakur to Nitish Rana 1 Score: 60/1
-6.4 Shardul Thakur to Shubman Gill 0 Score: 60/1
-6.5 Shardul Thakur to Shubman Gill W Score: 60/2 Caught by Faf du Plessis
-6.6 Shardul Thakur to Dinesh Karthik 1 Score: 61/2
-7.1 Sam Curran to Dinesh Karthik 1 Score: 62/2
-7.2 Sam Curran to Nitish Rana 0 Score: 62/2
-7.3 Sam Curran to Nitish Rana 0 Score: 62/2
-7.4 Sam Curran to Nitish Rana 0 Score: 62/2
-7.5 Sam Curran to Nitish Rana 1 Score: 63/2
-7.6 Sam Curran to Dinesh Karthik 6 Score: 69/2
-8.1 Shardul Thakur to Nitish Rana Wide Score: 70/2
-8.2 Shardul Thakur to Nitish Rana 2 Score: 72/2
-8.3 Shardul Thakur to Nitish Rana 0 Score: 72/2
-8.4 Shardul Thakur to Nitish Rana 0 Score: 72/2
-8.5 Shardul Thakur to Nitish Rana W Score: 72/3 Caught by Deepak Chahar
-8.6 Shardul Thakur to Eoin Morgan 2 Score: 74/3
-8.7 Shardul Thakur to Eoin Morgan 0 Score: 74/3
-9.1 Sam Curran to Dinesh Karthik 0 Score: 74/3
-9.2 Sam Curran to Dinesh Karthik 2 Score: 76/3
-9.3 Sam Curran to Dinesh Karthik 1 Score: 77/3
-9.4 Sam Curran to Eoin Morgan 0 Score: 77/3
-9.5 Sam Curran to Eoin Morgan 0 Score: 77/3
-9.6 Sam Curran to Eoin Morgan 0 Score: 77/3
-10.1 Dwayne Bravo to Dinesh Karthik 1 Score: 78/3
-10.2 Dwayne Bravo to Eoin Morgan 2 Score: 80/3
-10.3 Dwayne Bravo to Eoin Morgan 0 Score: 80/3
-10.4 Dwayne Bravo to Eoin Morgan 0 Score: 80/3
-10.5 Dwayne Bravo to Eoin Morgan 0 Score: 80/3
-10.6 Dwayne Bravo to Eoin Morgan Wide Score: 81/3
-10.7 Dwayne Bravo to Eoin Morgan 0 Score: 81/3
-11.1 Ravindra Jadeja to Dinesh Karthik 1 Score: 82/3
-11.2 Ravindra Jadeja to Eoin Morgan 1 Score: 83/3
-11.3 Ravindra Jadeja to Dinesh Karthik 1 Score: 84/3
-11.4 Ravindra Jadeja to Eoin Morgan 1 Score: 85/3
-11.5 Ravindra Jadeja to Dinesh Karthik 0 Score: 85/3
-11.6 Ravindra Jadeja to Dinesh Karthik 4 Score: 89/3
-12.1 Dwayne Bravo to Eoin Morgan 0 Score: 89/3
-12.2 Dwayne Bravo to Eoin Morgan 0 Score: 89/3
-12.3 Dwayne Bravo to Eoin Morgan 0 Score: 89/3
-12.4 Dwayne Bravo to Eoin Morgan 0 Score: 89/3
-12.5 Dwayne Bravo to Eoin Morgan Wide Score: 90/3
-12.6 Dwayne Bravo to Eoin Morgan 0 Score: 90/3
-12.7 Dwayne Bravo to Eoin Morgan 1 Score: 91/3
-13.1 Ravindra Jadeja to Eoin Morgan 0 Score: 91/3
-13.2 Ravindra Jadeja to Eoin Morgan 1 Score: 92/3
-13.3 Ravindra Jadeja to Dinesh Karthik 1 Score: 93/3
-13.4 Ravindra Jadeja to Eoin Morgan 0 Score: 93/3
-13.5 Ravindra Jadeja to Eoin Morgan 0 Score: 93/3
-13.6 Ravindra Jadeja to Eoin Morgan 0 Score: 93/3
-14.1 Dwayne Bravo to Dinesh Karthik 0 Score: 93/3
-14.2 Dwayne Bravo to Dinesh Karthik 2 Score: 95/3
-14.3 Dwayne Bravo to Dinesh Karthik 0 Score: 95/3
-14.4 Dwayne Bravo to Dinesh Karthik 4 Score: 99/3
-14.5 Dwayne Bravo to Dinesh Karthik 0 Score: 99/3
-14.6 Dwayne Bravo to Dinesh Karthik 2 Score: 101/3
-15.1 Ravindra Jadeja to Eoin Morgan 1 Score: 102/3
-15.2 Ravindra Jadeja to Dinesh Karthik 2 Score: 104/3
-15.3 Ravindra Jadeja to Dinesh Karthik 0 Score: 104/3
-15.4 Ravindra Jadeja to Dinesh Karthik 0 Score: 104/3
-15.5 Ravindra Jadeja to Dinesh Karthik 0 Score: 104/3
-15.6 Ravindra Jadeja to Dinesh Karthik 1 Score: 105/3
-16.1 Deepak Chahar to Dinesh Karthik 0 Score: 105/3
-16.2 Deepak Chahar to Dinesh Karthik 1 Score: 106/3
-16.3 Deepak Chahar to Eoin Morgan 0 Score: 106/3
-16.4 Deepak Chahar to Eoin Morgan 4 Score: 110/3
-16.5 Deepak Chahar to Eoin Morgan 0 Score: 110/3
-16.6 Deepak Chahar to Eoin Morgan 6 Score: 116/3
-17.1 Sam Curran to Dinesh Karthik Wide Score: 117/3
-17.2 Sam Curran to Dinesh Karthik 0 Score: 117/3
-17.3 Sam Curran to Dinesh Karthik 6 Score: 123/3
-17.4 Sam Curran to Dinesh Karthik 1 Score: 124/3
-17.5 Sam Curran to Eoin Morgan Wide Score: 125/3
-17.6 Sam Curran to Eoin Morgan W Score: 125/4 Run Out!
-17.7 Sam Curran to Andre Russell W Score: 125/5 Caught by Shardul Thakur
-17.8 Sam Curran to Pat Cummins 6 Score: 131/5
-18.1 Shardul Thakur to Dinesh Karthik 2 Score: 133/5
-18.2 Shardul Thakur to Dinesh Karthik 6 Score: 139/5
-18.3 Shardul Thakur to Dinesh Karthik Wide Score: 140/5
-18.4 Shardul Thakur to Dinesh Karthik 1 Score: 141/5
-18.5 Shardul Thakur to Pat Cummins 6 Score: 147/5
-18.6 Shardul Thakur to Pat Cummins 0 Score: 147/5
-18.7 Shardul Thakur to Pat Cummins 0 Score: 147/5
-19.1 Dwayne Bravo to Dinesh Karthik 1 Score: 148/5
-19.2 Dwayne Bravo to Pat Cummins W Score: 148/6 Caught by Ruturaj Gaikwad
-19.3 Dwayne Bravo to Shivam Mavi 6 Score: 154/6
-19.4 Dwayne Bravo to Shivam Mavi 4 Score: 158/6
-19.5 Dwayne Bravo to Shivam Mavi 0 Score: 158/6
-19.6 Dwayne Bravo to Shivam Mavi 1 Score: 159/6
+3.1 Moeen Ali to Nitish Rana 1 Score: 17/0
+3.2 Moeen Ali to Rahul Tripathi 6 Score: 23/0
+3.3 Moeen Ali to Rahul Tripathi 1 Score: 24/0
+3.4 Moeen Ali to Nitish Rana 0 Score: 24/0
+3.5 Moeen Ali to Nitish Rana 0 Score: 24/0
+3.6 Moeen Ali to Nitish Rana 0 Score: 24/0
+4.1 Shardul Thakur to Rahul Tripathi 4 Score: 28/0
+4.2 Shardul Thakur to Rahul Tripathi 0 Score: 28/0
+4.3 Shardul Thakur to Rahul Tripathi 4 Score: 32/0
+4.4 Shardul Thakur to Rahul Tripathi 0 Score: 32/0
+4.5 Shardul Thakur to Rahul Tripathi 0 Score: 32/0
+4.6 Shardul Thakur to Rahul Tripathi 0 Score: 32/0
+5.1 Sam Curran to Nitish Rana 0 Score: 32/0
+5.2 Sam Curran to Nitish Rana Wide Score: 33/0
+5.3 Sam Curran to Nitish Rana 0 Score: 33/0
+5.4 Sam Curran to Nitish Rana 1 Score: 34/0
+5.5 Sam Curran to Rahul Tripathi 0 Score: 34/0
+5.6 Sam Curran to Rahul Tripathi 6 Score: 40/0
+5.7 Sam Curran to Rahul Tripathi 1 Score: 41/0
+6.1 Shardul Thakur to Rahul Tripathi 4 Score: 45/0
+6.2 Shardul Thakur to Rahul Tripathi Wide Score: 46/0
+6.3 Shardul Thakur to Rahul Tripathi 1 Score: 47/0
+6.4 Shardul Thakur to Nitish Rana 4 Score: 51/0
+6.5 Shardul Thakur to Nitish Rana 1 Score: 52/0
+6.6 Shardul Thakur to Rahul Tripathi 1 Score: 53/0
+6.7 Shardul Thakur to Nitish Rana 1 Score: 54/0
+7.1 Sam Curran to Nitish Rana 4 Score: 58/0
+7.2 Sam Curran to Nitish Rana 1 Score: 59/0
+7.3 Sam Curran to Rahul Tripathi 1 Score: 60/0
+7.4 Sam Curran to Nitish Rana Wide Score: 61/0
+7.5 Sam Curran to Nitish Rana 6 Score: 67/0
+7.6 Sam Curran to Nitish Rana 1 Score: 68/0
+7.7 Sam Curran to Rahul Tripathi 4 Score: 72/0
+8.1 Shardul Thakur to Nitish Rana 4 Score: 76/0
+8.2 Shardul Thakur to Nitish Rana 1 Score: 77/0
+8.3 Shardul Thakur to Rahul Tripathi 0 Score: 77/0
+8.4 Shardul Thakur to Rahul Tripathi 1 Score: 78/0
+8.5 Shardul Thakur to Nitish Rana 0 Score: 78/0
+8.6 Shardul Thakur to Nitish Rana 6 Score: 84/0
+9.1 Sam Curran to Rahul Tripathi 0 Score: 84/0
+9.2 Sam Curran to Rahul Tripathi 1 Score: 85/0
+9.3 Sam Curran to Nitish Rana 1 Score: 86/0
+9.4 Sam Curran to Rahul Tripathi 0 Score: 86/0
+9.5 Sam Curran to Rahul Tripathi 0 Score: 86/0
+9.6 Sam Curran to Rahul Tripathi 4 Score: 90/0
+10.1 Dwayne Bravo to Nitish Rana 4 Score: 94/0
+10.2 Dwayne Bravo to Nitish Rana 0 Score: 94/0
+10.3 Dwayne Bravo to Nitish Rana 1 Score: 95/0
+10.4 Dwayne Bravo to Rahul Tripathi 0 Score: 95/0
+10.5 Dwayne Bravo to Rahul Tripathi 0 Score: 95/0
+10.6 Dwayne Bravo to Rahul Tripathi 0 Score: 95/0
+11.1 Ravindra Jadeja to Nitish Rana W Score: 95/1 Caught by Faf du Plessis
+11.2 Ravindra Jadeja to Shubman Gill 4 Score: 99/1
+11.3 Ravindra Jadeja to Shubman Gill 0 Score: 99/1
+11.4 Ravindra Jadeja to Shubman Gill 4 Score: 103/1
+11.5 Ravindra Jadeja to Shubman Gill 0 Score: 103/1
+11.6 Ravindra Jadeja to Shubman Gill 1 Score: 104/1
+12.1 Dwayne Bravo to Shubman Gill 4 Score: 108/1
+12.2 Dwayne Bravo to Shubman Gill 0 Score: 108/1
+12.3 Dwayne Bravo to Shubman Gill 4 Score: 112/1
+12.4 Dwayne Bravo to Shubman Gill 2 Score: 114/1
+12.5 Dwayne Bravo to Shubman Gill 2 Score: 116/1
+12.6 Dwayne Bravo to Shubman Gill 0 Score: 116/1
+13.1 Ravindra Jadeja to Rahul Tripathi 0 Score: 116/1
+13.2 Ravindra Jadeja to Rahul Tripathi 0 Score: 116/1
+13.3 Ravindra Jadeja to Rahul Tripathi 2 Score: 118/1
+13.4 Ravindra Jadeja to Rahul Tripathi 0 Score: 118/1
+13.5 Ravindra Jadeja to Rahul Tripathi 0 Score: 118/1
+13.6 Ravindra Jadeja to Rahul Tripathi 0 Score: 118/1
+14.1 Dwayne Bravo to Shubman Gill Wide Score: 119/1
+14.2 Dwayne Bravo to Shubman Gill 0 Score: 119/1
+14.3 Dwayne Bravo to Shubman Gill 0 Score: 119/1
+14.4 Dwayne Bravo to Shubman Gill 0 Score: 119/1
+14.5 Dwayne Bravo to Shubman Gill 0 Score: 119/1
+14.6 Dwayne Bravo to Shubman Gill 0 Score: 119/1
+14.7 Dwayne Bravo to Shubman Gill 4 Score: 123/1
+15.1 Ravindra Jadeja to Rahul Tripathi 0 Score: 123/1
+15.2 Ravindra Jadeja to Rahul Tripathi 0 Score: 123/1
+15.3 Ravindra Jadeja to Rahul Tripathi 4 Score: 127/1
+15.4 Ravindra Jadeja to Rahul Tripathi 2 Score: 129/1
+15.5 Ravindra Jadeja to Rahul Tripathi 4 Score: 133/1
+15.6 Ravindra Jadeja to Rahul Tripathi W Score: 133/2 Caught by Faf du Plessis
+16.1 Moeen Ali to Shubman Gill W Score: 133/3 Lbw
+16.2 Moeen Ali to Dinesh Karthik 0 Score: 133/3
+16.3 Moeen Ali to Dinesh Karthik 1 Score: 134/3
+16.4 Moeen Ali to Dinesh Karthik 0 Score: 134/3
+16.5 Moeen Ali to Dinesh Karthik 4 Score: 138/3
+16.6 Moeen Ali to Dinesh Karthik 4 Score: 142/3
+17.1 Sam Curran to Dinesh Karthik 1 Score: 143/3
+17.2 Sam Curran to Dinesh Karthik 6 Score: 149/3
+17.3 Sam Curran to Dinesh Karthik 6 Score: 155/3
+17.4 Sam Curran to Dinesh Karthik 0 Score: 155/3
+17.5 Sam Curran to Dinesh Karthik 1 Score: 156/3
+17.6 Sam Curran to Dinesh Karthik 4 Score: 160/3
+18.1 Shardul Thakur to Dinesh Karthik 4 Score: 164/3
+18.2 Shardul Thakur to Dinesh Karthik 1 Score: 165/3
+18.3 Shardul Thakur to Dinesh Karthik 0 Score: 165/3
+18.4 Shardul Thakur to Dinesh Karthik 4 Score: 169/3
+18.5 Shardul Thakur to Dinesh Karthik 4 Score: 173/3
+kkr won by 7 wickets
 +-------------------+--------+---------+--------+----------------------------+
 | Player            |   Runs |   Balls | SR     | Out                        |
 +===================+========+=========+========+============================+
-| N Rana            |     34 |      22 | 154.55 | c DL Chahar b SN Thakur    |
+| N Rana            |     40 |      28 | 142.86 | c F du Plessis b RA Jadeja |
 +-------------------+--------+---------+--------+----------------------------+
-| Shubman Gill      |     11 |      11 | 100.0  | c F du Plessis b SN Thakur |
+| Shubman Gill      |     25 |      18 | 138.89 | lbw b MM Ali               |
 +-------------------+--------+---------+--------+----------------------------+
-| RA Tripathi       |     18 |      16 | 112.5  | c DJ Bravo b MM Ali        |
+| RA Tripathi       |     64 |      51 | 125.49 | c F du Plessis b RA Jadeja |
 +-------------------+--------+---------+--------+----------------------------+
-| EJG Morgan        |     19 |      29 | 65.52  | Not out                    |
+| EJG Morgan        |      0 |       0 | DNB    |                            |
 +-------------------+--------+---------+--------+----------------------------+
-| AD Russell        |      0 |       1 | 0.0    | c SN Thakur b SM Curran    |
+| AD Russell        |      0 |       0 | DNB    |                            |
 +-------------------+--------+---------+--------+----------------------------+
-| KD Karthik        |     48 |      32 | 150.0  | Not out                    |
+| KD Karthik        |     40 |      16 | 250.0  | Not out                    |
 +-------------------+--------+---------+--------+----------------------------+
 | SP Narine         |      0 |       0 | DNB    |                            |
 +-------------------+--------+---------+--------+----------------------------+
-| PJ Cummins        |     12 |       5 | 240.0  | c RD Gaikwad b DJ Bravo    |
+| PJ Cummins        |      0 |       0 | DNB    |                            |
 +-------------------+--------+---------+--------+----------------------------+
-| Shivam Mavi       |     11 |       4 | 275.0  | Not out                    |
+| Shivam Mavi       |      0 |       0 | DNB    |                            |
 +-------------------+--------+---------+--------+----------------------------+
 | CV Varun          |      0 |       0 | DNB    |                            |
 +-------------------+--------+---------+--------+----------------------------+
@@ -153,191 +317,25 @@ kkr won the toss and chose to bat
 +--------------+--------+---------+-----------+-------+
 | Player       |   Runs |   Overs |   Wickets | Eco   |
 +==============+========+=========+===========+=======+
-| RD Gaikwad   |      0 |       0 |         0 | NA    |
+| RD Gaikwad   |      0 |     0   |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| F du Plessis |      0 |       0 |         0 | NA    |
+| F du Plessis |      0 |     0   |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| MM Ali       |     18 |       2 |         1 | 9.0   |
+| MM Ali       |     19 |     3   |         1 | 6.33  |
 +--------------+--------+---------+-----------+-------+
-| SK Raina     |      0 |       0 |         0 | NA    |
+| SK Raina     |      0 |     0   |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| AT Rayudu    |      0 |       0 |         0 | NA    |
+| AT Rayudu    |      0 |     0   |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| RA Jadeja    |     14 |       3 |         0 | 4.67  |
+| RA Jadeja    |     21 |     3   |         2 | 7.0   |
 +--------------+--------+---------+-----------+-------+
-| MS Dhoni     |      0 |       0 |         0 | NA    |
+| MS Dhoni     |      0 |     0   |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| SM Curran    |     34 |       4 |         1 | 8.5   |
+| SM Curran    |     51 |     4   |         0 | 12.75 |
 +--------------+--------+---------+-----------+-------+
-| DJ Bravo     |     26 |       4 |         1 | 6.5   |
+| DJ Bravo     |     22 |     3   |         0 | 7.33  |
 +--------------+--------+---------+-----------+-------+
-| SN Thakur    |     46 |       4 |         2 | 11.5  |
+| SN Thakur    |     46 |     3.5 |         0 | 12.0  |
 +--------------+--------+---------+-----------+-------+
-| DL Chahar    |     21 |       3 |         0 | 7.0   |
+| DL Chahar    |     14 |     2   |         0 | 7.0   |
 +--------------+--------+---------+-----------+-------+
-0.1 Shivam Mavi to Ruturaj Gaikwad 4 Score: 4/0
-0.2 Shivam Mavi to Ruturaj Gaikwad 1 Score: 5/0
-0.3 Shivam Mavi to Faf du Plessis 2 Score: 7/0
-0.4 Shivam Mavi to Faf du Plessis 0 Score: 7/0
-0.5 Shivam Mavi to Faf du Plessis Wide Score: 8/0
-0.6 Shivam Mavi to Faf du Plessis 0 Score: 8/0
-0.7 Shivam Mavi to Faf du Plessis 1 Score: 9/0
-1.1 Pat Cummins to Faf du Plessis 0 Score: 9/0
-1.2 Pat Cummins to Faf du Plessis 1 Score: 10/0
-1.3 Pat Cummins to Ruturaj Gaikwad 1 Score: 11/0
-1.4 Pat Cummins to Faf du Plessis 0 Score: 11/0
-1.5 Pat Cummins to Faf du Plessis 2 Score: 13/0
-1.6 Pat Cummins to Faf du Plessis 1 Score: 14/0
-2.1 Shivam Mavi to Faf du Plessis 4 Score: 18/0
-2.2 Shivam Mavi to Faf du Plessis 0 Score: 18/0
-2.3 Shivam Mavi to Faf du Plessis 0 Score: 18/0
-2.4 Shivam Mavi to Faf du Plessis 0 Score: 18/0
-2.5 Shivam Mavi to Faf du Plessis 1 Score: 19/0
-2.6 Shivam Mavi to Ruturaj Gaikwad 4 Score: 23/0
-3.1 Pat Cummins to Faf du Plessis 4 Score: 27/0
-3.2 Pat Cummins to Faf du Plessis 0 Score: 27/0
-3.3 Pat Cummins to Faf du Plessis 2 Score: 29/0
-3.4 Pat Cummins to Faf du Plessis 4 Score: 33/0
-3.5 Pat Cummins to Faf du Plessis 0 Score: 33/0
-3.6 Pat Cummins to Faf du Plessis 0 Score: 33/0
-4.1 Sunil Narine to Ruturaj Gaikwad 0 Score: 33/0
-4.2 Sunil Narine to Ruturaj Gaikwad 1 Score: 34/0
-4.3 Sunil Narine to Faf du Plessis 1 Score: 35/0
-4.4 Sunil Narine to Ruturaj Gaikwad 4 Score: 39/0
-4.5 Sunil Narine to Ruturaj Gaikwad 0 Score: 39/0
-4.6 Sunil Narine to Ruturaj Gaikwad 0 Score: 39/0
-5.1 Prasidh Krishna to Faf du Plessis 1 Score: 40/0
-5.2 Prasidh Krishna to Ruturaj Gaikwad 0 Score: 40/0
-5.3 Prasidh Krishna to Ruturaj Gaikwad 1 Score: 41/0
-5.4 Prasidh Krishna to Faf du Plessis 0 Score: 41/0
-5.5 Prasidh Krishna to Faf du Plessis 0 Score: 41/0
-5.6 Prasidh Krishna to Faf du Plessis 4 Score: 45/0
-6.1 Sunil Narine to Ruturaj Gaikwad 0 Score: 45/0
-6.2 Sunil Narine to Ruturaj Gaikwad 6 Score: 51/0
-6.3 Sunil Narine to Ruturaj Gaikwad 4 Score: 55/0
-6.4 Sunil Narine to Ruturaj Gaikwad 0 Score: 55/0
-6.5 Sunil Narine to Ruturaj Gaikwad W Score: 55/1 Lbw
-6.6 Sunil Narine to Suresh Raina 1 Score: 56/1
-7.1 Prasidh Krishna to Suresh Raina 4 Score: 60/1
-7.2 Prasidh Krishna to Suresh Raina 1 Score: 61/1
-7.3 Prasidh Krishna to Faf du Plessis 0 Score: 61/1
-7.4 Prasidh Krishna to Faf du Plessis 3 Score: 64/1
-7.5 Prasidh Krishna to Suresh Raina 0 Score: 64/1
-7.6 Prasidh Krishna to Suresh Raina 1 Score: 65/1
-8.1 Sunil Narine to Suresh Raina 1 Score: 66/1
-8.2 Sunil Narine to Faf du Plessis 1 Score: 67/1
-8.3 Sunil Narine to Suresh Raina 0 Score: 67/1
-8.4 Sunil Narine to Suresh Raina 4 Score: 71/1
-8.5 Sunil Narine to Suresh Raina 0 Score: 71/1
-8.6 Sunil Narine to Suresh Raina 0 Score: 71/1
-9.1 Prasidh Krishna to Faf du Plessis 6 Score: 77/1
-9.2 Prasidh Krishna to Faf du Plessis 0 Score: 77/1
-9.3 Prasidh Krishna to Faf du Plessis 2 Score: 79/1
-9.4 Prasidh Krishna to Faf du Plessis 1 Score: 80/1
-9.5 Prasidh Krishna to Suresh Raina 1 Score: 81/1
-9.6 Prasidh Krishna to Faf du Plessis 2 Score: 83/1
-10.1 Sunil Narine to Suresh Raina 1 Score: 84/1
-10.2 Sunil Narine to Faf du Plessis 1 Score: 85/1
-10.3 Sunil Narine to Suresh Raina 1 Score: 86/1
-10.4 Sunil Narine to Faf du Plessis 0 Score: 86/1
-10.5 Sunil Narine to Faf du Plessis 1 Score: 87/1
-10.6 Sunil Narine to Suresh Raina Wide Score: 88/1
-10.7 Sunil Narine to Suresh Raina 1 Score: 89/1
-11.1 Varun Chakravarthy to Suresh Raina 0 Score: 89/1
-11.2 Varun Chakravarthy to Suresh Raina 0 Score: 89/1
-11.3 Varun Chakravarthy to Suresh Raina 0 Score: 89/1
-11.4 Varun Chakravarthy to Suresh Raina 1 Score: 90/1
-11.5 Varun Chakravarthy to Faf du Plessis W Score: 90/2 Caught by Dinesh Karthik
-11.6 Varun Chakravarthy to Moeen Ali 0 Score: 90/2
-12.1 Varun Chakravarthy to Suresh Raina 0 Score: 90/2
-12.2 Varun Chakravarthy to Suresh Raina 4 Score: 94/2
-12.3 Varun Chakravarthy to Suresh Raina 0 Score: 94/2
-12.4 Varun Chakravarthy to Suresh Raina 1 Score: 95/2
-12.5 Varun Chakravarthy to Moeen Ali 1 Score: 96/2
-12.6 Varun Chakravarthy to Suresh Raina 0 Score: 96/2
-13.1 Varun Chakravarthy to Moeen Ali 0 Score: 96/2
-13.2 Varun Chakravarthy to Moeen Ali 0 Score: 96/2
-13.3 Varun Chakravarthy to Moeen Ali 1 Score: 97/2
-13.4 Varun Chakravarthy to Suresh Raina 0 Score: 97/2
-13.5 Varun Chakravarthy to Suresh Raina 0 Score: 97/2
-13.6 Varun Chakravarthy to Suresh Raina 6 Score: 103/2
-14.1 Varun Chakravarthy to Moeen Ali 0 Score: 103/2
-14.2 Varun Chakravarthy to Moeen Ali 4 Score: 107/2
-14.3 Varun Chakravarthy to Moeen Ali 4 Score: 111/2
-14.4 Varun Chakravarthy to Moeen Ali 6 Score: 117/2
-14.5 Varun Chakravarthy to Moeen Ali 4 Score: 121/2
-14.6 Varun Chakravarthy to Moeen Ali 0 Score: 121/2
-15.1 Andre Russell to Suresh Raina 4 Score: 125/2
-15.2 Andre Russell to Suresh Raina 1 Score: 126/2
-15.3 Andre Russell to Moeen Ali 1 Score: 127/2
-15.4 Andre Russell to Suresh Raina 1 Score: 128/2
-15.5 Andre Russell to Moeen Ali 2 Score: 130/2
-15.6 Andre Russell to Moeen Ali 4 Score: 134/2
-16.1 Pat Cummins to Suresh Raina 0 Score: 134/2
-16.2 Pat Cummins to Suresh Raina 2 Score: 136/2
-16.3 Pat Cummins to Suresh Raina 0 Score: 136/2
-16.4 Pat Cummins to Suresh Raina W Score: 136/3 Caught by Eoin Morgan
-16.5 Pat Cummins to MS Dhoni 1 Score: 137/3
-16.6 Pat Cummins to Moeen Ali 6 Score: 143/3
-17.1 Andre Russell to MS Dhoni W Score: 143/4 Lbw
-17.2 Andre Russell to Ravindra Jadeja 0 Score: 143/4
-17.3 Andre Russell to Ravindra Jadeja 1 Score: 144/4
-17.4 Andre Russell to Moeen Ali 0 Score: 144/4
-17.5 Andre Russell to Moeen Ali 5 Score: 149/4
-17.6 Andre Russell to Ravindra Jadeja W Score: 149/5 Caught by Shivam Mavi
-18.1 Pat Cummins to Moeen Ali W Score: 149/6 Caught by Rahul Tripathi
-18.2 Pat Cummins to Sam Curran 2 Score: 151/6
-18.3 Pat Cummins to Sam Curran 1 Score: 152/6
-18.4 Pat Cummins to Dwayne Bravo 4 Score: 156/6
-18.5 Pat Cummins to Dwayne Bravo 6 Score: 162/6
-csk won by 4 wickets
-+--------------+--------+---------+--------+----------------------------+
-| Player       |   Runs |   Balls | SR     | Out                        |
-+==============+========+=========+========+============================+
-| RD Gaikwad   |     26 |      16 | 162.5  | lbw b SP Narine            |
-+--------------+--------+---------+--------+----------------------------+
-| F du Plessis |     45 |      37 | 121.62 | c KD Karthik b CV Varun    |
-+--------------+--------+---------+--------+----------------------------+
-| MM Ali       |     38 |      18 | 211.11 | c RA Tripathi b PJ Cummins |
-+--------------+--------+---------+--------+----------------------------+
-| SK Raina     |     36 |      33 | 109.09 | c EJG Morgan b PJ Cummins  |
-+--------------+--------+---------+--------+----------------------------+
-| AT Rayudu    |      0 |       0 | DNB    |                            |
-+--------------+--------+---------+--------+----------------------------+
-| RA Jadeja    |      1 |       3 | 33.33  | c Shivam Mavi b AD Russell |
-+--------------+--------+---------+--------+----------------------------+
-| MS Dhoni     |      1 |       2 | 50.0   | lbw b AD Russell           |
-+--------------+--------+---------+--------+----------------------------+
-| SM Curran    |      3 |       2 | 150.0  | Not out                    |
-+--------------+--------+---------+--------+----------------------------+
-| DJ Bravo     |     10 |       2 | 500.0  | Not out                    |
-+--------------+--------+---------+--------+----------------------------+
-| SN Thakur    |      0 |       0 | DNB    |                            |
-+--------------+--------+---------+--------+----------------------------+
-| DL Chahar    |      0 |       0 | DNB    |                            |
-+--------------+--------+---------+--------+----------------------------+
-+-------------------+--------+---------+-----------+-------+
-| Player            |   Runs |   Overs |   Wickets | Eco   |
-+===================+========+=========+===========+=======+
-| N Rana            |      0 |     0   |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| Shubman Gill      |      0 |     0   |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| RA Tripathi       |      0 |     0   |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| EJG Morgan        |      0 |     0   |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| AD Russell        |     19 |     2   |         2 | 9.5   |
-+-------------------+--------+---------+-----------+-------+
-| KD Karthik        |      0 |     0   |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| SP Narine         |     29 |     4   |         1 | 7.25  |
-+-------------------+--------+---------+-----------+-------+
-| PJ Cummins        |     37 |     3.5 |         2 | 9.65  |
-+-------------------+--------+---------+-----------+-------+
-| Shivam Mavi       |     18 |     2   |         0 | 9.0   |
-+-------------------+--------+---------+-----------+-------+
-| CV Varun          |     32 |     4   |         1 | 8.0   |
-+-------------------+--------+---------+-----------+-------+
-| M Prasidh Krishna |     27 |     3   |         0 | 9.0   |
-+-------------------+--------+---------+-----------+-------+
