@@ -1,150 +1,151 @@
 csk won the toss and chose to field
-0.1 Deepak Chahar to Prithvi Shaw 0 Score: 0/0
-0.2 Deepak Chahar to Prithvi Shaw 1 Score: 1/0
-0.3 Deepak Chahar to Shikhar Dhawan 0 Score: 1/0
-0.4 Deepak Chahar to Shikhar Dhawan Wide Score: 2/0
-0.5 Deepak Chahar to Shikhar Dhawan 1 Score: 3/0
-0.6 Deepak Chahar to Prithvi Shaw 1 Score: 4/0
-0.7 Deepak Chahar to Shikhar Dhawan 0 Score: 4/0
-1.1 Moeen Ali to Prithvi Shaw 0 Score: 4/0
-1.2 Moeen Ali to Prithvi Shaw 0 Score: 4/0
-1.3 Moeen Ali to Prithvi Shaw 0 Score: 4/0
-1.4 Moeen Ali to Prithvi Shaw 1 Score: 5/0
-1.5 Moeen Ali to Shikhar Dhawan 1 Score: 6/0
-1.6 Moeen Ali to Prithvi Shaw 1 Score: 7/0
-2.1 Deepak Chahar to Prithvi Shaw 4 Score: 11/0
-2.2 Deepak Chahar to Prithvi Shaw 4 Score: 15/0
-2.3 Deepak Chahar to Prithvi Shaw 1 Score: 16/0
-2.4 Deepak Chahar to Shikhar Dhawan 1 Score: 17/0
-2.5 Deepak Chahar to Prithvi Shaw 1 Score: 18/0
-2.6 Deepak Chahar to Shikhar Dhawan 0 Score: 18/0
-3.1 Moeen Ali to Prithvi Shaw 0 Score: 18/0
-3.2 Moeen Ali to Prithvi Shaw 4 Score: 22/0
-3.3 Moeen Ali to Prithvi Shaw 0 Score: 22/0
-3.4 Moeen Ali to Prithvi Shaw 1 Score: 23/0
-3.5 Moeen Ali to Shikhar Dhawan 0 Score: 23/0
-3.6 Moeen Ali to Shikhar Dhawan W Score: 23/1 Caught by Suresh Raina
-4.1 Shardul Thakur to Prithvi Shaw 6 Score: 29/1
-4.2 Shardul Thakur to Prithvi Shaw 0 Score: 29/1
-4.3 Shardul Thakur to Prithvi Shaw 4 Score: 33/1
-4.4 Shardul Thakur to Prithvi Shaw 1 Score: 34/1
-4.5 Shardul Thakur to Steven Smith 2 Score: 36/1
-4.6 Shardul Thakur to Steven Smith 1 Score: 37/1
-5.1 Sam Curran to Steven Smith 2 Score: 39/1
-5.2 Sam Curran to Steven Smith 0 Score: 39/1
-5.3 Sam Curran to Steven Smith 1 Score: 40/1
-5.4 Sam Curran to Prithvi Shaw 1 Score: 41/1
-5.5 Sam Curran to Steven Smith 1 Score: 42/1
-5.6 Sam Curran to Prithvi Shaw 6 Score: 48/1
-6.1 Shardul Thakur to Steven Smith 0 Score: 48/1
-6.2 Shardul Thakur to Steven Smith 4 Score: 52/1
-6.3 Shardul Thakur to Steven Smith 0 Score: 52/1
-6.4 Shardul Thakur to Steven Smith 4 Score: 56/1
-6.5 Shardul Thakur to Steven Smith 1 Score: 57/1
-6.6 Shardul Thakur to Prithvi Shaw 4 Score: 61/1
-7.1 Sam Curran to Steven Smith 4 Score: 65/1
-7.2 Sam Curran to Steven Smith 2 Score: 67/1
-7.3 Sam Curran to Steven Smith 2 Score: 69/1
-7.4 Sam Curran to Steven Smith 1 Score: 70/1
-7.5 Sam Curran to Prithvi Shaw W Score: 70/2 Caught by Faf du Plessis
-7.6 Sam Curran to Rishabh Pant 1 Score: 71/2
-8.1 Shardul Thakur to Rishabh Pant 2 Score: 73/2
-8.2 Shardul Thakur to Rishabh Pant 4 Score: 77/2
-8.3 Shardul Thakur to Rishabh Pant 0 Score: 77/2
-8.4 Shardul Thakur to Rishabh Pant 4 Score: 81/2
-8.5 Shardul Thakur to Rishabh Pant 1 Score: 82/2
-8.6 Shardul Thakur to Steven Smith 2 Score: 84/2
-9.1 Sam Curran to Rishabh Pant 1 Score: 85/2
-9.2 Sam Curran to Steven Smith 0 Score: 85/2
-9.3 Sam Curran to Steven Smith 4 Score: 89/2
-9.4 Sam Curran to Steven Smith 0 Score: 89/2
-9.5 Sam Curran to Steven Smith 1 Score: 90/2
-9.6 Sam Curran to Rishabh Pant W Score: 91/3 Run Out!
-10.1 Ravindra Jadeja to Steven Smith 0 Score: 91/3
-10.2 Ravindra Jadeja to Steven Smith 0 Score: 91/3
-10.3 Ravindra Jadeja to Steven Smith 1 Score: 92/3
-10.4 Ravindra Jadeja to Marcus Stoinis 0 Score: 92/3
-10.5 Ravindra Jadeja to Marcus Stoinis 1 Score: 93/3
-10.6 Ravindra Jadeja to Steven Smith 2 Score: 95/3
-11.1 Dwayne Bravo to Marcus Stoinis 0 Score: 95/3
-11.2 Dwayne Bravo to Marcus Stoinis 0 Score: 95/3
-11.3 Dwayne Bravo to Marcus Stoinis 2 Score: 97/3
-11.4 Dwayne Bravo to Marcus Stoinis 1 Score: 98/3
-11.5 Dwayne Bravo to Steven Smith 4 Score: 102/3
-11.6 Dwayne Bravo to Steven Smith 0 Score: 102/3
-12.1 Ravindra Jadeja to Marcus Stoinis 0 Score: 102/3
-12.2 Ravindra Jadeja to Marcus Stoinis 0 Score: 102/3
-12.3 Ravindra Jadeja to Marcus Stoinis 0 Score: 102/3
-12.4 Ravindra Jadeja to Marcus Stoinis 0 Score: 102/3
-12.5 Ravindra Jadeja to Marcus Stoinis 6 Score: 108/3
-12.6 Ravindra Jadeja to Marcus Stoinis 2 Score: 110/3
-13.1 Dwayne Bravo to Steven Smith 1 Score: 111/3
-13.2 Dwayne Bravo to Marcus Stoinis 1 Score: 112/3
-13.3 Dwayne Bravo to Steven Smith 0 Score: 112/3
-13.4 Dwayne Bravo to Steven Smith 4 Score: 116/3
-13.5 Dwayne Bravo to Steven Smith 1 Score: 117/3
-13.6 Dwayne Bravo to Marcus Stoinis W Score: 117/4 Bowled
-14.1 Ravindra Jadeja to Steven Smith 0 Score: 117/4
-14.2 Ravindra Jadeja to Steven Smith 4 Score: 121/4
-14.3 Ravindra Jadeja to Steven Smith 1 Score: 122/4
-14.4 Ravindra Jadeja to Shimron Hetmyer 6 Score: 128/4
-14.5 Ravindra Jadeja to Shimron Hetmyer 0 Score: 128/4
-14.6 Ravindra Jadeja to Shimron Hetmyer 0 Score: 128/4
-15.1 Dwayne Bravo to Steven Smith 0 Score: 128/4
-15.2 Dwayne Bravo to Steven Smith 1 Score: 129/4
-15.3 Dwayne Bravo to Shimron Hetmyer 1 Score: 130/4
-15.4 Dwayne Bravo to Steven Smith 1 Score: 131/4
-15.5 Dwayne Bravo to Shimron Hetmyer 0 Score: 131/4
-15.6 Dwayne Bravo to Shimron Hetmyer 4 Score: 135/4
-16.1 Ravindra Jadeja to Steven Smith 0 Score: 135/4
-16.2 Ravindra Jadeja to Steven Smith 1 Score: 136/4
-16.3 Ravindra Jadeja to Shimron Hetmyer 0 Score: 136/4
-16.4 Ravindra Jadeja to Shimron Hetmyer 0 Score: 136/4
-16.5 Ravindra Jadeja to Shimron Hetmyer 0 Score: 136/4
-16.6 Ravindra Jadeja to Shimron Hetmyer 0 Score: 136/4
-17.1 Dwayne Bravo to Steven Smith 4 Score: 140/4
-17.2 Dwayne Bravo to Steven Smith 1 Score: 141/4
-17.3 Dwayne Bravo to Shimron Hetmyer 1 Score: 142/4
-17.4 Dwayne Bravo to Steven Smith 2 Score: 144/4
-17.5 Dwayne Bravo to Steven Smith W Score: 144/5 Caught by Dwayne Bravo
-17.6 Dwayne Bravo to Axar Patel 6 Score: 150/5
-18.1 Sam Curran to Shimron Hetmyer 6 Score: 156/5
-18.2 Sam Curran to Shimron Hetmyer 1 Score: 157/5
-18.3 Sam Curran to Axar Patel 1 Score: 158/5
-18.4 Sam Curran to Shimron Hetmyer 1 Score: 159/5
-18.5 Sam Curran to Axar Patel 1 Score: 160/5
-18.6 Sam Curran to Shimron Hetmyer 2 Score: 162/5
-19.1 Shardul Thakur to Axar Patel 4 Score: 166/5
-19.2 Shardul Thakur to Axar Patel W Score: 168/6 Run Out!
-19.3 Shardul Thakur to Ravichandran Ashwin 4 Score: 172/6
-19.4 Shardul Thakur to Ravichandran Ashwin 0 Score: 172/6
-19.5 Shardul Thakur to Ravichandran Ashwin 4 Score: 176/6
-19.6 Shardul Thakur to Ravichandran Ashwin 4 Score: 180/6
-+------------+--------+---------+--------+----------------------------+
-| Player     |   Runs |   Balls | SR     | Out                        |
-+============+========+=========+========+============================+
-| PP Shaw    |     41 |      24 | 170.83 | c F du Plessis b SM Curran |
-+------------+--------+---------+--------+----------------------------+
-| S Dhawan   |      3 |       8 | 37.5   | c SK Raina b MM Ali        |
-+------------+--------+---------+--------+----------------------------+
-| SPD Smith  |     60 |      42 | 142.86 | c DJ Bravo b DJ Bravo      |
-+------------+--------+---------+--------+----------------------------+
-| RR Pant    |     14 |       8 | 175.0  | Not out                    |
-+------------+--------+---------+--------+----------------------------+
-| SO Hetmyer |     22 |      15 | 146.67 | Not out                    |
-+------------+--------+---------+--------+----------------------------+
-| MP Stoinis |     13 |      14 | 92.86  | bowled b DJ Bravo          |
-+------------+--------+---------+--------+----------------------------+
-| AR Patel   |     14 |       5 | 280.0  | Not out                    |
-+------------+--------+---------+--------+----------------------------+
-| R Ashwin   |     12 |       4 | 300.0  | Not out                    |
-+------------+--------+---------+--------+----------------------------+
-| A Mishra   |      0 |       0 | DNB    |                            |
-+------------+--------+---------+--------+----------------------------+
-| K Rabada   |      0 |       0 | DNB    |                            |
-+------------+--------+---------+--------+----------------------------+
-| Avesh Khan |      0 |       0 | DNB    |                            |
-+------------+--------+---------+--------+----------------------------+
+0.1 Deepak Chahar to Prithvi Shaw 1 Score: 1/0
+0.2 Deepak Chahar to Shikhar Dhawan 4 Score: 5/0
+0.3 Deepak Chahar to Shikhar Dhawan Wide Score: 6/0
+0.4 Deepak Chahar to Shikhar Dhawan 2 Score: 8/0
+0.5 Deepak Chahar to Shikhar Dhawan 1 Score: 9/0
+0.6 Deepak Chahar to Prithvi Shaw 4 Score: 13/0
+0.7 Deepak Chahar to Prithvi Shaw 1 Score: 14/0
+1.1 Moeen Ali to Prithvi Shaw 0 Score: 14/0
+1.2 Moeen Ali to Prithvi Shaw 1 Score: 15/0
+1.3 Moeen Ali to Shikhar Dhawan 0 Score: 15/0
+1.4 Moeen Ali to Shikhar Dhawan 1 Score: 16/0
+1.5 Moeen Ali to Prithvi Shaw 1 Score: 17/0
+1.6 Moeen Ali to Shikhar Dhawan 1 Score: 18/0
+2.1 Dwayne Bravo to Shikhar Dhawan 1 Score: 19/0
+2.2 Dwayne Bravo to Prithvi Shaw 0 Score: 19/0
+2.3 Dwayne Bravo to Prithvi Shaw 0 Score: 19/0
+2.4 Dwayne Bravo to Prithvi Shaw 6 Score: 25/0
+2.5 Dwayne Bravo to Prithvi Shaw 1 Score: 26/0
+2.6 Dwayne Bravo to Shikhar Dhawan W Score: 26/1 Caught by Deepak Chahar
+3.1 Moeen Ali to Prithvi Shaw 0 Score: 26/1
+3.2 Moeen Ali to Prithvi Shaw 1 Score: 27/1
+3.3 Moeen Ali to Steven Smith 1 Score: 28/1
+3.4 Moeen Ali to Prithvi Shaw 1 Score: 29/1
+3.5 Moeen Ali to Steven Smith 0 Score: 29/1
+3.6 Moeen Ali to Steven Smith 1 Score: 30/1
+4.1 Dwayne Bravo to Steven Smith 4 Score: 34/1
+4.2 Dwayne Bravo to Steven Smith 1 Score: 35/1
+4.3 Dwayne Bravo to Prithvi Shaw 1 Score: 36/1
+4.4 Dwayne Bravo to Steven Smith 1 Score: 37/1
+4.5 Dwayne Bravo to Prithvi Shaw 1 Score: 38/1
+4.6 Dwayne Bravo to Steven Smith 0 Score: 38/1
+5.1 Ravindra Jadeja to Prithvi Shaw 0 Score: 38/1
+5.2 Ravindra Jadeja to Prithvi Shaw 2 Score: 40/1
+5.3 Ravindra Jadeja to Prithvi Shaw 6 Score: 46/1
+5.4 Ravindra Jadeja to Prithvi Shaw 0 Score: 46/1
+5.5 Ravindra Jadeja to Prithvi Shaw 0 Score: 46/1
+5.6 Ravindra Jadeja to Prithvi Shaw 0 Score: 46/1
+6.1 Dwayne Bravo to Steven Smith 1 Score: 47/1
+6.2 Dwayne Bravo to Prithvi Shaw 0 Score: 47/1
+6.3 Dwayne Bravo to Prithvi Shaw 4 Score: 51/1
+6.4 Dwayne Bravo to Prithvi Shaw 2 Score: 53/1
+6.5 Dwayne Bravo to Prithvi Shaw Wide Score: 54/1
+6.6 Dwayne Bravo to Prithvi Shaw 6 Score: 60/1
+6.7 Dwayne Bravo to Prithvi Shaw 1 Score: 61/1
+7.1 Ravindra Jadeja to Prithvi Shaw 6 Score: 67/1
+7.2 Ravindra Jadeja to Prithvi Shaw 2 Score: 69/1
+7.3 Ravindra Jadeja to Prithvi Shaw 1 Score: 70/1
+7.4 Ravindra Jadeja to Steven Smith 0 Score: 70/1
+7.5 Ravindra Jadeja to Steven Smith 1 Score: 71/1
+7.6 Ravindra Jadeja to Prithvi Shaw 1 Score: 72/1
+8.1 Deepak Chahar to Prithvi Shaw 6 Score: 78/1
+8.2 Deepak Chahar to Prithvi Shaw 4 Score: 82/1
+8.3 Deepak Chahar to Prithvi Shaw 0 Score: 82/1
+8.4 Deepak Chahar to Prithvi Shaw W Score: 82/2 Caught by MS Dhoni
+8.5 Deepak Chahar to Rishabh Pant 0 Score: 82/2
+8.6 Deepak Chahar to Rishabh Pant 1 Score: 83/2
+9.1 Ravindra Jadeja to Rishabh Pant 0 Score: 83/2
+9.2 Ravindra Jadeja to Rishabh Pant 1 Score: 84/2
+9.3 Ravindra Jadeja to Steven Smith 2 Score: 86/2
+9.4 Ravindra Jadeja to Steven Smith 1 Score: 87/2
+9.5 Ravindra Jadeja to Rishabh Pant 4 Score: 91/2
+9.6 Ravindra Jadeja to Rishabh Pant 0 Score: 91/2
+10.1 Deepak Chahar to Steven Smith 0 Score: 91/2
+10.2 Deepak Chahar to Steven Smith 1 Score: 92/2
+10.3 Deepak Chahar to Rishabh Pant 1 Score: 93/2
+10.4 Deepak Chahar to Steven Smith 0 Score: 93/2
+10.5 Deepak Chahar to Steven Smith 1 Score: 94/2
+10.6 Deepak Chahar to Rishabh Pant 0 Score: 94/2
+11.1 Ravindra Jadeja to Steven Smith 2 Score: 96/2
+11.2 Ravindra Jadeja to Steven Smith 1 Score: 97/2
+11.3 Ravindra Jadeja to Rishabh Pant 1 Score: 98/2
+11.4 Ravindra Jadeja to Steven Smith 0 Score: 98/2
+11.5 Ravindra Jadeja to Steven Smith 4 Score: 102/2
+11.6 Ravindra Jadeja to Steven Smith 0 Score: 102/2
+12.1 Deepak Chahar to Rishabh Pant 1 Score: 103/2
+12.2 Deepak Chahar to Steven Smith 0 Score: 103/2
+12.3 Deepak Chahar to Steven Smith 4 Score: 107/2
+12.4 Deepak Chahar to Steven Smith 0 Score: 107/2
+12.5 Deepak Chahar to Steven Smith 0 Score: 107/2
+12.6 Deepak Chahar to Steven Smith 0 Score: 107/2
+13.1 Dwayne Bravo to Rishabh Pant 0 Score: 107/2
+13.2 Dwayne Bravo to Rishabh Pant 0 Score: 107/2
+13.3 Dwayne Bravo to Rishabh Pant 4 Score: 111/2
+13.4 Dwayne Bravo to Rishabh Pant 0 Score: 111/2
+13.5 Dwayne Bravo to Rishabh Pant 4 Score: 115/2
+13.6 Dwayne Bravo to Rishabh Pant 2 Score: 117/2
+14.1 Moeen Ali to Steven Smith 0 Score: 117/2
+14.2 Moeen Ali to Steven Smith 1 Score: 118/2
+14.3 Moeen Ali to Rishabh Pant 1 Score: 119/2
+14.4 Moeen Ali to Steven Smith 1 Score: 120/2
+14.5 Moeen Ali to Rishabh Pant 0 Score: 120/2
+14.6 Moeen Ali to Rishabh Pant 1 Score: 121/2
+15.1 Suresh Raina to Rishabh Pant 0 Score: 121/2
+15.2 Suresh Raina to Rishabh Pant 1 Score: 122/2
+15.3 Suresh Raina to Steven Smith 1 Score: 123/2
+15.4 Suresh Raina to Rishabh Pant 1 Score: 124/2
+15.5 Suresh Raina to Steven Smith 1 Score: 125/2
+15.6 Suresh Raina to Rishabh Pant 1 Score: 126/2
+16.1 Moeen Ali to Rishabh Pant 1 Score: 127/2
+16.2 Moeen Ali to Steven Smith 1 Score: 128/2
+16.3 Moeen Ali to Rishabh Pant 0 Score: 128/2
+16.4 Moeen Ali to Rishabh Pant 1 Score: 129/2
+16.5 Moeen Ali to Steven Smith 0 Score: 129/2
+16.6 Moeen Ali to Steven Smith 1 Score: 130/2
+17.1 Sam Curran to Steven Smith 4 Score: 134/2
+17.2 Sam Curran to Steven Smith 1 Score: 135/2
+17.3 Sam Curran to Rishabh Pant 0 Score: 135/2
+17.4 Sam Curran to Rishabh Pant 0 Score: 135/2
+17.5 Sam Curran to Rishabh Pant 1 Score: 136/2
+17.6 Sam Curran to Steven Smith W Score: 136/3 Caught by Deepak Chahar
+18.1 Shardul Thakur to Rishabh Pant 4 Score: 140/3
+18.2 Shardul Thakur to Rishabh Pant W Score: 140/4 Caught by Ravindra Jadeja
+18.3 Shardul Thakur to Marcus Stoinis 2 Score: 142/4
+18.4 Shardul Thakur to Marcus Stoinis W Score: 142/5 Caught by Faf du Plessis
+18.5 Shardul Thakur to Shimron Hetmyer 1 Score: 143/5
+18.6 Shardul Thakur to Marcus Stoinis W Score: 143/6 Caught by Ravindra Jadeja
+19.1 Sam Curran to Shimron Hetmyer 0 Score: 143/6
+19.2 Sam Curran to Shimron Hetmyer 4 Score: 147/6
+19.3 Sam Curran to Shimron Hetmyer W Score: 147/7 Caught by MS Dhoni
+19.4 Sam Curran to Axar Patel 2 Score: 149/7
+19.5 Sam Curran to Axar Patel 4 Score: 153/7
+19.6 Sam Curran to Axar Patel 6 Score: 159/7
++------------+--------+---------+--------+-------------------------+
+| Player     |   Runs |   Balls | SR     | Out                     |
++============+========+=========+========+=========================+
+| PP Shaw    |     60 |      34 | 176.47 | c MS Dhoni b DL Chahar  |
++------------+--------+---------+--------+-------------------------+
+| S Dhawan   |     10 |       8 | 125.0  | c DL Chahar b DJ Bravo  |
++------------+--------+---------+--------+-------------------------+
+| SPD Smith  |     37 |      37 | 100.0  | c DL Chahar b SM Curran |
++------------+--------+---------+--------+-------------------------+
+| RR Pant    |     31 |      31 | 100.0  | c RA Jadeja b SN Thakur |
++------------+--------+---------+--------+-------------------------+
+| SO Hetmyer |      5 |       4 | 125.0  | c MS Dhoni b SM Curran  |
++------------+--------+---------+--------+-------------------------+
+| MP Stoinis |      2 |       3 | 66.67  | c RA Jadeja b SN Thakur |
++------------+--------+---------+--------+-------------------------+
+| AR Patel   |     12 |       3 | 400.0  | Not out                 |
++------------+--------+---------+--------+-------------------------+
+| R Ashwin   |      0 |       0 | DNB    |                         |
++------------+--------+---------+--------+-------------------------+
+| A Mishra   |      0 |       0 | DNB    |                         |
++------------+--------+---------+--------+-------------------------+
+| K Rabada   |      0 |       0 | DNB    |                         |
++------------+--------+---------+--------+-------------------------+
+| Avesh Khan |      0 |       0 | DNB    |                         |
++------------+--------+---------+--------+-------------------------+
 +--------------+--------+---------+-----------+-------+
 | Player       |   Runs |   Overs |   Wickets | Eco   |
 +==============+========+=========+===========+=======+
@@ -152,164 +153,165 @@ csk won the toss and chose to field
 +--------------+--------+---------+-----------+-------+
 | F du Plessis |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| MM Ali       |      8 |       2 |         1 | 4.0   |
+| MM Ali       |     16 |       4 |         0 | 4.0   |
 +--------------+--------+---------+-----------+-------+
-| SK Raina     |      0 |       0 |         0 | NA    |
+| SK Raina     |      5 |       1 |         0 | 5.0   |
 +--------------+--------+---------+-----------+-------+
 | AT Rayudu    |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| RA Jadeja    |     24 |       4 |         0 | 6.0   |
+| RA Jadeja    |     35 |       4 |         0 | 8.75  |
 +--------------+--------+---------+-----------+-------+
 | MS Dhoni     |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| SM Curran    |     40 |       4 |         1 | 10.0  |
+| SM Curran    |     22 |       2 |         2 | 11.0  |
 +--------------+--------+---------+-----------+-------+
-| DJ Bravo     |     35 |       4 |         2 | 8.75  |
+| DJ Bravo     |     41 |       4 |         1 | 10.25 |
 +--------------+--------+---------+-----------+-------+
-| SN Thakur    |     58 |       4 |         0 | 14.5  |
+| SN Thakur    |      7 |       1 |         3 | 7.0   |
 +--------------+--------+---------+-----------+-------+
-| DL Chahar    |     15 |       2 |         0 | 7.5   |
+| DL Chahar    |     33 |       4 |         1 | 8.25  |
 +--------------+--------+---------+-----------+-------+
-0.1 Kagiso Rabada to Ruturaj Gaikwad 0 Score: 0/0
-0.2 Kagiso Rabada to Ruturaj Gaikwad 0 Score: 0/0
-0.3 Kagiso Rabada to Ruturaj Gaikwad 0 Score: 0/0
-0.4 Kagiso Rabada to Ruturaj Gaikwad 0 Score: 0/0
-0.5 Kagiso Rabada to Ruturaj Gaikwad 4 Score: 4/0
-0.6 Kagiso Rabada to Ruturaj Gaikwad 1 Score: 5/0
-1.1 Ravichandran Ashwin to Ruturaj Gaikwad 1 Score: 6/0
-1.2 Ravichandran Ashwin to Faf du Plessis Wide Score: 7/0
-1.3 Ravichandran Ashwin to Faf du Plessis 1 Score: 8/0
-1.4 Ravichandran Ashwin to Ruturaj Gaikwad 0 Score: 8/0
-1.5 Ravichandran Ashwin to Ruturaj Gaikwad 4 Score: 12/0
-1.6 Ravichandran Ashwin to Ruturaj Gaikwad 4 Score: 16/0
-1.7 Ravichandran Ashwin to Ruturaj Gaikwad 0 Score: 16/0
-2.1 Kagiso Rabada to Faf du Plessis 4 Score: 20/0
-2.2 Kagiso Rabada to Faf du Plessis 6 Score: 26/0
-2.3 Kagiso Rabada to Faf du Plessis 4 Score: 30/0
-2.4 Kagiso Rabada to Faf du Plessis 1 Score: 31/0
-2.5 Kagiso Rabada to Ruturaj Gaikwad 0 Score: 31/0
-2.6 Kagiso Rabada to Ruturaj Gaikwad 0 Score: 31/0
-3.1 Axar Patel to Faf du Plessis 1 Score: 32/0
-3.2 Axar Patel to Ruturaj Gaikwad 0 Score: 32/0
-3.3 Axar Patel to Ruturaj Gaikwad 0 Score: 32/0
-3.4 Axar Patel to Ruturaj Gaikwad 0 Score: 32/0
-3.5 Axar Patel to Ruturaj Gaikwad 4 Score: 36/0
-3.6 Axar Patel to Ruturaj Gaikwad 6 Score: 42/0
-4.1 Ravichandran Ashwin to Faf du Plessis 4 Score: 46/0
-4.2 Ravichandran Ashwin to Faf du Plessis 0 Score: 46/0
-4.3 Ravichandran Ashwin to Faf du Plessis 0 Score: 46/0
-4.4 Ravichandran Ashwin to Faf du Plessis 0 Score: 46/0
-4.5 Ravichandran Ashwin to Faf du Plessis 1 Score: 47/0
-4.6 Ravichandran Ashwin to Ruturaj Gaikwad 6 Score: 53/0
-5.1 Axar Patel to Faf du Plessis 1 Score: 54/0
-5.2 Axar Patel to Ruturaj Gaikwad 0 Score: 54/0
-5.3 Axar Patel to Ruturaj Gaikwad 0 Score: 54/0
-5.4 Axar Patel to Ruturaj Gaikwad 4 Score: 58/0
-5.5 Axar Patel to Ruturaj Gaikwad 1 Score: 59/0
-5.6 Axar Patel to Faf du Plessis 0 Score: 59/0
-6.1 Ravichandran Ashwin to Ruturaj Gaikwad 4 Score: 63/0
-6.2 Ravichandran Ashwin to Ruturaj Gaikwad 0 Score: 63/0
-6.3 Ravichandran Ashwin to Ruturaj Gaikwad 6 Score: 69/0
-6.4 Ravichandran Ashwin to Ruturaj Gaikwad 6 Score: 75/0
-6.5 Ravichandran Ashwin to Ruturaj Gaikwad 1 Score: 76/0
-6.6 Ravichandran Ashwin to Faf du Plessis Wide Score: 77/0
-6.7 Ravichandran Ashwin to Faf du Plessis 3 Score: 80/0
-7.1 Axar Patel to Faf du Plessis 4 Score: 84/0
-7.2 Axar Patel to Faf du Plessis 1 Score: 85/0
-7.3 Axar Patel to Ruturaj Gaikwad 0 Score: 85/0
-7.4 Axar Patel to Ruturaj Gaikwad 1 Score: 86/0
-7.5 Axar Patel to Faf du Plessis 1 Score: 87/0
-7.6 Axar Patel to Ruturaj Gaikwad 0 Score: 87/0
-8.1 Ravichandran Ashwin to Faf du Plessis 1 Score: 88/0
-8.2 Ravichandran Ashwin to Ruturaj Gaikwad 1 Score: 89/0
-8.3 Ravichandran Ashwin to Faf du Plessis 1 Score: 90/0
-8.4 Ravichandran Ashwin to Ruturaj Gaikwad 0 Score: 90/0
-8.5 Ravichandran Ashwin to Ruturaj Gaikwad Wide Score: 91/0
-8.6 Ravichandran Ashwin to Ruturaj Gaikwad 1 Score: 92/0
-8.7 Ravichandran Ashwin to Faf du Plessis 0 Score: 92/0
-9.1 Axar Patel to Ruturaj Gaikwad 6 Score: 98/0
-9.2 Axar Patel to Ruturaj Gaikwad 1 Score: 99/0
-9.3 Axar Patel to Faf du Plessis 0 Score: 99/0
-9.4 Axar Patel to Faf du Plessis 1 Score: 100/0
-9.5 Axar Patel to Ruturaj Gaikwad W Score: 100/1 Caught by Rishabh Pant
-9.6 Axar Patel to Suresh Raina 1 Score: 101/1
-10.1 Marcus Stoinis to Suresh Raina 1 Score: 102/1
-10.2 Marcus Stoinis to Faf du Plessis 0 Score: 102/1
-10.3 Marcus Stoinis to Faf du Plessis 4 Score: 106/1
-10.4 Marcus Stoinis to Faf du Plessis 1 Score: 107/1
-10.5 Marcus Stoinis to Suresh Raina 1 Score: 108/1
-10.6 Marcus Stoinis to Faf du Plessis 0 Score: 108/1
-11.1 Amit Mishra to Suresh Raina 1 Score: 109/1
-11.2 Amit Mishra to Faf du Plessis 1 Score: 110/1
-11.2 Amit Mishra to Faf du Plessis 4 Score: 114/1
-11.3 Amit Mishra to Suresh Raina 0 Score: 114/1
-11.4 Amit Mishra to Suresh Raina Wide Score: 115/1
-11.5 Amit Mishra to Suresh Raina 1 Score: 116/1
-11.6 Amit Mishra to Faf du Plessis 1 Score: 117/1
-11.7 Amit Mishra to Suresh Raina 1 Score: 118/1
-12.1 Marcus Stoinis to Suresh Raina 1 Score: 119/1
-12.2 Marcus Stoinis to Faf du Plessis 1 Score: 120/1
-12.3 Marcus Stoinis to Suresh Raina 2 Score: 122/1
-12.4 Marcus Stoinis to Suresh Raina 0 Score: 122/1
-12.5 Marcus Stoinis to Suresh Raina 1 Score: 123/1
-12.6 Marcus Stoinis to Faf du Plessis 0 Score: 123/1
-13.1 Amit Mishra to Suresh Raina 1 Score: 124/1
-13.2 Amit Mishra to Faf du Plessis 1 Score: 125/1
-13.3 Amit Mishra to Suresh Raina 1 Score: 126/1
-13.4 Amit Mishra to Faf du Plessis W Score: 126/2 Caught by Shikhar Dhawan
-13.5 Amit Mishra to Ambati Rayudu 1 Score: 127/2
-13.6 Amit Mishra to Suresh Raina 0 Score: 127/2
-14.1 Marcus Stoinis to Ambati Rayudu 1 Score: 128/2
-14.2 Marcus Stoinis to Suresh Raina W Score: 128/3 Caught by Axar Patel
-14.3 Marcus Stoinis to Moeen Ali 1 Score: 129/3
-14.4 Marcus Stoinis to Ambati Rayudu 4 Score: 133/3
-14.5 Marcus Stoinis to Ambati Rayudu 0 Score: 133/3
-14.6 Marcus Stoinis to Ambati Rayudu 0 Score: 133/3
-15.1 Amit Mishra to Moeen Ali 4 Score: 137/3
-15.2 Amit Mishra to Moeen Ali 1 Score: 138/3
-15.3 Amit Mishra to Ambati Rayudu 1 Score: 139/3
-15.4 Amit Mishra to Moeen Ali 0 Score: 139/3
-15.5 Amit Mishra to Moeen Ali 1 Score: 140/3
-15.6 Amit Mishra to Ambati Rayudu 1 Score: 141/3
-16.1 Marcus Stoinis to Ambati Rayudu 4 Score: 145/3
-16.2 Marcus Stoinis to Ambati Rayudu 1 Score: 146/3
-16.3 Marcus Stoinis to Moeen Ali 1 Score: 147/3
-16.4 Marcus Stoinis to Ambati Rayudu 0 Score: 147/3
-16.5 Marcus Stoinis to Ambati Rayudu 1 Score: 148/3
-16.6 Marcus Stoinis to Moeen Ali 6 Score: 154/3
-17.1 Amit Mishra to Ambati Rayudu 1 Score: 155/3
-17.2 Amit Mishra to Moeen Ali 0 Score: 155/3
-17.3 Amit Mishra to Moeen Ali 0 Score: 155/3
-17.4 Amit Mishra to Moeen Ali 6 Score: 161/3
-17.5 Amit Mishra to Moeen Ali 6 Score: 167/3
-17.6 Amit Mishra to Moeen Ali 6 Score: 173/3
-18.1 Kagiso Rabada to Ambati Rayudu W Score: 173/4 Bowled
-18.2 Kagiso Rabada to Sam Curran W Score: 173/5 Caught by Kagiso Rabada
-18.3 Kagiso Rabada to MS Dhoni 2 Score: 175/5
-18.4 Kagiso Rabada to MS Dhoni W Score: 175/6 Caught by Rishabh Pant
-18.5 Kagiso Rabada to Ravindra Jadeja 1 Score: 176/6
-18.6 Kagiso Rabada to Moeen Ali 0 Score: 176/6
-19.1 Avesh Khan to Ravindra Jadeja 4 Score: 180/6
-19.2 Avesh Khan to Ravindra Jadeja 6 Score: 186/6
+0.1 Kagiso Rabada to Ruturaj Gaikwad Wide Score: 1/0
+0.2 Kagiso Rabada to Ruturaj Gaikwad 1 Score: 2/0
+0.3 Kagiso Rabada to Faf du Plessis 4 Score: 6/0
+0.4 Kagiso Rabada to Faf du Plessis 0 Score: 6/0
+0.5 Kagiso Rabada to Faf du Plessis 1 Score: 7/0
+0.6 Kagiso Rabada to Ruturaj Gaikwad 1 Score: 8/0
+0.7 Kagiso Rabada to Faf du Plessis 1 Score: 9/0
+1.1 Ravichandran Ashwin to Faf du Plessis 1 Score: 10/0
+1.2 Ravichandran Ashwin to Ruturaj Gaikwad 1 Score: 11/0
+1.3 Ravichandran Ashwin to Faf du Plessis 0 Score: 11/0
+1.4 Ravichandran Ashwin to Faf du Plessis 0 Score: 11/0
+1.5 Ravichandran Ashwin to Faf du Plessis 0 Score: 11/0
+1.6 Ravichandran Ashwin to Faf du Plessis 1 Score: 12/0
+2.1 Kagiso Rabada to Faf du Plessis 1 Score: 13/0
+2.2 Kagiso Rabada to Ruturaj Gaikwad 1 Score: 14/0
+2.3 Kagiso Rabada to Faf du Plessis 1 Score: 15/0
+2.4 Kagiso Rabada to Ruturaj Gaikwad 0 Score: 15/0
+2.5 Kagiso Rabada to Ruturaj Gaikwad 1 Score: 16/0
+2.6 Kagiso Rabada to Faf du Plessis 0 Score: 16/0
+3.1 Ravichandran Ashwin to Ruturaj Gaikwad 0 Score: 16/0
+3.2 Ravichandran Ashwin to Ruturaj Gaikwad 2 Score: 18/0
+3.3 Ravichandran Ashwin to Ruturaj Gaikwad 1 Score: 19/0
+3.4 Ravichandran Ashwin to Faf du Plessis 1 Score: 20/0
+3.5 Ravichandran Ashwin to Ruturaj Gaikwad 0 Score: 20/0
+3.6 Ravichandran Ashwin to Ruturaj Gaikwad 0 Score: 20/0
+4.1 Avesh Khan to Faf du Plessis 4 Score: 24/0
+4.2 Avesh Khan to Faf du Plessis 0 Score: 24/0
+4.3 Avesh Khan to Faf du Plessis 6 Score: 30/0
+4.4 Avesh Khan to Faf du Plessis 0 Score: 30/0
+4.5 Avesh Khan to Faf du Plessis 0 Score: 30/0
+4.6 Avesh Khan to Faf du Plessis 4 Score: 34/0
+5.1 Marcus Stoinis to Ruturaj Gaikwad 2 Score: 36/0
+5.2 Marcus Stoinis to Ruturaj Gaikwad 0 Score: 36/0
+5.3 Marcus Stoinis to Ruturaj Gaikwad 1 Score: 37/0
+5.4 Marcus Stoinis to Faf du Plessis 1 Score: 38/0
+5.5 Marcus Stoinis to Ruturaj Gaikwad 1 Score: 39/0
+5.6 Marcus Stoinis to Faf du Plessis 4 Score: 43/0
+6.1 Avesh Khan to Ruturaj Gaikwad 1 Score: 44/0
+6.1 Avesh Khan to Ruturaj Gaikwad 4 Score: 48/0
+6.2 Avesh Khan to Faf du Plessis 4 Score: 52/0
+6.3 Avesh Khan to Faf du Plessis 4 Score: 56/0
+6.4 Avesh Khan to Faf du Plessis 4 Score: 60/0
+6.5 Avesh Khan to Faf du Plessis 4 Score: 64/0
+6.6 Avesh Khan to Faf du Plessis 0 Score: 64/0
+7.1 Marcus Stoinis to Ruturaj Gaikwad 4 Score: 68/0
+7.2 Marcus Stoinis to Ruturaj Gaikwad 0 Score: 68/0
+7.3 Marcus Stoinis to Ruturaj Gaikwad 2 Score: 70/0
+7.4 Marcus Stoinis to Ruturaj Gaikwad 4 Score: 74/0
+7.5 Marcus Stoinis to Ruturaj Gaikwad 1 Score: 75/0
+7.6 Marcus Stoinis to Faf du Plessis 0 Score: 75/0
+8.1 Avesh Khan to Ruturaj Gaikwad 0 Score: 75/0
+8.2 Avesh Khan to Ruturaj Gaikwad 1 Score: 76/0
+8.3 Avesh Khan to Faf du Plessis W Score: 76/1 Bowled
+8.4 Avesh Khan to Suresh Raina 1 Score: 77/1
+8.5 Avesh Khan to Ruturaj Gaikwad 0 Score: 77/1
+8.6 Avesh Khan to Ruturaj Gaikwad 4 Score: 81/1
+9.1 Marcus Stoinis to Suresh Raina 0 Score: 81/1
+9.2 Marcus Stoinis to Suresh Raina 0 Score: 81/1
+9.3 Marcus Stoinis to Suresh Raina 0 Score: 81/1
+9.4 Marcus Stoinis to Suresh Raina 0 Score: 81/1
+9.5 Marcus Stoinis to Suresh Raina 0 Score: 81/1
+9.6 Marcus Stoinis to Suresh Raina 1 Score: 82/1
+10.1 Axar Patel to Suresh Raina 1 Score: 83/1
+10.2 Axar Patel to Ruturaj Gaikwad 0 Score: 83/1
+10.3 Axar Patel to Ruturaj Gaikwad 0 Score: 83/1
+10.4 Axar Patel to Ruturaj Gaikwad 1 Score: 84/1
+10.5 Axar Patel to Suresh Raina 0 Score: 84/1
+10.6 Axar Patel to Suresh Raina 1 Score: 85/1
+11.1 Marcus Stoinis to Suresh Raina 1 Score: 86/1
+11.1 Marcus Stoinis to Suresh Raina 4 Score: 90/1
+11.2 Marcus Stoinis to Ruturaj Gaikwad 4 Score: 94/1
+11.3 Marcus Stoinis to Ruturaj Gaikwad 1 Score: 95/1
+11.4 Marcus Stoinis to Suresh Raina W Score: 95/2 Caught by Rishabh Pant
+11.5 Marcus Stoinis to Ambati Rayudu 4 Score: 99/2
+11.6 Marcus Stoinis to Ambati Rayudu 0 Score: 99/2
+12.1 Axar Patel to Ruturaj Gaikwad 1 Score: 100/2
+12.2 Axar Patel to Ambati Rayudu 1 Score: 101/2
+12.3 Axar Patel to Ruturaj Gaikwad 4 Score: 105/2
+12.4 Axar Patel to Ruturaj Gaikwad 1 Score: 106/2
+12.5 Axar Patel to Ambati Rayudu 1 Score: 107/2
+12.6 Axar Patel to Ruturaj Gaikwad 1 Score: 108/2
+13.1 Kagiso Rabada to Ruturaj Gaikwad 4 Score: 112/2
+13.2 Kagiso Rabada to Ruturaj Gaikwad 0 Score: 112/2
+13.3 Kagiso Rabada to Ruturaj Gaikwad 4 Score: 116/2
+13.4 Kagiso Rabada to Ruturaj Gaikwad 0 Score: 116/2
+13.5 Kagiso Rabada to Ruturaj Gaikwad 0 Score: 116/2
+13.6 Kagiso Rabada to Ruturaj Gaikwad 0 Score: 116/2
+14.1 Axar Patel to Ambati Rayudu 1 Score: 117/2
+14.2 Axar Patel to Ruturaj Gaikwad 6 Score: 123/2
+14.3 Axar Patel to Ruturaj Gaikwad W Score: 123/3 Caught by Marcus Stoinis
+14.4 Axar Patel to Moeen Ali 1 Score: 124/3
+14.5 Axar Patel to Ambati Rayudu 0 Score: 124/3
+14.6 Axar Patel to Ambati Rayudu 1 Score: 125/3
+15.1 Amit Mishra to Ambati Rayudu 1 Score: 126/3
+15.2 Amit Mishra to Moeen Ali 1 Score: 127/3
+15.3 Amit Mishra to Ambati Rayudu 0 Score: 127/3
+15.4 Amit Mishra to Ambati Rayudu 0 Score: 127/3
+15.5 Amit Mishra to Ambati Rayudu 1 Score: 128/3
+15.6 Amit Mishra to Moeen Ali 1 Score: 129/3
+16.1 Axar Patel to Moeen Ali 4 Score: 133/3
+16.2 Axar Patel to Moeen Ali 1 Score: 134/3
+16.3 Axar Patel to Ambati Rayudu 1 Score: 135/3
+16.4 Axar Patel to Moeen Ali 0 Score: 135/3
+16.5 Axar Patel to Moeen Ali 0 Score: 135/3
+16.6 Axar Patel to Moeen Ali 0 Score: 135/3
+17.1 Amit Mishra to Ambati Rayudu 0 Score: 135/3
+17.2 Amit Mishra to Ambati Rayudu W Score: 135/4 Caught by Rishabh Pant
+17.3 Amit Mishra to Sam Curran W Score: 136/5 Run Out!
+17.4 Amit Mishra to MS Dhoni 1 Score: 137/5
+17.5 Amit Mishra to Moeen Ali 1 Score: 138/5
+17.6 Amit Mishra to MS Dhoni 6 Score: 144/5
+18.1 Kagiso Rabada to Moeen Ali 2 Score: 146/5
+18.2 Kagiso Rabada to Moeen Ali 0 Score: 146/5
+18.3 Kagiso Rabada to Moeen Ali 4 Score: 150/5
+18.4 Kagiso Rabada to Moeen Ali Wide Score: 151/5
+18.5 Kagiso Rabada to Moeen Ali 6 Score: 157/5
+18.6 Kagiso Rabada to Moeen Ali 0 Score: 157/5
+18.7 Kagiso Rabada to Moeen Ali 0 Score: 157/5
+19.1 Amit Mishra to MS Dhoni W Score: 157/6 Run Out!
+19.2 Amit Mishra to Ravindra Jadeja 1 Score: 158/6
+19.3 Amit Mishra to Moeen Ali 1 Score: 159/6
+19.4 Amit Mishra to Ravindra Jadeja 1 Score: 160/6
 csk won by 4 wickets
 +--------------+--------+---------+--------+-------------------------+
 | Player       |   Runs |   Balls | SR     | Out                     |
 +==============+========+=========+========+=========================+
-| RD Gaikwad   |     62 |      37 | 167.57 | c RR Pant b AR Patel    |
+| RD Gaikwad   |     60 |      43 | 139.53 | c MP Stoinis b AR Patel |
 +--------------+--------+---------+--------+-------------------------+
-| F du Plessis |     48 |      33 | 145.45 | c S Dhawan b A Mishra   |
+| F du Plessis |     46 |      28 | 164.29 | bowled b Avesh Khan     |
 +--------------+--------+---------+--------+-------------------------+
-| MM Ali       |     32 |      13 | 246.15 | Not out                 |
+| MM Ali       |     22 |      16 | 137.5  | Not out                 |
 +--------------+--------+---------+--------+-------------------------+
-| SK Raina     |     12 |      15 | 80.0   | c AR Patel b MP Stoinis |
+| SK Raina     |      9 |      13 | 69.23  | c RR Pant b MP Stoinis  |
 +--------------+--------+---------+--------+-------------------------+
-| AT Rayudu    |     15 |      13 | 115.38 | bowled b K Rabada       |
+| AT Rayudu    |     11 |      14 | 78.57  | c RR Pant b A Mishra    |
 +--------------+--------+---------+--------+-------------------------+
-| RA Jadeja    |     11 |       3 | 366.67 | Not out                 |
+| RA Jadeja    |      2 |       2 | 100.0  | Not out                 |
 +--------------+--------+---------+--------+-------------------------+
-| MS Dhoni     |      2 |       2 | 100.0  | c RR Pant b K Rabada    |
+| MS Dhoni     |      7 |       3 | 233.33 | Not out                 |
 +--------------+--------+---------+--------+-------------------------+
-| SM Curran    |      0 |       1 | 0.0    | c K Rabada b K Rabada   |
+| SM Curran    |      1 |       1 | 100.0  | Not out                 |
 +--------------+--------+---------+--------+-------------------------+
 | DJ Bravo     |      0 |       0 | DNB    |                         |
 +--------------+--------+---------+--------+-------------------------+
@@ -330,15 +332,15 @@ csk won by 4 wickets
 +------------+--------+---------+-----------+-------+
 | SO Hetmyer |      0 |     0   |         0 | NA    |
 +------------+--------+---------+-----------+-------+
-| MP Stoinis |     31 |     4   |         1 | 7.75  |
+| MP Stoinis |     35 |     4.1 |         1 | 8.4   |
 +------------+--------+---------+-----------+-------+
-| AR Patel   |     33 |     4   |         1 | 8.25  |
+| AR Patel   |     27 |     4   |         1 | 6.75  |
 +------------+--------+---------+-----------+-------+
-| R Ashwin   |     48 |     4   |         0 | 12.0  |
+| R Ashwin   |      7 |     2   |         0 | 3.5   |
 +------------+--------+---------+-----------+-------+
-| A Mishra   |     41 |     4.1 |         1 | 9.84  |
+| A Mishra   |     16 |     2.4 |         1 | 6.0   |
 +------------+--------+---------+-----------+-------+
-| K Rabada   |     23 |     3   |         3 | 7.67  |
+| K Rabada   |     34 |     4   |         0 | 8.5   |
 +------------+--------+---------+-----------+-------+
-| Avesh Khan |     10 |     0.2 |         0 | 30.0  |
+| Avesh Khan |     41 |     3.1 |         1 | 12.95 |
 +------------+--------+---------+-----------+-------+

@@ -15,6 +15,7 @@ import sys
 
 
 #IMPROVE BOWLER ROTATION
+#Last 10 overs during chase small total (160-170) score is less, fix that by reducing 10 over mark score
 #designate 6 bowlers and bowl them in a shuffled
 #see for localBattingOrder
 from tabulate import tabulate
@@ -2088,7 +2089,7 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None):
     # pitchTypeInput = input("Enter type of pitch (green, dusty, or dead) ")
     pitchTypeInput = "dusty"
     stdoutOrigin=sys.stdout 
-    sys.stdout = open(f"scoresremainder/{team_one_inp}v{team_two_inp}.txt", "w")
+    sys.stdout = open(f"scores/{team_one_inp}v{team_two_inp}.txt", "w")
 
     # f = open("matches/csk_v_rr.txt", "r")
     f1 = open(f"teams/{team_one_inp}.txt", "r")

@@ -15,8 +15,13 @@ import sys
 
 
 #IMPROVE BOWLER ROTATION
+#Last 10 overs during chase small total (160-170) score is less, fix that by reducing 10 over mark score
 #designate 6 bowlers and bowl them in a shuffled
 #see for localBattingOrder
+
+#K Williamson bowling
+#Varun Chakravarthy multiple overs & others (BUG FIXED)
+#On match end sometimes 5th over is added, 5th over check and consecutive overs check
 from tabulate import tabulate
 
 target = 1
@@ -849,12 +854,11 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                 for pexp in playersExp:
                                     if(expIndex < 4):
                                         if(not inDeathBowlers(pexp)):
-                                            if(bowlerTracker[pexp['playerInitials']]['balls'] < 7):
+                                            if(bowlerTracker[pexp['playerInitials']]['balls'] < 7 and pexp['playerInitials'] != lastOver):
                                                 bowlerToReturn = pexp
                                                 valid = True
                                     else:
                                         break
-                                    expIndex += 1
                                     expIndex += 1
                                 while(not valid):
                                     pick = bowlingMiddle[random.randint(0,loopIndex)]
@@ -1900,12 +1904,11 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                 for pexp in playersExp:
                                     if(expIndex < 4):
                                         if(not inDeathBowlers(pexp)):
-                                            if(bowlerTracker[pexp['playerInitials']]['balls'] < 7):
+                                            if(bowlerTracker[pexp['playerInitials']]['balls'] < 7 and pexp['playerInitials'] != lastOver):
                                                 bowlerToReturn = pexp
                                                 valid = True
                                     else:
                                         break
-                                    expIndex += 1
                                     expIndex += 1
                                 while(not valid):
                                     pick = bowlingMiddle[random.randint(0,loopIndex)]
@@ -2087,8 +2090,8 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None):
 
     # pitchTypeInput = input("Enter type of pitch (green, dusty, or dead) ")
     pitchTypeInput = "dusty"
-    stdoutOrigin=sys.stdout 
-    sys.stdout = open(f"playoffs/{team_one_inp}v{team_two_inp}.txt", "w")
+    # stdoutOrigin=sys.stdout 
+    # sys.stdout = open(f"scores/{team_one_inp}v{team_two_inp}.txt", "w")
 
     # f = open("matches/csk_v_rr.txt", "r")
     f1 = open(f"teams/{team_one_inp}.txt", "r")
@@ -2179,8 +2182,8 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None):
 
     innings2(getBatting()[1], getBatting()[0], getBatting()[3], getBatting()[
             2], paceFactor, spinFactor, outfield, dew, detoriate)
-    sys.stdout.close()
-    sys.stdout=stdoutOrigin
+    # sys.stdout.close()
+    # sys.stdout=stdoutOrigin
     return [innings1Batting, innings1Bowling, innings2Batting, innings2Bowling, 120, 
         innings2Balls, innings1Runs, innings2Runs,winMsg ,innings1Battracker,
         innings2Battracker,innings1Bowltracker,innings2Bowltracker ,getBatting()[2] ,getBatting()[3] ,  winner]
