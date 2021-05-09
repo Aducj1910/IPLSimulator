@@ -12,8 +12,9 @@ Go to this link - http://bit.ly/2Ss1fwL (You can also use the official GitHub pr
 2. Click on "more info" and "run anyway" on the Windows Defender popup
 3. open the "expo" folder created
 4. create an empty folder inside the expo folder called "scores"
-5. Read the license & readme
-6. run the doipl.bat or custom.bat, your match scorecards will be saved in the scores folder 
+5. If you get the error that "Windows can't access the device, file" check out this video for the solution --> https://youtu.be/tGLKjq_p0Rs
+6. Read the license & readme
+7. run the doipl.bat or custom.bat, your match scorecards will be saved in the scores folder 
 
 ### How to run it
 There will be three .bat files - 
