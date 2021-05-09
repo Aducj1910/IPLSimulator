@@ -9,8 +9,6 @@ This is still in the pre-release phase so there are a lot of bugs.
 
 Use the official GitHub pre-release (https://github.com/Aducj1910/IPLSimulator/releases), and choose to download **only the setup exe file**. (note that you will not get updates automatically) and run the file. (see below for detailed download instruction)
 
-(DONT FORGET TO CREATE A FOLDER CALLED "scores" inside the game folder after installation)
-
 1. Once you have downloaded the "Setup_Aducj1910_IPLSim" exe file click on it.
 2. Click on "more info" and "run anyway" on the Windows Defender popup
 3. open the "expo" folder created
