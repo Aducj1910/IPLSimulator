@@ -15,7 +15,7 @@ import sys
 #Playoffs for ipl remainder
 
 #IMPROVE BOWLER ROTATION
-#Last 10 overs during chase small total (160-170) score is less, fix that by reducing 10 over mark score
+#If RRR is low in the last 10, team may falter, fix it
 #designate 6 bowlers and bowl them in a shuffled
 #see for localBattingOrder
 #K Williamson bowling
