@@ -1,0 +1,345 @@
+rcb won the toss and chose to bat
+0.1 Shivam Mavi to Devdutt Padikkal 0 Score: 0/0
+0.2 Shivam Mavi to Devdutt Padikkal 1 Score: 1/0
+0.3 Shivam Mavi to Virat Kohli 0 Score: 1/0
+0.4 Shivam Mavi to Virat Kohli 2 Score: 3/0
+0.5 Shivam Mavi to Virat Kohli 1 Score: 4/0
+0.6 Shivam Mavi to Devdutt Padikkal 0 Score: 4/0
+1.1 Pat Cummins to Virat Kohli 4 Score: 8/0
+1.2 Pat Cummins to Virat Kohli 1 Score: 9/0
+1.3 Pat Cummins to Devdutt Padikkal 1 Score: 10/0
+1.4 Pat Cummins to Virat Kohli 0 Score: 10/0
+1.5 Pat Cummins to Virat Kohli 0 Score: 10/0
+1.6 Pat Cummins to Virat Kohli 0 Score: 10/0
+2.1 Shivam Mavi to Devdutt Padikkal 4 Score: 14/0
+2.2 Shivam Mavi to Devdutt Padikkal 4 Score: 18/0
+2.3 Shivam Mavi to Devdutt Padikkal 1 Score: 19/0
+2.4 Shivam Mavi to Virat Kohli 4 Score: 23/0
+2.5 Shivam Mavi to Virat Kohli 2 Score: 25/0
+2.6 Shivam Mavi to Virat Kohli 1 Score: 26/0
+3.1 Pat Cummins to Virat Kohli 2 Score: 28/0
+3.2 Pat Cummins to Virat Kohli 1 Score: 29/0
+3.3 Pat Cummins to Devdutt Padikkal W Score: 29/1 Bowled
+3.4 Pat Cummins to AB de Villiers 1 Score: 30/1
+3.5 Pat Cummins to Virat Kohli 1 Score: 31/1
+3.6 Pat Cummins to AB de Villiers Wide Score: 32/1
+3.7 Pat Cummins to AB de Villiers 1 Score: 33/1
+4.1 Prasidh Krishna to AB de Villiers Wide Score: 34/1
+4.2 Prasidh Krishna to AB de Villiers 1 Score: 35/1
+4.3 Prasidh Krishna to Virat Kohli 2 Score: 37/1
+4.4 Prasidh Krishna to Virat Kohli 2 Score: 39/1
+4.5 Prasidh Krishna to Virat Kohli 0 Score: 39/1
+4.6 Prasidh Krishna to Virat Kohli 1 Score: 40/1
+4.7 Prasidh Krishna to AB de Villiers 1 Score: 41/1
+5.1 Sunil Narine to AB de Villiers 0 Score: 41/1
+5.2 Sunil Narine to AB de Villiers 0 Score: 41/1
+5.3 Sunil Narine to AB de Villiers 1 Score: 42/1
+5.4 Sunil Narine to Virat Kohli 0 Score: 42/1
+5.5 Sunil Narine to Virat Kohli 0 Score: 42/1
+5.6 Sunil Narine to Virat Kohli 1 Score: 43/1
+6.1 Prasidh Krishna to Virat Kohli 4 Score: 47/1
+6.2 Prasidh Krishna to Virat Kohli 1 Score: 48/1
+6.3 Prasidh Krishna to AB de Villiers 0 Score: 48/1
+6.4 Prasidh Krishna to AB de Villiers W Score: 48/2 Lbw
+6.5 Prasidh Krishna to Glenn Maxwell 4 Score: 52/2
+6.6 Prasidh Krishna to Glenn Maxwell 6 Score: 58/2
+7.1 Sunil Narine to Virat Kohli 0 Score: 58/2
+7.2 Sunil Narine to Virat Kohli 4 Score: 62/2
+7.3 Sunil Narine to Virat Kohli 0 Score: 62/2
+7.4 Sunil Narine to Virat Kohli W Score: 62/3 Caught by Shivam Mavi
+7.5 Sunil Narine to Shahbaz Ahmed 1 Score: 63/3
+7.6 Sunil Narine to Glenn Maxwell 0 Score: 63/3
+8.1 Prasidh Krishna to Shahbaz Ahmed 0 Score: 63/3
+8.2 Prasidh Krishna to Shahbaz Ahmed 1 Score: 64/3
+8.3 Prasidh Krishna to Glenn Maxwell 1 Score: 65/3
+8.4 Prasidh Krishna to Shahbaz Ahmed 1 Score: 66/3
+8.5 Prasidh Krishna to Glenn Maxwell 0 Score: 66/3
+8.6 Prasidh Krishna to Glenn Maxwell 0 Score: 66/3
+9.1 Sunil Narine to Shahbaz Ahmed 1 Score: 67/3
+9.2 Sunil Narine to Glenn Maxwell 0 Score: 67/3
+9.3 Sunil Narine to Glenn Maxwell 0 Score: 67/3
+9.4 Sunil Narine to Glenn Maxwell 0 Score: 67/3
+9.5 Sunil Narine to Glenn Maxwell 1 Score: 68/3
+9.6 Sunil Narine to Shahbaz Ahmed 1 Score: 69/3
+10.1 Varun Chakravarthy to Shahbaz Ahmed 1 Score: 70/3
+10.2 Varun Chakravarthy to Glenn Maxwell 6 Score: 76/3
+10.3 Varun Chakravarthy to Glenn Maxwell 1 Score: 77/3
+10.4 Varun Chakravarthy to Shahbaz Ahmed W Score: 77/4 Caught by Shubman Gill
+10.5 Varun Chakravarthy to Harshal Patel 4 Score: 81/4
+10.6 Varun Chakravarthy to Harshal Patel 4 Score: 85/4
+11.1 Sunil Narine to Glenn Maxwell 1 Score: 86/4
+11.2 Sunil Narine to Harshal Patel 0 Score: 86/4
+11.3 Sunil Narine to Harshal Patel 0 Score: 86/4
+11.4 Sunil Narine to Harshal Patel 1 Score: 87/4
+11.5 Sunil Narine to Glenn Maxwell 1 Score: 88/4
+11.6 Sunil Narine to Harshal Patel 1 Score: 89/4
+12.1 Varun Chakravarthy to Harshal Patel 1 Score: 90/4
+12.2 Varun Chakravarthy to Glenn Maxwell 0 Score: 90/4
+12.3 Varun Chakravarthy to Glenn Maxwell 1 Score: 91/4
+12.4 Varun Chakravarthy to Harshal Patel 4 Score: 95/4
+12.5 Varun Chakravarthy to Harshal Patel 2 Score: 97/4
+12.6 Varun Chakravarthy to Harshal Patel 0 Score: 97/4
+13.1 Pat Cummins to Glenn Maxwell 1 Score: 98/4
+13.2 Pat Cummins to Harshal Patel 0 Score: 98/4
+13.3 Pat Cummins to Harshal Patel 4 Score: 102/4
+13.4 Pat Cummins to Harshal Patel 1 Score: 103/4
+13.5 Pat Cummins to Glenn Maxwell 1 Score: 104/4
+13.6 Pat Cummins to Harshal Patel 0 Score: 104/4
+14.1 Varun Chakravarthy to Glenn Maxwell 0 Score: 104/4
+14.2 Varun Chakravarthy to Glenn Maxwell 0 Score: 104/4
+14.3 Varun Chakravarthy to Glenn Maxwell 1 Score: 105/4
+14.4 Varun Chakravarthy to Harshal Patel 1 Score: 106/4
+14.5 Varun Chakravarthy to Glenn Maxwell W Score: 106/5 Caught by Prasidh Krishna
+14.6 Varun Chakravarthy to Washington Sundar 0 Score: 106/5
+15.1 Andre Russell to Harshal Patel 6 Score: 112/5
+15.2 Andre Russell to Harshal Patel Wide Score: 113/5
+15.3 Andre Russell to Harshal Patel 1 Score: 114/5
+15.4 Andre Russell to Washington Sundar 0 Score: 114/5
+15.5 Andre Russell to Washington Sundar 1 Score: 115/5
+15.6 Andre Russell to Harshal Patel 2 Score: 117/5
+15.7 Andre Russell to Harshal Patel 1 Score: 118/5
+16.1 Varun Chakravarthy to Harshal Patel 4 Score: 122/5
+16.2 Varun Chakravarthy to Harshal Patel 1 Score: 123/5
+16.3 Varun Chakravarthy to Washington Sundar 2 Score: 125/5
+16.4 Varun Chakravarthy to Washington Sundar 0 Score: 125/5
+16.5 Varun Chakravarthy to Washington Sundar 0 Score: 125/5
+16.6 Varun Chakravarthy to Washington Sundar 1 Score: 126/5
+17.1 Andre Russell to Washington Sundar 0 Score: 126/5
+17.2 Andre Russell to Washington Sundar 0 Score: 126/5
+17.3 Andre Russell to Washington Sundar 0 Score: 126/5
+17.4 Andre Russell to Washington Sundar 6 Score: 132/5
+17.5 Andre Russell to Washington Sundar 1 Score: 133/5
+17.6 Andre Russell to Harshal Patel 0 Score: 133/5
+18.1 Prasidh Krishna to Washington Sundar 0 Score: 133/5
+18.2 Prasidh Krishna to Washington Sundar 4 Score: 137/5
+18.3 Prasidh Krishna to Washington Sundar W Score: 137/6 Caught by Shubman Gill
+18.4 Prasidh Krishna to Kyle Jamieson 3 Score: 140/6
+18.5 Prasidh Krishna to Harshal Patel 1 Score: 141/6
+18.6 Prasidh Krishna to Kyle Jamieson 1 Score: 142/6
+19.1 Andre Russell to Kyle Jamieson 0 Score: 142/6
+19.2 Andre Russell to Kyle Jamieson 6 Score: 148/6
+19.3 Andre Russell to Kyle Jamieson 6 Score: 154/6
+19.4 Andre Russell to Kyle Jamieson 4 Score: 158/6
+19.5 Andre Russell to Kyle Jamieson 4 Score: 162/6
+19.6 Andre Russell to Kyle Jamieson 3 Score: 165/6
++-------------------+--------+---------+--------+------------------------------------+
+| Player            |   Runs |   Balls | SR     | Out                                |
++===================+========+=========+========+====================================+
+| D Padikkal        |     11 |       8 | 137.5  | bowled b PJ Cummins                |
++-------------------+--------+---------+--------+------------------------------------+
+| V Kohli           |     34 |      27 | 125.93 | c Shivam Mavi b SP Narine          |
++-------------------+--------+---------+--------+------------------------------------+
+| GJ Maxwell        |     25 |      22 | 113.64 | c M Prasidh Krishna b CV Varun     |
++-------------------+--------+---------+--------+------------------------------------+
+| AB de Villiers    |      5 |       9 | 55.56  | lbw b M Prasidh Krishna            |
++-------------------+--------+---------+--------+------------------------------------+
+| Shahbaz Ahmed     |      6 |       8 | 75.0   | c Shubman Gill b CV Varun          |
++-------------------+--------+---------+--------+------------------------------------+
+| Washington Sundar |     15 |      15 | 100.0  | c Shubman Gill b M Prasidh Krishna |
++-------------------+--------+---------+--------+------------------------------------+
+| KA Jamieson       |     27 |       8 | 337.5  | Not out                            |
++-------------------+--------+---------+--------+------------------------------------+
+| Mohammed Siraj    |      0 |       0 | DNB    |                                    |
++-------------------+--------+---------+--------+------------------------------------+
+| HV Patel          |     39 |      23 | 169.57 | Not out                            |
++-------------------+--------+---------+--------+------------------------------------+
+| NA Saini          |      0 |       0 | DNB    |                                    |
++-------------------+--------+---------+--------+------------------------------------+
+| YS Chahal         |      0 |       0 | DNB    |                                    |
++-------------------+--------+---------+--------+------------------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| N Rana            |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Shubman Gill      |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| RA Tripathi       |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| EJG Morgan        |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| AD Russell        |     42 |       3 |         0 | 14.0  |
++-------------------+--------+---------+-----------+-------+
+| KD Karthik        |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| SP Narine         |     14 |       4 |         1 | 3.5   |
++-------------------+--------+---------+-----------+-------+
+| PJ Cummins        |     20 |       3 |         1 | 6.67  |
++-------------------+--------+---------+-----------+-------+
+| Shivam Mavi       |     20 |       2 |         0 | 10.0  |
++-------------------+--------+---------+-----------+-------+
+| CV Varun          |     34 |       4 |         2 | 8.5   |
++-------------------+--------+---------+-----------+-------+
+| M Prasidh Krishna |     35 |       4 |         2 | 8.75  |
++-------------------+--------+---------+-----------+-------+
+0.1 Mohammed Siraj to Rahul Tripathi Wide Score: 1/0
+0.2 Mohammed Siraj to Rahul Tripathi 1 Score: 2/0
+0.3 Mohammed Siraj to Nitish Rana 4 Score: 6/0
+0.4 Mohammed Siraj to Nitish Rana 0 Score: 6/0
+0.5 Mohammed Siraj to Nitish Rana 0 Score: 6/0
+0.6 Mohammed Siraj to Nitish Rana 0 Score: 6/0
+0.7 Mohammed Siraj to Nitish Rana 1 Score: 7/0
+1.1 Washington Sundar to Nitish Rana 1 Score: 8/0
+1.2 Washington Sundar to Rahul Tripathi 1 Score: 9/0
+1.3 Washington Sundar to Nitish Rana 1 Score: 10/0
+1.4 Washington Sundar to Rahul Tripathi 0 Score: 10/0
+1.5 Washington Sundar to Rahul Tripathi 0 Score: 10/0
+1.6 Washington Sundar to Rahul Tripathi 1 Score: 11/0
+2.1 Mohammed Siraj to Rahul Tripathi 1 Score: 12/0
+2.2 Mohammed Siraj to Nitish Rana 0 Score: 12/0
+2.3 Mohammed Siraj to Nitish Rana 1 Score: 13/0
+2.4 Mohammed Siraj to Rahul Tripathi Wide Score: 14/0
+2.5 Mohammed Siraj to Rahul Tripathi 0 Score: 14/0
+2.6 Mohammed Siraj to Rahul Tripathi 0 Score: 14/0
+2.7 Mohammed Siraj to Rahul Tripathi 0 Score: 14/0
+3.1 Washington Sundar to Nitish Rana 0 Score: 14/0
+3.2 Washington Sundar to Nitish Rana 1 Score: 15/0
+3.3 Washington Sundar to Rahul Tripathi 1 Score: 16/0
+3.4 Washington Sundar to Nitish Rana 0 Score: 16/0
+3.5 Washington Sundar to Nitish Rana 1 Score: 17/0
+3.6 Washington Sundar to Rahul Tripathi 1 Score: 18/0
+4.1 Navdeep Saini to Rahul Tripathi 4 Score: 22/0
+4.2 Navdeep Saini to Rahul Tripathi 4 Score: 26/0
+4.3 Navdeep Saini to Rahul Tripathi 4 Score: 30/0
+4.4 Navdeep Saini to Rahul Tripathi 0 Score: 30/0
+4.5 Navdeep Saini to Rahul Tripathi 0 Score: 30/0
+4.6 Navdeep Saini to Rahul Tripathi 0 Score: 30/0
+5.1 Harshal Patel to Nitish Rana 0 Score: 30/0
+5.2 Harshal Patel to Nitish Rana 1 Score: 31/0
+5.3 Harshal Patel to Rahul Tripathi 1 Score: 32/0
+5.4 Harshal Patel to Nitish Rana Wide Score: 33/0
+5.5 Harshal Patel to Nitish Rana 2 Score: 35/0
+5.6 Harshal Patel to Nitish Rana 1 Score: 36/0
+5.7 Harshal Patel to Rahul Tripathi 1 Score: 37/0
+6.1 Navdeep Saini to Rahul Tripathi 0 Score: 37/0
+6.2 Navdeep Saini to Rahul Tripathi 6 Score: 43/0
+6.3 Navdeep Saini to Rahul Tripathi 0 Score: 43/0
+6.4 Navdeep Saini to Rahul Tripathi 1 Score: 44/0
+6.5 Navdeep Saini to Nitish Rana 0 Score: 44/0
+6.6 Navdeep Saini to Nitish Rana 4 Score: 48/0
+7.1 Harshal Patel to Rahul Tripathi 6 Score: 54/0
+7.2 Harshal Patel to Rahul Tripathi 0 Score: 54/0
+7.3 Harshal Patel to Rahul Tripathi 0 Score: 54/0
+7.4 Harshal Patel to Rahul Tripathi 1 Score: 55/0
+7.5 Harshal Patel to Nitish Rana 0 Score: 55/0
+7.6 Harshal Patel to Nitish Rana 4 Score: 59/0
+8.1 Navdeep Saini to Rahul Tripathi 4 Score: 63/0
+8.2 Navdeep Saini to Rahul Tripathi W Score: 63/1 Bowled
+8.3 Navdeep Saini to Sunil Narine Wide Score: 64/1
+8.4 Navdeep Saini to Sunil Narine 4 Score: 68/1
+8.5 Navdeep Saini to Sunil Narine 0 Score: 68/1
+8.6 Navdeep Saini to Sunil Narine 0 Score: 68/1
+8.7 Navdeep Saini to Sunil Narine 0 Score: 68/1
+9.1 Harshal Patel to Nitish Rana 4 Score: 72/1
+9.2 Harshal Patel to Nitish Rana 1 Score: 73/1
+9.3 Harshal Patel to Sunil Narine 0 Score: 73/1
+9.4 Harshal Patel to Sunil Narine 6 Score: 79/1
+9.5 Harshal Patel to Sunil Narine 1 Score: 80/1
+9.6 Harshal Patel to Nitish Rana 0 Score: 80/1
+10.1 Yuzvendra Chahal to Sunil Narine 0 Score: 80/1
+10.2 Yuzvendra Chahal to Sunil Narine 0 Score: 80/1
+10.3 Yuzvendra Chahal to Sunil Narine 1 Score: 81/1
+10.4 Yuzvendra Chahal to Nitish Rana 0 Score: 81/1
+10.5 Yuzvendra Chahal to Nitish Rana 6 Score: 87/1
+10.6 Yuzvendra Chahal to Nitish Rana 1 Score: 88/1
+11.1 Harshal Patel to Nitish Rana Wide Score: 89/1
+11.2 Harshal Patel to Nitish Rana 1 Score: 90/1
+11.3 Harshal Patel to Sunil Narine 0 Score: 90/1
+11.4 Harshal Patel to Sunil Narine 1 Score: 91/1
+11.5 Harshal Patel to Nitish Rana 0 Score: 91/1
+11.6 Harshal Patel to Nitish Rana 0 Score: 91/1
+11.7 Harshal Patel to Nitish Rana 0 Score: 91/1
+12.1 Yuzvendra Chahal to Sunil Narine W Score: 91/2 Bowled
+12.2 Yuzvendra Chahal to Shubman Gill 0 Score: 91/2
+12.3 Yuzvendra Chahal to Shubman Gill 1 Score: 92/2
+12.4 Yuzvendra Chahal to Nitish Rana 1 Score: 93/2
+12.5 Yuzvendra Chahal to Shubman Gill 0 Score: 93/2
+12.6 Yuzvendra Chahal to Shubman Gill 1 Score: 94/2
+13.1 Glenn Maxwell to Shubman Gill 6 Score: 100/2
+13.2 Glenn Maxwell to Shubman Gill 6 Score: 106/2
+13.3 Glenn Maxwell to Shubman Gill 0 Score: 106/2
+13.4 Glenn Maxwell to Shubman Gill 0 Score: 106/2
+13.5 Glenn Maxwell to Shubman Gill 1 Score: 107/2
+13.6 Glenn Maxwell to Nitish Rana 6 Score: 113/2
+14.1 Yuzvendra Chahal to Shubman Gill 0 Score: 113/2
+14.2 Yuzvendra Chahal to Shubman Gill Wide Score: 114/2
+14.3 Yuzvendra Chahal to Shubman Gill 1 Score: 115/2
+14.4 Yuzvendra Chahal to Nitish Rana 6 Score: 121/2
+14.5 Yuzvendra Chahal to Nitish Rana 6 Score: 127/2
+14.6 Yuzvendra Chahal to Nitish Rana 1 Score: 128/2
+14.7 Yuzvendra Chahal to Shubman Gill 1 Score: 129/2
+15.1 Glenn Maxwell to Shubman Gill 1 Score: 130/2
+15.2 Glenn Maxwell to Nitish Rana 4 Score: 134/2
+15.3 Glenn Maxwell to Nitish Rana 1 Score: 135/2
+15.4 Glenn Maxwell to Shubman Gill 0 Score: 135/2
+15.5 Glenn Maxwell to Shubman Gill 0 Score: 135/2
+15.6 Glenn Maxwell to Shubman Gill 2 Score: 137/2
+16.1 Yuzvendra Chahal to Nitish Rana 1 Score: 138/2
+16.2 Yuzvendra Chahal to Shubman Gill 0 Score: 138/2
+16.3 Yuzvendra Chahal to Shubman Gill 0 Score: 138/2
+16.4 Yuzvendra Chahal to Shubman Gill 0 Score: 138/2
+16.5 Yuzvendra Chahal to Shubman Gill 0 Score: 138/2
+16.6 Yuzvendra Chahal to Shubman Gill 1 Score: 139/2
+17.1 Mohammed Siraj to Shubman Gill 0 Score: 139/2
+17.2 Mohammed Siraj to Shubman Gill 2 Score: 141/2
+17.3 Mohammed Siraj to Shubman Gill 6 Score: 147/2
+17.4 Mohammed Siraj to Shubman Gill 0 Score: 147/2
+17.5 Mohammed Siraj to Shubman Gill 6 Score: 153/2
+17.6 Mohammed Siraj to Shubman Gill 4 Score: 157/2
+18.1 Navdeep Saini to Nitish Rana 0 Score: 157/2
+18.2 Navdeep Saini to Nitish Rana 4 Score: 161/2
+18.3 Navdeep Saini to Nitish Rana Wide Score: 162/2
+18.4 Navdeep Saini to Nitish Rana W Score: 162/3 Caught by AB de Villiers
+18.5 Navdeep Saini to Eoin Morgan 0 Score: 162/3
+18.6 Navdeep Saini to Eoin Morgan 4 Score: 166/3
+kkr won by 7 wickets
++-------------------+--------+---------+--------+-----------------------------+
+| Player            |   Runs |   Balls | SR     | Out                         |
++===================+========+=========+========+=============================+
+| N Rana            |     65 |      42 | 154.76 | c AB de Villiers b NA Saini |
++-------------------+--------+---------+--------+-----------------------------+
+| Shubman Gill      |     39 |      27 | 144.44 | Not out                     |
++-------------------+--------+---------+--------+-----------------------------+
+| RA Tripathi       |     38 |      29 | 131.03 | bowled b NA Saini           |
++-------------------+--------+---------+--------+-----------------------------+
+| EJG Morgan        |      4 |       2 | 200.0  | Not out                     |
++-------------------+--------+---------+--------+-----------------------------+
+| AD Russell        |      0 |       0 | DNB    |                             |
++-------------------+--------+---------+--------+-----------------------------+
+| KD Karthik        |      0 |       0 | DNB    |                             |
++-------------------+--------+---------+--------+-----------------------------+
+| SP Narine         |     13 |      13 | 100.0  | bowled b YS Chahal          |
++-------------------+--------+---------+--------+-----------------------------+
+| PJ Cummins        |      0 |       0 | DNB    |                             |
++-------------------+--------+---------+--------+-----------------------------+
+| Shivam Mavi       |      0 |       0 | DNB    |                             |
++-------------------+--------+---------+--------+-----------------------------+
+| CV Varun          |      0 |       0 | DNB    |                             |
++-------------------+--------+---------+--------+-----------------------------+
+| M Prasidh Krishna |      0 |       0 | DNB    |                             |
++-------------------+--------+---------+--------+-----------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| D Padikkal        |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| V Kohli           |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| GJ Maxwell        |     27 |     2   |         0 | 13.5  |
++-------------------+--------+---------+-----------+-------+
+| AB de Villiers    |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Shahbaz Ahmed     |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Washington Sundar |      8 |     2   |         0 | 4.0   |
++-------------------+--------+---------+-----------+-------+
+| KA Jamieson       |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Mohammed Siraj    |     28 |     3   |         0 | 9.33  |
++-------------------+--------+---------+-----------+-------+
+| HV Patel          |     33 |     4   |         0 | 8.25  |
++-------------------+--------+---------+-----------+-------+
+| NA Saini          |     41 |     3.5 |         2 | 10.7  |
++-------------------+--------+---------+-----------+-------+
+| YS Chahal         |     29 |     4   |         1 | 7.25  |
++-------------------+--------+---------+-----------+-------+

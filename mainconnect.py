@@ -18,6 +18,11 @@ import sys
 #Last 10 overs during chase small total (160-170) score is less, fix that by reducing 10 over mark score
 #designate 6 bowlers and bowl them in a shuffled
 #see for localBattingOrder
+
+#K Williamson bowling
+#Varun Chakravarthy multiple overs & others (BUG FIXED)
+#On match end sometimes 5th over is added, 5th over check and consecutive overs check
+#Triple not out
 from tabulate import tabulate
 
 target = 1
@@ -850,12 +855,11 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                 for pexp in playersExp:
                                     if(expIndex < 4):
                                         if(not inDeathBowlers(pexp)):
-                                            if(bowlerTracker[pexp['playerInitials']]['balls'] < 7):
+                                            if(bowlerTracker[pexp['playerInitials']]['balls'] < 7 and pexp['playerInitials'] != lastOver):
                                                 bowlerToReturn = pexp
                                                 valid = True
                                     else:
                                         break
-                                    expIndex += 1
                                     expIndex += 1
                                 while(not valid):
                                     pick = bowlingMiddle[random.randint(0,loopIndex)]
@@ -1296,6 +1300,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
 
                 decider = random.uniform(0, total)
                 for prob in denominationProbabilties:
+                    # print(prob, decider)
                     if(prob['start'] <= decider and prob['end'] > decider):
                         # Next - add wicket types, extras, bowler rotation, new batsman, innings change, aggression changes based on over number and rr, and based on last 10 ball player form
                         runs += int(prob['denomination'])
@@ -1314,6 +1319,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                 onStrike = batter2
                                elif(onStrike == batter2):
                                 onStrike = batter1
+                            return
 
                         if(prob['denomination'] == '0'): #during high rrr or death overs, probability
                         #of boundary & wicket are both higher
@@ -1346,12 +1352,13 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                         "W", "Score: " + str(runs) + "/" + str(wickets), "Run Out!")
                                     ballLog.append(f"{str(balls)}:W")
                                     bowlerTracker[blname]['runs'] += runOutRuns
-                                    bowlerTracker[blname]['ballLog'].append(f"{str(balls)}:{runOutRuns}")
+                                    bowlerTracker[blname]['ballLog'].append(f"{str(balls)}:W{runOutRuns}-runout")
                                     bowlerTracker[blname]['balls'] += 1
                                     batterTracker[btname]['runs'] += runOutRuns
                                     batterTracker[btname]['ballLog'].append(f"{str(balls)}:{runOutRuns}")
                                     batterTracker[btname]['balls'] += 1
                                     playerDismissed(onStrike)
+                                    return
 
 
                                 elif(out_type == "caught"):
@@ -1388,6 +1395,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                     batterTracker[btname]['ballLog'].append(f"{str(balls)}:W-CaughtBy-{catcher['playerInitials']}-Bowler-{blname}")
                                     batterTracker[btname]['balls'] += 1
                                     playerDismissed(onStrike)
+                                    return
 
                                 elif(out_type == "bowled" or out_type == "lbw" or out_type == "hitwicket" or out_type == "stumped"):
                                     print(over, f"{bowler['displayName']} to {batter['player']['displayName']}", 
@@ -1401,6 +1409,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                     batterTracker[btname]['ballLog'].append(f"{str(balls)}:W-{out_type}-Bowler-{blname}")
                                     batterTracker[btname]['balls'] += 1
                                     playerDismissed(onStrike)
+                                    return
 
                                
                             else:
@@ -1413,6 +1422,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                 batterTracker[btname]['runs'] += int(prob['denomination'])
                                 batterTracker[btname]['ballLog'].append(f"{str(balls)}:{prob['denomination']}")
                                 batterTracker[btname]['balls'] += 1
+                                return
 
         
         sumLast10 = 0
@@ -1901,12 +1911,11 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                 for pexp in playersExp:
                                     if(expIndex < 4):
                                         if(not inDeathBowlers(pexp)):
-                                            if(bowlerTracker[pexp['playerInitials']]['balls'] < 7):
+                                            if(bowlerTracker[pexp['playerInitials']]['balls'] < 7 and pexp['playerInitials'] != lastOver):
                                                 bowlerToReturn = pexp
                                                 valid = True
                                     else:
                                         break
-                                    expIndex += 1
                                     expIndex += 1
                                 while(not valid):
                                     pick = bowlingMiddle[random.randint(0,loopIndex)]
