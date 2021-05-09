@@ -2085,20 +2085,20 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
     innings2Battracker = batterTracker
     innings2Bowltracker = bowlerTracker
 
-def game(manual=True, sentTeamOne=None, sentTeamTwo=None):
+def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group"):
     team_one_inp = None
     team_two_inp = None
     if(manual):
         team_one_inp = input("enter first team ").lower()
         team_two_inp = input("enter second team ").lower()
     else:
-        team_one_inp = sentTeamOne
-        team_two_inp = sentTeamTwo
+        team_one_inp = sentTeamOne.lower()
+        team_two_inp = sentTeamTwo.lower()
 
     # pitchTypeInput = input("Enter type of pitch (green, dusty, or dead) ")
     pitchTypeInput = "dusty"
     stdoutOrigin=sys.stdout 
-    sys.stdout = open(f"scores/{team_one_inp}v{team_two_inp}.txt", "w")
+    sys.stdout = open(f"scores/{team_one_inp}v{team_two_inp}_{switch}.txt", "w")
 
     # f = open("matches/csk_v_rr.txt", "r")
     f1 = open(f"teams/{team_one_inp}.txt", "r")

@@ -153,6 +153,107 @@ for team in points:
 pointsTabulate = sorted(pointsTabulate, key=lambda x: (x[6], x[5]))
 pointsTabulate.reverse()
 
+print(tabulate(pointsTabulate, ["Team", "Played", "Won", "Lost" ,"Tied", "NRR", "Points"], tablefmt="grid"))
+#Playoffs
+final = []
+elim = [pointsTabulate[2][0], pointsTabulate[3][0]]
+q1 = [pointsTabulate[0][0], pointsTabulate[1][0]]
+q2 = []
+
+def playoffs(reslist, team1, team2):
+    print(resList[0])
+    print(resList[2])
+    winner = resList[-1].upper()
+    innings1Balls = 120
+    innings2Balls = resList[5]
+    innings1Runs = resList[6]
+    innings2Runs = resList[7]
+
+    innings1Bat = resList[-3]
+    innings2Bat = resList[-2]
+    winMsg = resList[8]
+
+    loser = team1.upper()
+    if(team1.upper() == winner):
+        loser = team2.upper()
+
+    print(winMsg.upper())
+
+    bat1, bat2, bowl1, bowl2 = resList[9],resList[10],resList[11],resList[12]
+    # print(bat2)
+    for bat in bat1:
+        if(bat not in battingInfo):
+            battingInfo[bat] = bat1[bat]
+            battingInfo[bat]['innings'] = 1
+            battingInfo[bat]['scoresArray'] = [int(battingInfo[bat]['runs'])]
+        else:
+            battingInfo[bat]['balls'] += bat1[bat]['balls']
+            battingInfo[bat]['runs'] += bat1[bat]['runs']
+            battingInfo[bat]['ballLog'] += bat1[bat]['ballLog']
+            battingInfo[bat]['innings'] += 1
+            battingInfo[bat]['scoresArray'] +=[int(bat1[bat]['runs'])]
+
+    for bat in bat2:
+        if(bat not in battingInfo):
+            battingInfo[bat] = bat2[bat]
+            battingInfo[bat]['innings'] = 1
+            battingInfo[bat]['scoresArray'] = [int(battingInfo[bat]['runs'])]
+        else:
+            battingInfo[bat]['balls'] += bat2[bat]['balls']
+            battingInfo[bat]['runs'] += bat2[bat]['runs']
+            battingInfo[bat]['ballLog'] += bat2[bat]['ballLog']
+            battingInfo[bat]['innings'] += 1
+            battingInfo[bat]['scoresArray'] +=[int(bat2[bat]['runs'])]
+
+    for bowl in bowl1:
+        if(bowl not in bowlingInfo):
+            bowlingInfo[bowl] = bowl1[bowl]
+            bowlingInfo[bowl]['matches'] = 1
+        else:
+            bowlingInfo[bowl]['balls'] += bowl1[bowl]['balls']
+            bowlingInfo[bowl]['runs'] += bowl1[bowl]['runs']
+            bowlingInfo[bowl]['ballLog'] += bowl1[bowl]['ballLog']
+            bowlingInfo[bowl]['wickets'] += bowl1[bowl]['wickets']
+            bowlingInfo[bowl]['matches'] += 1
+
+    for bowl in bowl2:
+        if(bowl not in bowlingInfo):
+            bowlingInfo[bowl] = bowl2[bowl]
+            bowlingInfo[bowl]['matches'] = 1
+
+        else:
+            bowlingInfo[bowl]['balls'] += bowl2[bowl]['balls']
+            bowlingInfo[bowl]['runs'] += bowl2[bowl]['runs']
+            bowlingInfo[bowl]['ballLog'] += bowl2[bowl]['ballLog']
+            bowlingInfo[bowl]['wickets'] += bowl2[bowl]['wickets']
+            bowlingInfo[bowl]['matches'] += 1
+
+    return {'win': winner, 'lose': loser}
+
+
+print(f"Qualifier 1 {q1[0]} vs {q1[1]}")
+resList = game(False, q1[0], q1[1], "q1")
+dict = playoffs(resList, q1[0], q1[1])
+final.append(dict['win'])
+q2.append(dict['lose'])
+
+print(f"Eliminator {elim[0]} vs {elim[1]}")
+resList = game(False, elim[0], elim[1], "eliminator")
+dict = playoffs(resList, elim[0], elim[1])
+q2.append(dict['win'])
+
+print(f"Qualifier 2 {q2[0]} vs {q2[1]}")
+resList = game(False, q2[0], q2[1], "q2")
+dict = playoffs(resList, q2[0], q2[1])
+final.append(dict['win'])
+
+print(f"Final {final[0]} vs {final[1]}")
+resList = game(False, final[0], final[1], "final")
+dict = playoffs(resList, final[0], final[1])
+print(f"{dict['win'].upper()} WINS THE IPL!!!")
+
+
+#End
 battingTabulate = []
 for b in battingInfo:
     c = battingInfo[b]
@@ -211,7 +312,6 @@ print(tabulate(bowlingTabulate, ["Player", "Wickets", "Overs", "Runs Conceded" ,
 sys.stdout.close()
 sys.stdout=stdoutOrigin
 
-print(tabulate(pointsTabulate, ["Team", "Played", "Won", "Lost" ,"Tied", "NRR", "Points"], tablefmt="grid"))
 
 print("bat", battingf, "bowl", bowlingf)
 
