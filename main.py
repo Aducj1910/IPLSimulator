@@ -11,9 +11,6 @@ import sys
 #SHOW NOT OUT IF CAME IN BUT DIDN'T BAT
 #FIX BOWLING SELECTION
 #If bowling rate is less than x then dont bowl
-
-#Playoffs for ipl remainder
-
 #IMPROVE BOWLER ROTATION
 #If RRR is low in the last 10, team may falter, fix it
 #designate 6 bowlers and bowl them in a shuffled
@@ -35,6 +32,9 @@ import sys
 #Type of shot
 #Match summaries
 #i will ask different people for shot selection of players and then average them out while eliminating outliers
+#Add option to add custom players by fabricating stats
+#Screenshot (207) for pitch stats
+#Focus more on pitches, attach pitches to venues, pitch detoriation
 from tabulate import tabulate
 
 target = 1
