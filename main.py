@@ -35,6 +35,10 @@ import sys
 #Add option to add custom players by fabricating stats
 #Screenshot (207) for pitch stats
 #Focus more on pitches, attach pitches to venues, pitch detoriation
+
+#LONGSHOTS
+#Add ratings for players
+#Player analysis by phases
 from tabulate import tabulate
 
 target = 1
