@@ -7,7 +7,8 @@ This is still in the pre-release phase so there are a lot of bugs.
 ## How to download it
 (I would recommend cloning the code since it is more up to date, several bug fixes are not delivered to the exe download until about a week later)
 
-Go to this link - http://bit.ly/2Ss1fwL (You can also use the official GitHub pre-release, I just use this link to track the number of downloads) and run the installer. (note that you will not get updates if you download this)
+Use the official latest Github release and download **only the Aducj1910_IPLSim.exe** file, the others are unncessary. This is a pre-release so there will be bugs.
+
 (DONT FORGET TO CREATE A FOLDER CALLED "scores" inside the game folder after installation)
 
 1. Once you have downloaded the "Aducj1910_IPL_Sim" exe file click on it.
