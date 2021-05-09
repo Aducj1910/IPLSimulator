@@ -4,7 +4,7 @@ This is an in-depth IPL ball by ball simulator that uses past data of each playe
 
 This is still in the pre-release phase so there are a lot of bugs.
 ## How to download it
-Go to this link - https://filetransfer.io/manage-package/lCQ95dXO and run the installer. (note that you will not get updates if you download this)
+Go to this link - https://bit.ly/3uzAPY2 and run the installer. (note that you will not get updates if you download this)
 
 ### How to run it
 There will be three .bat files - 
