@@ -21,3 +21,6 @@ In the third, you can simulate the remainder of the IPL 2021 season that has bee
 1. There are no no-balls or byes
 2. Sometimes batsman who bowl very rarely bowl their full 4 overs
 3. Due to these bugs and some more, I have not made this the final release and decided to make it public due to many requests
+
+# Eventual Goal
+This simulator has been created to eventually be part of a cricket IPL team manager game. A game where you can create your own IPL team or manage an existing one, do auctions, set fields during games, change bowling lineups, train players, hire coaches, etc. I am hoping this will also become an open-source project so do keep checking for any updates.
