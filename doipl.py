@@ -1,6 +1,12 @@
 from mainconnect import game
 from tabulate import tabulate
-import sys
+import sys,os
+
+rel = os.getcwd().replace("\\", "/")
+dir = rel + '/scores'
+
+for f in os.listdir(dir):
+    os.remove(os.path.join(dir, f))
 
 teams = ['dc', 'csk', 'rcb', 'mi', 'kkr', 'pbks', 'rr', 'srh']
 points = {}

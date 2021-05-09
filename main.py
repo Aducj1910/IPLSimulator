@@ -12,7 +12,7 @@ import sys
 #FIX BOWLING SELECTION
 #If bowling rate is less than x then dont bowl
 
-
+#Playoffs for ipl remainder
 
 #IMPROVE BOWLER ROTATION
 #Last 10 overs during chase small total (160-170) score is less, fix that by reducing 10 over mark score
