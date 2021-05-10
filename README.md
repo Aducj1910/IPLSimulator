@@ -11,17 +11,18 @@ Use the official GitHub pre-release (https://github.com/Aducj1910/IPLSimulator/r
 
 1. Once you have downloaded the "Setup_Aducj1910_IPLSim" exe file click on it.
 2. Click on "more info" and "run anyway" on the Windows Defender popup
-3. open the "expo" folder created
-4. create an empty folder inside the expo folder called "scores"
-5. If you get the error that "Windows can't access the device, file" check out this video for the solution --> https://youtu.be/tGLKjq_p0Rs
-6. Read the license & readme
-7. run the doipl.bat or custom.bat, your match scorecards will be saved in the scores folder 
+3. Run the setup
+4. Open the "Aducj1910_IPLSIM" folder created
+5. Create an empty folder inside the expo folder called "scores"
+6. If you get the error that "Windows can't access the device, file" check out this video for the solution --> https://youtu.be/tGLKjq_p0Rs
+7. Read the license & readme
+8. Run the doipl.bat or custom.bat, your match scorecards will be saved in the scores folder 
 
 ### How to run it
 There will be three .bat files - 
 1. custom.bat
-2. IPL.bat
-3. IPL_remaining.bat
+2. doipl.bat
+3. doipl_remaining.bat
 
 In the first one, you can play any two IPL teams by inputting their initials (eg. DC, CSK, PBKS, etc.).
 In the second, you just open it and simulates and entire IPL season, all the scorecards are saved in the /scores folder along with the batStats.txt and bowlStats.txt files.
