@@ -20,7 +20,7 @@ Use the official GitHub pre-release (https://github.com/Aducj1910/IPLSimulator/r
 ### How to run it
 There will be three .bat files - 
 1. custom.bat
-2. IPL.bat
+2. IPL.bat (if you cant find the IPL table, you can see the IPL table if you scroll up past the playoff scorecards)
 3. IPL_Remaining.bat
 
 In the first one, you can play any two IPL teams by inputting their initials (eg. DC, CSK, PBKS, etc.).
