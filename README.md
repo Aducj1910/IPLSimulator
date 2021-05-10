@@ -15,13 +15,13 @@ Use the official GitHub pre-release (https://github.com/Aducj1910/IPLSimulator/r
 4. Run the setup
 5. Open the "Aducj1910_IPLSIM" folder created
 7. Read the license & readme
-8. Run the doipl.bat or custom.bat, your match scorecards will be saved in the scores folder 
+8. Run the IPL.bat or custom.bat, your match scorecards will be saved in the scores folder 
 
 ### How to run it
 There will be three .bat files - 
 1. custom.bat
-2. doipl.bat
-3. doipl_remaining.bat
+2. IPL.bat
+3. IPL_Remaining.bat
 
 In the first one, you can play any two IPL teams by inputting their initials (eg. DC, CSK, PBKS, etc.).
 In the second, you just open it and simulates and entire IPL season, all the scorecards are saved in the /scores folder along with the batStats.txt and bowlStats.txt files.
