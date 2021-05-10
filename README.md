@@ -11,10 +11,9 @@ Use the official GitHub pre-release (https://github.com/Aducj1910/IPLSimulator/r
 
 1. Once you have downloaded the "Setup_Aducj1910_IPLSim" exe file click on it.
 2. Click on "more info" and "run anyway" on the Windows Defender popup
-3. Run the setup
-4. Open the "Aducj1910_IPLSIM" folder created
-5. Create an empty folder inside the expo folder called "scores"
-6. If you get the error that "Windows can't access the device, file" check out this video for the solution --> https://youtu.be/tGLKjq_p0Rs
+3. If you get the error that "Windows can't access the device, file" check out this video for the solution --> https://youtu.be/tGLKjq_p0Rs
+4. Run the setup
+5. Open the "Aducj1910_IPLSIM" folder created
 7. Read the license & readme
 8. Run the doipl.bat or custom.bat, your match scorecards will be saved in the scores folder 
 
