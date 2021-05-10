@@ -7,7 +7,6 @@ import sys
 #NEXT UPDATE -
 #ADD NO-BALLS
 #ADD BYES/LEGBYES
-#3 NOT-OUTS BUG FIX
 #SHOW NOT OUT IF CAME IN BUT DIDN'T BAT
 #FIX BOWLING SELECTION
 #If bowling rate is less than x then dont bowl
@@ -16,11 +15,13 @@ import sys
 #designate 6 bowlers and bowl them in a shuffled
 #see for localBattingOrder
 #K Williamson bowling
-#Varun Chakravarthy multiple overs & others (BUG FIXED)
-#On match end sometimes 5th over is added, 5th over check and consecutive overs check
 #Triple not out
 #not many 100s
-#performance affects all time stats
+#12-over rule
+#too many dots (increase 1s & 2s, reduce 0s)
+#too many all-outs
+#Last 10 overs both innings very slow even when 1-2 wickets fall (too many wickets fall)
+#weigh economy more, if eco is like 6 or 7, then bowl over a player with 1 wicket but 9 economy
 
 #FEATURES
 #Commentary
@@ -35,6 +36,7 @@ import sys
 #Add option to add custom players by fabricating stats
 #Screenshot (207) for pitch stats
 #Focus more on pitches, attach pitches to venues, pitch detoriation
+#performance affects all time stats
 
 #LONGSHOTS
 #Add ratings for players
