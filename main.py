@@ -566,9 +566,9 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             denAvg['6'] += adjust * (2/3)
             outAvg += 0.05
 
-        if(batterTracker[btname]['balls'] > 40 and (batterTracker[btname]['runs'] / batterTracker[btname]['balls']) < 135):
+        if(batterTracker[btname]['balls'] > 40 and (batterTracker[btname]['runs'] / batterTracker[btname]['balls']) < 120):
             adjust = random.uniform(0.06, 0.09)
-            denAvg['0'] += adjust * (1.5/3)
+            denAvg['0'] += adjust * (1.2/3)
             denAvg['1'] += adjust * (0.7/3)
             denAvg['6'] += adjust * (1.8/3)
             outAvg += 0.04
@@ -579,7 +579,6 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             denAvg['1'] -= adjust * (1.5/3)
             denAvg['4'] += adjust * (1.6/3)
             denAvg['6'] += adjust * (1.9/3)
-            outAvg += 0.02
 
         if(balls > 105 and (runs / balls) < 1.17):
             adjust = random.uniform(0.06, 0.09)
@@ -660,19 +659,19 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
         #dont tinker too much
             if(wickets < 7):
                 defenseAndOneAdjustment = random.uniform(0.07, 0.1)
-                denAvg['0'] += defenseAndOneAdjustment * (2/3)
+                denAvg['0'] -= defenseAndOneAdjustment * (0.4/3)
                 denAvg['1'] -= defenseAndOneAdjustment * (1/3)
                 denAvg['4'] += defenseAndOneAdjustment * (1.4/3)
                 denAvg['6'] += defenseAndOneAdjustment * (1.8/3)
-                outAvg += 0.032
+                outAvg += 0.01
                 getOutcome(denAvg, outAvg, over)
             else:
                 defenseAndOneAdjustment = random.uniform(0.07, 0.09)
-                denAvg['0'] -= defenseAndOneAdjustment * (1.2/3)
+                denAvg['0'] -= defenseAndOneAdjustment * (0.4/3)
                 denAvg['1'] -= defenseAndOneAdjustment * (1.8/3)
                 denAvg['4'] += defenseAndOneAdjustment * (1.5/3)
                 denAvg['6'] += defenseAndOneAdjustment * (1.5/3)
-                outAvg += 0.028
+                outAvg += 0.01
 
                 getOutcome(denAvg, outAvg, over)
 
