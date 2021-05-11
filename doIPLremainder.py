@@ -38,127 +38,122 @@ for i in teams:
     team1 = i
     for j in teams:
         if(i != j):
-            done = False
-            for d in alreadyDone:
-                if(d == f"{i}v{j}"):
-                    done = True
+            team2 = j
+            print(f"Welcome to {i.upper()} vs {j.upper()}")
+            resList = game(False, i, j)
+            print(resList['innings1Batting'])
+            print(resList['innings2Batting'])
+            winner = resList['winner']
+            innings1Balls = resList['innings1Balls']
+            innings2Balls = resList['innings2Balls']
+            innings1Runs = resList['innings1Runs']
+            innings2Runs = resList['innings2Runs']
 
-            if(not done):
-                team2 = j
-                print(f"Welcome to {i.upper()} vs {j.upper()}")
-                resList = game(False, i, j)
-                print(resList[0])
-                print(resList[2])
-                winner = resList[-1]
-                innings1Balls = 120
-                innings2Balls = resList[5]
-                innings1Runs = resList[6]
-                innings2Runs = resList[7]
+            innings1Bat = resList['innings1BatTeam']
+            innings2Bat = resList['innings2BatTeam']
+            winMsg = resList['winMsg']
 
-                innings1Bat = resList[-3]
-                innings2Bat = resList[-2]
-                winMsg = resList[8]
+            loser = i
+            if(winner == i):
+                loser = j
 
-                loser = i
-                if(winner == i):
-                    loser = j
+            print(winMsg)
+            if("runs" in winMsg):
+                battingf += 1
+            else:
+                bowlingf += 1
 
-                print(winMsg)
-                if("runs" in winMsg):
-                    battingf += 1
-                else:
-                    bowlingf += 1
-
-                bat1, bat2, bowl1, bowl2 = resList[9],resList[10],resList[11],resList[12]
+            bat1, bat2, bowl1, bowl2 = resList['innings1Battracker'],resList['innings2Battracker'],resList['innings1Bowltracker'],resList['innings2Bowltracker']
             # print(bat2)
-                for bat in bat1:
-                    if(bat not in battingInfo):
-                        battingInfo[bat] = bat1[bat]
-                        battingInfo[bat]['innings'] = 1
-                        battingInfo[bat]['scoresArray'] = [int(battingInfo[bat]['runs'])]
-                    else:
-                        battingInfo[bat]['balls'] += bat1[bat]['balls']
-                        battingInfo[bat]['runs'] += bat1[bat]['runs']
-                        battingInfo[bat]['ballLog'] += bat1[bat]['ballLog']
-                        battingInfo[bat]['innings'] += 1
-                        battingInfo[bat]['scoresArray'] +=[int(bat1[bat]['runs'])]
+            for bat in bat1:
+                if(bat not in battingInfo):
+                    battingInfo[bat] = bat1[bat]
+                    battingInfo[bat]['innings'] = 1
+                    battingInfo[bat]['scoresArray'] = [int(battingInfo[bat]['runs'])]
+                else:
+                    battingInfo[bat]['balls'] += bat1[bat]['balls']
+                    battingInfo[bat]['runs'] += bat1[bat]['runs']
+                    battingInfo[bat]['ballLog'] += bat1[bat]['ballLog']
+                    battingInfo[bat]['innings'] += 1
+                    battingInfo[bat]['scoresArray'] +=[int(bat1[bat]['runs'])]
 
-                for bat in bat2:
-                    if(bat not in battingInfo):
-                        battingInfo[bat] = bat2[bat]
-                        battingInfo[bat]['innings'] = 1
-                        battingInfo[bat]['scoresArray'] = [int(battingInfo[bat]['runs'])]
-                    else:
-                        battingInfo[bat]['balls'] += bat2[bat]['balls']
-                        battingInfo[bat]['runs'] += bat2[bat]['runs']
-                        battingInfo[bat]['ballLog'] += bat2[bat]['ballLog']
-                        battingInfo[bat]['innings'] += 1
-                        battingInfo[bat]['scoresArray'] +=[int(bat2[bat]['runs'])]
+            for bat in bat2:
+                if(bat not in battingInfo):
+                    battingInfo[bat] = bat2[bat]
+                    battingInfo[bat]['innings'] = 1
+                    battingInfo[bat]['scoresArray'] = [int(battingInfo[bat]['runs'])]
+                else:
+                    battingInfo[bat]['balls'] += bat2[bat]['balls']
+                    battingInfo[bat]['runs'] += bat2[bat]['runs']
+                    battingInfo[bat]['ballLog'] += bat2[bat]['ballLog']
+                    battingInfo[bat]['innings'] += 1
+                    battingInfo[bat]['scoresArray'] +=[int(bat2[bat]['runs'])]
 
-                for bowl in bowl1:
-                    if(bowl not in bowlingInfo):
-                        bowlingInfo[bowl] = bowl1[bowl]
-                        bowlingInfo[bowl]['matches'] = 1
-                    else:
-                        bowlingInfo[bowl]['balls'] += bowl1[bowl]['balls']
-                        bowlingInfo[bowl]['runs'] += bowl1[bowl]['runs']
-                        bowlingInfo[bowl]['ballLog'] += bowl1[bowl]['ballLog']
-                        bowlingInfo[bowl]['wickets'] += bowl1[bowl]['wickets']
-                        bowlingInfo[bowl]['matches'] += 1
+            for bowl in bowl1:
+                if(bowl not in bowlingInfo):
+                    bowlingInfo[bowl] = bowl1[bowl]
+                    bowlingInfo[bowl]['matches'] = 1
+                else:
+                    bowlingInfo[bowl]['balls'] += bowl1[bowl]['balls']
+                    bowlingInfo[bowl]['runs'] += bowl1[bowl]['runs']
+                    bowlingInfo[bowl]['ballLog'] += bowl1[bowl]['ballLog']
+                    bowlingInfo[bowl]['wickets'] += bowl1[bowl]['wickets']
+                    bowlingInfo[bowl]['matches'] += 1
 
-                for bowl in bowl2:
-                    if(bowl not in bowlingInfo):
-                        bowlingInfo[bowl] = bowl2[bowl]
-                        bowlingInfo[bowl]['matches'] = 1
-
-                    else:
-                        bowlingInfo[bowl]['balls'] += bowl2[bowl]['balls']
-                        bowlingInfo[bowl]['runs'] += bowl2[bowl]['runs']
-                        bowlingInfo[bowl]['ballLog'] += bowl2[bowl]['ballLog']
-                        bowlingInfo[bowl]['wickets'] += bowl2[bowl]['wickets']
-                        bowlingInfo[bowl]['matches'] += 1
-
-                if(winner == "tie"):
-                    points[i]['P'] += 1
-                    points[j]['P'] += 1
-
-                    points[i]['T'] += 1
-                    points[j]['T'] += 1
-
-                    points[i]['pts'] += 1
-                    points[j]['pts'] += 1
-
-                    points[innings1Bat]['runsScored'] += innings1Runs
-                    points[innings2Bat]['runsScored'] += innings2Runs
-
-                    points[innings1Bat]['runsConceded'] += innings2Runs
-                    points[innings2Bat]['runsConceded'] += innings1Runs
-
-                    points[innings1Bat]['ballsBowled'] += innings2Balls
-                    points[innings2Bat]['ballsBowled'] += innings1Balls
-
-                    points[innings1Bat]['ballsFaced'] += innings1Balls
-                    points[innings2Bat]['ballsFaced'] += innings2Balls
+            for bowl in bowl2:
+                if(bowl not in bowlingInfo):
+                    bowlingInfo[bowl] = bowl2[bowl]
+                    bowlingInfo[bowl]['matches'] = 1
 
                 else:
-                    points[i]['P'] += 1
-                    points[j]['P'] += 1
+                    bowlingInfo[bowl]['balls'] += bowl2[bowl]['balls']
+                    bowlingInfo[bowl]['runs'] += bowl2[bowl]['runs']
+                    bowlingInfo[bowl]['ballLog'] += bowl2[bowl]['ballLog']
+                    bowlingInfo[bowl]['wickets'] += bowl2[bowl]['wickets']
+                    bowlingInfo[bowl]['matches'] += 1
 
-                    points[winner]['W'] += 1
-                    points[loser]['L'] += 1
 
-                    points[winner]['pts'] += 2
-                    points[innings1Bat]['runsScored'] += innings1Runs
-                    points[innings2Bat]['runsScored'] += innings2Runs
+            if(winner == "tie"):
+                points[i]['P'] += 1
+                points[j]['P'] += 1
 
-                    points[innings1Bat]['runsConceded'] += innings2Runs
-                    points[innings2Bat]['runsConceded'] += innings1Runs
+                points[i]['T'] += 1
+                points[j]['T'] += 1
 
-                    points[innings1Bat]['ballsBowled'] += innings2Balls
-                    points[innings2Bat]['ballsBowled'] += innings1Balls
+                points[i]['pts'] += 1
+                points[j]['pts'] += 1
 
-                    points[innings1Bat]['ballsFaced'] += innings1Balls
-                    points[innings2Bat]['ballsFaced'] += innings2Balls
+                points[innings1Bat]['runsScored'] += innings1Runs
+                points[innings2Bat]['runsScored'] += innings2Runs
+
+                points[innings1Bat]['runsConceded'] += innings2Runs
+                points[innings2Bat]['runsConceded'] += innings1Runs
+
+                points[innings1Bat]['ballsBowled'] += innings2Balls
+                points[innings2Bat]['ballsBowled'] += innings1Balls
+
+                points[innings1Bat]['ballsFaced'] += innings1Balls
+                points[innings2Bat]['ballsFaced'] += innings2Balls
+
+            else:
+                points[i]['P'] += 1
+                points[j]['P'] += 1
+
+                points[winner]['W'] += 1
+                points[loser]['L'] += 1
+
+                points[winner]['pts'] += 2
+                points[innings1Bat]['runsScored'] += innings1Runs
+                points[innings2Bat]['runsScored'] += innings2Runs
+
+                points[innings1Bat]['runsConceded'] += innings2Runs
+                points[innings2Bat]['runsConceded'] += innings1Runs
+
+                points[innings1Bat]['ballsBowled'] += innings2Balls
+                points[innings2Bat]['ballsBowled'] += innings1Balls
+
+                points[innings1Bat]['ballsFaced'] += innings1Balls
+                points[innings2Bat]['ballsFaced'] += innings2Balls
 
 pointsTabulate = []
 
@@ -186,17 +181,17 @@ q1 = [pointsTabulate[0][0], pointsTabulate[1][0]]
 q2 = []
 
 def playoffs(reslist, team1, team2):
-    print(resList[0])
-    print(resList[2])
-    winner = resList[-1].upper()
-    innings1Balls = 120
-    innings2Balls = resList[5]
-    innings1Runs = resList[6]
-    innings2Runs = resList[7]
+    print(resList['innings1Batting'])
+    print(resList['innings2Batting'])
+    winner = resList['winner'].upper()
+    innings1Balls = resList['innings1Balls']
+    innings2Balls = resList['innings2Balls']
+    innings1Runs = resList['innings1Runs']
+    innings2Runs = resList['innings2Runs']
 
-    innings1Bat = resList[-3]
-    innings2Bat = resList[-2]
-    winMsg = resList[8]
+    innings1Bat = resList['innings1BatTeam']
+    innings2Bat = resList['innings2BatTeam']
+    winMsg = resList['winMsg']
 
     loser = team1.upper()
     if(team1.upper() == winner):
@@ -204,7 +199,7 @@ def playoffs(reslist, team1, team2):
 
     print(winMsg.upper())
 
-    bat1, bat2, bowl1, bowl2 = resList[9],resList[10],resList[11],resList[12]
+    bat1, bat2, bowl1, bowl2 = resList['innings1Battracker'],resList['innings2Battracker'],resList['innings1Bowltracker'],resList['innings2Bowltracker']
     # print(bat2)
     for bat in bat1:
         if(bat not in battingInfo):

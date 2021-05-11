@@ -1,331 +1,337 @@
-mi won the toss and chose to bat
-0.1 Mohammed Siraj to Quinton de Kock 1 Score: 1/0
-0.2 Mohammed Siraj to Rohit Sharma 1 Score: 2/0
-0.3 Mohammed Siraj to Quinton de Kock 0 Score: 2/0
-0.4 Mohammed Siraj to Quinton de Kock Wide Score: 3/0
-0.5 Mohammed Siraj to Quinton de Kock 0 Score: 3/0
-0.6 Mohammed Siraj to Quinton de Kock Wide Score: 4/0
-0.7 Mohammed Siraj to Quinton de Kock 1 Score: 5/0
-0.8 Mohammed Siraj to Rohit Sharma 0 Score: 5/0
-1.1 Washington Sundar to Quinton de Kock 2 Score: 7/0
-1.2 Washington Sundar to Quinton de Kock 1 Score: 8/0
-1.3 Washington Sundar to Rohit Sharma 1 Score: 9/0
-1.4 Washington Sundar to Quinton de Kock 1 Score: 10/0
-1.5 Washington Sundar to Rohit Sharma 0 Score: 10/0
-1.6 Washington Sundar to Rohit Sharma 0 Score: 10/0
-2.1 Mohammed Siraj to Quinton de Kock 0 Score: 10/0
-2.2 Mohammed Siraj to Quinton de Kock 2 Score: 12/0
-2.3 Mohammed Siraj to Quinton de Kock 1 Score: 13/0
-2.4 Mohammed Siraj to Rohit Sharma 1 Score: 14/0
-2.5 Mohammed Siraj to Quinton de Kock 1 Score: 15/0
-2.6 Mohammed Siraj to Rohit Sharma 0 Score: 15/0
-3.1 Washington Sundar to Quinton de Kock 0 Score: 15/0
-3.2 Washington Sundar to Quinton de Kock 0 Score: 15/0
-3.3 Washington Sundar to Quinton de Kock 0 Score: 15/0
-3.4 Washington Sundar to Quinton de Kock 0 Score: 15/0
-3.5 Washington Sundar to Quinton de Kock 1 Score: 16/0
-3.6 Washington Sundar to Rohit Sharma 0 Score: 16/0
-4.1 Navdeep Saini to Quinton de Kock 0 Score: 16/0
-4.2 Navdeep Saini to Quinton de Kock 0 Score: 16/0
-4.3 Navdeep Saini to Quinton de Kock 2 Score: 18/0
-4.4 Navdeep Saini to Quinton de Kock 1 Score: 19/0
-4.5 Navdeep Saini to Rohit Sharma 0 Score: 19/0
-4.6 Navdeep Saini to Rohit Sharma 4 Score: 23/0
-5.1 Harshal Patel to Quinton de Kock 4 Score: 27/0
-5.2 Harshal Patel to Quinton de Kock 1 Score: 28/0
-5.3 Harshal Patel to Rohit Sharma 4 Score: 32/0
-5.4 Harshal Patel to Rohit Sharma 1 Score: 33/0
-5.5 Harshal Patel to Quinton de Kock 1 Score: 34/0
-5.6 Harshal Patel to Rohit Sharma 1 Score: 35/0
-6.1 Navdeep Saini to Rohit Sharma 1 Score: 36/0
-6.2 Navdeep Saini to Quinton de Kock 4 Score: 40/0
-6.3 Navdeep Saini to Quinton de Kock 0 Score: 40/0
-6.4 Navdeep Saini to Quinton de Kock 1 Score: 41/0
-6.5 Navdeep Saini to Rohit Sharma 1 Score: 42/0
-6.6 Navdeep Saini to Quinton de Kock 2 Score: 44/0
-7.1 Harshal Patel to Rohit Sharma 4 Score: 48/0
-7.2 Harshal Patel to Rohit Sharma 0 Score: 48/0
-7.3 Harshal Patel to Rohit Sharma 0 Score: 48/0
-7.4 Harshal Patel to Rohit Sharma 1 Score: 49/0
-7.5 Harshal Patel to Quinton de Kock 4 Score: 53/0
-7.6 Harshal Patel to Quinton de Kock 0 Score: 53/0
-8.1 Navdeep Saini to Rohit Sharma 0 Score: 53/0
-8.2 Navdeep Saini to Rohit Sharma 0 Score: 53/0
-8.3 Navdeep Saini to Rohit Sharma 0 Score: 53/0
-8.4 Navdeep Saini to Rohit Sharma 0 Score: 53/0
-8.5 Navdeep Saini to Rohit Sharma 0 Score: 53/0
-8.6 Navdeep Saini to Rohit Sharma 1 Score: 54/0
-9.1 Harshal Patel to Rohit Sharma 1 Score: 55/0
-9.2 Harshal Patel to Quinton de Kock Wide Score: 56/0
-9.3 Harshal Patel to Quinton de Kock 6 Score: 62/0
-9.4 Harshal Patel to Quinton de Kock 1 Score: 63/0
-9.5 Harshal Patel to Rohit Sharma W Score: 63/1 Caught by Glenn Maxwell
-9.6 Harshal Patel to Ishan Kishan 1 Score: 64/1
-9.7 Harshal Patel to Quinton de Kock 1 Score: 65/1
-10.1 Yuzvendra Chahal to Quinton de Kock 0 Score: 65/1
-10.2 Yuzvendra Chahal to Quinton de Kock 0 Score: 65/1
-10.3 Yuzvendra Chahal to Quinton de Kock 2 Score: 67/1
-10.4 Yuzvendra Chahal to Quinton de Kock 0 Score: 67/1
-10.5 Yuzvendra Chahal to Quinton de Kock W Score: 67/2 Caught by Shahbaz Ahmed
-10.6 Yuzvendra Chahal to Suryakumar Yadav 1 Score: 68/2
-11.1 Harshal Patel to Suryakumar Yadav 0 Score: 68/2
-11.2 Harshal Patel to Suryakumar Yadav 0 Score: 68/2
-11.3 Harshal Patel to Suryakumar Yadav 4 Score: 72/2
-11.4 Harshal Patel to Suryakumar Yadav 0 Score: 72/2
-11.5 Harshal Patel to Suryakumar Yadav 1 Score: 73/2
-11.6 Harshal Patel to Ishan Kishan 1 Score: 74/2
-12.1 Yuzvendra Chahal to Ishan Kishan 0 Score: 74/2
-12.2 Yuzvendra Chahal to Ishan Kishan 1 Score: 75/2
-12.3 Yuzvendra Chahal to Suryakumar Yadav 4 Score: 79/2
-12.4 Yuzvendra Chahal to Suryakumar Yadav 0 Score: 79/2
-12.5 Yuzvendra Chahal to Suryakumar Yadav 1 Score: 80/2
-12.6 Yuzvendra Chahal to Ishan Kishan 0 Score: 80/2
-13.1 Washington Sundar to Suryakumar Yadav 1 Score: 81/2
-13.2 Washington Sundar to Ishan Kishan 4 Score: 85/2
-13.3 Washington Sundar to Ishan Kishan 4 Score: 89/2
-13.4 Washington Sundar to Ishan Kishan 1 Score: 90/2
-13.5 Washington Sundar to Suryakumar Yadav W Score: 90/3 Bowled
-13.6 Washington Sundar to Kieron Pollard 4 Score: 94/3
-14.1 Yuzvendra Chahal to Ishan Kishan W Score: 94/4 Caught by Glenn Maxwell
-14.2 Yuzvendra Chahal to Hardik Pandya 0 Score: 94/4
-14.3 Yuzvendra Chahal to Hardik Pandya 0 Score: 94/4
-14.4 Yuzvendra Chahal to Hardik Pandya 0 Score: 94/4
-14.5 Yuzvendra Chahal to Hardik Pandya 0 Score: 94/4
-14.6 Yuzvendra Chahal to Hardik Pandya 0 Score: 94/4
-15.1 Washington Sundar to Kieron Pollard 0 Score: 94/4
-15.2 Washington Sundar to Kieron Pollard 4 Score: 98/4
-15.3 Washington Sundar to Kieron Pollard 1 Score: 99/4
-15.4 Washington Sundar to Hardik Pandya 1 Score: 100/4
-15.5 Washington Sundar to Kieron Pollard 4 Score: 104/4
-15.6 Washington Sundar to Kieron Pollard 4 Score: 108/4
-16.1 Yuzvendra Chahal to Hardik Pandya 4 Score: 112/4
-16.2 Yuzvendra Chahal to Hardik Pandya 6 Score: 118/4
-16.3 Yuzvendra Chahal to Hardik Pandya 1 Score: 119/4
-16.4 Yuzvendra Chahal to Kieron Pollard 0 Score: 119/4
-16.5 Yuzvendra Chahal to Kieron Pollard 6 Score: 125/4
-16.6 Yuzvendra Chahal to Kieron Pollard 0 Score: 125/4
-17.1 Mohammed Siraj to Hardik Pandya 1 Score: 126/4
-17.2 Mohammed Siraj to Kieron Pollard 1 Score: 127/4
-17.3 Mohammed Siraj to Hardik Pandya 6 Score: 133/4
-17.4 Mohammed Siraj to Hardik Pandya 6 Score: 139/4
-17.5 Mohammed Siraj to Hardik Pandya 1 Score: 140/4
-17.6 Mohammed Siraj to Kieron Pollard 0 Score: 140/4
-18.1 Navdeep Saini to Hardik Pandya 6 Score: 146/4
-18.2 Navdeep Saini to Hardik Pandya 2 Score: 148/4
-18.3 Navdeep Saini to Hardik Pandya 2 Score: 150/4
-18.4 Navdeep Saini to Hardik Pandya 1 Score: 151/4
-18.5 Navdeep Saini to Kieron Pollard 1 Score: 152/4
-18.6 Navdeep Saini to Hardik Pandya 1 Score: 153/4
-19.1 Mohammed Siraj to Hardik Pandya 6 Score: 159/4
-19.2 Mohammed Siraj to Hardik Pandya 0 Score: 159/4
-19.3 Mohammed Siraj to Hardik Pandya W Score: 159/5 Lbw
-19.4 Mohammed Siraj to Krunal Pandya 4 Score: 163/5
-19.5 Mohammed Siraj to Krunal Pandya 2 Score: 165/5
-19.6 Mohammed Siraj to Krunal Pandya 4 Score: 169/5
-+--------------+--------+---------+--------+-----------------------------+
-| Player       |   Runs |   Balls | SR     | Out                         |
-+==============+========+=========+========+=============================+
-| Q de Kock    |     41 |      37 | 110.81 | c Shahbaz Ahmed b YS Chahal |
-+--------------+--------+---------+--------+-----------------------------+
-| RG Sharma    |     22 |      27 | 81.48  | c GJ Maxwell b HV Patel     |
-+--------------+--------+---------+--------+-----------------------------+
-| SA Yadav     |     12 |      11 | 109.09 | bowled b Washington Sundar  |
-+--------------+--------+---------+--------+-----------------------------+
-| Ishan Kishan |     12 |       9 | 133.33 | c GJ Maxwell b YS Chahal    |
-+--------------+--------+---------+--------+-----------------------------+
-| KA Pollard   |     25 |      12 | 208.33 | Not out                     |
-+--------------+--------+---------+--------+-----------------------------+
-| HH Pandya    |     44 |      21 | 209.52 | lbw b Mohammed Siraj        |
-+--------------+--------+---------+--------+-----------------------------+
-| KH Pandya    |     10 |       3 | 333.33 | Not out                     |
-+--------------+--------+---------+--------+-----------------------------+
-| J Yadav      |      0 |       0 | DNB    |                             |
-+--------------+--------+---------+--------+-----------------------------+
-| RD Chahar    |      0 |       0 | DNB    |                             |
-+--------------+--------+---------+--------+-----------------------------+
-| JJ Bumrah    |      0 |       0 | DNB    |                             |
-+--------------+--------+---------+--------+-----------------------------+
-| TA Boult     |      0 |       0 | DNB    |                             |
-+--------------+--------+---------+--------+-----------------------------+
-+-------------------+--------+---------+-----------+-------+
-| Player            |   Runs |   Overs |   Wickets | Eco   |
-+===================+========+=========+===========+=======+
-| D Padikkal        |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| V Kohli           |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| GJ Maxwell        |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| AB de Villiers    |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| Shahbaz Ahmed     |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| Washington Sundar |     34 |       4 |         1 | 8.5   |
-+-------------------+--------+---------+-----------+-------+
-| KA Jamieson       |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| Mohammed Siraj    |     41 |       4 |         1 | 10.25 |
-+-------------------+--------+---------+-----------+-------+
-| HV Patel          |     38 |       4 |         1 | 9.5   |
-+-------------------+--------+---------+-----------+-------+
-| NA Saini          |     30 |       4 |         0 | 7.5   |
-+-------------------+--------+---------+-----------+-------+
-| YS Chahal         |     26 |       4 |         2 | 6.5   |
-+-------------------+--------+---------+-----------+-------+
+rcb won the toss and chose to bat
 0.1 Trent Boult to Devdutt Padikkal 0 Score: 0/0
-0.2 Trent Boult to Devdutt Padikkal 4 Score: 4/0
-0.3 Trent Boult to Devdutt Padikkal 4 Score: 8/0
-0.4 Trent Boult to Devdutt Padikkal 0 Score: 8/0
-0.5 Trent Boult to Devdutt Padikkal 1 Score: 9/0
-0.6 Trent Boult to Virat Kohli 4 Score: 13/0
-1.1 Jayant Yadav to Devdutt Padikkal 1 Score: 14/0
-1.2 Jayant Yadav to Virat Kohli 1 Score: 15/0
-1.3 Jayant Yadav to Devdutt Padikkal 0 Score: 15/0
-1.4 Jayant Yadav to Devdutt Padikkal 1 Score: 16/0
-1.5 Jayant Yadav to Virat Kohli 1 Score: 17/0
-1.6 Jayant Yadav to Devdutt Padikkal 0 Score: 17/0
-2.1 Krunal Pandya to Virat Kohli 1 Score: 18/0
-2.2 Krunal Pandya to Devdutt Padikkal 4 Score: 22/0
-2.3 Krunal Pandya to Devdutt Padikkal 1 Score: 23/0
-2.4 Krunal Pandya to Virat Kohli 1 Score: 24/0
-2.5 Krunal Pandya to Devdutt Padikkal 0 Score: 24/0
-2.6 Krunal Pandya to Devdutt Padikkal 6 Score: 30/0
-3.1 Jayant Yadav to Virat Kohli 1 Score: 31/0
-3.2 Jayant Yadav to Devdutt Padikkal 1 Score: 32/0
-3.3 Jayant Yadav to Virat Kohli 0 Score: 32/0
-3.4 Jayant Yadav to Virat Kohli 4 Score: 36/0
-3.5 Jayant Yadav to Virat Kohli 1 Score: 37/0
-3.6 Jayant Yadav to Devdutt Padikkal 0 Score: 37/0
-4.1 Trent Boult to Virat Kohli 4 Score: 41/0
-4.2 Trent Boult to Virat Kohli 0 Score: 41/0
-4.3 Trent Boult to Virat Kohli 4 Score: 45/0
-4.4 Trent Boult to Virat Kohli 4 Score: 49/0
-4.5 Trent Boult to Virat Kohli 1 Score: 50/0
-4.6 Trent Boult to Devdutt Padikkal 0 Score: 50/0
-5.1 Jasprit Bumrah to Virat Kohli 1 Score: 51/0
-5.2 Jasprit Bumrah to Devdutt Padikkal 4 Score: 55/0
-5.3 Jasprit Bumrah to Devdutt Padikkal 2 Score: 57/0
-5.4 Jasprit Bumrah to Devdutt Padikkal 0 Score: 57/0
-5.5 Jasprit Bumrah to Devdutt Padikkal 1 Score: 58/0
-5.6 Jasprit Bumrah to Virat Kohli 4 Score: 62/0
-6.1 Trent Boult to Devdutt Padikkal 0 Score: 62/0
-6.2 Trent Boult to Devdutt Padikkal 4 Score: 66/0
-6.3 Trent Boult to Devdutt Padikkal 4 Score: 70/0
-6.4 Trent Boult to Devdutt Padikkal 0 Score: 70/0
-6.5 Trent Boult to Devdutt Padikkal 6 Score: 76/0
-6.6 Trent Boult to Devdutt Padikkal 6 Score: 82/0
-7.1 Jasprit Bumrah to Virat Kohli 2 Score: 84/0
-7.2 Jasprit Bumrah to Virat Kohli 1 Score: 85/0
-7.3 Jasprit Bumrah to Devdutt Padikkal 4 Score: 89/0
-7.4 Jasprit Bumrah to Devdutt Padikkal 0 Score: 89/0
-7.5 Jasprit Bumrah to Devdutt Padikkal 1 Score: 90/0
-7.6 Jasprit Bumrah to Virat Kohli 0 Score: 90/0
-8.1 Rahul Chahar to Devdutt Padikkal 0 Score: 90/0
-8.2 Rahul Chahar to Devdutt Padikkal 0 Score: 90/0
-8.3 Rahul Chahar to Devdutt Padikkal 2 Score: 92/0
-8.4 Rahul Chahar to Devdutt Padikkal 1 Score: 93/0
-8.5 Rahul Chahar to Virat Kohli 1 Score: 94/0
-8.6 Rahul Chahar to Devdutt Padikkal 0 Score: 94/0
-9.1 Jasprit Bumrah to Virat Kohli 0 Score: 94/0
-9.2 Jasprit Bumrah to Virat Kohli 1 Score: 95/0
-9.3 Jasprit Bumrah to Devdutt Padikkal 4 Score: 99/0
-9.4 Jasprit Bumrah to Devdutt Padikkal W Score: 99/1 Caught by Hardik Pandya
-9.5 Jasprit Bumrah to AB de Villiers 1 Score: 100/1
-9.6 Jasprit Bumrah to Virat Kohli 1 Score: 101/1
-10.1 Rahul Chahar to Virat Kohli 1 Score: 102/1
-10.2 Rahul Chahar to AB de Villiers 4 Score: 106/1
-10.3 Rahul Chahar to AB de Villiers 0 Score: 106/1
-10.4 Rahul Chahar to AB de Villiers 1 Score: 107/1
-10.5 Rahul Chahar to Virat Kohli 0 Score: 107/1
-10.6 Rahul Chahar to Virat Kohli 1 Score: 108/1
-11.1 Kieron Pollard to Virat Kohli 1 Score: 109/1
-11.2 Kieron Pollard to AB de Villiers 2 Score: 111/1
-11.3 Kieron Pollard to AB de Villiers 1 Score: 112/1
-11.4 Kieron Pollard to Virat Kohli 0 Score: 112/1
-11.5 Kieron Pollard to Virat Kohli 1 Score: 113/1
-11.6 Kieron Pollard to AB de Villiers 6 Score: 119/1
-12.1 Rahul Chahar to Virat Kohli 0 Score: 119/1
-12.2 Rahul Chahar to Virat Kohli 4 Score: 123/1
-12.3 Rahul Chahar to Virat Kohli 0 Score: 123/1
-12.4 Rahul Chahar to Virat Kohli 0 Score: 123/1
-12.5 Rahul Chahar to Virat Kohli W Score: 123/2 Caught by Kieron Pollard
-12.6 Rahul Chahar to Glenn Maxwell 1 Score: 124/2
-13.1 Kieron Pollard to Glenn Maxwell 4 Score: 128/2
-13.2 Kieron Pollard to Glenn Maxwell 1 Score: 129/2
-13.3 Kieron Pollard to AB de Villiers 0 Score: 129/2
-13.4 Kieron Pollard to AB de Villiers 1 Score: 130/2
-13.5 Kieron Pollard to Glenn Maxwell 1 Score: 131/2
-13.6 Kieron Pollard to AB de Villiers 1 Score: 132/2
-14.1 Rahul Chahar to AB de Villiers 0 Score: 132/2
-14.2 Rahul Chahar to AB de Villiers 0 Score: 132/2
-14.3 Rahul Chahar to AB de Villiers 2 Score: 134/2
-14.4 Rahul Chahar to AB de Villiers 1 Score: 135/2
-14.5 Rahul Chahar to Glenn Maxwell 4 Score: 139/2
-14.6 Rahul Chahar to Glenn Maxwell 1 Score: 140/2
-15.1 Kieron Pollard to Glenn Maxwell 0 Score: 140/2
-15.2 Kieron Pollard to Glenn Maxwell 0 Score: 140/2
-15.3 Kieron Pollard to Glenn Maxwell 1 Score: 141/2
-15.4 Kieron Pollard to AB de Villiers 0 Score: 141/2
-15.5 Kieron Pollard to AB de Villiers 1 Score: 142/2
-15.6 Kieron Pollard to Glenn Maxwell 6 Score: 148/2
-16.1 Hardik Pandya to AB de Villiers 0 Score: 148/2
-16.2 Hardik Pandya to AB de Villiers 1 Score: 149/2
-16.3 Hardik Pandya to Glenn Maxwell 6 Score: 155/2
-16.4 Hardik Pandya to Glenn Maxwell 0 Score: 155/2
-16.5 Hardik Pandya to Glenn Maxwell 4 Score: 159/2
-16.6 Hardik Pandya to Glenn Maxwell 0 Score: 159/2
-17.1 Jasprit Bumrah to AB de Villiers 6 Score: 165/2
-17.2 Jasprit Bumrah to AB de Villiers 0 Score: 165/2
-17.3 Jasprit Bumrah to AB de Villiers 1 Score: 166/2
-17.4 Jasprit Bumrah to Glenn Maxwell 4 Score: 170/2
-rcb won by 8 wickets
-+-------------------+--------+---------+--------+--------------------------+
-| Player            |   Runs |   Balls | SR     | Out                      |
-+===================+========+=========+========+==========================+
-| D Padikkal        |     62 |      36 | 172.22 | c HH Pandya b JJ Bumrah  |
-+-------------------+--------+---------+--------+--------------------------+
-| V Kohli           |     46 |      34 | 135.29 | c KA Pollard b RD Chahar |
-+-------------------+--------+---------+--------+--------------------------+
-| GJ Maxwell        |     33 |      15 | 220.0  | Not out                  |
-+-------------------+--------+---------+--------+--------------------------+
-| AB de Villiers    |     29 |      21 | 138.1  | Not out                  |
-+-------------------+--------+---------+--------+--------------------------+
-| Shahbaz Ahmed     |      0 |       0 | DNB    |                          |
-+-------------------+--------+---------+--------+--------------------------+
-| Washington Sundar |      0 |       0 | DNB    |                          |
-+-------------------+--------+---------+--------+--------------------------+
-| KA Jamieson       |      0 |       0 | DNB    |                          |
-+-------------------+--------+---------+--------+--------------------------+
-| Mohammed Siraj    |      0 |       0 | DNB    |                          |
-+-------------------+--------+---------+--------+--------------------------+
-| HV Patel          |      0 |       0 | DNB    |                          |
-+-------------------+--------+---------+--------+--------------------------+
-| NA Saini          |      0 |       0 | DNB    |                          |
-+-------------------+--------+---------+--------+--------------------------+
-| YS Chahal         |      0 |       0 | DNB    |                          |
-+-------------------+--------+---------+--------+--------------------------+
+0.2 Trent Boult to Devdutt Padikkal 2 Score: 2/0
+0.3 Trent Boult to Devdutt Padikkal 0 Score: 2/0
+0.4 Trent Boult to Devdutt Padikkal 1 Score: 3/0
+0.5 Trent Boult to Virat Kohli Wide Score: 4/0
+0.6 Trent Boult to Virat Kohli 0 Score: 4/0
+0.7 Trent Boult to Virat Kohli 0 Score: 4/0
+1.1 Jayant Yadav to Devdutt Padikkal 0 Score: 4/0
+1.2 Jayant Yadav to Devdutt Padikkal 4 Score: 8/0
+1.3 Jayant Yadav to Devdutt Padikkal 0 Score: 8/0
+1.4 Jayant Yadav to Devdutt Padikkal 4 Score: 12/0
+1.5 Jayant Yadav to Devdutt Padikkal 0 Score: 12/0
+1.6 Jayant Yadav to Devdutt Padikkal 1 Score: 13/0
+2.1 Trent Boult to Devdutt Padikkal W Score: 13/1 Caught by Krunal Pandya
+2.2 Trent Boult to AB de Villiers 1 Score: 14/1
+2.3 Trent Boult to Virat Kohli 1 Score: 15/1
+2.4 Trent Boult to AB de Villiers 0 Score: 15/1
+2.5 Trent Boult to AB de Villiers 0 Score: 15/1
+2.6 Trent Boult to AB de Villiers 1 Score: 16/1
+3.1 Jayant Yadav to AB de Villiers 0 Score: 16/1
+3.2 Jayant Yadav to AB de Villiers 1 Score: 17/1
+3.3 Jayant Yadav to Virat Kohli 4 Score: 21/1
+3.4 Jayant Yadav to Virat Kohli 0 Score: 21/1
+3.5 Jayant Yadav to Virat Kohli 1 Score: 22/1
+3.6 Jayant Yadav to AB de Villiers 2 Score: 24/1
+4.1 Jasprit Bumrah to Virat Kohli 1 Score: 25/1
+4.2 Jasprit Bumrah to AB de Villiers 0 Score: 25/1
+4.3 Jasprit Bumrah to AB de Villiers 1 Score: 26/1
+4.4 Jasprit Bumrah to Virat Kohli 1 Score: 27/1
+4.5 Jasprit Bumrah to AB de Villiers 4 Score: 31/1
+4.6 Jasprit Bumrah to AB de Villiers 0 Score: 31/1
+5.1 Krunal Pandya to Virat Kohli 1 Score: 32/1
+5.2 Krunal Pandya to AB de Villiers 0 Score: 32/1
+5.3 Krunal Pandya to AB de Villiers 0 Score: 32/1
+5.4 Krunal Pandya to AB de Villiers 1 Score: 33/1
+5.5 Krunal Pandya to Virat Kohli Wide Score: 34/1
+5.6 Krunal Pandya to Virat Kohli 1 Score: 35/1
+5.7 Krunal Pandya to AB de Villiers 6 Score: 41/1
+6.1 Jasprit Bumrah to Virat Kohli 0 Score: 41/1
+6.2 Jasprit Bumrah to Virat Kohli 1 Score: 42/1
+6.3 Jasprit Bumrah to AB de Villiers 0 Score: 42/1
+6.4 Jasprit Bumrah to AB de Villiers 0 Score: 42/1
+6.5 Jasprit Bumrah to AB de Villiers 4 Score: 46/1
+6.6 Jasprit Bumrah to AB de Villiers 4 Score: 50/1
+7.1 Krunal Pandya to Virat Kohli 1 Score: 51/1
+7.2 Krunal Pandya to AB de Villiers 2 Score: 53/1
+7.3 Krunal Pandya to AB de Villiers W Score: 53/2 Hitwicket
+7.4 Krunal Pandya to Glenn Maxwell 1 Score: 54/2
+7.5 Krunal Pandya to Virat Kohli 0 Score: 54/2
+7.6 Krunal Pandya to Virat Kohli 1 Score: 55/2
+8.1 Jasprit Bumrah to Virat Kohli 2 Score: 57/2
+8.2 Jasprit Bumrah to Virat Kohli 2 Score: 59/2
+8.3 Jasprit Bumrah to Virat Kohli 1 Score: 60/2
+8.4 Jasprit Bumrah to Glenn Maxwell 0 Score: 60/2
+8.5 Jasprit Bumrah to Glenn Maxwell 6 Score: 66/2
+8.6 Jasprit Bumrah to Glenn Maxwell 0 Score: 66/2
+9.1 Krunal Pandya to Virat Kohli 1 Score: 67/2
+9.2 Krunal Pandya to Glenn Maxwell W Score: 67/3 Caught by Hardik Pandya
+9.3 Krunal Pandya to Shahbaz Ahmed 1 Score: 68/3
+9.4 Krunal Pandya to Virat Kohli 4 Score: 72/3
+9.5 Krunal Pandya to Virat Kohli 1 Score: 73/3
+9.6 Krunal Pandya to Shahbaz Ahmed 1 Score: 74/3
+10.1 Rahul Chahar to Shahbaz Ahmed 1 Score: 75/3
+10.2 Rahul Chahar to Virat Kohli 1 Score: 76/3
+10.3 Rahul Chahar to Shahbaz Ahmed 0 Score: 76/3
+10.4 Rahul Chahar to Shahbaz Ahmed 0 Score: 76/3
+10.5 Rahul Chahar to Shahbaz Ahmed 2 Score: 78/3
+10.6 Rahul Chahar to Shahbaz Ahmed 0 Score: 78/3
+11.1 Krunal Pandya to Virat Kohli 1 Score: 79/3
+11.2 Krunal Pandya to Shahbaz Ahmed 0 Score: 79/3
+11.3 Krunal Pandya to Shahbaz Ahmed 0 Score: 79/3
+11.4 Krunal Pandya to Shahbaz Ahmed 1 Score: 80/3
+11.5 Krunal Pandya to Virat Kohli 2 Score: 82/3
+11.6 Krunal Pandya to Virat Kohli 2 Score: 84/3
+12.1 Rahul Chahar to Shahbaz Ahmed 1 Score: 85/3
+12.2 Rahul Chahar to Virat Kohli W Score: 85/4 Caught by Ishan Kishan
+12.3 Rahul Chahar to Harshal Patel 2 Score: 87/4
+12.4 Rahul Chahar to Harshal Patel 1 Score: 88/4
+12.5 Rahul Chahar to Shahbaz Ahmed 2 Score: 90/4
+12.6 Rahul Chahar to Shahbaz Ahmed 1 Score: 91/4
+13.1 Jayant Yadav to Shahbaz Ahmed 0 Score: 91/4
+13.2 Jayant Yadav to Shahbaz Ahmed 1 Score: 92/4
+13.3 Jayant Yadav to Harshal Patel 1 Score: 93/4
+13.4 Jayant Yadav to Shahbaz Ahmed 0 Score: 93/4
+13.5 Jayant Yadav to Shahbaz Ahmed 0 Score: 93/4
+13.6 Jayant Yadav to Shahbaz Ahmed 0 Score: 93/4
+14.1 Rahul Chahar to Harshal Patel 1 Score: 94/4
+14.2 Rahul Chahar to Shahbaz Ahmed 2 Score: 96/4
+14.3 Rahul Chahar to Shahbaz Ahmed 0 Score: 96/4
+14.4 Rahul Chahar to Shahbaz Ahmed 0 Score: 96/4
+14.5 Rahul Chahar to Shahbaz Ahmed 1 Score: 97/4
+14.6 Rahul Chahar to Harshal Patel W Score: 97/5 Caught by Krunal Pandya
+15.1 Jayant Yadav to Shahbaz Ahmed 0 Score: 97/5
+15.2 Jayant Yadav to Shahbaz Ahmed 0 Score: 97/5
+15.3 Jayant Yadav to Shahbaz Ahmed 6 Score: 103/5
+15.4 Jayant Yadav to Shahbaz Ahmed 1 Score: 104/5
+15.5 Jayant Yadav to Washington Sundar 0 Score: 104/5
+15.6 Jayant Yadav to Washington Sundar 1 Score: 105/5
+16.1 Rahul Chahar to Washington Sundar 0 Score: 105/5
+16.2 Rahul Chahar to Washington Sundar 1 Score: 106/5
+16.3 Rahul Chahar to Shahbaz Ahmed 1 Score: 107/5
+16.4 Rahul Chahar to Washington Sundar 0 Score: 107/5
+16.5 Rahul Chahar to Washington Sundar 4 Score: 111/5
+16.6 Rahul Chahar to Washington Sundar 0 Score: 111/5
+17.1 Jasprit Bumrah to Shahbaz Ahmed 6 Score: 117/5
+17.2 Jasprit Bumrah to Shahbaz Ahmed 1 Score: 118/5
+17.3 Jasprit Bumrah to Washington Sundar 0 Score: 118/5
+17.4 Jasprit Bumrah to Washington Sundar 0 Score: 118/5
+17.5 Jasprit Bumrah to Washington Sundar W Score: 118/6 Caught by Jayant Yadav
+17.6 Jasprit Bumrah to Kyle Jamieson 2 Score: 120/6
+18.1 Trent Boult to Shahbaz Ahmed W Score: 120/7 Caught by Jayant Yadav
+18.2 Trent Boult to Navdeep Saini 4 Score: 124/7
+18.3 Trent Boult to Navdeep Saini 1 Score: 125/7
+18.4 Trent Boult to Kyle Jamieson 4 Score: 129/7
+18.5 Trent Boult to Kyle Jamieson 4 Score: 133/7
+18.6 Trent Boult to Kyle Jamieson W Score: 134/8 Run Out!
+19.1 Hardik Pandya to Navdeep Saini 0 Score: 134/8
+19.2 Hardik Pandya to Navdeep Saini 1 Score: 135/8
+19.3 Hardik Pandya to Mohammed Siraj 0 Score: 135/8
+19.4 Hardik Pandya to Mohammed Siraj 6 Score: 141/8
+19.5 Hardik Pandya to Mohammed Siraj Wide Score: 142/8
+19.6 Hardik Pandya to Mohammed Siraj W Score: 142/9 Lbw
+19.7 Hardik Pandya to Yuzvendra Chahal 6 Score: 148/9
++-------------------+--------+---------+--------+----------------------------+
+| Player            |   Runs |   Balls |     SR | Out                        |
++===================+========+=========+========+============================+
+| D Padikkal        |     12 |      11 | 109.09 | c KH Pandya b TA Boult     |
++-------------------+--------+---------+--------+----------------------------+
+| V Kohli           |     30 |      26 | 115.38 | c Ishan Kishan b RD Chahar |
++-------------------+--------+---------+--------+----------------------------+
+| GJ Maxwell        |      7 |       5 | 140    | c HH Pandya b KH Pandya    |
++-------------------+--------+---------+--------+----------------------------+
+| AB de Villiers    |     27 |      21 | 128.57 | hitwicket b KH Pandya      |
++-------------------+--------+---------+--------+----------------------------+
+| Shahbaz Ahmed     |     29 |      30 |  96.67 | c J Yadav b TA Boult       |
++-------------------+--------+---------+--------+----------------------------+
+| Washington Sundar |      6 |      10 |  60    | c J Yadav b JJ Bumrah      |
++-------------------+--------+---------+--------+----------------------------+
+| KA Jamieson       |     11 |       4 | 275    | Not out                    |
++-------------------+--------+---------+--------+----------------------------+
+| Mohammed Siraj    |      6 |       3 | 200    | lbw b HH Pandya            |
++-------------------+--------+---------+--------+----------------------------+
+| HV Patel          |      5 |       5 | 100    | c KH Pandya b RD Chahar    |
++-------------------+--------+---------+--------+----------------------------+
+| NA Saini          |      6 |       4 | 150    | Not out                    |
++-------------------+--------+---------+--------+----------------------------+
+| YS Chahal         |      6 |       1 | 600    | Not out                    |
++-------------------+--------+---------+--------+----------------------------+
 +--------------+--------+---------+-----------+-------+
 | Player       |   Runs |   Overs |   Wickets | Eco   |
 +==============+========+=========+===========+=======+
-| Q de Kock    |      0 |     0   |         0 | NA    |
+| Q de Kock    |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| RG Sharma    |      0 |     0   |         0 | NA    |
+| RG Sharma    |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| SA Yadav     |      0 |     0   |         0 | NA    |
+| SA Yadav     |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| Ishan Kishan |      0 |     0   |         0 | NA    |
+| Ishan Kishan |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| KA Pollard   |     27 |     3   |         0 | 9.0   |
+| KA Pollard   |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| HH Pandya    |     11 |     1   |         0 | 11.0  |
+| HH Pandya    |     14 |       1 |         1 | 14.0  |
 +--------------+--------+---------+-----------+-------+
-| KH Pandya    |     13 |     1   |         0 | 13.0  |
+| KH Pandya    |     29 |       4 |         2 | 7.25  |
 +--------------+--------+---------+-----------+-------+
-| J Yadav      |     11 |     2   |         0 | 5.5   |
+| J Yadav      |     27 |       4 |         0 | 6.75  |
 +--------------+--------+---------+-----------+-------+
-| RD Chahar    |     24 |     4   |         1 | 6.0   |
+| RD Chahar    |     21 |       4 |         2 | 5.25  |
 +--------------+--------+---------+-----------+-------+
-| JJ Bumrah    |     38 |     3.4 |         1 | 10.36 |
+| JJ Bumrah    |     36 |       4 |         1 | 9.0   |
 +--------------+--------+---------+-----------+-------+
-| TA Boult     |     46 |     3   |         0 | 15.33 |
+| TA Boult     |     21 |       3 |         2 | 7.0   |
 +--------------+--------+---------+-----------+-------+
+0.1 Mohammed Siraj to Quinton de Kock 4 Score: 4/0
+0.2 Mohammed Siraj to Quinton de Kock 1 Score: 5/0
+0.3 Mohammed Siraj to Rohit Sharma 1 Score: 6/0
+0.4 Mohammed Siraj to Quinton de Kock 1 Score: 7/0
+0.5 Mohammed Siraj to Rohit Sharma 2 Score: 9/0
+0.6 Mohammed Siraj to Rohit Sharma 1 Score: 10/0
+1.1 Washington Sundar to Rohit Sharma 1 Score: 11/0
+1.2 Washington Sundar to Quinton de Kock 4 Score: 15/0
+1.3 Washington Sundar to Quinton de Kock 4 Score: 19/0
+1.4 Washington Sundar to Quinton de Kock 0 Score: 19/0
+1.5 Washington Sundar to Quinton de Kock 2 Score: 21/0
+1.6 Washington Sundar to Quinton de Kock 0 Score: 21/0
+2.1 Mohammed Siraj to Rohit Sharma 1 Score: 22/0
+2.2 Mohammed Siraj to Quinton de Kock 1 Score: 23/0
+2.3 Mohammed Siraj to Rohit Sharma 1 Score: 24/0
+2.4 Mohammed Siraj to Quinton de Kock 1 Score: 25/0
+2.5 Mohammed Siraj to Rohit Sharma 1 Score: 26/0
+2.6 Mohammed Siraj to Quinton de Kock 0 Score: 26/0
+3.1 Washington Sundar to Rohit Sharma 0 Score: 26/0
+3.2 Washington Sundar to Rohit Sharma 1 Score: 27/0
+3.3 Washington Sundar to Quinton de Kock 1 Score: 28/0
+3.4 Washington Sundar to Rohit Sharma 1 Score: 29/0
+3.5 Washington Sundar to Quinton de Kock 1 Score: 30/0
+3.6 Washington Sundar to Rohit Sharma 1 Score: 31/0
+4.1 Navdeep Saini to Rohit Sharma 0 Score: 31/0
+4.2 Navdeep Saini to Rohit Sharma 0 Score: 31/0
+4.3 Navdeep Saini to Rohit Sharma 4 Score: 35/0
+4.4 Navdeep Saini to Rohit Sharma 0 Score: 35/0
+4.5 Navdeep Saini to Rohit Sharma 1 Score: 36/0
+4.6 Navdeep Saini to Quinton de Kock 1 Score: 37/0
+5.1 Harshal Patel to Quinton de Kock 2 Score: 39/0
+5.2 Harshal Patel to Quinton de Kock 0 Score: 39/0
+5.3 Harshal Patel to Quinton de Kock 2 Score: 41/0
+5.4 Harshal Patel to Quinton de Kock 1 Score: 42/0
+5.5 Harshal Patel to Rohit Sharma 1 Score: 43/0
+5.6 Harshal Patel to Quinton de Kock 0 Score: 43/0
+6.1 Navdeep Saini to Rohit Sharma 0 Score: 43/0
+6.2 Navdeep Saini to Rohit Sharma 2 Score: 45/0
+6.3 Navdeep Saini to Rohit Sharma 2 Score: 47/0
+6.4 Navdeep Saini to Rohit Sharma 1 Score: 48/0
+6.5 Navdeep Saini to Quinton de Kock 1 Score: 49/0
+6.6 Navdeep Saini to Rohit Sharma 2 Score: 51/0
+7.1 Harshal Patel to Quinton de Kock 4 Score: 55/0
+7.2 Harshal Patel to Quinton de Kock 1 Score: 56/0
+7.3 Harshal Patel to Rohit Sharma 1 Score: 57/0
+7.4 Harshal Patel to Quinton de Kock 1 Score: 58/0
+7.5 Harshal Patel to Rohit Sharma 1 Score: 59/0
+7.6 Harshal Patel to Quinton de Kock 0 Score: 59/0
+8.1 Navdeep Saini to Rohit Sharma 4 Score: 63/0
+8.2 Navdeep Saini to Rohit Sharma 1 Score: 64/0
+8.3 Navdeep Saini to Quinton de Kock 0 Score: 64/0
+8.4 Navdeep Saini to Quinton de Kock 1 Score: 65/0
+8.5 Navdeep Saini to Rohit Sharma 1 Score: 66/0
+8.6 Navdeep Saini to Quinton de Kock 4 Score: 70/0
+9.1 Harshal Patel to Rohit Sharma 0 Score: 70/0
+9.2 Harshal Patel to Rohit Sharma 0 Score: 70/0
+9.3 Harshal Patel to Rohit Sharma 1 Score: 71/0
+9.4 Harshal Patel to Quinton de Kock 1 Score: 72/0
+9.5 Harshal Patel to Rohit Sharma 1 Score: 73/0
+9.6 Harshal Patel to Quinton de Kock Wide Score: 74/0
+9.7 Harshal Patel to Quinton de Kock 0 Score: 74/0
+10.1 Yuzvendra Chahal to Rohit Sharma 4 Score: 78/0
+10.2 Yuzvendra Chahal to Rohit Sharma 4 Score: 82/0
+10.3 Yuzvendra Chahal to Rohit Sharma 0 Score: 82/0
+10.4 Yuzvendra Chahal to Rohit Sharma 1 Score: 83/0
+10.5 Yuzvendra Chahal to Quinton de Kock 0 Score: 83/0
+10.6 Yuzvendra Chahal to Quinton de Kock 6 Score: 89/0
+11.1 Harshal Patel to Rohit Sharma 1 Score: 90/0
+11.2 Harshal Patel to Quinton de Kock W Score: 90/1 Lbw
+11.3 Harshal Patel to Ishan Kishan 0 Score: 90/1
+11.4 Harshal Patel to Ishan Kishan 1 Score: 91/1
+11.5 Harshal Patel to Rohit Sharma 6 Score: 97/1
+11.6 Harshal Patel to Rohit Sharma 0 Score: 97/1
+12.1 Yuzvendra Chahal to Ishan Kishan 0 Score: 97/1
+12.2 Yuzvendra Chahal to Ishan Kishan 0 Score: 97/1
+12.3 Yuzvendra Chahal to Ishan Kishan 1 Score: 98/1
+12.4 Yuzvendra Chahal to Rohit Sharma 0 Score: 98/1
+12.5 Yuzvendra Chahal to Rohit Sharma 1 Score: 99/1
+12.6 Yuzvendra Chahal to Ishan Kishan 1 Score: 100/1
+13.1 Glenn Maxwell to Ishan Kishan 1 Score: 101/1
+13.2 Glenn Maxwell to Rohit Sharma 0 Score: 101/1
+13.3 Glenn Maxwell to Rohit Sharma 1 Score: 102/1
+13.4 Glenn Maxwell to Ishan Kishan 0 Score: 102/1
+13.5 Glenn Maxwell to Ishan Kishan 0 Score: 102/1
+13.6 Glenn Maxwell to Ishan Kishan 0 Score: 102/1
+14.1 Yuzvendra Chahal to Rohit Sharma 1 Score: 103/1
+14.2 Yuzvendra Chahal to Ishan Kishan Wide Score: 104/1
+14.3 Yuzvendra Chahal to Ishan Kishan 1 Score: 105/1
+14.4 Yuzvendra Chahal to Rohit Sharma 1 Score: 106/1
+14.5 Yuzvendra Chahal to Ishan Kishan 4 Score: 110/1
+14.6 Yuzvendra Chahal to Ishan Kishan 1 Score: 111/1
+14.7 Yuzvendra Chahal to Rohit Sharma 1 Score: 112/1
+15.1 Glenn Maxwell to Rohit Sharma 1 Score: 113/1
+15.2 Glenn Maxwell to Ishan Kishan 1 Score: 114/1
+15.3 Glenn Maxwell to Rohit Sharma 0 Score: 114/1
+15.4 Glenn Maxwell to Rohit Sharma 1 Score: 115/1
+15.5 Glenn Maxwell to Ishan Kishan 0 Score: 115/1
+15.6 Glenn Maxwell to Ishan Kishan 1 Score: 116/1
+16.1 Yuzvendra Chahal to Ishan Kishan 1 Score: 117/1
+16.2 Yuzvendra Chahal to Rohit Sharma 0 Score: 117/1
+16.3 Yuzvendra Chahal to Rohit Sharma 6 Score: 123/1
+16.4 Yuzvendra Chahal to Rohit Sharma 4 Score: 127/1
+16.5 Yuzvendra Chahal to Rohit Sharma 1 Score: 128/1
+16.6 Yuzvendra Chahal to Ishan Kishan 1 Score: 129/1
+17.1 Mohammed Siraj to Ishan Kishan 4 Score: 133/1
+17.2 Mohammed Siraj to Ishan Kishan 4 Score: 137/1
+17.3 Mohammed Siraj to Ishan Kishan 6 Score: 143/1
+17.4 Mohammed Siraj to Ishan Kishan 1 Score: 144/1
+17.5 Mohammed Siraj to Rohit Sharma 4 Score: 148/1
+17.6 Mohammed Siraj to Rohit Sharma W Score: 148/2 Bowled
+18.1 Navdeep Saini to Ishan Kishan 0 Score: 148/2
+18.2 Navdeep Saini to Ishan Kishan 1 Score: 149/2
+mi won by 8 wickets
++--------------+--------+---------+--------+-------------------------+
+| Player       |   Runs |   Balls | SR     | Out                     |
++==============+========+=========+========+=========================+
+| Q de Kock    |     45 |      32 | 140.62 | lbw b HV Patel          |
++--------------+--------+---------+--------+-------------------------+
+| RG Sharma    |     72 |      54 | 133.33 | bowled b Mohammed Siraj |
++--------------+--------+---------+--------+-------------------------+
+| SA Yadav     |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| Ishan Kishan |     30 |      24 | 125.0  | Not out                 |
++--------------+--------+---------+--------+-------------------------+
+| KA Pollard   |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| HH Pandya    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| KH Pandya    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| J Yadav      |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| RD Chahar    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| JJ Bumrah    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| TA Boult     |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| D Padikkal        |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| V Kohli           |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| GJ Maxwell        |      6 |     2   |         0 | 3.0   |
++-------------------+--------+---------+-----------+-------+
+| AB de Villiers    |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Shahbaz Ahmed     |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Washington Sundar |     16 |     2   |         0 | 8.0   |
++-------------------+--------+---------+-----------+-------+
+| KA Jamieson       |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Mohammed Siraj    |     34 |     3   |         1 | 11.33 |
++-------------------+--------+---------+-----------+-------+
+| HV Patel          |     26 |     4   |         1 | 6.5   |
++-------------------+--------+---------+-----------+-------+
+| NA Saini          |     26 |     3.2 |         0 | 7.8   |
++-------------------+--------+---------+-----------+-------+
+| YS Chahal         |     41 |     4   |         0 | 10.25 |
++-------------------+--------+---------+-----------+-------+

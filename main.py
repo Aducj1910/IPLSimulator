@@ -2128,7 +2128,7 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group"):
 
     # pitchTypeInput = input("Enter type of pitch (green, dusty, or dead) ")
     pitchTypeInput = "dusty"
-    # stdoutOrigin=sys.stdout 
+    stdoutOrigin=sys.stdout 
     # sys.stdout = open(f"scores/{team_one_inp}v{team_two_inp}_{switch}.txt", "w")
 
     # f = open("matches/csk_v_rr.txt", "r")
@@ -2222,9 +2222,11 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group"):
             2], paceFactor, spinFactor, outfield, dew, detoriate)
     # sys.stdout.close()
     # sys.stdout=stdoutOrigin
-    return [innings1Batting, innings1Bowling, innings2Batting, innings2Bowling, 120, 
-        innings2Balls, innings1Runs, innings2Runs,winMsg ,innings1Battracker,
-        innings2Battracker,innings1Bowltracker,innings2Bowltracker ,getBatting()[2] ,getBatting()[3] ,  winner]
+    return {"innings1Batting": innings1Batting, "innings1Bowling": innings1Bowling, "innings2Batting": innings2Batting, 
+            "innings2Bowling": innings2Bowling, "innings2Balls": innings2Balls, "innings1Balls": 120, 
+            "innings1Runs": innings1Runs, "innings2Runs": innings2Runs, "winMsg": winMsg, "innings1Battracker": innings1Battracker,
+            "innings2Battracker": innings2Battracker, "innings1Bowltracker": innings1Bowltracker, "innings2Bowltracker": innings2Bowltracker,
+            "innings1BatTeam": getBatting()[2],"innings2BatTeam": getBatting()[3], "winner": winner }
 
 
 

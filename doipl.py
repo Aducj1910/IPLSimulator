@@ -27,17 +27,17 @@ for i in teams:
             team2 = j
             print(f"Welcome to {i.upper()} vs {j.upper()}")
             resList = game(False, i, j)
-            print(resList[0])
-            print(resList[2])
-            winner = resList[-1]
-            innings1Balls = 120
-            innings2Balls = resList[5]
-            innings1Runs = resList[6]
-            innings2Runs = resList[7]
+            print(resList['innings1Batting'])
+            print(resList['innings2Batting'])
+            winner = resList['winner']
+            innings1Balls = resList['innings1Balls']
+            innings2Balls = resList['innings2Balls']
+            innings1Runs = resList['innings1Runs']
+            innings2Runs = resList['innings2Runs']
 
-            innings1Bat = resList[-3]
-            innings2Bat = resList[-2]
-            winMsg = resList[8]
+            innings1Bat = resList['innings1BatTeam']
+            innings2Bat = resList['innings2BatTeam']
+            winMsg = resList['winMsg']
 
             loser = i
             if(winner == i):
@@ -49,7 +49,7 @@ for i in teams:
             else:
                 bowlingf += 1
 
-            bat1, bat2, bowl1, bowl2 = resList[9],resList[10],resList[11],resList[12]
+            bat1, bat2, bowl1, bowl2 = resList['innings1Battracker'],resList['innings2Battracker'],resList['innings1Bowltracker'],resList['innings2Bowltracker']
             # print(bat2)
             for bat in bat1:
                 if(bat not in battingInfo):
@@ -167,17 +167,17 @@ q1 = [pointsTabulate[0][0], pointsTabulate[1][0]]
 q2 = []
 
 def playoffs(reslist, team1, team2):
-    print(resList[0])
-    print(resList[2])
-    winner = resList[-1].upper()
-    innings1Balls = 120
-    innings2Balls = resList[5]
-    innings1Runs = resList[6]
-    innings2Runs = resList[7]
+    print(resList['innings1Batting'])
+    print(resList['innings2Batting'])
+    winner = resList['winner'].upper()
+    innings1Balls = resList['innings1Balls']
+    innings2Balls = resList['innings2Balls']
+    innings1Runs = resList['innings1Runs']
+    innings2Runs = resList['innings2Runs']
 
-    innings1Bat = resList[-3]
-    innings2Bat = resList[-2]
-    winMsg = resList[8]
+    innings1Bat = resList['innings1BatTeam']
+    innings2Bat = resList['innings2BatTeam']
+    winMsg = resList['winMsg']
 
     loser = team1.upper()
     if(team1.upper() == winner):
@@ -185,7 +185,7 @@ def playoffs(reslist, team1, team2):
 
     print(winMsg.upper())
 
-    bat1, bat2, bowl1, bowl2 = resList[9],resList[10],resList[11],resList[12]
+    bat1, bat2, bowl1, bowl2 = resList['innings1Battracker'],resList['innings2Battracker'],resList['innings1Bowltracker'],resList['innings2Bowltracker']
     # print(bat2)
     for bat in bat1:
         if(bat not in battingInfo):
