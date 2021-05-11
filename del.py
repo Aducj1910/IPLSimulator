@@ -15,7 +15,12 @@ for filename in os.listdir('teams'):
 				l = l.replace("\n", "")
 				data[filenameToPass].append(l)
 
+for d in data:
+	for dd in d:
+		if(dd == ''):
+			d.remove(dd)
 
+print(data)
 with open('teams/teams.json', 'w') as json_file:
   json.dump(data, json_file)
 

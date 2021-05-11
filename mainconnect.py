@@ -2,6 +2,7 @@ import random
 import accessJSON
 import copy
 import sys 
+import json
 
 
 #NEXT UPDATE -
@@ -22,6 +23,7 @@ import sys
 #too many all-outs
 #Last 10 overs both innings very slow even when 1-2 wickets fall (too many wickets fall)
 #weigh economy more, if eco is like 6 or 7, then bowl over a player with 1 wicket but 9 economy
+#12-17 over increase rate (1st inning)
 
 #FEATURES
 #Commentary
@@ -64,7 +66,10 @@ innings2Bowltracker = None
 innings1Log = []
 innings2Log = []
 
+tossMsg = None
+
 def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch, team1, team2):
+    global tossMsg
     battingLikely =  0.45
     if(secondInnDew):
           battingLikely = battingLikely - random.uniform(0.09, 0.2)
@@ -83,18 +88,22 @@ def doToss(pace, spin, outfield, secondInnDew, pitchDetoriate, typeOfPitch, team
         outcome = random.uniform(0, 1)
         if(outcome > battingLikely):
             print(team1, "won the toss and chose to field")
+            tossMsg = team1 + " won the toss and chose to field"
             return(1)
         else:
             print(team1, "won the toss and chose to bat")
+            tossMsg = team1 + " won the toss and chose to bat"
             return(0)
 
     else:
         outcome = random.uniform(0, 1)
         if(outcome > battingLikely):
             print(team2, "won the toss and chose to field")
+            tossMsg = team2 + " won the toss and chose to bat"
             return(0)
         else:
             print(team2, "won the toss and chose to bat")
+            tossMsg = team2 + " won the toss and chose to field"
             return(1)
 
 
@@ -2172,8 +2181,9 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group"):
     sys.stdout = open(f"scores/{team_one_inp}v{team_two_inp}_{switch}.txt", "w")
 
     # f = open("matches/csk_v_rr.txt", "r")
-    f1 = open(f"teams/{team_one_inp}.txt", "r")
-    f2 = open(f"teams/{team_two_inp}.txt", "r")
+    with open('teams/teams.json') as fl:
+        dataFile = json.load(fl)
+
     team1 = None
     team2 = None
     venue = None
@@ -2198,41 +2208,11 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group"):
     team2Info = []
 
     # spin, pace factor -> 0.0 - 1.0
-    for l in f1:
-        l = l.replace("\n", "")
-        if("XVENUE" in l):
-            venue = l.split("-")[1]
-            # print(venue)
-
-        elif("XTEAM" in l):
-            # if(team1 == None):
-            team1 = l.split("-")[1]
-            # else:
-                # team2 = l.split("-")[1]
-
-        elif(l != ''):
-            # if(team2 == None):
-            team1Players.append(l)
-            # else:
-                # team2Players.append(l)
-
-    for l in f2:
-        l = l.replace("\n", "")
-        if("XVENUE" in l):
-            venue = l.split("-")[1]
-            # print(venue)
-
-        elif("XTEAM" in l):
-            # if(team1 == None):
-            team2 = l.split("-")[1]
-            # else:
-                # team2 = l.split("-")[1]
-
-        elif(l != ''):
-            # if(team2 == None):
-            team2Players.append(l)
-            # else:
-                # team2Players.append(l)
+    team1Players = dataFile[team_one_inp]
+    team2Players = dataFile[team_two_inp]
+    team1 = team_one_inp
+    team2 = team_two_inp
+    print(team1Players)
 
     for player in team1Players:
         obj = accessJSON.getPlayerInfo(player)
@@ -2269,7 +2249,7 @@ def game(manual=True, sentTeamOne=None, sentTeamTwo=None, switch="group"):
             "innings1Runs": innings1Runs, "innings2Runs": innings2Runs, "winMsg": winMsg, "innings1Battracker": innings1Battracker,
             "innings2Battracker": innings2Battracker, "innings1Bowltracker": innings1Bowltracker, "innings2Bowltracker": innings2Bowltracker,
             "innings1BatTeam": getBatting()[2],"innings2BatTeam": getBatting()[3], "winner": winner, "innings1Log": innings1Log,
-            "innings2Log": innings2Log }
+            "innings2Log": innings2Log, "tossMsg": tossMsg }
 
 
 
