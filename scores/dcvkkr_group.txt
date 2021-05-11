@@ -1,333 +1,155 @@
-kkr won the toss and chose to bat
-0.1 Kagiso Rabada to Rahul Tripathi 1 Score: 1/0
-0.2 Kagiso Rabada to Nitish Rana 0 Score: 1/0
-0.3 Kagiso Rabada to Nitish Rana 2 Score: 3/0
-0.4 Kagiso Rabada to Nitish Rana 4 Score: 7/0
-0.5 Kagiso Rabada to Nitish Rana 1 Score: 8/0
-0.6 Kagiso Rabada to Rahul Tripathi 2 Score: 10/0
-1.1 Ravichandran Ashwin to Nitish Rana 1 Score: 11/0
-1.2 Ravichandran Ashwin to Rahul Tripathi 2 Score: 13/0
-1.3 Ravichandran Ashwin to Rahul Tripathi 0 Score: 13/0
-1.4 Ravichandran Ashwin to Rahul Tripathi 0 Score: 13/0
-1.5 Ravichandran Ashwin to Rahul Tripathi 0 Score: 13/0
-1.6 Ravichandran Ashwin to Rahul Tripathi 1 Score: 14/0
-2.1 Kagiso Rabada to Rahul Tripathi 4 Score: 18/0
-2.2 Kagiso Rabada to Rahul Tripathi 1 Score: 19/0
-2.3 Kagiso Rabada to Nitish Rana 0 Score: 19/0
-2.4 Kagiso Rabada to Nitish Rana Wide Score: 20/0
-2.5 Kagiso Rabada to Nitish Rana 4 Score: 24/0
-2.6 Kagiso Rabada to Nitish Rana 4 Score: 28/0
-2.7 Kagiso Rabada to Nitish Rana 4 Score: 32/0
-3.1 Ravichandran Ashwin to Rahul Tripathi 1 Score: 33/0
-3.2 Ravichandran Ashwin to Nitish Rana 0 Score: 33/0
-3.3 Ravichandran Ashwin to Nitish Rana 1 Score: 34/0
-3.4 Ravichandran Ashwin to Rahul Tripathi 0 Score: 34/0
-3.5 Ravichandran Ashwin to Rahul Tripathi 1 Score: 35/0
-3.6 Ravichandran Ashwin to Nitish Rana 0 Score: 35/0
-4.1 Axar Patel to Rahul Tripathi 4 Score: 39/0
-4.2 Axar Patel to Rahul Tripathi 0 Score: 39/0
-4.3 Axar Patel to Rahul Tripathi 0 Score: 39/0
-4.4 Axar Patel to Rahul Tripathi 0 Score: 39/0
-4.5 Axar Patel to Rahul Tripathi 4 Score: 43/0
-4.6 Axar Patel to Rahul Tripathi 2 Score: 45/0
-5.1 Avesh Khan to Nitish Rana 1 Score: 46/0
-5.2 Avesh Khan to Rahul Tripathi 2 Score: 48/0
-5.3 Avesh Khan to Rahul Tripathi 0 Score: 48/0
-5.4 Avesh Khan to Rahul Tripathi 6 Score: 54/0
-5.5 Avesh Khan to Rahul Tripathi 4 Score: 58/0
-5.6 Avesh Khan to Rahul Tripathi 0 Score: 58/0
-6.1 Axar Patel to Nitish Rana 0 Score: 58/0
-6.2 Axar Patel to Nitish Rana 1 Score: 59/0
-6.3 Axar Patel to Rahul Tripathi 2 Score: 61/0
-6.4 Axar Patel to Rahul Tripathi 0 Score: 61/0
-6.5 Axar Patel to Rahul Tripathi 4 Score: 65/0
-6.6 Axar Patel to Rahul Tripathi 1 Score: 66/0
-7.1 Avesh Khan to Rahul Tripathi 6 Score: 72/0
-7.2 Avesh Khan to Rahul Tripathi 0 Score: 72/0
-7.3 Avesh Khan to Rahul Tripathi 4 Score: 76/0
-7.4 Avesh Khan to Rahul Tripathi 0 Score: 76/0
-7.5 Avesh Khan to Rahul Tripathi 1 Score: 77/0
-7.6 Avesh Khan to Nitish Rana 6 Score: 83/0
-8.1 Axar Patel to Rahul Tripathi 1 Score: 84/0
-8.2 Axar Patel to Nitish Rana 1 Score: 85/0
-8.3 Axar Patel to Rahul Tripathi W Score: 86/1 Run Out!
-8.4 Axar Patel to Sunil Narine 1 Score: 87/1
-8.5 Axar Patel to Nitish Rana 1 Score: 88/1
-8.6 Axar Patel to Sunil Narine 0 Score: 88/1
-9.1 Avesh Khan to Nitish Rana 1 Score: 89/1
-9.2 Avesh Khan to Sunil Narine 6 Score: 95/1
-9.3 Avesh Khan to Sunil Narine 0 Score: 95/1
-9.4 Avesh Khan to Sunil Narine 0 Score: 95/1
-9.5 Avesh Khan to Sunil Narine 1 Score: 96/1
-9.6 Avesh Khan to Nitish Rana 6 Score: 102/1
-10.1 Axar Patel to Sunil Narine 6 Score: 108/1
-10.2 Axar Patel to Sunil Narine W Score: 109/2 Run Out!
-10.3 Axar Patel to Shubman Gill 1 Score: 110/2
-10.4 Axar Patel to Nitish Rana 1 Score: 111/2
-10.5 Axar Patel to Shubman Gill 6 Score: 117/2
-10.6 Axar Patel to Shubman Gill 6 Score: 123/2
-11.1 Amit Mishra to Nitish Rana 6 Score: 129/2
-11.2 Amit Mishra to Nitish Rana W Score: 129/3 Stumped
-11.3 Amit Mishra to Eoin Morgan 1 Score: 130/3
-11.4 Amit Mishra to Shubman Gill 1 Score: 131/3
-11.5 Amit Mishra to Eoin Morgan 1 Score: 132/3
-11.6 Amit Mishra to Shubman Gill 0 Score: 132/3
-12.1 Avesh Khan to Eoin Morgan 1 Score: 133/3
-12.2 Avesh Khan to Shubman Gill 0 Score: 133/3
-12.3 Avesh Khan to Shubman Gill 1 Score: 134/3
-12.4 Avesh Khan to Eoin Morgan 4 Score: 138/3
-12.5 Avesh Khan to Eoin Morgan 0 Score: 138/3
-12.6 Avesh Khan to Eoin Morgan 0 Score: 138/3
-13.1 Amit Mishra to Shubman Gill 2 Score: 140/3
-13.2 Amit Mishra to Shubman Gill 0 Score: 140/3
-13.3 Amit Mishra to Shubman Gill Wide Score: 141/3
-13.4 Amit Mishra to Shubman Gill 1 Score: 142/3
-13.5 Amit Mishra to Eoin Morgan 1 Score: 143/3
-13.6 Amit Mishra to Shubman Gill 4 Score: 147/3
-13.7 Amit Mishra to Shubman Gill 0 Score: 147/3
-14.1 Ravichandran Ashwin to Eoin Morgan 1 Score: 148/3
-14.2 Ravichandran Ashwin to Shubman Gill 1 Score: 149/3
-14.3 Ravichandran Ashwin to Eoin Morgan 6 Score: 155/3
-14.4 Ravichandran Ashwin to Eoin Morgan 1 Score: 156/3
-14.5 Ravichandran Ashwin to Shubman Gill 0 Score: 156/3
-14.6 Ravichandran Ashwin to Shubman Gill 0 Score: 156/3
-15.1 Amit Mishra to Eoin Morgan 0 Score: 156/3
-15.2 Amit Mishra to Eoin Morgan 0 Score: 156/3
-15.3 Amit Mishra to Eoin Morgan 6 Score: 162/3
-15.4 Amit Mishra to Eoin Morgan 0 Score: 162/3
-15.5 Amit Mishra to Eoin Morgan 1 Score: 163/3
-15.6 Amit Mishra to Shubman Gill Wide Score: 164/3
-15.7 Amit Mishra to Shubman Gill 1 Score: 165/3
-16.1 Ravichandran Ashwin to Shubman Gill 0 Score: 165/3
-16.2 Ravichandran Ashwin to Shubman Gill 1 Score: 166/3
-16.3 Ravichandran Ashwin to Eoin Morgan 2 Score: 168/3
-16.4 Ravichandran Ashwin to Eoin Morgan 4 Score: 172/3
-16.5 Ravichandran Ashwin to Eoin Morgan 1 Score: 173/3
-16.6 Ravichandran Ashwin to Shubman Gill 1 Score: 174/3
-17.1 Amit Mishra to Shubman Gill 6 Score: 180/3
-17.2 Amit Mishra to Shubman Gill 0 Score: 180/3
-17.3 Amit Mishra to Shubman Gill 0 Score: 180/3
-17.4 Amit Mishra to Shubman Gill 6 Score: 186/3
-17.5 Amit Mishra to Shubman Gill 6 Score: 192/3
-17.6 Amit Mishra to Shubman Gill 4 Score: 196/3
-18.1 Kagiso Rabada to Eoin Morgan 1 Score: 197/3
-18.2 Kagiso Rabada to Shubman Gill 0 Score: 197/3
-18.3 Kagiso Rabada to Shubman Gill 6 Score: 203/3
-18.4 Kagiso Rabada to Shubman Gill 1 Score: 204/3
-18.5 Kagiso Rabada to Eoin Morgan 0 Score: 204/3
-18.6 Kagiso Rabada to Eoin Morgan 0 Score: 204/3
-19.1 Marcus Stoinis to Shubman Gill W Score: 204/4 Caught by Shimron Hetmyer
-19.2 Marcus Stoinis to Dinesh Karthik 4 Score: 208/4
-19.3 Marcus Stoinis to Dinesh Karthik 2 Score: 210/4
-19.4 Marcus Stoinis to Dinesh Karthik W Score: 210/5 Lbw
-19.5 Marcus Stoinis to Andre Russell 1 Score: 211/5
-19.6 Marcus Stoinis to Eoin Morgan W Score: 211/6 Caught by Steven Smith
-+-------------------+--------+---------+--------+---------------------------+
-| Player            |   Runs |   Balls | SR     | Out                       |
-+===================+========+=========+========+===========================+
-| N Rana            |     45 |      23 | 195.65 | stumped b A Mishra        |
-+-------------------+--------+---------+--------+---------------------------+
-| Shubman Gill      |     55 |      29 | 189.66 | c SO Hetmyer b MP Stoinis |
-+-------------------+--------+---------+--------+---------------------------+
-| RA Tripathi       |     55 |      34 | 161.76 | Not out                   |
-+-------------------+--------+---------+--------+---------------------------+
-| EJG Morgan        |     31 |      22 | 140.91 | c SPD Smith b MP Stoinis  |
-+-------------------+--------+---------+--------+---------------------------+
-| AD Russell        |      1 |       1 | 100.0  | Not out                   |
-+-------------------+--------+---------+--------+---------------------------+
-| KD Karthik        |      6 |       3 | 200.0  | lbw b MP Stoinis          |
-+-------------------+--------+---------+--------+---------------------------+
-| SP Narine         |     15 |       8 | 187.5  | Not out                   |
-+-------------------+--------+---------+--------+---------------------------+
-| PJ Cummins        |      0 |       0 | DNB    |                           |
-+-------------------+--------+---------+--------+---------------------------+
-| Shivam Mavi       |      0 |       0 | DNB    |                           |
-+-------------------+--------+---------+--------+---------------------------+
-| CV Varun          |      0 |       0 | DNB    |                           |
-+-------------------+--------+---------+--------+---------------------------+
-| M Prasidh Krishna |      0 |       0 | DNB    |                           |
-+-------------------+--------+---------+--------+---------------------------+
-+------------+--------+---------+-----------+-------+
-| Player     |   Runs |   Overs |   Wickets | Eco   |
-+============+========+=========+===========+=======+
-| PP Shaw    |      0 |       0 |         0 | NA    |
-+------------+--------+---------+-----------+-------+
-| S Dhawan   |      0 |       0 |         0 | NA    |
-+------------+--------+---------+-----------+-------+
-| SPD Smith  |      0 |       0 |         0 | NA    |
-+------------+--------+---------+-----------+-------+
-| RR Pant    |      0 |       0 |         0 | NA    |
-+------------+--------+---------+-----------+-------+
-| SO Hetmyer |      0 |       0 |         0 | NA    |
-+------------+--------+---------+-----------+-------+
-| MP Stoinis |      7 |       1 |         3 | 7.0   |
-+------------+--------+---------+-----------+-------+
-| AR Patel   |     44 |       4 |         0 | 11.0  |
-+------------+--------+---------+-----------+-------+
-| R Ashwin   |     25 |       4 |         0 | 6.25  |
-+------------+--------+---------+-----------+-------+
-| A Mishra   |     49 |       4 |         1 | 12.25 |
-+------------+--------+---------+-----------+-------+
-| K Rabada   |     36 |       3 |         0 | 12.0  |
-+------------+--------+---------+-----------+-------+
-| Avesh Khan |     50 |       4 |         0 | 12.5  |
-+------------+--------+---------+-----------+-------+
-0.1 Shivam Mavi to Prithvi Shaw Wide Score: 1/0
-0.2 Shivam Mavi to Prithvi Shaw 4 Score: 5/0
-0.3 Shivam Mavi to Prithvi Shaw 1 Score: 6/0
-0.4 Shivam Mavi to Shikhar Dhawan 0 Score: 6/0
-0.5 Shivam Mavi to Shikhar Dhawan 0 Score: 6/0
-0.6 Shivam Mavi to Shikhar Dhawan 4 Score: 10/0
-0.7 Shivam Mavi to Shikhar Dhawan 4 Score: 14/0
-1.1 Pat Cummins to Prithvi Shaw 0 Score: 14/0
-1.2 Pat Cummins to Prithvi Shaw 0 Score: 14/0
-1.3 Pat Cummins to Prithvi Shaw 3 Score: 17/0
-1.4 Pat Cummins to Shikhar Dhawan 4 Score: 21/0
-1.5 Pat Cummins to Shikhar Dhawan 1 Score: 22/0
-1.6 Pat Cummins to Prithvi Shaw 1 Score: 23/0
-2.1 Shivam Mavi to Prithvi Shaw 1 Score: 24/0
-2.2 Shivam Mavi to Shikhar Dhawan 1 Score: 25/0
-2.3 Shivam Mavi to Prithvi Shaw W Score: 25/1 Bowled
-2.4 Shivam Mavi to Steven Smith 0 Score: 25/1
-2.5 Shivam Mavi to Steven Smith 0 Score: 25/1
-2.6 Shivam Mavi to Steven Smith Wide Score: 26/1
-2.7 Shivam Mavi to Steven Smith 0 Score: 26/1
-3.1 Pat Cummins to Shikhar Dhawan 0 Score: 26/1
-3.2 Pat Cummins to Shikhar Dhawan 2 Score: 28/1
-3.3 Pat Cummins to Shikhar Dhawan 4 Score: 32/1
-3.4 Pat Cummins to Shikhar Dhawan 0 Score: 32/1
-3.5 Pat Cummins to Shikhar Dhawan 1 Score: 33/1
-3.6 Pat Cummins to Steven Smith 0 Score: 33/1
-4.1 Prasidh Krishna to Shikhar Dhawan 0 Score: 33/1
-4.2 Prasidh Krishna to Shikhar Dhawan 0 Score: 33/1
-4.3 Prasidh Krishna to Shikhar Dhawan 0 Score: 33/1
-4.4 Prasidh Krishna to Shikhar Dhawan Wide Score: 34/1
-4.5 Prasidh Krishna to Shikhar Dhawan 6 Score: 40/1
-4.6 Prasidh Krishna to Shikhar Dhawan 0 Score: 40/1
-4.7 Prasidh Krishna to Shikhar Dhawan 4 Score: 44/1
-5.1 Sunil Narine to Steven Smith Wide Score: 45/1
-5.2 Sunil Narine to Steven Smith 1 Score: 46/1
-5.3 Sunil Narine to Shikhar Dhawan 0 Score: 46/1
-5.4 Sunil Narine to Shikhar Dhawan 0 Score: 46/1
-5.5 Sunil Narine to Shikhar Dhawan 4 Score: 50/1
-5.6 Sunil Narine to Shikhar Dhawan 4 Score: 54/1
-5.7 Sunil Narine to Shikhar Dhawan 1 Score: 55/1
-6.1 Prasidh Krishna to Shikhar Dhawan 1 Score: 56/1
-6.2 Prasidh Krishna to Steven Smith 0 Score: 56/1
-6.3 Prasidh Krishna to Steven Smith 1 Score: 57/1
-6.4 Prasidh Krishna to Shikhar Dhawan 1 Score: 58/1
-6.5 Prasidh Krishna to Steven Smith 0 Score: 58/1
-6.6 Prasidh Krishna to Steven Smith 0 Score: 58/1
-7.1 Sunil Narine to Shikhar Dhawan 1 Score: 59/1
-7.2 Sunil Narine to Steven Smith 0 Score: 59/1
-7.3 Sunil Narine to Steven Smith 1 Score: 60/1
-7.4 Sunil Narine to Shikhar Dhawan 0 Score: 60/1
-7.5 Sunil Narine to Shikhar Dhawan 0 Score: 60/1
-7.6 Sunil Narine to Shikhar Dhawan 0 Score: 60/1
-8.1 Prasidh Krishna to Steven Smith 0 Score: 60/1
-8.2 Prasidh Krishna to Steven Smith 0 Score: 60/1
-8.3 Prasidh Krishna to Steven Smith 1 Score: 61/1
-8.4 Prasidh Krishna to Shikhar Dhawan 0 Score: 61/1
-8.5 Prasidh Krishna to Shikhar Dhawan 1 Score: 62/1
-8.6 Prasidh Krishna to Steven Smith W Score: 62/2 Caught by Eoin Morgan
-9.1 Sunil Narine to Shikhar Dhawan 1 Score: 63/2
-9.2 Sunil Narine to Rishabh Pant 1 Score: 64/2
-9.3 Sunil Narine to Shikhar Dhawan 1 Score: 65/2
-9.4 Sunil Narine to Rishabh Pant 0 Score: 65/2
-9.5 Sunil Narine to Rishabh Pant 0 Score: 65/2
-9.6 Sunil Narine to Rishabh Pant 6 Score: 71/2
-10.1 Varun Chakravarthy to Shikhar Dhawan 0 Score: 71/2
-10.2 Varun Chakravarthy to Shikhar Dhawan 1 Score: 72/2
-10.3 Varun Chakravarthy to Rishabh Pant 1 Score: 73/2
-10.4 Varun Chakravarthy to Shikhar Dhawan 1 Score: 74/2
-10.5 Varun Chakravarthy to Rishabh Pant 1 Score: 75/2
-10.6 Varun Chakravarthy to Shikhar Dhawan 0 Score: 75/2
-11.1 Sunil Narine to Rishabh Pant 0 Score: 75/2
-11.2 Sunil Narine to Rishabh Pant 1 Score: 76/2
-11.3 Sunil Narine to Shikhar Dhawan 1 Score: 77/2
-11.4 Sunil Narine to Rishabh Pant 1 Score: 78/2
-11.5 Sunil Narine to Shikhar Dhawan 1 Score: 79/2
-11.6 Sunil Narine to Rishabh Pant 1 Score: 80/2
-12.1 Varun Chakravarthy to Rishabh Pant 0 Score: 80/2
-12.2 Varun Chakravarthy to Rishabh Pant 0 Score: 80/2
-12.3 Varun Chakravarthy to Rishabh Pant 6 Score: 86/2
-12.4 Varun Chakravarthy to Rishabh Pant 4 Score: 90/2
-12.5 Varun Chakravarthy to Rishabh Pant 0 Score: 90/2
-12.6 Varun Chakravarthy to Rishabh Pant 0 Score: 90/2
-13.1 Pat Cummins to Shikhar Dhawan 0 Score: 90/2
-13.2 Pat Cummins to Shikhar Dhawan 1 Score: 91/2
-13.3 Pat Cummins to Rishabh Pant 1 Score: 92/2
-13.4 Pat Cummins to Shikhar Dhawan W Score: 92/3 Caught by Prasidh Krishna
-13.5 Pat Cummins to Marcus Stoinis 0 Score: 92/3
-13.6 Pat Cummins to Marcus Stoinis 0 Score: 92/3
-14.1 Varun Chakravarthy to Rishabh Pant 0 Score: 92/3
-14.2 Varun Chakravarthy to Rishabh Pant 6 Score: 98/3
-14.3 Varun Chakravarthy to Rishabh Pant 1 Score: 99/3
-14.4 Varun Chakravarthy to Marcus Stoinis 0 Score: 99/3
-14.5 Varun Chakravarthy to Marcus Stoinis 6 Score: 105/3
-14.6 Varun Chakravarthy to Marcus Stoinis Wide Score: 106/3
-14.7 Varun Chakravarthy to Marcus Stoinis 6 Score: 112/3
-15.1 Andre Russell to Rishabh Pant 4 Score: 116/3
-15.2 Andre Russell to Rishabh Pant 6 Score: 122/3
-15.3 Andre Russell to Rishabh Pant W Score: 122/4 Caught by Dinesh Karthik
-15.4 Andre Russell to Shimron Hetmyer 0 Score: 122/4
-15.5 Andre Russell to Shimron Hetmyer 4 Score: 126/4
-15.6 Andre Russell to Shimron Hetmyer 6 Score: 132/4
-16.1 Varun Chakravarthy to Marcus Stoinis 1 Score: 133/4
-16.2 Varun Chakravarthy to Shimron Hetmyer 0 Score: 133/4
-16.3 Varun Chakravarthy to Shimron Hetmyer 6 Score: 139/4
-16.4 Varun Chakravarthy to Shimron Hetmyer W Score: 139/5 Caught by Varun Chakravarthy
-16.5 Varun Chakravarthy to Axar Patel 0 Score: 139/5
-16.6 Varun Chakravarthy to Axar Patel 1 Score: 140/5
-17.1 Andre Russell to Axar Patel 1 Score: 141/5
-17.2 Andre Russell to Marcus Stoinis 1 Score: 142/5
-17.3 Andre Russell to Axar Patel 0 Score: 142/5
-17.4 Andre Russell to Axar Patel 4 Score: 146/5
-17.5 Andre Russell to Axar Patel 6 Score: 152/5
-17.6 Andre Russell to Axar Patel 4 Score: 156/5
-18.1 Prasidh Krishna to Marcus Stoinis 4 Score: 160/5
-18.2 Prasidh Krishna to Marcus Stoinis 1 Score: 161/5
-18.3 Prasidh Krishna to Axar Patel 6 Score: 167/5
-18.4 Prasidh Krishna to Axar Patel Wide Score: 168/5
-18.5 Prasidh Krishna to Axar Patel 0 Score: 168/5
-18.6 Prasidh Krishna to Axar Patel 1 Score: 169/5
-18.7 Prasidh Krishna to Marcus Stoinis 4 Score: 173/5
-19.1 Andre Russell to Axar Patel 4 Score: 177/5
-19.2 Andre Russell to Axar Patel 1 Score: 178/5
-19.3 Andre Russell to Marcus Stoinis 4 Score: 182/5
-19.4 Andre Russell to Marcus Stoinis 0 Score: 182/5
-19.5 Andre Russell to Marcus Stoinis 2 Score: 184/5
-19.6 Andre Russell to Marcus Stoinis 1 Score: 185/5
-kkr won by 26 runs
-+------------+--------+---------+--------+----------------------------------+
-| Player     |   Runs |   Balls | SR     | Out                              |
-+============+========+=========+========+==================================+
-| PP Shaw    |     10 |       8 | 125.0  | bowled b Shivam Mavi             |
-+------------+--------+---------+--------+----------------------------------+
-| S Dhawan   |     51 |      42 | 121.43 | c M Prasidh Krishna b PJ Cummins |
-+------------+--------+---------+--------+----------------------------------+
-| SPD Smith  |      4 |      15 | 26.67  | c EJG Morgan b M Prasidh Krishna |
-+------------+--------+---------+--------+----------------------------------+
-| RR Pant    |     40 |      23 | 173.91 | c KD Karthik b AD Russell        |
-+------------+--------+---------+--------+----------------------------------+
-| SO Hetmyer |     16 |       6 | 266.67 | c CV Varun b CV Varun            |
-+------------+--------+---------+--------+----------------------------------+
-| MP Stoinis |     30 |      14 | 214.29 | Not out                          |
-+------------+--------+---------+--------+----------------------------------+
-| AR Patel   |     28 |      12 | 233.33 | Not out                          |
-+------------+--------+---------+--------+----------------------------------+
-| R Ashwin   |      0 |       0 | DNB    |                                  |
-+------------+--------+---------+--------+----------------------------------+
-| A Mishra   |      0 |       0 | DNB    |                                  |
-+------------+--------+---------+--------+----------------------------------+
-| K Rabada   |      0 |       0 | DNB    |                                  |
-+------------+--------+---------+--------+----------------------------------+
-| Avesh Khan |      0 |       0 | DNB    |                                  |
-+------------+--------+---------+--------+----------------------------------+
+kkr won the toss and chose to field
+0.1 Shivam Mavi to Prithvi Shaw 0 Score: 0/0
+0.2 Shivam Mavi to Prithvi Shaw 2 Score: 2/0
+0.3 Shivam Mavi to Prithvi Shaw 0 Score: 2/0
+0.4 Shivam Mavi to Prithvi Shaw 0 Score: 2/0
+0.5 Shivam Mavi to Prithvi Shaw 1 Score: 3/0
+0.6 Shivam Mavi to Shikhar Dhawan 4 Score: 7/0
+1.1 Pat Cummins to Prithvi Shaw 0 Score: 7/0
+1.2 Pat Cummins to Prithvi Shaw 0 Score: 7/0
+1.3 Pat Cummins to Prithvi Shaw 4 Score: 11/0
+1.4 Pat Cummins to Prithvi Shaw 0 Score: 11/0
+1.5 Pat Cummins to Prithvi Shaw 4 Score: 15/0
+1.6 Pat Cummins to Prithvi Shaw 2 Score: 17/0
+2.1 Shivam Mavi to Shikhar Dhawan 0 Score: 17/0
+2.2 Shivam Mavi to Shikhar Dhawan 0 Score: 17/0
+2.3 Shivam Mavi to Shikhar Dhawan 1 Score: 18/0
+2.4 Shivam Mavi to Prithvi Shaw 0 Score: 18/0
+2.5 Shivam Mavi to Prithvi Shaw 4 Score: 22/0
+2.6 Shivam Mavi to Prithvi Shaw 4 Score: 26/0
+3.1 Pat Cummins to Shikhar Dhawan 2 Score: 28/0
+3.2 Pat Cummins to Shikhar Dhawan 0 Score: 28/0
+3.3 Pat Cummins to Shikhar Dhawan 0 Score: 28/0
+3.4 Pat Cummins to Shikhar Dhawan 0 Score: 28/0
+3.5 Pat Cummins to Shikhar Dhawan 4 Score: 32/0
+3.6 Pat Cummins to Shikhar Dhawan W Score: 32/1 Bowled
+4.1 Varun Chakravarthy to Prithvi Shaw 0 Score: 32/1
+4.2 Varun Chakravarthy to Prithvi Shaw W Score: 32/2 Bowled
+4.3 Varun Chakravarthy to Steven Smith 2 Score: 34/2
+4.4 Varun Chakravarthy to Steven Smith 4 Score: 38/2
+4.5 Varun Chakravarthy to Steven Smith 2 Score: 40/2
+4.6 Varun Chakravarthy to Steven Smith 1 Score: 41/2
+5.1 Prasidh Krishna to Steven Smith 0 Score: 41/2
+5.2 Prasidh Krishna to Steven Smith Wide Score: 42/2
+5.3 Prasidh Krishna to Steven Smith 0 Score: 42/2
+5.4 Prasidh Krishna to Steven Smith 0 Score: 42/2
+5.5 Prasidh Krishna to Steven Smith 2 Score: 44/2
+5.6 Prasidh Krishna to Steven Smith 0 Score: 44/2
+5.7 Prasidh Krishna to Steven Smith 1 Score: 45/2
+6.1 Varun Chakravarthy to Steven Smith 0 Score: 45/2
+6.2 Varun Chakravarthy to Steven Smith 0 Score: 45/2
+6.3 Varun Chakravarthy to Steven Smith 2 Score: 47/2
+6.4 Varun Chakravarthy to Steven Smith 1 Score: 48/2
+6.5 Varun Chakravarthy to Steven Smith 1 Score: 49/2
+6.6 Varun Chakravarthy to Steven Smith 4 Score: 53/2
+7.1 Prasidh Krishna to Steven Smith 0 Score: 53/2
+7.2 Prasidh Krishna to Steven Smith 4 Score: 57/2
+7.3 Prasidh Krishna to Steven Smith 2 Score: 59/2
+7.4 Prasidh Krishna to Steven Smith 1 Score: 60/2
+7.5 Prasidh Krishna to Steven Smith 4 Score: 64/2
+7.6 Prasidh Krishna to Steven Smith 4 Score: 68/2
+8.1 Varun Chakravarthy to Steven Smith 1 Score: 69/2
+8.2 Varun Chakravarthy to Steven Smith 2 Score: 71/2
+8.3 Varun Chakravarthy to Steven Smith 1 Score: 72/2
+8.4 Varun Chakravarthy to Steven Smith 1 Score: 73/2
+8.5 Varun Chakravarthy to Steven Smith 2 Score: 75/2
+8.6 Varun Chakravarthy to Steven Smith 6 Score: 81/2
+9.1 Prasidh Krishna to Steven Smith 2 Score: 83/2
+9.2 Prasidh Krishna to Steven Smith Wide Score: 84/2
+9.3 Prasidh Krishna to Steven Smith 1 Score: 85/2
+9.4 Prasidh Krishna to Steven Smith 0 Score: 85/2
+9.5 Prasidh Krishna to Steven Smith 1 Score: 86/2
+9.6 Prasidh Krishna to Steven Smith 4 Score: 90/2
+9.7 Prasidh Krishna to Steven Smith 4 Score: 94/2
+10.1 Varun Chakravarthy to Steven Smith 1 Score: 95/2
+10.2 Varun Chakravarthy to Steven Smith 6 Score: 101/2
+10.3 Varun Chakravarthy to Steven Smith 1 Score: 102/2
+10.4 Varun Chakravarthy to Steven Smith 0 Score: 102/2
+10.5 Varun Chakravarthy to Steven Smith 6 Score: 108/2
+10.6 Varun Chakravarthy to Steven Smith 4 Score: 112/2
+11.1 Sunil Narine to Steven Smith 0 Score: 112/2
+11.2 Sunil Narine to Steven Smith 1 Score: 113/2
+11.3 Sunil Narine to Steven Smith 6 Score: 119/2
+11.4 Sunil Narine to Steven Smith 0 Score: 119/2
+11.5 Sunil Narine to Steven Smith 1 Score: 120/2
+11.6 Sunil Narine to Steven Smith 1 Score: 121/2
+12.1 Pat Cummins to Steven Smith 4 Score: 125/2
+12.2 Pat Cummins to Steven Smith 6 Score: 131/2
+12.3 Pat Cummins to Steven Smith 6 Score: 137/2
+12.4 Pat Cummins to Steven Smith 6 Score: 143/2
+12.5 Pat Cummins to Steven Smith 1 Score: 144/2
+12.6 Pat Cummins to Steven Smith 0 Score: 144/2
+13.1 Sunil Narine to Steven Smith 1 Score: 145/2
+13.2 Sunil Narine to Steven Smith 0 Score: 145/2
+13.3 Sunil Narine to Steven Smith 1 Score: 146/2
+13.4 Sunil Narine to Steven Smith 4 Score: 150/2
+13.5 Sunil Narine to Steven Smith 0 Score: 150/2
+13.6 Sunil Narine to Steven Smith 4 Score: 154/2
+14.1 Nitish Rana to Steven Smith W Score: 154/3 Caught by Prasidh Krishna
+14.2 Nitish Rana to Rishabh Pant 4 Score: 158/3
+14.3 Nitish Rana to Rishabh Pant 0 Score: 158/3
+14.4 Nitish Rana to Rishabh Pant 0 Score: 158/3
+14.5 Nitish Rana to Rishabh Pant 1 Score: 159/3
+14.6 Nitish Rana to Steven Smith 0 Score: 159/3
+15.1 Sunil Narine to Rishabh Pant 4 Score: 163/3
+15.2 Sunil Narine to Rishabh Pant 0 Score: 163/3
+15.3 Sunil Narine to Rishabh Pant 1 Score: 164/3
+15.4 Sunil Narine to Steven Smith 6 Score: 170/3
+15.5 Sunil Narine to Steven Smith 1 Score: 171/3
+15.6 Sunil Narine to Rishabh Pant 0 Score: 171/3
+16.1 Nitish Rana to Steven Smith 0 Score: 171/3
+16.2 Nitish Rana to Steven Smith 0 Score: 171/3
+16.3 Nitish Rana to Steven Smith 0 Score: 171/3
+16.4 Nitish Rana to Steven Smith W Score: 171/4 Lbw
+16.5 Nitish Rana to Marcus Stoinis 4 Score: 175/4
+16.6 Nitish Rana to Marcus Stoinis 4 Score: 179/4
+17.1 Prasidh Krishna to Rishabh Pant 0 Score: 179/4
+17.2 Prasidh Krishna to Rishabh Pant 1 Score: 180/4
+17.3 Prasidh Krishna to Marcus Stoinis 6 Score: 186/4
+17.4 Prasidh Krishna to Marcus Stoinis 4 Score: 190/4
+17.5 Prasidh Krishna to Marcus Stoinis W Score: 190/5 Caught by Shivam Mavi
+17.6 Prasidh Krishna to Shimron Hetmyer 0 Score: 190/5
+18.1 Pat Cummins to Rishabh Pant 1 Score: 191/5
+18.2 Pat Cummins to Shimron Hetmyer 6 Score: 197/5
+18.3 Pat Cummins to Shimron Hetmyer 6 Score: 203/5
+18.4 Pat Cummins to Shimron Hetmyer 0 Score: 203/5
+18.5 Pat Cummins to Shimron Hetmyer 1 Score: 204/5
+18.6 Pat Cummins to Rishabh Pant 0 Score: 204/5
+19.1 Andre Russell to Shimron Hetmyer 4 Score: 208/5
+19.2 Andre Russell to Shimron Hetmyer 1 Score: 209/5
+19.3 Andre Russell to Rishabh Pant 0 Score: 209/5
+19.4 Andre Russell to Rishabh Pant 0 Score: 209/5
+19.5 Andre Russell to Rishabh Pant 1 Score: 210/5
+19.6 Andre Russell to Shimron Hetmyer 6 Score: 216/5
++------------+--------+---------+--------+-----------------------------------+
+| Player     |   Runs |   Balls | SR     | Out                               |
++============+========+=========+========+===================================+
+| PP Shaw    |     21 |      16 | 131.25 | bowled b CV Varun                 |
++------------+--------+---------+--------+-----------------------------------+
+| S Dhawan   |     11 |      10 | 110.0  | bowled b PJ Cummins               |
++------------+--------+---------+--------+-----------------------------------+
+| SPD Smith  |    127 |      66 | 192.42 | lbw b N Rana                      |
++------------+--------+---------+--------+-----------------------------------+
+| RR Pant    |     13 |      15 | 86.67  | Not out                           |
++------------+--------+---------+--------+-----------------------------------+
+| SO Hetmyer |     24 |       8 | 300.0  | Not out                           |
++------------+--------+---------+--------+-----------------------------------+
+| MP Stoinis |     18 |       5 | 360.0  | c Shivam Mavi b M Prasidh Krishna |
++------------+--------+---------+--------+-----------------------------------+
+| AR Patel   |      0 |       0 | DNB    |                                   |
++------------+--------+---------+--------+-----------------------------------+
+| R Ashwin   |      0 |       0 | DNB    |                                   |
++------------+--------+---------+--------+-----------------------------------+
+| A Mishra   |      0 |       0 | DNB    |                                   |
++------------+--------+---------+--------+-----------------------------------+
+| K Rabada   |      0 |       0 | DNB    |                                   |
++------------+--------+---------+--------+-----------------------------------+
+| Avesh Khan |      0 |       0 | DNB    |                                   |
++------------+--------+---------+--------+-----------------------------------+
 +-------------------+--------+---------+-----------+-------+
 | Player            |   Runs |   Overs |   Wickets | Eco   |
 +===================+========+=========+===========+=======+
-| N Rana            |      0 |       0 |         0 | NA    |
+| N Rana            |     13 |       2 |         2 | 6.5   |
 +-------------------+--------+---------+-----------+-------+
 | Shubman Gill      |      0 |       0 |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
@@ -335,17 +157,193 @@ kkr won by 26 runs
 +-------------------+--------+---------+-----------+-------+
 | EJG Morgan        |      0 |       0 |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| AD Russell        |     48 |       3 |         1 | 16.0  |
+| AD Russell        |     12 |       1 |         0 | 12.0  |
 +-------------------+--------+---------+-----------+-------+
 | KD Karthik        |      0 |       0 |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| SP Narine         |     27 |       4 |         0 | 6.75  |
+| SP Narine         |     31 |       3 |         0 | 10.33 |
 +-------------------+--------+---------+-----------+-------+
-| PJ Cummins        |     18 |       3 |         1 | 6.0   |
+| PJ Cummins        |     53 |       4 |         1 | 13.25 |
 +-------------------+--------+---------+-----------+-------+
-| Shivam Mavi       |     17 |       2 |         1 | 8.5   |
+| Shivam Mavi       |     16 |       2 |         0 | 8.0   |
 +-------------------+--------+---------+-----------+-------+
-| CV Varun          |     42 |       4 |         1 | 10.5  |
+| CV Varun          |     48 |       4 |         1 | 12.0  |
 +-------------------+--------+---------+-----------+-------+
-| M Prasidh Krishna |     33 |       4 |         1 | 8.25  |
+| M Prasidh Krishna |     43 |       4 |         1 | 10.75 |
 +-------------------+--------+---------+-----------+-------+
+0.1 Kagiso Rabada to Rahul Tripathi 2 Score: 2/0
+0.2 Kagiso Rabada to Rahul Tripathi 0 Score: 2/0
+0.3 Kagiso Rabada to Rahul Tripathi 0 Score: 2/0
+0.4 Kagiso Rabada to Rahul Tripathi 0 Score: 2/0
+0.5 Kagiso Rabada to Rahul Tripathi 0 Score: 2/0
+0.6 Kagiso Rabada to Rahul Tripathi 4 Score: 6/0
+1.1 Ravichandran Ashwin to Nitish Rana 0 Score: 6/0
+1.2 Ravichandran Ashwin to Nitish Rana 0 Score: 6/0
+1.3 Ravichandran Ashwin to Nitish Rana 1 Score: 7/0
+1.4 Ravichandran Ashwin to Rahul Tripathi 1 Score: 8/0
+1.5 Ravichandran Ashwin to Nitish Rana 0 Score: 8/0
+1.6 Ravichandran Ashwin to Nitish Rana 1 Score: 9/0
+2.1 Kagiso Rabada to Nitish Rana 4 Score: 13/0
+2.2 Kagiso Rabada to Nitish Rana 1 Score: 14/0
+2.3 Kagiso Rabada to Rahul Tripathi 0 Score: 14/0
+2.4 Kagiso Rabada to Rahul Tripathi 4 Score: 18/0
+2.5 Kagiso Rabada to Rahul Tripathi 1 Score: 19/0
+2.6 Kagiso Rabada to Nitish Rana 3 Score: 22/0
+3.1 Ravichandran Ashwin to Nitish Rana 1 Score: 23/0
+3.2 Ravichandran Ashwin to Rahul Tripathi 6 Score: 29/0
+3.3 Ravichandran Ashwin to Rahul Tripathi 1 Score: 30/0
+3.4 Ravichandran Ashwin to Nitish Rana 1 Score: 31/0
+3.5 Ravichandran Ashwin to Rahul Tripathi 2 Score: 33/0
+3.6 Ravichandran Ashwin to Rahul Tripathi 1 Score: 34/0
+4.1 Axar Patel to Rahul Tripathi 1 Score: 35/0
+4.2 Axar Patel to Nitish Rana 4 Score: 39/0
+4.3 Axar Patel to Nitish Rana 0 Score: 39/0
+4.4 Axar Patel to Nitish Rana 0 Score: 39/0
+4.5 Axar Patel to Nitish Rana 0 Score: 39/0
+4.6 Axar Patel to Nitish Rana 0 Score: 39/0
+5.1 Avesh Khan to Rahul Tripathi 0 Score: 39/0
+5.2 Avesh Khan to Rahul Tripathi 0 Score: 39/0
+5.3 Avesh Khan to Rahul Tripathi 0 Score: 39/0
+5.4 Avesh Khan to Rahul Tripathi 1 Score: 40/0
+5.5 Avesh Khan to Nitish Rana 4 Score: 44/0
+5.6 Avesh Khan to Nitish Rana 1 Score: 45/0
+6.1 Axar Patel to Nitish Rana 6 Score: 51/0
+6.2 Axar Patel to Nitish Rana W Score: 51/1 Lbw
+6.3 Axar Patel to Sunil Narine 0 Score: 51/1
+6.4 Axar Patel to Sunil Narine 1 Score: 52/1
+6.5 Axar Patel to Rahul Tripathi 0 Score: 52/1
+6.6 Axar Patel to Rahul Tripathi 0 Score: 52/1
+7.1 Avesh Khan to Sunil Narine 0 Score: 52/1
+7.2 Avesh Khan to Sunil Narine 4 Score: 56/1
+7.3 Avesh Khan to Sunil Narine 1 Score: 57/1
+7.4 Avesh Khan to Rahul Tripathi 0 Score: 57/1
+7.5 Avesh Khan to Rahul Tripathi 4 Score: 61/1
+7.6 Avesh Khan to Rahul Tripathi 6 Score: 67/1
+8.1 Axar Patel to Sunil Narine 4 Score: 71/1
+8.2 Axar Patel to Sunil Narine 1 Score: 72/1
+8.3 Axar Patel to Rahul Tripathi 1 Score: 73/1
+8.4 Axar Patel to Sunil Narine 1 Score: 74/1
+8.5 Axar Patel to Rahul Tripathi W Score: 74/2 Caught by Avesh Khan
+8.6 Axar Patel to Shubman Gill 6 Score: 80/2
+9.1 Avesh Khan to Sunil Narine 4 Score: 84/2
+9.2 Avesh Khan to Sunil Narine 0 Score: 84/2
+9.3 Avesh Khan to Sunil Narine 0 Score: 84/2
+9.4 Avesh Khan to Sunil Narine 4 Score: 88/2
+9.5 Avesh Khan to Sunil Narine 0 Score: 88/2
+9.6 Avesh Khan to Sunil Narine 1 Score: 89/2
+10.1 Axar Patel to Sunil Narine 0 Score: 89/2
+10.2 Axar Patel to Sunil Narine 4 Score: 93/2
+10.3 Axar Patel to Sunil Narine 1 Score: 94/2
+10.4 Axar Patel to Shubman Gill 0 Score: 94/2
+10.5 Axar Patel to Shubman Gill 1 Score: 95/2
+10.6 Axar Patel to Sunil Narine 1 Score: 96/2
+10.6 Axar Patel to Sunil Narine 4 Score: 100/2
+11.1 Marcus Stoinis to Sunil Narine 4 Score: 104/2
+11.2 Marcus Stoinis to Sunil Narine 0 Score: 104/2
+11.3 Marcus Stoinis to Sunil Narine 0 Score: 104/2
+11.4 Marcus Stoinis to Sunil Narine W Score: 104/3 Caught by Amit Mishra
+11.5 Marcus Stoinis to Eoin Morgan 0 Score: 104/3
+11.6 Marcus Stoinis to Eoin Morgan 1 Score: 105/3
+12.1 Amit Mishra to Eoin Morgan 1 Score: 106/3
+12.2 Amit Mishra to Shubman Gill 1 Score: 107/3
+12.3 Amit Mishra to Eoin Morgan 1 Score: 108/3
+12.4 Amit Mishra to Shubman Gill 1 Score: 109/3
+12.5 Amit Mishra to Eoin Morgan 1 Score: 110/3
+12.6 Amit Mishra to Shubman Gill 1 Score: 111/3
+13.1 Marcus Stoinis to Shubman Gill 6 Score: 117/3
+13.2 Marcus Stoinis to Shubman Gill 1 Score: 118/3
+13.3 Marcus Stoinis to Eoin Morgan Wide Score: 119/3
+13.4 Marcus Stoinis to Eoin Morgan 1 Score: 120/3
+13.5 Marcus Stoinis to Shubman Gill 6 Score: 126/3
+13.6 Marcus Stoinis to Shubman Gill 1 Score: 127/3
+13.6 Marcus Stoinis to Shubman Gill 4 Score: 131/3
+13.7 Marcus Stoinis to Eoin Morgan 0 Score: 131/3
+14.1 Amit Mishra to Shubman Gill 0 Score: 131/3
+14.2 Amit Mishra to Shubman Gill 4 Score: 135/3
+14.3 Amit Mishra to Shubman Gill 0 Score: 135/3
+14.4 Amit Mishra to Shubman Gill 0 Score: 135/3
+14.5 Amit Mishra to Shubman Gill 0 Score: 135/3
+14.6 Amit Mishra to Shubman Gill 0 Score: 135/3
+15.1 Marcus Stoinis to Eoin Morgan 0 Score: 135/3
+15.2 Marcus Stoinis to Eoin Morgan 0 Score: 135/3
+15.3 Marcus Stoinis to Eoin Morgan W Score: 135/4 Caught by Axar Patel
+15.4 Marcus Stoinis to Dinesh Karthik 1 Score: 136/4
+15.5 Marcus Stoinis to Shubman Gill 0 Score: 136/4
+15.6 Marcus Stoinis to Shubman Gill 1 Score: 137/4
+16.1 Amit Mishra to Shubman Gill 1 Score: 138/4
+16.2 Amit Mishra to Dinesh Karthik 4 Score: 142/4
+16.3 Amit Mishra to Dinesh Karthik 0 Score: 142/4
+16.4 Amit Mishra to Dinesh Karthik 1 Score: 143/4
+16.5 Amit Mishra to Shubman Gill Wide Score: 144/4
+16.6 Amit Mishra to Shubman Gill Wide Score: 145/4
+16.7 Amit Mishra to Shubman Gill 4 Score: 149/4
+16.8 Amit Mishra to Shubman Gill W Score: 149/5 Stumped
+17.1 Kagiso Rabada to Dinesh Karthik 4 Score: 153/5
+17.2 Kagiso Rabada to Dinesh Karthik 1 Score: 154/5
+17.3 Kagiso Rabada to Andre Russell 1 Score: 155/5
+17.4 Kagiso Rabada to Dinesh Karthik 0 Score: 155/5
+17.5 Kagiso Rabada to Dinesh Karthik 4 Score: 159/5
+17.6 Kagiso Rabada to Dinesh Karthik 6 Score: 165/5
+18.1 Amit Mishra to Andre Russell W Score: 166/6 Run Out!
+18.2 Amit Mishra to Pat Cummins 1 Score: 167/6
+18.3 Amit Mishra to Dinesh Karthik 0 Score: 167/6
+18.4 Amit Mishra to Dinesh Karthik 2 Score: 169/6
+18.5 Amit Mishra to Dinesh Karthik 6 Score: 175/6
+18.6 Amit Mishra to Dinesh Karthik W Score: 175/7 Caught by Rishabh Pant
+19.1 Kagiso Rabada to Pat Cummins 6 Score: 181/7
+19.2 Kagiso Rabada to Pat Cummins 6 Score: 187/7
+19.3 Kagiso Rabada to Pat Cummins 1 Score: 188/7
+19.4 Kagiso Rabada to Shivam Mavi 0 Score: 188/7
+19.5 Kagiso Rabada to Shivam Mavi W Score: 188/8 Bowled
+19.6 Kagiso Rabada to Varun Chakravarthy 1 Score: 189/8
+dc won by 27 runs
++-------------------+--------+---------+--------+-------------------------+
+| Player            |   Runs |   Balls | SR     | Out                     |
++===================+========+=========+========+=========================+
+| N Rana            |     27 |      19 | 142.11 | lbw b AR Patel          |
++-------------------+--------+---------+--------+-------------------------+
+| Shubman Gill      |     38 |      22 | 172.73 | stumped b A Mishra      |
++-------------------+--------+---------+--------+-------------------------+
+| RA Tripathi       |     35 |      26 | 134.62 | c Avesh Khan b AR Patel |
++-------------------+--------+---------+--------+-------------------------+
+| EJG Morgan        |      5 |      10 | 50.0   | c AR Patel b MP Stoinis |
++-------------------+--------+---------+--------+-------------------------+
+| AD Russell        |      2 |       2 | 100.0  | Not out                 |
++-------------------+--------+---------+--------+-------------------------+
+| KD Karthik        |     29 |      13 | 223.08 | c RR Pant b A Mishra    |
++-------------------+--------+---------+--------+-------------------------+
+| SP Narine         |     35 |      23 | 152.17 | c A Mishra b MP Stoinis |
++-------------------+--------+---------+--------+-------------------------+
+| PJ Cummins        |     14 |       4 | 350.0  | Not out                 |
++-------------------+--------+---------+--------+-------------------------+
+| Shivam Mavi       |      0 |       2 | 0.0    | bowled b K Rabada       |
++-------------------+--------+---------+--------+-------------------------+
+| CV Varun          |      1 |       1 | 100.0  | Not out                 |
++-------------------+--------+---------+--------+-------------------------+
+| M Prasidh Krishna |      0 |       0 | DNB    |                         |
++-------------------+--------+---------+--------+-------------------------+
++------------+--------+---------+-----------+-------+
+| Player     |   Runs |   Overs |   Wickets | Eco   |
++============+========+=========+===========+=======+
+| PP Shaw    |      0 |     0   |         0 | NA    |
++------------+--------+---------+-----------+-------+
+| S Dhawan   |      0 |     0   |         0 | NA    |
++------------+--------+---------+-----------+-------+
+| SPD Smith  |      0 |     0   |         0 | NA    |
++------------+--------+---------+-----------+-------+
+| RR Pant    |      0 |     0   |         0 | NA    |
++------------+--------+---------+-----------+-------+
+| SO Hetmyer |      0 |     0   |         0 | NA    |
++------------+--------+---------+-----------+-------+
+| MP Stoinis |     27 |     3.1 |         2 | 8.53  |
++------------+--------+---------+-----------+-------+
+| AR Patel   |     36 |     4.1 |         2 | 8.64  |
++------------+--------+---------+-----------+-------+
+| R Ashwin   |     15 |     2   |         0 | 7.5   |
++------------+--------+---------+-----------+-------+
+| A Mishra   |     32 |     4   |         2 | 8.0   |
++------------+--------+---------+-----------+-------+
+| K Rabada   |     49 |     4   |         1 | 12.25 |
++------------+--------+---------+-----------+-------+
+| Avesh Khan |     30 |     3   |         0 | 10.0  |
++------------+--------+---------+-----------+-------+
