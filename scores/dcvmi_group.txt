@@ -1,153 +1,325 @@
 ['Prithvi Shaw', 'Shikhar Dhawan', 'Steven Smith', 'Rishabh Pant', 'Shimron Hetmyer', 'Marcus Stoinis', 'Axar Patel', 'Ravichandran Ashwin', 'Amit Mishra', 'Kagiso Rabada', 'Avesh Khan']
-dc won the toss and chose to bat
-0.1 Trent Boult to Prithvi Shaw 1 Score: 1/0
-0.2 Trent Boult to Shikhar Dhawan 0 Score: 1/0
-0.3 Trent Boult to Shikhar Dhawan 4 Score: 5/0
-0.4 Trent Boult to Shikhar Dhawan 0 Score: 5/0
-0.5 Trent Boult to Shikhar Dhawan 1 Score: 6/0
-0.6 Trent Boult to Prithvi Shaw 0 Score: 6/0
-1.1 Jayant Yadav to Shikhar Dhawan 0 Score: 6/0
-1.2 Jayant Yadav to Shikhar Dhawan 0 Score: 6/0
-1.3 Jayant Yadav to Shikhar Dhawan 4 Score: 10/0
-1.4 Jayant Yadav to Shikhar Dhawan 2 Score: 12/0
-1.5 Jayant Yadav to Shikhar Dhawan 1 Score: 13/0
-1.6 Jayant Yadav to Prithvi Shaw 0 Score: 13/0
-2.1 Trent Boult to Shikhar Dhawan 0 Score: 13/0
-2.2 Trent Boult to Shikhar Dhawan 2 Score: 15/0
-2.3 Trent Boult to Shikhar Dhawan W Score: 15/1 Caught by Ishan Kishan
-2.4 Trent Boult to Steven Smith 0 Score: 15/1
-2.5 Trent Boult to Steven Smith 1 Score: 16/1
-2.6 Trent Boult to Prithvi Shaw 1 Score: 17/1
-3.1 Jayant Yadav to Prithvi Shaw 1 Score: 18/1
-3.2 Jayant Yadav to Steven Smith 1 Score: 19/1
-3.3 Jayant Yadav to Prithvi Shaw 1 Score: 20/1
-3.4 Jayant Yadav to Steven Smith 0 Score: 20/1
-3.5 Jayant Yadav to Steven Smith 1 Score: 21/1
-3.6 Jayant Yadav to Prithvi Shaw 0 Score: 21/1
-4.1 Rahul Chahar to Steven Smith 1 Score: 22/1
-4.2 Rahul Chahar to Prithvi Shaw 1 Score: 23/1
-4.3 Rahul Chahar to Steven Smith 1 Score: 24/1
-4.4 Rahul Chahar to Prithvi Shaw 4 Score: 28/1
-4.5 Rahul Chahar to Prithvi Shaw 1 Score: 29/1
-4.6 Rahul Chahar to Steven Smith Wide Score: 30/1
-4.7 Rahul Chahar to Steven Smith 1 Score: 31/1
-5.1 Krunal Pandya to Steven Smith 4 Score: 35/1
-5.2 Krunal Pandya to Steven Smith 0 Score: 35/1
-5.3 Krunal Pandya to Steven Smith 0 Score: 35/1
-5.4 Krunal Pandya to Steven Smith 1 Score: 36/1
-5.5 Krunal Pandya to Prithvi Shaw 1 Score: 37/1
-5.6 Krunal Pandya to Steven Smith Wide Score: 38/1
-5.7 Krunal Pandya to Steven Smith 0 Score: 38/1
-6.1 Rahul Chahar to Prithvi Shaw 0 Score: 38/1
-6.2 Rahul Chahar to Prithvi Shaw 4 Score: 42/1
-6.3 Rahul Chahar to Prithvi Shaw 4 Score: 46/1
-6.4 Rahul Chahar to Prithvi Shaw W Score: 46/2 Stumped
-6.5 Rahul Chahar to Rishabh Pant 0 Score: 46/2
-6.6 Rahul Chahar to Rishabh Pant 1 Score: 47/2
-7.1 Krunal Pandya to Rishabh Pant 0 Score: 47/2
-7.2 Krunal Pandya to Rishabh Pant 1 Score: 48/2
-7.3 Krunal Pandya to Steven Smith 1 Score: 49/2
-7.4 Krunal Pandya to Rishabh Pant 0 Score: 49/2
-7.5 Krunal Pandya to Rishabh Pant 0 Score: 49/2
-7.6 Krunal Pandya to Rishabh Pant 2 Score: 51/2
-8.1 Rahul Chahar to Steven Smith W Score: 51/3 Caught by Trent Boult
-8.2 Rahul Chahar to Marcus Stoinis 0 Score: 51/3
-8.3 Rahul Chahar to Marcus Stoinis 1 Score: 52/3
-8.4 Rahul Chahar to Rishabh Pant 0 Score: 52/3
-8.5 Rahul Chahar to Rishabh Pant 0 Score: 52/3
-8.6 Rahul Chahar to Rishabh Pant 1 Score: 53/3
-9.1 Krunal Pandya to Rishabh Pant 1 Score: 54/3
-9.2 Krunal Pandya to Marcus Stoinis 6 Score: 60/3
-9.3 Krunal Pandya to Marcus Stoinis 1 Score: 61/3
-9.4 Krunal Pandya to Rishabh Pant 0 Score: 61/3
-9.5 Krunal Pandya to Rishabh Pant 1 Score: 62/3
-9.6 Krunal Pandya to Marcus Stoinis 2 Score: 64/3
-10.1 Rahul Chahar to Rishabh Pant 0 Score: 64/3
-10.2 Rahul Chahar to Rishabh Pant 1 Score: 65/3
-10.3 Rahul Chahar to Marcus Stoinis 4 Score: 69/3
-10.4 Rahul Chahar to Marcus Stoinis 0 Score: 69/3
-10.5 Rahul Chahar to Marcus Stoinis 4 Score: 73/3
-10.6 Rahul Chahar to Marcus Stoinis 0 Score: 73/3
-11.1 Krunal Pandya to Rishabh Pant 2 Score: 75/3
-11.2 Krunal Pandya to Rishabh Pant 1 Score: 76/3
-11.3 Krunal Pandya to Marcus Stoinis 4 Score: 80/3
-11.4 Krunal Pandya to Marcus Stoinis 1 Score: 81/3
-11.5 Krunal Pandya to Rishabh Pant 1 Score: 82/3
-11.6 Krunal Pandya to Marcus Stoinis 0 Score: 82/3
-12.1 Jayant Yadav to Rishabh Pant 0 Score: 82/3
-12.2 Jayant Yadav to Rishabh Pant 1 Score: 83/3
-12.3 Jayant Yadav to Marcus Stoinis 1 Score: 84/3
-12.4 Jayant Yadav to Rishabh Pant 0 Score: 84/3
-12.5 Jayant Yadav to Rishabh Pant 1 Score: 85/3
-12.6 Jayant Yadav to Marcus Stoinis 0 Score: 85/3
-13.1 Jasprit Bumrah to Rishabh Pant 1 Score: 86/3
-13.2 Jasprit Bumrah to Marcus Stoinis 0 Score: 86/3
-13.3 Jasprit Bumrah to Marcus Stoinis 0 Score: 86/3
-13.4 Jasprit Bumrah to Marcus Stoinis 0 Score: 86/3
-13.5 Jasprit Bumrah to Marcus Stoinis 1 Score: 87/3
-13.6 Jasprit Bumrah to Rishabh Pant 4 Score: 91/3
-14.1 Jayant Yadav to Marcus Stoinis 1 Score: 92/3
-14.2 Jayant Yadav to Rishabh Pant 0 Score: 92/3
-14.3 Jayant Yadav to Rishabh Pant 1 Score: 93/3
-14.4 Jayant Yadav to Marcus Stoinis 4 Score: 97/3
-14.5 Jayant Yadav to Marcus Stoinis 1 Score: 98/3
-14.6 Jayant Yadav to Rishabh Pant 0 Score: 98/3
-15.1 Jasprit Bumrah to Marcus Stoinis 2 Score: 100/3
-15.2 Jasprit Bumrah to Marcus Stoinis 1 Score: 101/3
-15.3 Jasprit Bumrah to Rishabh Pant 0 Score: 101/3
-15.4 Jasprit Bumrah to Rishabh Pant 1 Score: 102/3
-15.5 Jasprit Bumrah to Marcus Stoinis Wide Score: 103/3
-15.6 Jasprit Bumrah to Marcus Stoinis 0 Score: 103/3
-15.7 Jasprit Bumrah to Marcus Stoinis 1 Score: 104/3
-16.1 Hardik Pandya to Marcus Stoinis 6 Score: 110/3
-16.2 Hardik Pandya to Marcus Stoinis 4 Score: 114/3
-16.3 Hardik Pandya to Marcus Stoinis 1 Score: 115/3
-16.4 Hardik Pandya to Rishabh Pant 0 Score: 115/3
-16.5 Hardik Pandya to Rishabh Pant 4 Score: 119/3
-16.6 Hardik Pandya to Rishabh Pant 1 Score: 120/3
-17.1 Jasprit Bumrah to Rishabh Pant 1 Score: 121/3
-17.2 Jasprit Bumrah to Marcus Stoinis W Score: 121/4 Caught by Quinton de Kock
-17.3 Jasprit Bumrah to Shimron Hetmyer 1 Score: 122/4
-17.4 Jasprit Bumrah to Rishabh Pant 0 Score: 122/4
-17.5 Jasprit Bumrah to Rishabh Pant 6 Score: 128/4
-17.6 Jasprit Bumrah to Rishabh Pant 6 Score: 134/4
-18.1 Hardik Pandya to Shimron Hetmyer 1 Score: 135/4
-18.2 Hardik Pandya to Rishabh Pant 0 Score: 135/4
-18.3 Hardik Pandya to Rishabh Pant 4 Score: 139/4
-18.4 Hardik Pandya to Rishabh Pant W Score: 139/5 Caught by Rahul Chahar
-18.5 Hardik Pandya to Axar Patel 1 Score: 140/5
-18.6 Hardik Pandya to Shimron Hetmyer 4 Score: 144/5
-19.1 Jasprit Bumrah to Axar Patel 1 Score: 145/5
-19.2 Jasprit Bumrah to Shimron Hetmyer 1 Score: 146/5
-19.3 Jasprit Bumrah to Axar Patel W Score: 146/6 Caught by Trent Boult
-19.4 Jasprit Bumrah to Ravichandran Ashwin 6 Score: 152/6
-19.5 Jasprit Bumrah to Ravichandran Ashwin 6 Score: 158/6
-19.6 Jasprit Bumrah to Ravichandran Ashwin 4 Score: 162/6
-+------------+--------+---------+--------+---------------------------+
-| Player     |   Runs |   Balls | SR     | Out                       |
-+============+========+=========+========+===========================+
-| PP Shaw    |     19 |      15 | 126.67 | stumped b RD Chahar       |
-+------------+--------+---------+--------+---------------------------+
-| S Dhawan   |     14 |      12 | 116.67 | c Ishan Kishan b TA Boult |
-+------------+--------+---------+--------+---------------------------+
-| SPD Smith  |     12 |      15 | 80.0   | c TA Boult b RD Chahar    |
-+------------+--------+---------+--------+---------------------------+
-| RR Pant    |     43 |      39 | 110.26 | c RD Chahar b HH Pandya   |
-+------------+--------+---------+--------+---------------------------+
-| SO Hetmyer |      7 |       4 | 175.0  | Not out                   |
-+------------+--------+---------+--------+---------------------------+
-| MP Stoinis |     46 |      29 | 158.62 | c Q de Kock b JJ Bumrah   |
-+------------+--------+---------+--------+---------------------------+
-| AR Patel   |      2 |       3 | 66.67  | c TA Boult b JJ Bumrah    |
-+------------+--------+---------+--------+---------------------------+
-| R Ashwin   |     16 |       3 | 533.33 | Not out                   |
-+------------+--------+---------+--------+---------------------------+
-| A Mishra   |      0 |       0 | DNB    |                           |
-+------------+--------+---------+--------+---------------------------+
-| K Rabada   |      0 |       0 | DNB    |                           |
-+------------+--------+---------+--------+---------------------------+
-| Avesh Khan |      0 |       0 | DNB    |                           |
-+------------+--------+---------+--------+---------------------------+
+mi won the toss and chose to bat
+0.1 Kagiso Rabada to Quinton de Kock 1 Score: 1/0
+0.2 Kagiso Rabada to Rohit Sharma 1 Score: 2/0
+0.3 Kagiso Rabada to Quinton de Kock 1 Score: 3/0
+0.4 Kagiso Rabada to Rohit Sharma 1 Score: 4/0
+0.5 Kagiso Rabada to Quinton de Kock 1 Score: 5/0
+0.6 Kagiso Rabada to Rohit Sharma 0 Score: 5/0
+1.1 Ravichandran Ashwin to Quinton de Kock 4 Score: 9/0
+1.2 Ravichandran Ashwin to Quinton de Kock 1 Score: 10/0
+1.3 Ravichandran Ashwin to Rohit Sharma 0 Score: 10/0
+1.4 Ravichandran Ashwin to Rohit Sharma 0 Score: 10/0
+1.5 Ravichandran Ashwin to Rohit Sharma 1 Score: 11/0
+1.6 Ravichandran Ashwin to Quinton de Kock 1 Score: 12/0
+2.1 Kagiso Rabada to Quinton de Kock 1 Score: 13/0
+2.2 Kagiso Rabada to Rohit Sharma 0 Score: 13/0
+2.3 Kagiso Rabada to Rohit Sharma 1 Score: 14/0
+2.4 Kagiso Rabada to Quinton de Kock 4 Score: 18/0
+2.5 Kagiso Rabada to Quinton de Kock 0 Score: 18/0
+2.6 Kagiso Rabada to Quinton de Kock 0 Score: 18/0
+3.1 Ravichandran Ashwin to Rohit Sharma 1 Score: 19/0
+3.2 Ravichandran Ashwin to Quinton de Kock 0 Score: 19/0
+3.3 Ravichandran Ashwin to Quinton de Kock 1 Score: 20/0
+3.4 Ravichandran Ashwin to Rohit Sharma 1 Score: 21/0
+3.5 Ravichandran Ashwin to Quinton de Kock 1 Score: 22/0
+3.6 Ravichandran Ashwin to Rohit Sharma 4 Score: 26/0
+4.1 Avesh Khan to Quinton de Kock 0 Score: 26/0
+4.2 Avesh Khan to Quinton de Kock 4 Score: 30/0
+4.3 Avesh Khan to Quinton de Kock 0 Score: 30/0
+4.4 Avesh Khan to Quinton de Kock 0 Score: 30/0
+4.5 Avesh Khan to Quinton de Kock 0 Score: 30/0
+4.6 Avesh Khan to Quinton de Kock 1 Score: 31/0
+5.1 Marcus Stoinis to Quinton de Kock 1 Score: 32/0
+5.2 Marcus Stoinis to Rohit Sharma 6 Score: 38/0
+5.3 Marcus Stoinis to Rohit Sharma 1 Score: 39/0
+5.4 Marcus Stoinis to Quinton de Kock 0 Score: 39/0
+5.5 Marcus Stoinis to Quinton de Kock Wide Score: 40/0
+5.6 Marcus Stoinis to Quinton de Kock 4 Score: 44/0
+5.7 Marcus Stoinis to Quinton de Kock 4 Score: 48/0
+6.1 Avesh Khan to Rohit Sharma 0 Score: 48/0
+6.2 Avesh Khan to Rohit Sharma 1 Score: 49/0
+6.3 Avesh Khan to Quinton de Kock 1 Score: 50/0
+6.4 Avesh Khan to Rohit Sharma 2 Score: 52/0
+6.5 Avesh Khan to Rohit Sharma 0 Score: 52/0
+6.6 Avesh Khan to Rohit Sharma 1 Score: 53/0
+7.1 Marcus Stoinis to Rohit Sharma 4 Score: 57/0
+7.2 Marcus Stoinis to Rohit Sharma 1 Score: 58/0
+7.3 Marcus Stoinis to Quinton de Kock 1 Score: 59/0
+7.4 Marcus Stoinis to Rohit Sharma 0 Score: 59/0
+7.5 Marcus Stoinis to Rohit Sharma 1 Score: 60/0
+7.6 Marcus Stoinis to Quinton de Kock 1 Score: 61/0
+8.1 Avesh Khan to Quinton de Kock 4 Score: 65/0
+8.2 Avesh Khan to Quinton de Kock 6 Score: 71/0
+8.3 Avesh Khan to Quinton de Kock 1 Score: 72/0
+8.4 Avesh Khan to Rohit Sharma W Score: 72/1 Caught by Axar Patel
+8.5 Avesh Khan to Ishan Kishan 0 Score: 72/1
+8.6 Avesh Khan to Ishan Kishan 1 Score: 73/1
+9.1 Marcus Stoinis to Ishan Kishan 0 Score: 73/1
+9.2 Marcus Stoinis to Ishan Kishan 1 Score: 74/1
+9.3 Marcus Stoinis to Quinton de Kock W Score: 74/2 Caught by Amit Mishra
+9.4 Marcus Stoinis to Suryakumar Yadav 6 Score: 80/2
+9.5 Marcus Stoinis to Suryakumar Yadav 4 Score: 84/2
+9.6 Marcus Stoinis to Suryakumar Yadav 0 Score: 84/2
+10.1 Axar Patel to Ishan Kishan 1 Score: 85/2
+10.2 Axar Patel to Suryakumar Yadav 0 Score: 85/2
+10.3 Axar Patel to Suryakumar Yadav 4 Score: 89/2
+10.4 Axar Patel to Suryakumar Yadav 1 Score: 90/2
+10.5 Axar Patel to Ishan Kishan 0 Score: 90/2
+10.6 Axar Patel to Ishan Kishan 1 Score: 91/2
+11.1 Marcus Stoinis to Ishan Kishan Wide Score: 92/2
+11.2 Marcus Stoinis to Ishan Kishan 1 Score: 93/2
+11.3 Marcus Stoinis to Suryakumar Yadav 4 Score: 97/2
+11.4 Marcus Stoinis to Suryakumar Yadav 1 Score: 98/2
+11.5 Marcus Stoinis to Ishan Kishan 0 Score: 98/2
+11.6 Marcus Stoinis to Ishan Kishan 0 Score: 98/2
+11.7 Marcus Stoinis to Ishan Kishan 1 Score: 99/2
+12.1 Axar Patel to Ishan Kishan 4 Score: 103/2
+12.2 Axar Patel to Ishan Kishan 6 Score: 109/2
+12.3 Axar Patel to Ishan Kishan 4 Score: 113/2
+12.4 Axar Patel to Ishan Kishan 1 Score: 114/2
+12.5 Axar Patel to Suryakumar Yadav 2 Score: 116/2
+12.6 Axar Patel to Suryakumar Yadav 1 Score: 117/2
+13.1 Ravichandran Ashwin to Suryakumar Yadav 4 Score: 121/2
+13.2 Ravichandran Ashwin to Suryakumar Yadav 0 Score: 121/2
+13.3 Ravichandran Ashwin to Suryakumar Yadav 0 Score: 121/2
+13.4 Ravichandran Ashwin to Suryakumar Yadav 3 Score: 124/2
+13.5 Ravichandran Ashwin to Ishan Kishan 0 Score: 124/2
+13.6 Ravichandran Ashwin to Ishan Kishan 4 Score: 128/2
+14.1 Axar Patel to Suryakumar Yadav 1 Score: 129/2
+14.2 Axar Patel to Ishan Kishan 1 Score: 130/2
+14.3 Axar Patel to Suryakumar Yadav 1 Score: 131/2
+14.4 Axar Patel to Ishan Kishan 0 Score: 131/2
+14.5 Axar Patel to Ishan Kishan 1 Score: 132/2
+14.6 Axar Patel to Suryakumar Yadav 1 Score: 133/2
+15.1 Ravichandran Ashwin to Suryakumar Yadav 1 Score: 134/2
+15.2 Ravichandran Ashwin to Ishan Kishan 0 Score: 134/2
+15.3 Ravichandran Ashwin to Ishan Kishan 4 Score: 138/2
+15.4 Ravichandran Ashwin to Ishan Kishan 1 Score: 139/2
+15.5 Ravichandran Ashwin to Suryakumar Yadav 0 Score: 139/2
+15.6 Ravichandran Ashwin to Suryakumar Yadav 0 Score: 139/2
+16.1 Axar Patel to Ishan Kishan 1 Score: 140/2
+16.2 Axar Patel to Suryakumar Yadav 0 Score: 140/2
+16.3 Axar Patel to Suryakumar Yadav 1 Score: 141/2
+16.4 Axar Patel to Ishan Kishan 4 Score: 145/2
+16.5 Axar Patel to Ishan Kishan 0 Score: 145/2
+16.6 Axar Patel to Ishan Kishan 2 Score: 147/2
+17.1 Kagiso Rabada to Suryakumar Yadav W Score: 147/3 Caught by Shikhar Dhawan
+17.2 Kagiso Rabada to Kieron Pollard 2 Score: 149/3
+17.3 Kagiso Rabada to Kieron Pollard 0 Score: 149/3
+17.4 Kagiso Rabada to Kieron Pollard 4 Score: 153/3
+17.5 Kagiso Rabada to Kieron Pollard 1 Score: 154/3
+17.6 Kagiso Rabada to Ishan Kishan 2 Score: 156/3
+18.1 Avesh Khan to Kieron Pollard 1 Score: 157/3
+18.2 Avesh Khan to Ishan Kishan 4 Score: 161/3
+18.3 Avesh Khan to Ishan Kishan 1 Score: 162/3
+18.4 Avesh Khan to Kieron Pollard 1 Score: 163/3
+18.5 Avesh Khan to Ishan Kishan 1 Score: 164/3
+18.6 Avesh Khan to Kieron Pollard 0 Score: 164/3
+19.1 Kagiso Rabada to Ishan Kishan 2 Score: 166/3
+19.2 Kagiso Rabada to Ishan Kishan 1 Score: 167/3
+19.3 Kagiso Rabada to Kieron Pollard 6 Score: 173/3
+19.4 Kagiso Rabada to Kieron Pollard 6 Score: 179/3
+19.5 Kagiso Rabada to Kieron Pollard 6 Score: 185/3
+19.6 Kagiso Rabada to Kieron Pollard 6 Score: 191/3
++--------------+--------+---------+--------+-------------------------+
+| Player       |   Runs |   Balls | SR     | Out                     |
++==============+========+=========+========+=========================+
+| Q de Kock    |     44 |      30 | 146.67 | c A Mishra b MP Stoinis |
++--------------+--------+---------+--------+-------------------------+
+| RG Sharma    |     27 |      23 | 117.39 | c AR Patel b Avesh Khan |
++--------------+--------+---------+--------+-------------------------+
+| SA Yadav     |     35 |      23 | 152.17 | c S Dhawan b K Rabada   |
++--------------+--------+---------+--------+-------------------------+
+| Ishan Kishan |     50 |      33 | 151.52 | Not out                 |
++--------------+--------+---------+--------+-------------------------+
+| KA Pollard   |     33 |      11 | 300.0  | Not out                 |
++--------------+--------+---------+--------+-------------------------+
+| HH Pandya    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| KH Pandya    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| J Yadav      |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| RD Chahar    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| JJ Bumrah    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| TA Boult     |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
++------------+--------+---------+-----------+-------+
+| Player     |   Runs |   Overs |   Wickets | Eco   |
++============+========+=========+===========+=======+
+| PP Shaw    |      0 |       0 |         0 | NA    |
++------------+--------+---------+-----------+-------+
+| S Dhawan   |      0 |       0 |         0 | NA    |
++------------+--------+---------+-----------+-------+
+| SPD Smith  |      0 |       0 |         0 | NA    |
++------------+--------+---------+-----------+-------+
+| RR Pant    |      0 |       0 |         0 | NA    |
++------------+--------+---------+-----------+-------+
+| SO Hetmyer |      0 |       0 |         0 | NA    |
++------------+--------+---------+-----------+-------+
+| MP Stoinis |     44 |       4 |         1 | 11.0  |
++------------+--------+---------+-----------+-------+
+| AR Patel   |     38 |       4 |         0 | 9.5   |
++------------+--------+---------+-----------+-------+
+| R Ashwin   |     32 |       4 |         0 | 8.0   |
++------------+--------+---------+-----------+-------+
+| A Mishra   |      0 |       0 |         0 | NA    |
++------------+--------+---------+-----------+-------+
+| K Rabada   |     47 |       4 |         1 | 11.75 |
++------------+--------+---------+-----------+-------+
+| Avesh Khan |     30 |       4 |         1 | 7.5   |
++------------+--------+---------+-----------+-------+
+0.1 Trent Boult to Prithvi Shaw 0 Score: 0/0
+0.2 Trent Boult to Prithvi Shaw 0 Score: 0/0
+0.3 Trent Boult to Prithvi Shaw 4 Score: 4/0
+0.4 Trent Boult to Prithvi Shaw 4 Score: 8/0
+0.5 Trent Boult to Prithvi Shaw W Score: 8/1 Caught by Jayant Yadav
+0.6 Trent Boult to Shikhar Dhawan 0 Score: 8/1
+1.1 Jayant Yadav to Shikhar Dhawan 0 Score: 8/1
+1.2 Jayant Yadav to Shikhar Dhawan 4 Score: 12/1
+1.3 Jayant Yadav to Shikhar Dhawan 4 Score: 16/1
+1.4 Jayant Yadav to Shikhar Dhawan 1 Score: 17/1
+1.5 Jayant Yadav to Shikhar Dhawan 0 Score: 17/1
+1.6 Jayant Yadav to Shikhar Dhawan 2 Score: 19/1
+2.1 Trent Boult to Shikhar Dhawan 2 Score: 21/1
+2.2 Trent Boult to Shikhar Dhawan 1 Score: 22/1
+2.3 Trent Boult to Shikhar Dhawan 6 Score: 28/1
+2.4 Trent Boult to Shikhar Dhawan 0 Score: 28/1
+2.5 Trent Boult to Shikhar Dhawan 1 Score: 29/1
+2.6 Trent Boult to Shikhar Dhawan 1 Score: 30/1
+3.1 Hardik Pandya to Shikhar Dhawan 0 Score: 30/1
+3.2 Hardik Pandya to Shikhar Dhawan 0 Score: 30/1
+3.3 Hardik Pandya to Shikhar Dhawan 1 Score: 31/1
+3.4 Hardik Pandya to Shikhar Dhawan 1 Score: 32/1
+3.5 Hardik Pandya to Shikhar Dhawan 4 Score: 36/1
+3.6 Hardik Pandya to Shikhar Dhawan 1 Score: 37/1
+4.1 Jayant Yadav to Shikhar Dhawan 0 Score: 37/1
+4.2 Jayant Yadav to Shikhar Dhawan 2 Score: 39/1
+4.3 Jayant Yadav to Shikhar Dhawan 0 Score: 39/1
+4.4 Jayant Yadav to Shikhar Dhawan W Score: 39/2 Caught by Hardik Pandya
+4.5 Jayant Yadav to Steven Smith 0 Score: 39/2
+4.6 Jayant Yadav to Steven Smith 2 Score: 41/2
+5.1 Hardik Pandya to Shikhar Dhawan 0 Score: 41/2
+5.2 Hardik Pandya to Shikhar Dhawan 4 Score: 45/2
+5.3 Hardik Pandya to Shikhar Dhawan 1 Score: 46/2
+5.4 Hardik Pandya to Steven Smith 1 Score: 47/2
+5.5 Hardik Pandya to Shikhar Dhawan 0 Score: 47/2
+5.6 Hardik Pandya to Shikhar Dhawan 0 Score: 47/2
+6.1 Jayant Yadav to Steven Smith 4 Score: 51/2
+6.2 Jayant Yadav to Steven Smith 4 Score: 55/2
+6.3 Jayant Yadav to Steven Smith 0 Score: 55/2
+6.4 Jayant Yadav to Steven Smith 0 Score: 55/2
+6.5 Jayant Yadav to Steven Smith 6 Score: 61/2
+6.6 Jayant Yadav to Steven Smith 0 Score: 61/2
+7.1 Hardik Pandya to Shikhar Dhawan 1 Score: 62/2
+7.2 Hardik Pandya to Steven Smith 4 Score: 66/2
+7.3 Hardik Pandya to Steven Smith 6 Score: 72/2
+7.4 Hardik Pandya to Steven Smith 0 Score: 72/2
+7.5 Hardik Pandya to Steven Smith 0 Score: 72/2
+7.6 Hardik Pandya to Steven Smith 0 Score: 72/2
+8.1 Jayant Yadav to Shikhar Dhawan 0 Score: 72/2
+8.2 Jayant Yadav to Shikhar Dhawan 4 Score: 76/2
+8.3 Jayant Yadav to Shikhar Dhawan 1 Score: 77/2
+8.4 Jayant Yadav to Steven Smith 1 Score: 78/2
+8.5 Jayant Yadav to Shikhar Dhawan 6 Score: 84/2
+8.6 Jayant Yadav to Shikhar Dhawan 6 Score: 90/2
+9.1 Rahul Chahar to Steven Smith Wide Score: 91/2
+9.2 Rahul Chahar to Steven Smith 0 Score: 91/2
+9.3 Rahul Chahar to Steven Smith 0 Score: 91/2
+9.4 Rahul Chahar to Steven Smith 1 Score: 92/2
+9.5 Rahul Chahar to Shikhar Dhawan W Score: 92/3 Bowled
+9.6 Rahul Chahar to Rishabh Pant 2 Score: 94/3
+9.7 Rahul Chahar to Rishabh Pant 0 Score: 94/3
+10.1 Hardik Pandya to Steven Smith 1 Score: 95/3
+10.2 Hardik Pandya to Rishabh Pant 3 Score: 98/3
+10.3 Hardik Pandya to Steven Smith 1 Score: 99/3
+10.4 Hardik Pandya to Rishabh Pant 0 Score: 99/3
+10.5 Hardik Pandya to Rishabh Pant 1 Score: 100/3
+10.6 Hardik Pandya to Steven Smith 0 Score: 100/3
+11.1 Rahul Chahar to Rishabh Pant 0 Score: 100/3
+11.2 Rahul Chahar to Rishabh Pant 0 Score: 100/3
+11.3 Rahul Chahar to Rishabh Pant 1 Score: 101/3
+11.4 Rahul Chahar to Steven Smith 1 Score: 102/3
+11.5 Rahul Chahar to Rishabh Pant 1 Score: 103/3
+11.6 Rahul Chahar to Steven Smith 1 Score: 104/3
+12.1 Jasprit Bumrah to Steven Smith Wide Score: 105/3
+12.2 Jasprit Bumrah to Steven Smith 2 Score: 107/3
+12.3 Jasprit Bumrah to Steven Smith 1 Score: 108/3
+12.4 Jasprit Bumrah to Rishabh Pant 0 Score: 108/3
+12.5 Jasprit Bumrah to Rishabh Pant 0 Score: 108/3
+12.6 Jasprit Bumrah to Rishabh Pant 1 Score: 109/3
+12.7 Jasprit Bumrah to Steven Smith 0 Score: 109/3
+13.1 Rahul Chahar to Rishabh Pant 1 Score: 110/3
+13.2 Rahul Chahar to Steven Smith 0 Score: 110/3
+13.3 Rahul Chahar to Steven Smith 1 Score: 111/3
+13.4 Rahul Chahar to Rishabh Pant 1 Score: 112/3
+13.5 Rahul Chahar to Steven Smith 0 Score: 112/3
+13.6 Rahul Chahar to Steven Smith W Score: 112/4 Caught by Quinton de Kock
+14.1 Jasprit Bumrah to Rishabh Pant 4 Score: 116/4
+14.2 Jasprit Bumrah to Rishabh Pant 0 Score: 116/4
+14.3 Jasprit Bumrah to Rishabh Pant 2 Score: 118/4
+14.4 Jasprit Bumrah to Rishabh Pant 0 Score: 118/4
+14.5 Jasprit Bumrah to Rishabh Pant 0 Score: 118/4
+14.6 Jasprit Bumrah to Rishabh Pant 2 Score: 120/4
+15.1 Rahul Chahar to Marcus Stoinis 0 Score: 120/4
+15.2 Rahul Chahar to Marcus Stoinis 0 Score: 120/4
+15.3 Rahul Chahar to Marcus Stoinis 1 Score: 121/4
+15.4 Rahul Chahar to Rishabh Pant 0 Score: 121/4
+15.5 Rahul Chahar to Rishabh Pant 1 Score: 122/4
+15.6 Rahul Chahar to Marcus Stoinis 0 Score: 122/4
+16.1 Jasprit Bumrah to Rishabh Pant 0 Score: 122/4
+16.2 Jasprit Bumrah to Rishabh Pant 6 Score: 128/4
+16.3 Jasprit Bumrah to Rishabh Pant 0 Score: 128/4
+16.4 Jasprit Bumrah to Rishabh Pant 1 Score: 129/4
+16.5 Jasprit Bumrah to Marcus Stoinis W Score: 129/5 Caught by Rohit Sharma
+16.6 Jasprit Bumrah to Shimron Hetmyer 0 Score: 129/5
+17.1 Trent Boult to Rishabh Pant 1 Score: 130/5
+17.2 Trent Boult to Shimron Hetmyer 1 Score: 131/5
+17.3 Trent Boult to Rishabh Pant 1 Score: 132/5
+17.4 Trent Boult to Shimron Hetmyer 4 Score: 136/5
+17.5 Trent Boult to Shimron Hetmyer 2 Score: 138/5
+17.6 Trent Boult to Shimron Hetmyer 4 Score: 142/5
+18.1 Jasprit Bumrah to Rishabh Pant 1 Score: 143/5
+18.2 Jasprit Bumrah to Shimron Hetmyer 4 Score: 147/5
+18.3 Jasprit Bumrah to Shimron Hetmyer 0 Score: 147/5
+18.4 Jasprit Bumrah to Shimron Hetmyer 1 Score: 148/5
+18.5 Jasprit Bumrah to Rishabh Pant 1 Score: 149/5
+18.6 Jasprit Bumrah to Shimron Hetmyer 0 Score: 149/5
+19.1 Trent Boult to Rishabh Pant W Score: 149/6 Caught by Quinton de Kock
+19.2 Trent Boult to Axar Patel W Score: 149/7 Bowled
+19.3 Trent Boult to Ravichandran Ashwin 1 Score: 150/7
+19.4 Trent Boult to Shimron Hetmyer 4 Score: 154/7
+19.5 Trent Boult to Shimron Hetmyer 4 Score: 158/7
+19.6 Trent Boult to Shimron Hetmyer 0 Score: 158/7
+mi won by 33 runs
++------------+--------+---------+--------+-------------------------+
+| Player     |   Runs |   Balls | SR     | Out                     |
++============+========+=========+========+=========================+
+| PP Shaw    |      8 |       5 | 160.0  | c J Yadav b TA Boult    |
++------------+--------+---------+--------+-------------------------+
+| S Dhawan   |     54 |      35 | 154.29 | bowled b RD Chahar      |
++------------+--------+---------+--------+-------------------------+
+| SPD Smith  |     37 |      30 | 123.33 | c Q de Kock b RD Chahar |
++------------+--------+---------+--------+-------------------------+
+| RR Pant    |     31 |      31 | 100.0  | c Q de Kock b TA Boult  |
++------------+--------+---------+--------+-------------------------+
+| SO Hetmyer |     24 |      12 | 200.0  | Not out                 |
++------------+--------+---------+--------+-------------------------+
+| MP Stoinis |      1 |       5 | 20.0   | c RG Sharma b JJ Bumrah |
++------------+--------+---------+--------+-------------------------+
+| AR Patel   |      0 |       1 | 0.0    | bowled b TA Boult       |
++------------+--------+---------+--------+-------------------------+
+| R Ashwin   |      1 |       1 | 100.0  | Not out                 |
++------------+--------+---------+--------+-------------------------+
+| A Mishra   |      0 |       0 | DNB    |                         |
++------------+--------+---------+--------+-------------------------+
+| K Rabada   |      0 |       0 | DNB    |                         |
++------------+--------+---------+--------+-------------------------+
+| Avesh Khan |      0 |       0 | DNB    |                         |
++------------+--------+---------+--------+-------------------------+
 +--------------+--------+---------+-----------+-------+
 | Player       |   Runs |   Overs |   Wickets | Eco   |
 +==============+========+=========+===========+=======+
@@ -161,182 +333,15 @@ dc won the toss and chose to bat
 +--------------+--------+---------+-----------+-------+
 | KA Pollard   |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| HH Pandya    |     26 |       2 |         1 | 13.0  |
+| HH Pandya    |     30 |       4 |         0 | 7.5   |
 +--------------+--------+---------+-----------+-------+
-| KH Pandya    |     31 |       4 |         0 | 7.75  |
+| KH Pandya    |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| J Yadav      |     21 |       4 |         0 | 5.25  |
+| J Yadav      |     47 |       4 |         1 | 11.75 |
 +--------------+--------+---------+-----------+-------+
-| RD Chahar    |     30 |       4 |         2 | 7.5   |
+| RD Chahar    |     13 |       4 |         2 | 3.25  |
 +--------------+--------+---------+-----------+-------+
-| JJ Bumrah    |     44 |       4 |         2 | 11.0  |
+| JJ Bumrah    |     27 |       4 |         1 | 6.75  |
 +--------------+--------+---------+-----------+-------+
-| TA Boult     |     10 |       2 |         1 | 5.0   |
+| TA Boult     |     41 |       4 |         3 | 10.25 |
 +--------------+--------+---------+-----------+-------+
-0.1 Kagiso Rabada to Quinton de Kock 1 Score: 1/0
-0.2 Kagiso Rabada to Rohit Sharma 1 Score: 2/0
-0.3 Kagiso Rabada to Quinton de Kock 1 Score: 3/0
-0.4 Kagiso Rabada to Rohit Sharma 0 Score: 3/0
-0.5 Kagiso Rabada to Rohit Sharma 1 Score: 4/0
-0.6 Kagiso Rabada to Quinton de Kock 2 Score: 6/0
-1.1 Ravichandran Ashwin to Rohit Sharma 1 Score: 7/0
-1.2 Ravichandran Ashwin to Quinton de Kock 1 Score: 8/0
-1.3 Ravichandran Ashwin to Rohit Sharma 1 Score: 9/0
-1.4 Ravichandran Ashwin to Quinton de Kock 2 Score: 11/0
-1.5 Ravichandran Ashwin to Quinton de Kock 1 Score: 12/0
-1.6 Ravichandran Ashwin to Rohit Sharma 1 Score: 13/0
-2.1 Kagiso Rabada to Rohit Sharma 1 Score: 14/0
-2.2 Kagiso Rabada to Quinton de Kock 0 Score: 14/0
-2.3 Kagiso Rabada to Quinton de Kock 4 Score: 18/0
-2.4 Kagiso Rabada to Quinton de Kock 0 Score: 18/0
-2.5 Kagiso Rabada to Quinton de Kock 0 Score: 18/0
-2.6 Kagiso Rabada to Quinton de Kock 1 Score: 19/0
-3.1 Ravichandran Ashwin to Quinton de Kock 0 Score: 19/0
-3.2 Ravichandran Ashwin to Quinton de Kock 0 Score: 19/0
-3.3 Ravichandran Ashwin to Quinton de Kock 4 Score: 23/0
-3.4 Ravichandran Ashwin to Quinton de Kock 4 Score: 27/0
-3.5 Ravichandran Ashwin to Quinton de Kock 1 Score: 28/0
-3.6 Ravichandran Ashwin to Rohit Sharma 0 Score: 28/0
-4.1 Axar Patel to Quinton de Kock 1 Score: 29/0
-4.2 Axar Patel to Rohit Sharma 1 Score: 30/0
-4.3 Axar Patel to Quinton de Kock 1 Score: 31/0
-4.4 Axar Patel to Rohit Sharma 1 Score: 32/0
-4.5 Axar Patel to Quinton de Kock 1 Score: 33/0
-4.6 Axar Patel to Rohit Sharma 0 Score: 33/0
-5.1 Marcus Stoinis to Quinton de Kock 0 Score: 33/0
-5.2 Marcus Stoinis to Quinton de Kock 1 Score: 34/0
-5.3 Marcus Stoinis to Rohit Sharma 0 Score: 34/0
-5.4 Marcus Stoinis to Rohit Sharma 1 Score: 35/0
-5.5 Marcus Stoinis to Quinton de Kock W Score: 35/1 Caught by Rishabh Pant
-5.6 Marcus Stoinis to Ishan Kishan 4 Score: 39/1
-6.1 Axar Patel to Rohit Sharma 1 Score: 40/1
-6.2 Axar Patel to Ishan Kishan 0 Score: 40/1
-6.3 Axar Patel to Ishan Kishan 6 Score: 46/1
-6.4 Axar Patel to Ishan Kishan 1 Score: 47/1
-6.5 Axar Patel to Rohit Sharma Wide Score: 48/1
-6.6 Axar Patel to Rohit Sharma 1 Score: 49/1
-6.7 Axar Patel to Ishan Kishan 1 Score: 50/1
-7.1 Marcus Stoinis to Ishan Kishan 1 Score: 51/1
-7.2 Marcus Stoinis to Rohit Sharma W Score: 51/2 Caught by Shimron Hetmyer
-7.3 Marcus Stoinis to Suryakumar Yadav 0 Score: 51/2
-7.4 Marcus Stoinis to Suryakumar Yadav 0 Score: 51/2
-7.5 Marcus Stoinis to Suryakumar Yadav 1 Score: 52/2
-7.6 Marcus Stoinis to Ishan Kishan 6 Score: 58/2
-8.1 Axar Patel to Suryakumar Yadav 0 Score: 58/2
-8.2 Axar Patel to Suryakumar Yadav 1 Score: 59/2
-8.3 Axar Patel to Ishan Kishan 4 Score: 63/2
-8.4 Axar Patel to Ishan Kishan 4 Score: 67/2
-8.5 Axar Patel to Ishan Kishan 1 Score: 68/2
-8.5 Axar Patel to Ishan Kishan 4 Score: 72/2
-8.6 Axar Patel to Suryakumar Yadav 0 Score: 72/2
-9.1 Marcus Stoinis to Ishan Kishan 0 Score: 72/2
-9.2 Marcus Stoinis to Ishan Kishan 1 Score: 73/2
-9.3 Marcus Stoinis to Suryakumar Yadav 1 Score: 74/2
-9.3 Marcus Stoinis to Suryakumar Yadav 4 Score: 78/2
-9.4 Marcus Stoinis to Ishan Kishan 6 Score: 84/2
-9.5 Marcus Stoinis to Ishan Kishan 4 Score: 88/2
-9.6 Marcus Stoinis to Ishan Kishan 0 Score: 88/2
-10.1 Axar Patel to Suryakumar Yadav 1 Score: 89/2
-10.2 Axar Patel to Ishan Kishan 1 Score: 90/2
-10.3 Axar Patel to Suryakumar Yadav 0 Score: 90/2
-10.4 Axar Patel to Suryakumar Yadav 0 Score: 90/2
-10.5 Axar Patel to Suryakumar Yadav 0 Score: 90/2
-10.6 Axar Patel to Suryakumar Yadav 0 Score: 90/2
-11.1 Marcus Stoinis to Ishan Kishan 6 Score: 96/2
-11.2 Marcus Stoinis to Ishan Kishan 0 Score: 96/2
-11.3 Marcus Stoinis to Ishan Kishan 0 Score: 96/2
-11.4 Marcus Stoinis to Ishan Kishan 1 Score: 97/2
-11.5 Marcus Stoinis to Suryakumar Yadav 1 Score: 98/2
-11.6 Marcus Stoinis to Ishan Kishan 1 Score: 99/2
-12.1 Avesh Khan to Ishan Kishan 4 Score: 103/2
-12.2 Avesh Khan to Ishan Kishan 0 Score: 103/2
-12.3 Avesh Khan to Ishan Kishan 0 Score: 103/2
-12.4 Avesh Khan to Ishan Kishan 0 Score: 103/2
-12.5 Avesh Khan to Ishan Kishan 6 Score: 109/2
-12.6 Avesh Khan to Ishan Kishan 1 Score: 110/2
-13.1 Amit Mishra to Ishan Kishan 1 Score: 111/2
-13.2 Amit Mishra to Suryakumar Yadav 1 Score: 112/2
-13.3 Amit Mishra to Ishan Kishan 0 Score: 112/2
-13.4 Amit Mishra to Ishan Kishan 1 Score: 113/2
-13.5 Amit Mishra to Suryakumar Yadav 2 Score: 115/2
-13.6 Amit Mishra to Suryakumar Yadav 4 Score: 119/2
-14.1 Avesh Khan to Ishan Kishan 0 Score: 119/2
-14.2 Avesh Khan to Ishan Kishan 1 Score: 120/2
-14.3 Avesh Khan to Suryakumar Yadav 0 Score: 120/2
-14.4 Avesh Khan to Suryakumar Yadav 1 Score: 121/2
-14.5 Avesh Khan to Ishan Kishan 0 Score: 121/2
-14.6 Avesh Khan to Ishan Kishan 6 Score: 127/2
-15.1 Amit Mishra to Suryakumar Yadav 1 Score: 128/2
-15.2 Amit Mishra to Ishan Kishan 0 Score: 128/2
-15.3 Amit Mishra to Ishan Kishan 1 Score: 129/2
-15.4 Amit Mishra to Suryakumar Yadav 0 Score: 129/2
-15.5 Amit Mishra to Suryakumar Yadav 0 Score: 129/2
-15.6 Amit Mishra to Suryakumar Yadav 6 Score: 135/2
-16.1 Avesh Khan to Ishan Kishan 0 Score: 135/2
-16.2 Avesh Khan to Ishan Kishan W Score: 135/3 Caught by Ravichandran Ashwin
-16.3 Avesh Khan to Kieron Pollard 0 Score: 135/3
-16.4 Avesh Khan to Kieron Pollard 0 Score: 135/3
-16.5 Avesh Khan to Kieron Pollard 6 Score: 141/3
-16.6 Avesh Khan to Kieron Pollard 0 Score: 141/3
-17.1 Amit Mishra to Suryakumar Yadav 1 Score: 142/3
-17.2 Amit Mishra to Kieron Pollard W Score: 142/4 Caught by Rishabh Pant
-17.3 Amit Mishra to Hardik Pandya 4 Score: 146/4
-17.4 Amit Mishra to Hardik Pandya 0 Score: 146/4
-17.5 Amit Mishra to Hardik Pandya W Score: 146/5 Lbw
-17.6 Amit Mishra to Krunal Pandya 1 Score: 147/5
-18.1 Avesh Khan to Krunal Pandya 2 Score: 149/5
-18.2 Avesh Khan to Krunal Pandya 1 Score: 150/5
-18.3 Avesh Khan to Suryakumar Yadav 6 Score: 156/5
-18.4 Avesh Khan to Suryakumar Yadav 6 Score: 162/5
-18.5 Avesh Khan to Suryakumar Yadav 1 Score: 163/5
-mi won by 5 wickets
-+--------------+--------+---------+--------+---------------------------+
-| Player       |   Runs |   Balls | SR     | Out                       |
-+==============+========+=========+========+===========================+
-| Q de Kock    |     26 |      22 | 118.18 | c RR Pant b MP Stoinis    |
-+--------------+--------+---------+--------+---------------------------+
-| RG Sharma    |     11 |      16 | 68.75  | c SO Hetmyer b MP Stoinis |
-+--------------+--------+---------+--------+---------------------------+
-| SA Yadav     |     38 |      27 | 140.74 | Not out                   |
-+--------------+--------+---------+--------+---------------------------+
-| Ishan Kishan |     73 |      39 | 187.18 | c R Ashwin b Avesh Khan   |
-+--------------+--------+---------+--------+---------------------------+
-| KA Pollard   |      6 |       5 | 120.0  | c RR Pant b A Mishra      |
-+--------------+--------+---------+--------+---------------------------+
-| HH Pandya    |      4 |       3 | 133.33 | lbw b A Mishra            |
-+--------------+--------+---------+--------+---------------------------+
-| KH Pandya    |      4 |       3 | 133.33 | Not out                   |
-+--------------+--------+---------+--------+---------------------------+
-| J Yadav      |      0 |       0 | DNB    |                           |
-+--------------+--------+---------+--------+---------------------------+
-| RD Chahar    |      0 |       0 | DNB    |                           |
-+--------------+--------+---------+--------+---------------------------+
-| JJ Bumrah    |      0 |       0 | DNB    |                           |
-+--------------+--------+---------+--------+---------------------------+
-| TA Boult     |      0 |       0 | DNB    |                           |
-+--------------+--------+---------+--------+---------------------------+
-+------------+--------+---------+-----------+-------+
-| Player     |   Runs |   Overs |   Wickets | Eco   |
-+============+========+=========+===========+=======+
-| PP Shaw    |      0 |     0   |         0 | NA    |
-+------------+--------+---------+-----------+-------+
-| S Dhawan   |      0 |     0   |         0 | NA    |
-+------------+--------+---------+-----------+-------+
-| SPD Smith  |      0 |     0   |         0 | NA    |
-+------------+--------+---------+-----------+-------+
-| RR Pant    |      0 |     0   |         0 | NA    |
-+------------+--------+---------+-----------+-------+
-| SO Hetmyer |      0 |     0   |         0 | NA    |
-+------------+--------+---------+-----------+-------+
-| MP Stoinis |     39 |     4.1 |         2 | 9.36  |
-+------------+--------+---------+-----------+-------+
-| AR Patel   |     32 |     4.1 |         0 | 7.68  |
-+------------+--------+---------+-----------+-------+
-| R Ashwin   |     16 |     2   |         0 | 8.0   |
-+------------+--------+---------+-----------+-------+
-| A Mishra   |     23 |     3   |         2 | 7.67  |
-+------------+--------+---------+-----------+-------+
-| K Rabada   |     12 |     2   |         0 | 6.0   |
-+------------+--------+---------+-----------+-------+
-| Avesh Khan |     41 |     3.5 |         1 | 10.7  |
-+------------+--------+---------+-----------+-------+
