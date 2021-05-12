@@ -1,0 +1,346 @@
+['Ruturaj Gaikwad', 'Faf du Plessis', 'Moeen Ali', 'Suresh Raina', 'Ambati Rayudu', 'Ravindra Jadeja', 'MS Dhoni', 'Sam Curran', 'Dwayne Bravo', 'Shardul Thakur', 'Deepak Chahar']
+srh won the toss and chose to bat
+0.1 Deepak Chahar to David Warner 0 Score: 0/0
+0.2 Deepak Chahar to David Warner 2 Score: 2/0
+0.3 Deepak Chahar to David Warner 0 Score: 2/0
+0.4 Deepak Chahar to David Warner 1 Score: 3/0
+0.5 Deepak Chahar to Jonny Bairstow 1 Score: 4/0
+0.6 Deepak Chahar to David Warner 1 Score: 5/0
+1.1 Moeen Ali to David Warner 4 Score: 9/0
+1.2 Moeen Ali to David Warner 1 Score: 10/0
+1.3 Moeen Ali to Jonny Bairstow 0 Score: 10/0
+1.4 Moeen Ali to Jonny Bairstow 1 Score: 11/0
+1.5 Moeen Ali to David Warner 1 Score: 12/0
+1.6 Moeen Ali to Jonny Bairstow 1 Score: 13/0
+2.1 Deepak Chahar to Jonny Bairstow 1 Score: 14/0
+2.2 Deepak Chahar to David Warner 1 Score: 15/0
+2.3 Deepak Chahar to Jonny Bairstow 1 Score: 16/0
+2.4 Deepak Chahar to David Warner 6 Score: 22/0
+2.5 Deepak Chahar to David Warner 4 Score: 26/0
+2.6 Deepak Chahar to David Warner 0 Score: 26/0
+3.1 Moeen Ali to Jonny Bairstow 2 Score: 28/0
+3.2 Moeen Ali to Jonny Bairstow 4 Score: 32/0
+3.3 Moeen Ali to Jonny Bairstow 4 Score: 36/0
+3.4 Moeen Ali to Jonny Bairstow 1 Score: 37/0
+3.5 Moeen Ali to David Warner 2 Score: 39/0
+3.6 Moeen Ali to David Warner 0 Score: 39/0
+4.1 Sam Curran to Jonny Bairstow 0 Score: 39/0
+4.2 Sam Curran to Jonny Bairstow 0 Score: 39/0
+4.3 Sam Curran to Jonny Bairstow 6 Score: 45/0
+4.4 Sam Curran to Jonny Bairstow 1 Score: 46/0
+4.5 Sam Curran to David Warner 2 Score: 48/0
+4.6 Sam Curran to David Warner 3 Score: 51/0
+5.1 Ravindra Jadeja to David Warner 0 Score: 51/0
+5.2 Ravindra Jadeja to David Warner 4 Score: 55/0
+5.3 Ravindra Jadeja to David Warner 1 Score: 56/0
+5.4 Ravindra Jadeja to Jonny Bairstow 1 Score: 57/0
+5.5 Ravindra Jadeja to David Warner 1 Score: 58/0
+5.6 Ravindra Jadeja to Jonny Bairstow 0 Score: 58/0
+6.1 Sam Curran to David Warner 2 Score: 60/0
+6.2 Sam Curran to David Warner 1 Score: 61/0
+6.3 Sam Curran to Jonny Bairstow 6 Score: 67/0
+6.4 Sam Curran to Jonny Bairstow 1 Score: 68/0
+6.5 Sam Curran to David Warner 1 Score: 69/0
+6.6 Sam Curran to Jonny Bairstow 0 Score: 69/0
+7.1 Ravindra Jadeja to David Warner 4 Score: 73/0
+7.2 Ravindra Jadeja to David Warner W Score: 73/1 Bowled
+7.3 Ravindra Jadeja to Kane Williamson 1 Score: 74/1
+7.4 Ravindra Jadeja to Jonny Bairstow 4 Score: 78/1
+7.5 Ravindra Jadeja to Jonny Bairstow 2 Score: 80/1
+7.6 Ravindra Jadeja to Jonny Bairstow 6 Score: 86/1
+8.1 Sam Curran to Kane Williamson 1 Score: 87/1
+8.2 Sam Curran to Jonny Bairstow 4 Score: 91/1
+8.3 Sam Curran to Jonny Bairstow 6 Score: 97/1
+8.4 Sam Curran to Jonny Bairstow W Score: 97/2 Caught by MS Dhoni
+8.5 Sam Curran to Manish Pandey 1 Score: 98/2
+8.6 Sam Curran to Kane Williamson 2 Score: 100/2
+9.1 Ravindra Jadeja to Manish Pandey 2 Score: 102/2
+9.2 Ravindra Jadeja to Manish Pandey 1 Score: 103/2
+9.3 Ravindra Jadeja to Kane Williamson 0 Score: 103/2
+9.4 Ravindra Jadeja to Kane Williamson 6 Score: 109/2
+9.5 Ravindra Jadeja to Kane Williamson 1 Score: 110/2
+9.6 Ravindra Jadeja to Manish Pandey 1 Score: 111/2
+10.1 Shardul Thakur to Manish Pandey 1 Score: 112/2
+10.2 Shardul Thakur to Kane Williamson 0 Score: 112/2
+10.3 Shardul Thakur to Kane Williamson 1 Score: 113/2
+10.4 Shardul Thakur to Manish Pandey 0 Score: 113/2
+10.5 Shardul Thakur to Manish Pandey 0 Score: 113/2
+10.6 Shardul Thakur to Manish Pandey 6 Score: 119/2
+11.1 Ravindra Jadeja to Kane Williamson 1 Score: 120/2
+11.2 Ravindra Jadeja to Manish Pandey 0 Score: 120/2
+11.3 Ravindra Jadeja to Manish Pandey 4 Score: 124/2
+11.4 Ravindra Jadeja to Manish Pandey 0 Score: 124/2
+11.5 Ravindra Jadeja to Manish Pandey 1 Score: 125/2
+11.6 Ravindra Jadeja to Kane Williamson 2 Score: 127/2
+12.1 Shardul Thakur to Manish Pandey 1 Score: 128/2
+12.2 Shardul Thakur to Kane Williamson 0 Score: 128/2
+12.3 Shardul Thakur to Kane Williamson 1 Score: 129/2
+12.4 Shardul Thakur to Manish Pandey 1 Score: 130/2
+12.5 Shardul Thakur to Kane Williamson 0 Score: 130/2
+12.6 Shardul Thakur to Kane Williamson 0 Score: 130/2
+13.1 Deepak Chahar to Manish Pandey 2 Score: 132/2
+13.2 Deepak Chahar to Manish Pandey 1 Score: 133/2
+13.3 Deepak Chahar to Kane Williamson 1 Score: 134/2
+13.4 Deepak Chahar to Manish Pandey 1 Score: 135/2
+13.5 Deepak Chahar to Kane Williamson 4 Score: 139/2
+13.6 Deepak Chahar to Kane Williamson 1 Score: 140/2
+14.1 Shardul Thakur to Kane Williamson 1 Score: 141/2
+14.2 Shardul Thakur to Manish Pandey 1 Score: 142/2
+14.3 Shardul Thakur to Kane Williamson 1 Score: 143/2
+14.4 Shardul Thakur to Manish Pandey Wide Score: 144/2
+14.5 Shardul Thakur to Manish Pandey 1 Score: 145/2
+14.6 Shardul Thakur to Kane Williamson 0 Score: 145/2
+14.7 Shardul Thakur to Kane Williamson 1 Score: 146/2
+15.1 Deepak Chahar to Kane Williamson 4 Score: 150/2
+15.2 Deepak Chahar to Kane Williamson 4 Score: 154/2
+15.3 Deepak Chahar to Kane Williamson 6 Score: 160/2
+15.4 Deepak Chahar to Kane Williamson 1 Score: 161/2
+15.5 Deepak Chahar to Manish Pandey 1 Score: 162/2
+15.6 Deepak Chahar to Kane Williamson W Score: 162/3 Caught by Ambati Rayudu
+16.1 Dwayne Bravo to Manish Pandey 1 Score: 163/3
+16.2 Dwayne Bravo to Vijay Shankar 0 Score: 163/3
+16.3 Dwayne Bravo to Vijay Shankar 0 Score: 163/3
+16.4 Dwayne Bravo to Vijay Shankar 1 Score: 164/3
+16.5 Dwayne Bravo to Manish Pandey 1 Score: 165/3
+16.6 Dwayne Bravo to Vijay Shankar 1 Score: 166/3
+17.1 Sam Curran to Vijay Shankar 1 Score: 167/3
+17.2 Sam Curran to Manish Pandey 1 Score: 168/3
+17.3 Sam Curran to Vijay Shankar 0 Score: 168/3
+17.4 Sam Curran to Vijay Shankar 2 Score: 170/3
+17.5 Sam Curran to Vijay Shankar 4 Score: 174/3
+17.6 Sam Curran to Vijay Shankar 1 Score: 175/3
+18.1 Dwayne Bravo to Vijay Shankar 1 Score: 176/3
+18.2 Dwayne Bravo to Manish Pandey 0 Score: 176/3
+18.3 Dwayne Bravo to Manish Pandey 2 Score: 178/3
+18.4 Dwayne Bravo to Manish Pandey 0 Score: 178/3
+18.5 Dwayne Bravo to Manish Pandey 1 Score: 179/3
+18.6 Dwayne Bravo to Vijay Shankar 6 Score: 185/3
+19.1 Shardul Thakur to Manish Pandey 1 Score: 186/3
+19.2 Shardul Thakur to Vijay Shankar 4 Score: 190/3
+19.3 Shardul Thakur to Vijay Shankar 3 Score: 193/3
+19.4 Shardul Thakur to Manish Pandey 1 Score: 194/3
+19.5 Shardul Thakur to Vijay Shankar 0 Score: 194/3
+19.6 Shardul Thakur to Vijay Shankar 4 Score: 198/3
++-----------------+--------+---------+--------+-------------------------+
+| Player          |   Runs |   Balls | SR     | Out                     |
++=================+========+=========+========+=========================+
+| DA Warner       |     42 |      25 | 168.0  | bowled b RA Jadeja      |
++-----------------+--------+---------+--------+-------------------------+
+| JM Bairstow     |     53 |      25 | 212.0  | c MS Dhoni b SM Curran  |
++-----------------+--------+---------+--------+-------------------------+
+| KS Williamson   |     40 |      26 | 153.85 | c AT Rayudu b DL Chahar |
++-----------------+--------+---------+--------+-------------------------+
+| MK Pandey       |     34 |      29 | 117.24 | Not out                 |
++-----------------+--------+---------+--------+-------------------------+
+| KM Jadhav       |      0 |       0 | DNB    |                         |
++-----------------+--------+---------+--------+-------------------------+
+| Abhishek Sharma |      0 |       0 | DNB    |                         |
++-----------------+--------+---------+--------+-------------------------+
+| Rashid Khan     |      0 |       0 | DNB    |                         |
++-----------------+--------+---------+--------+-------------------------+
+| V Shankar       |     28 |      15 | 186.67 | Not out                 |
++-----------------+--------+---------+--------+-------------------------+
+| J Suchith       |      0 |       0 | DNB    |                         |
++-----------------+--------+---------+--------+-------------------------+
+| S Kaul          |      0 |       0 | DNB    |                         |
++-----------------+--------+---------+--------+-------------------------+
+| KK Ahmed        |      0 |       0 | DNB    |                         |
++-----------------+--------+---------+--------+-------------------------+
++--------------+--------+---------+-----------+-------+
+| Player       |   Runs |   Overs |   Wickets | Eco   |
++==============+========+=========+===========+=======+
+| RD Gaikwad   |      0 |       0 |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| F du Plessis |      0 |       0 |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| MM Ali       |     21 |       2 |         0 | 10.5  |
++--------------+--------+---------+-----------+-------+
+| SK Raina     |      0 |       0 |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| AT Rayudu    |      0 |       0 |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| RA Jadeja    |     43 |       4 |         1 | 10.75 |
++--------------+--------+---------+-----------+-------+
+| MS Dhoni     |      0 |       0 |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| SM Curran    |     46 |       4 |         1 | 11.5  |
++--------------+--------+---------+-----------+-------+
+| DJ Bravo     |     14 |       2 |         0 | 7.0   |
++--------------+--------+---------+-----------+-------+
+| SN Thakur    |     30 |       4 |         0 | 7.5   |
++--------------+--------+---------+-----------+-------+
+| DL Chahar    |     44 |       4 |         1 | 11.0  |
++--------------+--------+---------+-----------+-------+
+0.1 Khaleel Ahmed to Ruturaj Gaikwad 1 Score: 1/0
+0.2 Khaleel Ahmed to Faf du Plessis Wide Score: 2/0
+0.3 Khaleel Ahmed to Faf du Plessis 1 Score: 3/0
+0.4 Khaleel Ahmed to Ruturaj Gaikwad 0 Score: 3/0
+0.5 Khaleel Ahmed to Ruturaj Gaikwad 0 Score: 3/0
+0.6 Khaleel Ahmed to Ruturaj Gaikwad 1 Score: 4/0
+0.7 Khaleel Ahmed to Faf du Plessis 0 Score: 4/0
+1.1 Abhishek Sharma to Ruturaj Gaikwad 0 Score: 4/0
+1.2 Abhishek Sharma to Ruturaj Gaikwad 0 Score: 4/0
+1.3 Abhishek Sharma to Ruturaj Gaikwad 1 Score: 5/0
+1.4 Abhishek Sharma to Faf du Plessis 1 Score: 6/0
+1.5 Abhishek Sharma to Ruturaj Gaikwad 0 Score: 6/0
+1.6 Abhishek Sharma to Ruturaj Gaikwad 0 Score: 6/0
+2.1 Khaleel Ahmed to Faf du Plessis 0 Score: 6/0
+2.2 Khaleel Ahmed to Faf du Plessis 1 Score: 7/0
+2.3 Khaleel Ahmed to Ruturaj Gaikwad 1 Score: 8/0
+2.4 Khaleel Ahmed to Faf du Plessis 0 Score: 8/0
+2.5 Khaleel Ahmed to Faf du Plessis 0 Score: 8/0
+2.6 Khaleel Ahmed to Faf du Plessis 0 Score: 8/0
+3.1 Abhishek Sharma to Ruturaj Gaikwad 4 Score: 12/0
+3.2 Abhishek Sharma to Ruturaj Gaikwad 0 Score: 12/0
+3.3 Abhishek Sharma to Ruturaj Gaikwad 1 Score: 13/0
+3.4 Abhishek Sharma to Faf du Plessis 1 Score: 14/0
+3.5 Abhishek Sharma to Ruturaj Gaikwad 1 Score: 15/0
+3.6 Abhishek Sharma to Faf du Plessis 0 Score: 15/0
+4.1 Siddarth Kaul to Ruturaj Gaikwad 0 Score: 15/0
+4.2 Siddarth Kaul to Ruturaj Gaikwad 1 Score: 16/0
+4.3 Siddarth Kaul to Faf du Plessis 0 Score: 16/0
+4.4 Siddarth Kaul to Faf du Plessis 0 Score: 16/0
+4.5 Siddarth Kaul to Faf du Plessis 1 Score: 17/0
+4.6 Siddarth Kaul to Ruturaj Gaikwad 4 Score: 21/0
+5.1 Rashid Khan to Faf du Plessis 1 Score: 22/0
+5.2 Rashid Khan to Ruturaj Gaikwad 1 Score: 23/0
+5.3 Rashid Khan to Faf du Plessis 6 Score: 29/0
+5.4 Rashid Khan to Faf du Plessis 0 Score: 29/0
+5.5 Rashid Khan to Faf du Plessis 1 Score: 30/0
+5.6 Rashid Khan to Ruturaj Gaikwad 4 Score: 34/0
+6.1 Siddarth Kaul to Faf du Plessis 4 Score: 38/0
+6.2 Siddarth Kaul to Faf du Plessis 1 Score: 39/0
+6.3 Siddarth Kaul to Ruturaj Gaikwad 1 Score: 40/0
+6.4 Siddarth Kaul to Faf du Plessis 1 Score: 41/0
+6.5 Siddarth Kaul to Ruturaj Gaikwad 0 Score: 41/0
+6.6 Siddarth Kaul to Ruturaj Gaikwad 1 Score: 42/0
+7.1 Rashid Khan to Ruturaj Gaikwad 1 Score: 43/0
+7.2 Rashid Khan to Faf du Plessis 0 Score: 43/0
+7.3 Rashid Khan to Faf du Plessis 1 Score: 44/0
+7.4 Rashid Khan to Ruturaj Gaikwad 1 Score: 45/0
+7.5 Rashid Khan to Faf du Plessis 4 Score: 49/0
+7.6 Rashid Khan to Faf du Plessis 0 Score: 49/0
+8.1 Siddarth Kaul to Ruturaj Gaikwad 0 Score: 49/0
+8.2 Siddarth Kaul to Ruturaj Gaikwad W Score: 49/1 Caught by Rashid Khan
+8.3 Siddarth Kaul to Suresh Raina 6 Score: 55/1
+8.4 Siddarth Kaul to Suresh Raina 1 Score: 56/1
+8.5 Siddarth Kaul to Faf du Plessis 4 Score: 60/1
+8.6 Siddarth Kaul to Faf du Plessis 4 Score: 64/1
+9.1 Rashid Khan to Suresh Raina 4 Score: 68/1
+9.2 Rashid Khan to Suresh Raina 1 Score: 69/1
+9.3 Rashid Khan to Faf du Plessis 0 Score: 69/1
+9.4 Rashid Khan to Faf du Plessis 1 Score: 70/1
+9.5 Rashid Khan to Suresh Raina 0 Score: 70/1
+9.6 Rashid Khan to Suresh Raina 0 Score: 70/1
+10.1 Jagadeesha Suchith to Faf du Plessis 6 Score: 76/1
+10.2 Jagadeesha Suchith to Faf du Plessis 0 Score: 76/1
+10.3 Jagadeesha Suchith to Faf du Plessis 4 Score: 80/1
+10.4 Jagadeesha Suchith to Faf du Plessis 0 Score: 80/1
+10.5 Jagadeesha Suchith to Faf du Plessis 0 Score: 80/1
+10.6 Jagadeesha Suchith to Faf du Plessis 0 Score: 80/1
+11.1 Rashid Khan to Suresh Raina 0 Score: 80/1
+11.2 Rashid Khan to Suresh Raina 0 Score: 80/1
+11.3 Rashid Khan to Suresh Raina 0 Score: 80/1
+11.4 Rashid Khan to Suresh Raina W Score: 80/2 Lbw
+11.5 Rashid Khan to Ambati Rayudu 1 Score: 81/2
+11.6 Rashid Khan to Faf du Plessis 1 Score: 82/2
+12.1 Jagadeesha Suchith to Faf du Plessis 1 Score: 83/2
+12.2 Jagadeesha Suchith to Ambati Rayudu 1 Score: 84/2
+12.3 Jagadeesha Suchith to Faf du Plessis 0 Score: 84/2
+12.4 Jagadeesha Suchith to Faf du Plessis 0 Score: 84/2
+12.5 Jagadeesha Suchith to Faf du Plessis 4 Score: 88/2
+12.6 Jagadeesha Suchith to Faf du Plessis 1 Score: 89/2
+13.1 Abhishek Sharma to Faf du Plessis W Score: 89/3 Stumped
+13.2 Abhishek Sharma to Moeen Ali 1 Score: 90/3
+13.3 Abhishek Sharma to Ambati Rayudu 0 Score: 90/3
+13.4 Abhishek Sharma to Ambati Rayudu 1 Score: 91/3
+13.5 Abhishek Sharma to Moeen Ali 0 Score: 91/3
+13.6 Abhishek Sharma to Moeen Ali Wide Score: 92/3
+13.7 Abhishek Sharma to Moeen Ali 6 Score: 98/3
+14.1 Jagadeesha Suchith to Ambati Rayudu 1 Score: 99/3
+14.2 Jagadeesha Suchith to Moeen Ali 0 Score: 99/3
+14.3 Jagadeesha Suchith to Moeen Ali 1 Score: 100/3
+14.4 Jagadeesha Suchith to Ambati Rayudu 1 Score: 101/3
+14.5 Jagadeesha Suchith to Moeen Ali 0 Score: 101/3
+14.6 Jagadeesha Suchith to Moeen Ali 0 Score: 101/3
+15.1 Abhishek Sharma to Ambati Rayudu 1 Score: 102/3
+15.2 Abhishek Sharma to Moeen Ali 1 Score: 103/3
+15.3 Abhishek Sharma to Ambati Rayudu 1 Score: 104/3
+15.4 Abhishek Sharma to Moeen Ali 4 Score: 108/3
+15.5 Abhishek Sharma to Moeen Ali W Score: 108/4 Lbw
+15.6 Abhishek Sharma to Sam Curran 0 Score: 108/4
+16.1 Jagadeesha Suchith to Ambati Rayudu 0 Score: 108/4
+16.2 Jagadeesha Suchith to Ambati Rayudu 4 Score: 112/4
+16.3 Jagadeesha Suchith to Ambati Rayudu 1 Score: 113/4
+16.4 Jagadeesha Suchith to Sam Curran 0 Score: 113/4
+16.5 Jagadeesha Suchith to Sam Curran 0 Score: 113/4
+16.6 Jagadeesha Suchith to Sam Curran W Score: 113/5 Lbw
+17.1 Siddarth Kaul to Ambati Rayudu 0 Score: 113/5
+17.2 Siddarth Kaul to Ambati Rayudu W Score: 113/6 Caught by Kane Williamson
+17.3 Siddarth Kaul to MS Dhoni 1 Score: 114/6
+17.4 Siddarth Kaul to MS Dhoni 0 Score: 114/6
+17.5 Siddarth Kaul to MS Dhoni 1 Score: 115/6
+17.6 Siddarth Kaul to MS Dhoni 4 Score: 119/6
+18.1 Khaleel Ahmed to MS Dhoni W Score: 119/7 Caught by Kane Williamson
+18.2 Khaleel Ahmed to Ravindra Jadeja 4 Score: 123/7
+18.3 Khaleel Ahmed to Ravindra Jadeja 1 Score: 124/7
+18.4 Khaleel Ahmed to MS Dhoni 0 Score: 124/7
+18.5 Khaleel Ahmed to MS Dhoni 4 Score: 128/7
+18.6 Khaleel Ahmed to MS Dhoni 0 Score: 128/7
+19.1 Vijay Shankar to Ravindra Jadeja 0 Score: 128/7
+19.2 Vijay Shankar to Ravindra Jadeja 0 Score: 128/7
+19.3 Vijay Shankar to Ravindra Jadeja 4 Score: 132/7
+19.4 Vijay Shankar to Ravindra Jadeja 0 Score: 132/7
+19.5 Vijay Shankar to Ravindra Jadeja 2 Score: 134/7
+19.6 Vijay Shankar to Ravindra Jadeja 2 Score: 136/7
+srh won by 62 runs
++--------------+--------+---------+--------+---------------------------+
+| Player       |   Runs |   Balls | SR     | Out                       |
++==============+========+=========+========+===========================+
+| RD Gaikwad   |     24 |      26 | 92.31  | c Rashid Khan b S Kaul    |
++--------------+--------+---------+--------+---------------------------+
+| F du Plessis |     50 |      41 | 121.95 | stumped b Abhishek Sharma |
++--------------+--------+---------+--------+---------------------------+
+| MM Ali       |     13 |      10 | 130.0  | lbw b Abhishek Sharma     |
++--------------+--------+---------+--------+---------------------------+
+| SK Raina     |     12 |      10 | 120.0  | lbw b Rashid Khan         |
++--------------+--------+---------+--------+---------------------------+
+| AT Rayudu    |     12 |      13 | 92.31  | c KS Williamson b S Kaul  |
++--------------+--------+---------+--------+---------------------------+
+| RA Jadeja    |     13 |       8 | 162.5  | Not out                   |
++--------------+--------+---------+--------+---------------------------+
+| MS Dhoni     |     10 |       8 | 125.0  | Not out                   |
++--------------+--------+---------+--------+---------------------------+
+| SM Curran    |      0 |       4 | 0.0    | lbw b J Suchith           |
++--------------+--------+---------+--------+---------------------------+
+| DJ Bravo     |      0 |       0 | DNB    |                           |
++--------------+--------+---------+--------+---------------------------+
+| SN Thakur    |      0 |       0 | DNB    |                           |
++--------------+--------+---------+--------+---------------------------+
+| DL Chahar    |      0 |       0 | DNB    |                           |
++--------------+--------+---------+--------+---------------------------+
++-----------------+--------+---------+-----------+-------+
+| Player          |   Runs |   Overs |   Wickets | Eco   |
++=================+========+=========+===========+=======+
+| DA Warner       |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| JM Bairstow     |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| KS Williamson   |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MK Pandey       |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| KM Jadhav       |      0 |       0 |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| Abhishek Sharma |     25 |       4 |         2 | 6.25  |
++-----------------+--------+---------+-----------+-------+
+| Rashid Khan     |     28 |       4 |         1 | 7.0   |
++-----------------+--------+---------+-----------+-------+
+| V Shankar       |      8 |       1 |         0 | 8.0   |
++-----------------+--------+---------+-----------+-------+
+| J Suchith       |     25 |       4 |         1 | 6.25  |
++-----------------+--------+---------+-----------+-------+
+| S Kaul          |     35 |       4 |         2 | 8.75  |
++-----------------+--------+---------+-----------+-------+
+| KK Ahmed        |     15 |       3 |         1 | 5.0   |
++-----------------+--------+---------+-----------+-------+

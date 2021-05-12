@@ -1,0 +1,350 @@
+['Nitish Rana', 'Shubman Gill', 'Rahul Tripathi', 'Eoin Morgan', 'Andre Russell', 'Dinesh Karthik', 'Sunil Narine', 'Pat Cummins', 'Shivam Mavi', 'Varun Chakravarthy', 'Prasidh Krishna']
+pbks won the toss and chose to bat
+0.1 Shivam Mavi to KL Rahul 0 Score: 0/0
+0.2 Shivam Mavi to KL Rahul 0 Score: 0/0
+0.3 Shivam Mavi to KL Rahul Wide Score: 1/0
+0.4 Shivam Mavi to KL Rahul 1 Score: 2/0
+0.5 Shivam Mavi to Chris Gayle 0 Score: 2/0
+0.6 Shivam Mavi to Chris Gayle 0 Score: 2/0
+0.7 Shivam Mavi to Chris Gayle 0 Score: 2/0
+1.1 Pat Cummins to KL Rahul 2 Score: 4/0
+1.2 Pat Cummins to KL Rahul 4 Score: 8/0
+1.3 Pat Cummins to KL Rahul 2 Score: 10/0
+1.4 Pat Cummins to KL Rahul 2 Score: 12/0
+1.5 Pat Cummins to KL Rahul 0 Score: 12/0
+1.6 Pat Cummins to KL Rahul 1 Score: 13/0
+2.1 Shivam Mavi to KL Rahul 4 Score: 17/0
+2.2 Shivam Mavi to KL Rahul 0 Score: 17/0
+2.3 Shivam Mavi to KL Rahul 0 Score: 17/0
+2.4 Shivam Mavi to KL Rahul 1 Score: 18/0
+2.5 Shivam Mavi to Chris Gayle 4 Score: 22/0
+2.6 Shivam Mavi to Chris Gayle 0 Score: 22/0
+3.1 Pat Cummins to KL Rahul 0 Score: 22/0
+3.2 Pat Cummins to KL Rahul 0 Score: 22/0
+3.3 Pat Cummins to KL Rahul 2 Score: 24/0
+3.4 Pat Cummins to KL Rahul 0 Score: 24/0
+3.5 Pat Cummins to KL Rahul 0 Score: 24/0
+3.6 Pat Cummins to KL Rahul 6 Score: 30/0
+4.1 Varun Chakravarthy to Chris Gayle 0 Score: 30/0
+4.2 Varun Chakravarthy to Chris Gayle 2 Score: 32/0
+4.3 Varun Chakravarthy to Chris Gayle 0 Score: 32/0
+4.4 Varun Chakravarthy to Chris Gayle 0 Score: 32/0
+4.5 Varun Chakravarthy to Chris Gayle 1 Score: 33/0
+4.6 Varun Chakravarthy to KL Rahul 6 Score: 39/0
+5.1 Prasidh Krishna to Chris Gayle 0 Score: 39/0
+5.2 Prasidh Krishna to Chris Gayle 1 Score: 40/0
+5.3 Prasidh Krishna to KL Rahul 2 Score: 42/0
+5.4 Prasidh Krishna to KL Rahul 1 Score: 43/0
+5.5 Prasidh Krishna to Chris Gayle 1 Score: 44/0
+5.6 Prasidh Krishna to KL Rahul 2 Score: 46/0
+6.1 Varun Chakravarthy to Chris Gayle 1 Score: 47/0
+6.2 Varun Chakravarthy to KL Rahul 4 Score: 51/0
+6.3 Varun Chakravarthy to KL Rahul 1 Score: 52/0
+6.4 Varun Chakravarthy to Chris Gayle 6 Score: 58/0
+6.5 Varun Chakravarthy to Chris Gayle 1 Score: 59/0
+6.6 Varun Chakravarthy to KL Rahul 1 Score: 60/0
+7.1 Prasidh Krishna to KL Rahul 6 Score: 66/0
+7.2 Prasidh Krishna to KL Rahul 4 Score: 70/0
+7.3 Prasidh Krishna to KL Rahul 2 Score: 72/0
+7.4 Prasidh Krishna to KL Rahul W Score: 72/1 Bowled
+7.5 Prasidh Krishna to Mayank Agarwal 4 Score: 76/1
+7.6 Prasidh Krishna to Mayank Agarwal 1 Score: 77/1
+8.1 Varun Chakravarthy to Mayank Agarwal 1 Score: 78/1
+8.2 Varun Chakravarthy to Chris Gayle 0 Score: 78/1
+8.3 Varun Chakravarthy to Chris Gayle 4 Score: 82/1
+8.4 Varun Chakravarthy to Chris Gayle 0 Score: 82/1
+8.5 Varun Chakravarthy to Chris Gayle 4 Score: 86/1
+8.6 Varun Chakravarthy to Chris Gayle 1 Score: 87/1
+9.1 Prasidh Krishna to Chris Gayle W Score: 87/2 Bowled
+9.2 Prasidh Krishna to Nicholas Pooran 4 Score: 91/2
+9.3 Prasidh Krishna to Nicholas Pooran 0 Score: 91/2
+9.4 Prasidh Krishna to Nicholas Pooran 1 Score: 92/2
+9.5 Prasidh Krishna to Mayank Agarwal Wide Score: 93/2
+9.6 Prasidh Krishna to Mayank Agarwal 4 Score: 97/2
+9.7 Prasidh Krishna to Mayank Agarwal 1 Score: 98/2
+10.1 Varun Chakravarthy to Mayank Agarwal 0 Score: 98/2
+10.2 Varun Chakravarthy to Mayank Agarwal 0 Score: 98/2
+10.3 Varun Chakravarthy to Mayank Agarwal 6 Score: 104/2
+10.4 Varun Chakravarthy to Mayank Agarwal 1 Score: 105/2
+10.5 Varun Chakravarthy to Nicholas Pooran 0 Score: 105/2
+10.6 Varun Chakravarthy to Nicholas Pooran 0 Score: 105/2
+11.1 Sunil Narine to Mayank Agarwal 1 Score: 106/2
+11.2 Sunil Narine to Nicholas Pooran 0 Score: 106/2
+11.3 Sunil Narine to Nicholas Pooran 0 Score: 106/2
+11.4 Sunil Narine to Nicholas Pooran 0 Score: 106/2
+11.5 Sunil Narine to Nicholas Pooran 1 Score: 107/2
+11.6 Sunil Narine to Mayank Agarwal 0 Score: 107/2
+12.1 Prasidh Krishna to Nicholas Pooran 0 Score: 107/2
+12.2 Prasidh Krishna to Nicholas Pooran Wide Score: 108/2
+12.3 Prasidh Krishna to Nicholas Pooran 0 Score: 108/2
+12.4 Prasidh Krishna to Nicholas Pooran W Score: 108/3 Caught by Shivam Mavi
+12.5 Prasidh Krishna to Deepak Hooda 1 Score: 109/3
+12.6 Prasidh Krishna to Mayank Agarwal 0 Score: 109/3
+12.7 Prasidh Krishna to Mayank Agarwal 1 Score: 110/3
+13.1 Sunil Narine to Mayank Agarwal 0 Score: 110/3
+13.2 Sunil Narine to Mayank Agarwal 0 Score: 110/3
+13.3 Sunil Narine to Mayank Agarwal 1 Score: 111/3
+13.4 Sunil Narine to Deepak Hooda 0 Score: 111/3
+13.5 Sunil Narine to Deepak Hooda 0 Score: 111/3
+13.6 Sunil Narine to Deepak Hooda 0 Score: 111/3
+14.1 Rahul Tripathi to Mayank Agarwal 1 Score: 112/3
+14.2 Rahul Tripathi to Deepak Hooda 1 Score: 113/3
+14.3 Rahul Tripathi to Mayank Agarwal 4 Score: 117/3
+14.4 Rahul Tripathi to Mayank Agarwal 4 Score: 121/3
+14.5 Rahul Tripathi to Mayank Agarwal 6 Score: 127/3
+14.6 Rahul Tripathi to Mayank Agarwal 2 Score: 129/3
+15.1 Sunil Narine to Deepak Hooda 1 Score: 130/3
+15.2 Sunil Narine to Mayank Agarwal 1 Score: 131/3
+15.3 Sunil Narine to Deepak Hooda 0 Score: 131/3
+15.4 Sunil Narine to Deepak Hooda 0 Score: 131/3
+15.5 Sunil Narine to Deepak Hooda 2 Score: 133/3
+15.6 Sunil Narine to Deepak Hooda 1 Score: 134/3
+16.1 Rahul Tripathi to Deepak Hooda 1 Score: 135/3
+16.2 Rahul Tripathi to Mayank Agarwal 0 Score: 135/3
+16.3 Rahul Tripathi to Mayank Agarwal 0 Score: 135/3
+16.4 Rahul Tripathi to Mayank Agarwal 4 Score: 139/3
+16.5 Rahul Tripathi to Mayank Agarwal 4 Score: 143/3
+16.6 Rahul Tripathi to Mayank Agarwal 1 Score: 144/3
+17.1 Pat Cummins to Mayank Agarwal 0 Score: 144/3
+17.2 Pat Cummins to Mayank Agarwal 0 Score: 144/3
+17.3 Pat Cummins to Mayank Agarwal 0 Score: 144/3
+17.4 Pat Cummins to Mayank Agarwal 0 Score: 144/3
+17.5 Pat Cummins to Mayank Agarwal W Score: 144/4 Caught by Andre Russell
+17.6 Pat Cummins to Shahrukh Khan 0 Score: 144/4
+18.1 Andre Russell to Deepak Hooda 2 Score: 146/4
+18.2 Andre Russell to Deepak Hooda Wide Score: 147/4
+18.3 Andre Russell to Deepak Hooda 1 Score: 148/4
+18.4 Andre Russell to Shahrukh Khan 6 Score: 154/4
+18.5 Andre Russell to Shahrukh Khan 1 Score: 155/4
+18.6 Andre Russell to Deepak Hooda Wide Score: 156/4
+18.7 Andre Russell to Deepak Hooda W Score: 158/5 Run Out!
+18.8 Andre Russell to Chris Jordan 6 Score: 164/5
+19.1 Pat Cummins to Shahrukh Khan 2 Score: 166/5
+19.2 Pat Cummins to Shahrukh Khan 4 Score: 170/5
+19.3 Pat Cummins to Shahrukh Khan 1 Score: 171/5
+19.4 Pat Cummins to Chris Jordan W Score: 171/6 Caught by Dinesh Karthik
+19.5 Pat Cummins to Harpreet Brar 4 Score: 175/6
+19.6 Pat Cummins to Harpreet Brar 1 Score: 176/6
++-----------------+--------+---------+--------+-----------------------------------+
+| Player          |   Runs |   Balls | SR     | Out                               |
++=================+========+=========+========+===================================+
+| KL Rahul        |     54 |      30 | 180.0  | bowled b M Prasidh Krishna        |
++-----------------+--------+---------+--------+-----------------------------------+
+| MA Agarwal      |     48 |      32 | 150.0  | c AD Russell b PJ Cummins         |
++-----------------+--------+---------+--------+-----------------------------------+
+| CH Gayle        |     26 |      22 | 118.18 | bowled b M Prasidh Krishna        |
++-----------------+--------+---------+--------+-----------------------------------+
+| DJ Hooda        |     12 |      14 | 85.71  | Not out                           |
++-----------------+--------+---------+--------+-----------------------------------+
+| N Pooran        |      6 |      12 | 50.0   | c Shivam Mavi b M Prasidh Krishna |
++-----------------+--------+---------+--------+-----------------------------------+
+| M Shahrukh Khan |     14 |       6 | 233.33 | Not out                           |
++-----------------+--------+---------+--------+-----------------------------------+
+| Harpreet Brar   |      5 |       2 | 250.0  | Not out                           |
++-----------------+--------+---------+--------+-----------------------------------+
+| RP Meredith     |      0 |       0 | DNB    |                                   |
++-----------------+--------+---------+--------+-----------------------------------+
+| Ravi Bishnoi    |      0 |       0 | DNB    |                                   |
++-----------------+--------+---------+--------+-----------------------------------+
+| Mohammed Shami  |      0 |       0 | DNB    |                                   |
++-----------------+--------+---------+--------+-----------------------------------+
+| CJ Jordan       |      6 |       2 | 300.0  | c KD Karthik b PJ Cummins         |
++-----------------+--------+---------+--------+-----------------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| N Rana            |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Shubman Gill      |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| RA Tripathi       |     28 |       2 |         0 | 14.0  |
++-------------------+--------+---------+-----------+-------+
+| EJG Morgan        |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| AD Russell        |     20 |       1 |         0 | 20.0  |
++-------------------+--------+---------+-----------+-------+
+| KD Karthik        |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| SP Narine         |      8 |       3 |         0 | 2.67  |
++-------------------+--------+---------+-----------+-------+
+| PJ Cummins        |     31 |       4 |         2 | 7.75  |
++-------------------+--------+---------+-----------+-------+
+| Shivam Mavi       |     11 |       2 |         0 | 5.5   |
++-------------------+--------+---------+-----------+-------+
+| CV Varun          |     40 |       4 |         0 | 10.0  |
++-------------------+--------+---------+-----------+-------+
+| M Prasidh Krishna |     38 |       4 |         3 | 9.5   |
++-------------------+--------+---------+-----------+-------+
+0.1 Riley Meredith to Rahul Tripathi 4 Score: 4/0
+0.2 Riley Meredith to Rahul Tripathi 0 Score: 4/0
+0.3 Riley Meredith to Rahul Tripathi 0 Score: 4/0
+0.4 Riley Meredith to Rahul Tripathi 1 Score: 5/0
+0.5 Riley Meredith to Nitish Rana 0 Score: 5/0
+0.6 Riley Meredith to Nitish Rana 0 Score: 5/0
+1.1 Harpreet Brar to Rahul Tripathi 1 Score: 6/0
+1.2 Harpreet Brar to Nitish Rana 4 Score: 10/0
+1.3 Harpreet Brar to Nitish Rana 0 Score: 10/0
+1.4 Harpreet Brar to Nitish Rana 0 Score: 10/0
+1.5 Harpreet Brar to Nitish Rana 0 Score: 10/0
+1.6 Harpreet Brar to Nitish Rana 1 Score: 11/0
+2.1 Riley Meredith to Nitish Rana 2 Score: 13/0
+2.2 Riley Meredith to Nitish Rana 6 Score: 19/0
+2.3 Riley Meredith to Nitish Rana 0 Score: 19/0
+2.4 Riley Meredith to Nitish Rana 1 Score: 20/0
+2.5 Riley Meredith to Rahul Tripathi 2 Score: 22/0
+2.6 Riley Meredith to Rahul Tripathi 0 Score: 22/0
+3.1 Harpreet Brar to Nitish Rana 4 Score: 26/0
+3.2 Harpreet Brar to Nitish Rana 0 Score: 26/0
+3.3 Harpreet Brar to Nitish Rana 1 Score: 27/0
+3.4 Harpreet Brar to Rahul Tripathi 1 Score: 28/0
+3.5 Harpreet Brar to Nitish Rana 1 Score: 29/0
+3.6 Harpreet Brar to Rahul Tripathi 1 Score: 30/0
+4.1 Chris Jordan to Rahul Tripathi 4 Score: 34/0
+4.2 Chris Jordan to Rahul Tripathi 0 Score: 34/0
+4.3 Chris Jordan to Rahul Tripathi 4 Score: 38/0
+4.4 Chris Jordan to Rahul Tripathi 1 Score: 39/0
+4.5 Chris Jordan to Nitish Rana 4 Score: 43/0
+4.6 Chris Jordan to Nitish Rana 1 Score: 44/0
+5.1 Mohammed Shami to Nitish Rana 0 Score: 44/0
+5.2 Mohammed Shami to Nitish Rana 0 Score: 44/0
+5.3 Mohammed Shami to Nitish Rana 4 Score: 48/0
+5.4 Mohammed Shami to Nitish Rana 0 Score: 48/0
+5.5 Mohammed Shami to Nitish Rana 0 Score: 48/0
+5.6 Mohammed Shami to Nitish Rana 0 Score: 48/0
+6.1 Chris Jordan to Rahul Tripathi 4 Score: 52/0
+6.2 Chris Jordan to Rahul Tripathi 0 Score: 52/0
+6.3 Chris Jordan to Rahul Tripathi W Score: 52/1 Caught by Chris Gayle
+6.4 Chris Jordan to Sunil Narine 4 Score: 56/1
+6.5 Chris Jordan to Sunil Narine 0 Score: 56/1
+6.6 Chris Jordan to Sunil Narine 0 Score: 56/1
+7.1 Mohammed Shami to Nitish Rana 0 Score: 56/1
+7.2 Mohammed Shami to Nitish Rana 0 Score: 56/1
+7.3 Mohammed Shami to Nitish Rana 6 Score: 62/1
+7.4 Mohammed Shami to Nitish Rana 6 Score: 68/1
+7.5 Mohammed Shami to Nitish Rana 0 Score: 68/1
+7.6 Mohammed Shami to Nitish Rana 0 Score: 68/1
+8.1 Chris Jordan to Sunil Narine W Score: 68/2 Caught by KL Rahul
+8.2 Chris Jordan to Shubman Gill 0 Score: 68/2
+8.3 Chris Jordan to Shubman Gill 4 Score: 72/2
+8.4 Chris Jordan to Shubman Gill 0 Score: 72/2
+8.5 Chris Jordan to Shubman Gill Wide Score: 73/2
+8.6 Chris Jordan to Shubman Gill 1 Score: 74/2
+8.6 Chris Jordan to Shubman Gill 4 Score: 78/2
+8.7 Chris Jordan to Nitish Rana 1 Score: 79/2
+9.1 Mohammed Shami to Nitish Rana 1 Score: 80/2
+9.2 Mohammed Shami to Shubman Gill 6 Score: 86/2
+9.3 Mohammed Shami to Shubman Gill 0 Score: 86/2
+9.4 Mohammed Shami to Shubman Gill 4 Score: 90/2
+9.5 Mohammed Shami to Shubman Gill 1 Score: 91/2
+9.6 Mohammed Shami to Nitish Rana 4 Score: 95/2
+10.1 Ravi Bishnoi to Shubman Gill 0 Score: 95/2
+10.2 Ravi Bishnoi to Shubman Gill 0 Score: 95/2
+10.3 Ravi Bishnoi to Shubman Gill 0 Score: 95/2
+10.4 Ravi Bishnoi to Shubman Gill 0 Score: 95/2
+10.5 Ravi Bishnoi to Shubman Gill 1 Score: 96/2
+10.6 Ravi Bishnoi to Nitish Rana 0 Score: 96/2
+11.1 Chris Gayle to Shubman Gill 1 Score: 97/2
+11.1 Chris Gayle to Shubman Gill 4 Score: 101/2
+11.2 Chris Gayle to Nitish Rana 0 Score: 101/2
+11.3 Chris Gayle to Nitish Rana W Score: 101/3 Caught by Mayank Agarwal
+11.4 Chris Gayle to Eoin Morgan 0 Score: 101/3
+11.5 Chris Gayle to Eoin Morgan 0 Score: 101/3
+11.6 Chris Gayle to Eoin Morgan 1 Score: 102/3
+12.1 Ravi Bishnoi to Eoin Morgan 1 Score: 103/3
+12.2 Ravi Bishnoi to Shubman Gill 1 Score: 104/3
+12.3 Ravi Bishnoi to Eoin Morgan 0 Score: 104/3
+12.4 Ravi Bishnoi to Eoin Morgan 1 Score: 105/3
+12.5 Ravi Bishnoi to Shubman Gill 0 Score: 105/3
+12.6 Ravi Bishnoi to Shubman Gill 0 Score: 105/3
+13.1 Chris Gayle to Eoin Morgan 6 Score: 111/3
+13.2 Chris Gayle to Eoin Morgan 0 Score: 111/3
+13.3 Chris Gayle to Eoin Morgan 6 Score: 117/3
+13.4 Chris Gayle to Eoin Morgan 1 Score: 118/3
+13.5 Chris Gayle to Shubman Gill 1 Score: 119/3
+13.6 Chris Gayle to Eoin Morgan 1 Score: 120/3
+14.1 Ravi Bishnoi to Eoin Morgan 0 Score: 120/3
+14.2 Ravi Bishnoi to Eoin Morgan 1 Score: 121/3
+14.3 Ravi Bishnoi to Shubman Gill 0 Score: 121/3
+14.4 Ravi Bishnoi to Shubman Gill 3 Score: 124/3
+14.5 Ravi Bishnoi to Eoin Morgan 0 Score: 124/3
+14.6 Ravi Bishnoi to Eoin Morgan 0 Score: 124/3
+15.1 Chris Gayle to Shubman Gill 0 Score: 124/3
+15.2 Chris Gayle to Shubman Gill 1 Score: 125/3
+15.3 Chris Gayle to Eoin Morgan W Score: 125/4 Caught by Chris Jordan
+15.4 Chris Gayle to Dinesh Karthik 1 Score: 126/4
+15.5 Chris Gayle to Shubman Gill 4 Score: 130/4
+15.6 Chris Gayle to Shubman Gill W Score: 130/5 Caught by Ravi Bishnoi
+16.1 Ravi Bishnoi to Dinesh Karthik 4 Score: 134/5
+16.2 Ravi Bishnoi to Dinesh Karthik 1 Score: 135/5
+16.3 Ravi Bishnoi to Andre Russell 6 Score: 141/5
+16.4 Ravi Bishnoi to Andre Russell 0 Score: 141/5
+16.5 Ravi Bishnoi to Andre Russell 0 Score: 141/5
+16.6 Ravi Bishnoi to Andre Russell 0 Score: 141/5
+17.1 Riley Meredith to Dinesh Karthik 1 Score: 142/5
+17.2 Riley Meredith to Andre Russell 0 Score: 142/5
+17.3 Riley Meredith to Andre Russell Wide Score: 143/5
+17.4 Riley Meredith to Andre Russell 0 Score: 143/5
+17.5 Riley Meredith to Andre Russell W Score: 143/6 Caught by KL Rahul
+17.6 Riley Meredith to Pat Cummins 4 Score: 147/6
+17.7 Riley Meredith to Pat Cummins 6 Score: 153/6
+18.1 Mohammed Shami to Dinesh Karthik 1 Score: 154/6
+18.2 Mohammed Shami to Pat Cummins 4 Score: 158/6
+18.3 Mohammed Shami to Pat Cummins 6 Score: 164/6
+18.4 Mohammed Shami to Pat Cummins 0 Score: 164/6
+18.5 Mohammed Shami to Pat Cummins 1 Score: 165/6
+18.6 Mohammed Shami to Dinesh Karthik 1 Score: 166/6
+19.1 Riley Meredith to Dinesh Karthik 0 Score: 166/6
+19.2 Riley Meredith to Dinesh Karthik 6 Score: 172/6
+19.3 Riley Meredith to Dinesh Karthik Wide Score: 173/6
+19.4 Riley Meredith to Dinesh Karthik 6 Score: 179/6
+kkr won by 4 wickets
++-------------------+--------+---------+--------+---------------------------+
+| Player            |   Runs |   Balls | SR     | Out                       |
++===================+========+=========+========+===========================+
+| N Rana            |     47 |      35 | 134.29 | c MA Agarwal b CH Gayle   |
++-------------------+--------+---------+--------+---------------------------+
+| Shubman Gill      |     36 |      26 | 138.46 | c Ravi Bishnoi b CH Gayle |
++-------------------+--------+---------+--------+---------------------------+
+| RA Tripathi       |     23 |      16 | 143.75 | c CH Gayle b CJ Jordan    |
++-------------------+--------+---------+--------+---------------------------+
+| EJG Morgan        |     18 |      16 | 112.5  | c CJ Jordan b CH Gayle    |
++-------------------+--------+---------+--------+---------------------------+
+| AD Russell        |      6 |       7 | 85.71  | c KL Rahul b RP Meredith  |
++-------------------+--------+---------+--------+---------------------------+
+| KD Karthik        |     21 |       9 | 233.33 | Not out                   |
++-------------------+--------+---------+--------+---------------------------+
+| SP Narine         |      4 |       4 | 100.0  | c KL Rahul b CJ Jordan    |
++-------------------+--------+---------+--------+---------------------------+
+| PJ Cummins        |     21 |       6 | 350.0  | Not out                   |
++-------------------+--------+---------+--------+---------------------------+
+| Shivam Mavi       |      0 |       0 | DNB    |                           |
++-------------------+--------+---------+--------+---------------------------+
+| CV Varun          |      0 |       0 | DNB    |                           |
++-------------------+--------+---------+--------+---------------------------+
+| M Prasidh Krishna |      0 |       0 | DNB    |                           |
++-------------------+--------+---------+--------+---------------------------+
++-----------------+--------+---------+-----------+-------+
+| Player          |   Runs |   Overs |   Wickets | Eco   |
++=================+========+=========+===========+=======+
+| KL Rahul        |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| MA Agarwal      |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| CH Gayle        |     27 |     3.1 |         3 | 8.53  |
++-----------------+--------+---------+-----------+-------+
+| DJ Hooda        |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| N Pooran        |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| M Shahrukh Khan |      0 |     0   |         0 | NA    |
++-----------------+--------+---------+-----------+-------+
+| Harpreet Brar   |     14 |     2   |         0 | 7.0   |
++-----------------+--------+---------+-----------+-------+
+| RP Meredith     |     41 |     3.3 |         1 | 11.71 |
++-----------------+--------+---------+-----------+-------+
+| Ravi Bishnoi    |     19 |     4   |         0 | 4.75  |
++-----------------+--------+---------+-----------+-------+
+| Mohammed Shami  |     45 |     4   |         0 | 11.25 |
++-----------------+--------+---------+-----------+-------+
+| CJ Jordan       |     33 |     3.1 |         2 | 10.42 |
++-----------------+--------+---------+-----------+-------+

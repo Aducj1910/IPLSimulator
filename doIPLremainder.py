@@ -252,23 +252,23 @@ def playoffs(reslist, team1, team2):
 
 
 print(f"Qualifier 1 {q1[0]} vs {q1[1]}")
-resList = game(False, q1[0], q1[1], "q1")
+resList = game(False, q1[0].lower(), q1[1].lower(), "q1")
 dict = playoffs(resList, q1[0], q1[1])
 final.append(dict['win'])
 q2.append(dict['lose'])
 
 print(f"Eliminator {elim[0]} vs {elim[1]}")
-resList = game(False, elim[0], elim[1], "eliminator")
+resList = game(False, elim[0].lower(), elim[1].lower(), "eliminator")
 dict = playoffs(resList, elim[0], elim[1])
 q2.append(dict['win'])
 
 print(f"Qualifier 2 {q2[0]} vs {q2[1]}")
-resList = game(False, q2[0], q2[1], "q2")
+resList = game(False, q2[0].lower(), q2[1].lower(), "q2")
 dict = playoffs(resList, q2[0], q2[1])
 final.append(dict['win'])
 
 print(f"Final {final[0]} vs {final[1]}")
-resList = game(False, final[0], final[1], "final")
+resList = game(False, final[0].lower(), final[1].lower(), "final")
 dict = playoffs(resList, final[0], final[1])
 print(f"{dict['win'].upper()} WINS THE IPL!!!")
 
