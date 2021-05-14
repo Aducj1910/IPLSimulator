@@ -1,157 +1,157 @@
 ['Nitish Rana', 'Shubman Gill', 'Rahul Tripathi', 'Eoin Morgan', 'Andre Russell', 'Dinesh Karthik', 'Sunil Narine', 'Pat Cummins', 'Shivam Mavi', 'Varun Chakravarthy', 'Prasidh Krishna']
-kkr won the toss and chose to field
-0.1 Shivam Mavi to Manan Vohra 1 Score: 1/0
-0.2 Shivam Mavi to Sanju Samson Wide Score: 2/0
-0.3 Shivam Mavi to Sanju Samson 0 Score: 2/0
-0.4 Shivam Mavi to Sanju Samson 1 Score: 3/0
-0.5 Shivam Mavi to Manan Vohra 1 Score: 4/0
-0.6 Shivam Mavi to Sanju Samson 1 Score: 5/0
-0.7 Shivam Mavi to Manan Vohra 0 Score: 5/0
-1.1 Pat Cummins to Sanju Samson 1 Score: 6/0
-1.2 Pat Cummins to Manan Vohra 0 Score: 6/0
-1.3 Pat Cummins to Manan Vohra 0 Score: 6/0
-1.4 Pat Cummins to Manan Vohra 0 Score: 6/0
-1.5 Pat Cummins to Manan Vohra 0 Score: 6/0
-1.6 Pat Cummins to Manan Vohra 0 Score: 6/0
-2.1 Shivam Mavi to Sanju Samson 0 Score: 6/0
-2.2 Shivam Mavi to Sanju Samson 0 Score: 6/0
-2.3 Shivam Mavi to Sanju Samson 1 Score: 7/0
-2.4 Shivam Mavi to Manan Vohra 1 Score: 8/0
-2.5 Shivam Mavi to Sanju Samson 6 Score: 14/0
-2.6 Shivam Mavi to Sanju Samson 4 Score: 18/0
-3.1 Pat Cummins to Manan Vohra 4 Score: 22/0
-3.2 Pat Cummins to Manan Vohra W Score: 22/1 Lbw
-3.3 Pat Cummins to Jos Buttler 1 Score: 23/1
-3.4 Pat Cummins to Sanju Samson 1 Score: 24/1
-3.5 Pat Cummins to Jos Buttler 4 Score: 28/1
-3.6 Pat Cummins to Jos Buttler 6 Score: 34/1
-4.1 Sunil Narine to Sanju Samson 1 Score: 35/1
-4.2 Sunil Narine to Jos Buttler 0 Score: 35/1
-4.3 Sunil Narine to Jos Buttler 1 Score: 36/1
-4.4 Sunil Narine to Sanju Samson 3 Score: 39/1
-4.5 Sunil Narine to Jos Buttler 0 Score: 39/1
-4.6 Sunil Narine to Jos Buttler 1 Score: 40/1
-5.1 Prasidh Krishna to Jos Buttler 1 Score: 41/1
-5.2 Prasidh Krishna to Sanju Samson 0 Score: 41/1
-5.3 Prasidh Krishna to Sanju Samson 1 Score: 42/1
-5.4 Prasidh Krishna to Jos Buttler 1 Score: 43/1
-5.5 Prasidh Krishna to Sanju Samson 2 Score: 45/1
-5.6 Prasidh Krishna to Sanju Samson 0 Score: 45/1
-6.1 Sunil Narine to Jos Buttler 1 Score: 46/1
-6.2 Sunil Narine to Sanju Samson 4 Score: 50/1
-6.3 Sunil Narine to Sanju Samson 1 Score: 51/1
-6.4 Sunil Narine to Jos Buttler 1 Score: 52/1
-6.5 Sunil Narine to Sanju Samson 1 Score: 53/1
-6.6 Sunil Narine to Jos Buttler 1 Score: 54/1
-7.1 Prasidh Krishna to Jos Buttler 1 Score: 55/1
-7.2 Prasidh Krishna to Sanju Samson 0 Score: 55/1
-7.3 Prasidh Krishna to Sanju Samson 0 Score: 55/1
-7.4 Prasidh Krishna to Sanju Samson 0 Score: 55/1
-7.5 Prasidh Krishna to Sanju Samson Wide Score: 56/1
-7.6 Prasidh Krishna to Sanju Samson 4 Score: 60/1
-7.7 Prasidh Krishna to Sanju Samson 1 Score: 61/1
-8.1 Sunil Narine to Sanju Samson 0 Score: 61/1
-8.2 Sunil Narine to Sanju Samson W Score: 63/2 Run Out!
-8.3 Sunil Narine to David Miller 1 Score: 64/2
-8.4 Sunil Narine to Jos Buttler 1 Score: 65/2
-8.5 Sunil Narine to David Miller 1 Score: 66/2
-8.6 Sunil Narine to Jos Buttler 1 Score: 67/2
-9.1 Prasidh Krishna to Jos Buttler 1 Score: 68/2
-9.2 Prasidh Krishna to David Miller 1 Score: 69/2
-9.3 Prasidh Krishna to Jos Buttler 0 Score: 69/2
-9.4 Prasidh Krishna to Jos Buttler 0 Score: 69/2
-9.5 Prasidh Krishna to Jos Buttler 4 Score: 73/2
-9.6 Prasidh Krishna to Jos Buttler 0 Score: 73/2
-10.1 Sunil Narine to David Miller 4 Score: 77/2
-10.2 Sunil Narine to David Miller 4 Score: 81/2
-10.3 Sunil Narine to David Miller 0 Score: 81/2
-10.4 Sunil Narine to David Miller 0 Score: 81/2
-10.5 Sunil Narine to David Miller 0 Score: 81/2
-10.6 Sunil Narine to David Miller 4 Score: 85/2
-11.1 Varun Chakravarthy to Jos Buttler 4 Score: 89/2
-11.2 Varun Chakravarthy to Jos Buttler W Score: 89/3 Caught by Nitish Rana
-11.3 Varun Chakravarthy to Shivam Dube 1 Score: 90/3
-11.4 Varun Chakravarthy to David Miller 4 Score: 94/3
-11.5 Varun Chakravarthy to David Miller 1 Score: 95/3
-11.6 Varun Chakravarthy to Shivam Dube 0 Score: 95/3
-12.1 Prasidh Krishna to David Miller 1 Score: 96/3
-12.2 Prasidh Krishna to Shivam Dube 0 Score: 96/3
-12.3 Prasidh Krishna to Shivam Dube 0 Score: 96/3
-12.4 Prasidh Krishna to Shivam Dube 0 Score: 96/3
-12.5 Prasidh Krishna to Shivam Dube 4 Score: 100/3
-12.6 Prasidh Krishna to Shivam Dube 0 Score: 100/3
-13.1 Varun Chakravarthy to David Miller 1 Score: 101/3
-13.2 Varun Chakravarthy to Shivam Dube 0 Score: 101/3
-13.3 Varun Chakravarthy to Shivam Dube 0 Score: 101/3
-13.4 Varun Chakravarthy to Shivam Dube 2 Score: 103/3
-13.5 Varun Chakravarthy to Shivam Dube 1 Score: 104/3
-13.6 Varun Chakravarthy to David Miller 1 Score: 105/3
-14.1 Nitish Rana to David Miller 2 Score: 107/3
-14.2 Nitish Rana to David Miller 0 Score: 107/3
-14.3 Nitish Rana to David Miller 0 Score: 107/3
-14.4 Nitish Rana to David Miller Wide Score: 108/3
-14.5 Nitish Rana to David Miller 2 Score: 110/3
-14.6 Nitish Rana to David Miller 0 Score: 110/3
-14.7 Nitish Rana to David Miller 0 Score: 110/3
-15.1 Varun Chakravarthy to Shivam Dube 1 Score: 111/3
-15.2 Varun Chakravarthy to David Miller 0 Score: 111/3
-15.3 Varun Chakravarthy to David Miller 1 Score: 112/3
-15.4 Varun Chakravarthy to Shivam Dube 0 Score: 112/3
-15.5 Varun Chakravarthy to Shivam Dube 1 Score: 113/3
-15.6 Varun Chakravarthy to David Miller W Score: 115/4 Run Out!
-16.1 Nitish Rana to Shivam Dube 1 Score: 116/4
-16.2 Nitish Rana to Riyan Parag 1 Score: 117/4
-16.3 Nitish Rana to Shivam Dube 0 Score: 117/4
-16.4 Nitish Rana to Shivam Dube 1 Score: 118/4
-16.5 Nitish Rana to Riyan Parag 6 Score: 124/4
-16.6 Nitish Rana to Riyan Parag 0 Score: 124/4
-17.1 Pat Cummins to Shivam Dube 1 Score: 125/4
-17.2 Pat Cummins to Riyan Parag 0 Score: 125/4
-17.3 Pat Cummins to Riyan Parag 1 Score: 126/4
-17.4 Pat Cummins to Shivam Dube 4 Score: 130/4
-17.5 Pat Cummins to Shivam Dube 0 Score: 130/4
-17.6 Pat Cummins to Shivam Dube 1 Score: 131/4
-18.1 Andre Russell to Shivam Dube 0 Score: 131/4
-18.2 Andre Russell to Shivam Dube 6 Score: 137/4
-18.3 Andre Russell to Shivam Dube 4 Score: 141/4
-18.4 Andre Russell to Shivam Dube 1 Score: 142/4
-18.5 Andre Russell to Riyan Parag 0 Score: 142/4
-18.6 Andre Russell to Riyan Parag 4 Score: 146/4
-19.1 Pat Cummins to Shivam Dube 1 Score: 147/4
-19.2 Pat Cummins to Riyan Parag 0 Score: 147/4
-19.3 Pat Cummins to Riyan Parag 1 Score: 148/4
-19.4 Pat Cummins to Shivam Dube 1 Score: 149/4
-19.5 Pat Cummins to Riyan Parag W Score: 149/5 Bowled
-19.6 Pat Cummins to Rahul Tewatia 0 Score: 149/5
-+-------------------+--------+---------+--------+---------------------+
-| Player            |   Runs |   Balls | SR     | Out                 |
-+===================+========+=========+========+=====================+
-| JC Buttler        |     30 |      22 | 136.36 | c N Rana b CV Varun |
-+-------------------+--------+---------+--------+---------------------+
-| M Vohra           |      7 |      11 | 63.64  | lbw b PJ Cummins    |
-+-------------------+--------+---------+--------+---------------------+
-| SV Samson         |     35 |      26 | 134.62 | Not out             |
-+-------------------+--------+---------+--------+---------------------+
-| S Dube            |     31 |      27 | 114.81 | Not out             |
-+-------------------+--------+---------+--------+---------------------+
-| DA Miller         |     30 |      23 | 130.43 | Not out             |
-+-------------------+--------+---------+--------+---------------------+
-| R Parag           |     13 |      10 | 130.0  | bowled b PJ Cummins |
-+-------------------+--------+---------+--------+---------------------+
-| R Tewatia         |      0 |       1 | 0.0    | Not out             |
-+-------------------+--------+---------+--------+---------------------+
-| CH Morris         |      0 |       0 | DNB    |                     |
-+-------------------+--------+---------+--------+---------------------+
-| JD Unadkat        |      0 |       0 | DNB    |                     |
-+-------------------+--------+---------+--------+---------------------+
-| C Sakariya        |      0 |       0 | DNB    |                     |
-+-------------------+--------+---------+--------+---------------------+
-| Mustafizur Rahman |      0 |       0 | DNB    |                     |
-+-------------------+--------+---------+--------+---------------------+
+rr won the toss and chose to bat
+0.1 Shivam Mavi to Manan Vohra 0 Score: 0/0
+0.2 Shivam Mavi to Manan Vohra 4 Score: 4/0
+0.3 Shivam Mavi to Manan Vohra 1 Score: 5/0
+0.4 Shivam Mavi to Sanju Samson 0 Score: 5/0
+0.5 Shivam Mavi to Sanju Samson 1 Score: 6/0
+0.6 Shivam Mavi to Manan Vohra 1 Score: 7/0
+1.1 Pat Cummins to Manan Vohra 0 Score: 7/0
+1.2 Pat Cummins to Manan Vohra 1 Score: 8/0
+1.3 Pat Cummins to Sanju Samson 1 Score: 9/0
+1.4 Pat Cummins to Manan Vohra 0 Score: 9/0
+1.5 Pat Cummins to Manan Vohra 2 Score: 11/0
+1.6 Pat Cummins to Manan Vohra 1 Score: 12/0
+2.1 Shivam Mavi to Manan Vohra 0 Score: 12/0
+2.2 Shivam Mavi to Manan Vohra 4 Score: 16/0
+2.3 Shivam Mavi to Manan Vohra 0 Score: 16/0
+2.4 Shivam Mavi to Manan Vohra Wide Score: 17/0
+2.5 Shivam Mavi to Manan Vohra 0 Score: 17/0
+2.6 Shivam Mavi to Manan Vohra 2 Score: 19/0
+2.7 Shivam Mavi to Manan Vohra 1 Score: 20/0
+3.1 Pat Cummins to Manan Vohra 4 Score: 24/0
+3.2 Pat Cummins to Manan Vohra 4 Score: 28/0
+3.3 Pat Cummins to Manan Vohra 0 Score: 28/0
+3.4 Pat Cummins to Manan Vohra 6 Score: 34/0
+3.5 Pat Cummins to Manan Vohra Wide Score: 35/0
+3.6 Pat Cummins to Manan Vohra 0 Score: 35/0
+3.7 Pat Cummins to Manan Vohra 0 Score: 35/0
+4.1 Prasidh Krishna to Sanju Samson 0 Score: 35/0
+4.2 Prasidh Krishna to Sanju Samson 0 Score: 35/0
+4.3 Prasidh Krishna to Sanju Samson 1 Score: 36/0
+4.4 Prasidh Krishna to Manan Vohra 6 Score: 42/0
+4.5 Prasidh Krishna to Manan Vohra W Score: 42/1 Lbw
+4.6 Prasidh Krishna to Jos Buttler 0 Score: 42/1
+5.1 Sunil Narine to Sanju Samson 0 Score: 42/1
+5.2 Sunil Narine to Sanju Samson Wide Score: 43/1
+5.3 Sunil Narine to Sanju Samson 0 Score: 43/1
+5.4 Sunil Narine to Sanju Samson 6 Score: 49/1
+5.5 Sunil Narine to Sanju Samson 1 Score: 50/1
+5.6 Sunil Narine to Jos Buttler 4 Score: 54/1
+5.7 Sunil Narine to Jos Buttler 0 Score: 54/1
+6.1 Prasidh Krishna to Sanju Samson 1 Score: 55/1
+6.2 Prasidh Krishna to Jos Buttler 4 Score: 59/1
+6.3 Prasidh Krishna to Jos Buttler 0 Score: 59/1
+6.4 Prasidh Krishna to Jos Buttler 1 Score: 60/1
+6.5 Prasidh Krishna to Sanju Samson 1 Score: 61/1
+6.6 Prasidh Krishna to Jos Buttler 0 Score: 61/1
+7.1 Sunil Narine to Sanju Samson 0 Score: 61/1
+7.2 Sunil Narine to Sanju Samson 4 Score: 65/1
+7.3 Sunil Narine to Sanju Samson 4 Score: 69/1
+7.4 Sunil Narine to Sanju Samson 1 Score: 70/1
+7.5 Sunil Narine to Jos Buttler 0 Score: 70/1
+7.6 Sunil Narine to Jos Buttler 0 Score: 70/1
+8.1 Prasidh Krishna to Sanju Samson 1 Score: 71/1
+8.2 Prasidh Krishna to Jos Buttler 2 Score: 73/1
+8.3 Prasidh Krishna to Jos Buttler 0 Score: 73/1
+8.4 Prasidh Krishna to Jos Buttler 1 Score: 74/1
+8.5 Prasidh Krishna to Sanju Samson 1 Score: 75/1
+8.6 Prasidh Krishna to Jos Buttler 0 Score: 75/1
+9.1 Sunil Narine to Sanju Samson 0 Score: 75/1
+9.2 Sunil Narine to Sanju Samson 1 Score: 76/1
+9.3 Sunil Narine to Jos Buttler 0 Score: 76/1
+9.4 Sunil Narine to Jos Buttler 0 Score: 76/1
+9.5 Sunil Narine to Jos Buttler 6 Score: 82/1
+9.6 Sunil Narine to Jos Buttler 0 Score: 82/1
+10.1 Varun Chakravarthy to Sanju Samson 1 Score: 83/1
+10.2 Varun Chakravarthy to Jos Buttler 1 Score: 84/1
+10.3 Varun Chakravarthy to Sanju Samson 4 Score: 88/1
+10.4 Varun Chakravarthy to Sanju Samson W Score: 88/2 Bowled
+10.5 Varun Chakravarthy to David Miller 4 Score: 92/2
+10.6 Varun Chakravarthy to David Miller 4 Score: 96/2
+11.1 Sunil Narine to Jos Buttler 2 Score: 98/2
+11.2 Sunil Narine to Jos Buttler 0 Score: 98/2
+11.3 Sunil Narine to Jos Buttler 0 Score: 98/2
+11.4 Sunil Narine to Jos Buttler 1 Score: 99/2
+11.5 Sunil Narine to David Miller 4 Score: 103/2
+11.6 Sunil Narine to David Miller 0 Score: 103/2
+12.1 Varun Chakravarthy to Jos Buttler 4 Score: 107/2
+12.2 Varun Chakravarthy to Jos Buttler 6 Score: 113/2
+12.3 Varun Chakravarthy to Jos Buttler 2 Score: 115/2
+12.4 Varun Chakravarthy to Jos Buttler 2 Score: 117/2
+12.5 Varun Chakravarthy to Jos Buttler 6 Score: 123/2
+12.6 Varun Chakravarthy to Jos Buttler 1 Score: 124/2
+13.1 Andre Russell to Jos Buttler 1 Score: 125/2
+13.2 Andre Russell to David Miller 1 Score: 126/2
+13.3 Andre Russell to Jos Buttler 4 Score: 130/2
+13.4 Andre Russell to Jos Buttler 0 Score: 130/2
+13.5 Andre Russell to Jos Buttler 6 Score: 136/2
+13.6 Andre Russell to Jos Buttler 0 Score: 136/2
+14.1 Varun Chakravarthy to David Miller 1 Score: 137/2
+14.2 Varun Chakravarthy to Jos Buttler 0 Score: 137/2
+14.3 Varun Chakravarthy to Jos Buttler W Score: 137/3 Caught by Varun Chakravarthy
+14.4 Varun Chakravarthy to Shivam Dube 1 Score: 138/3
+14.5 Varun Chakravarthy to David Miller 2 Score: 140/3
+14.6 Varun Chakravarthy to David Miller 4 Score: 144/3
+15.1 Andre Russell to Shivam Dube 0 Score: 144/3
+15.2 Andre Russell to Shivam Dube 0 Score: 144/3
+15.3 Andre Russell to Shivam Dube 0 Score: 144/3
+15.4 Andre Russell to Shivam Dube 0 Score: 144/3
+15.5 Andre Russell to Shivam Dube 1 Score: 145/3
+15.6 Andre Russell to David Miller 0 Score: 145/3
+16.1 Varun Chakravarthy to Shivam Dube 1 Score: 146/3
+16.2 Varun Chakravarthy to David Miller 0 Score: 146/3
+16.3 Varun Chakravarthy to David Miller 1 Score: 147/3
+16.4 Varun Chakravarthy to Shivam Dube 4 Score: 151/3
+16.5 Varun Chakravarthy to Shivam Dube 4 Score: 155/3
+16.6 Varun Chakravarthy to Shivam Dube 1 Score: 156/3
+17.1 Andre Russell to Shivam Dube 1 Score: 157/3
+17.2 Andre Russell to David Miller 1 Score: 158/3
+17.3 Andre Russell to Shivam Dube 1 Score: 159/3
+17.4 Andre Russell to David Miller 1 Score: 160/3
+17.5 Andre Russell to Shivam Dube 0 Score: 160/3
+17.6 Andre Russell to Shivam Dube 1 Score: 161/3
+18.1 Prasidh Krishna to Shivam Dube 0 Score: 161/3
+18.2 Prasidh Krishna to Shivam Dube 0 Score: 161/3
+18.3 Prasidh Krishna to Shivam Dube 4 Score: 165/3
+18.4 Prasidh Krishna to Shivam Dube 4 Score: 169/3
+18.5 Prasidh Krishna to Shivam Dube 0 Score: 169/3
+18.6 Prasidh Krishna to Shivam Dube 4 Score: 173/3
+19.1 Andre Russell to David Miller 6 Score: 179/3
+19.2 Andre Russell to David Miller 1 Score: 180/3
+19.3 Andre Russell to Shivam Dube 2 Score: 182/3
+19.4 Andre Russell to Shivam Dube 4 Score: 186/3
+19.5 Andre Russell to Shivam Dube 6 Score: 192/3
+19.6 Andre Russell to Shivam Dube 0 Score: 192/3
++-------------------+--------+---------+--------+-------------------------+
+| Player            |   Runs |   Balls | SR     | Out                     |
++===================+========+=========+========+=========================+
+| JC Buttler        |     54 |      35 | 154.29 | c CV Varun b CV Varun   |
++-------------------+--------+---------+--------+-------------------------+
+| M Vohra           |     37 |      23 | 160.87 | lbw b M Prasidh Krishna |
++-------------------+--------+---------+--------+-------------------------+
+| SV Samson         |     29 |      23 | 126.09 | bowled b CV Varun       |
++-------------------+--------+---------+--------+-------------------------+
+| S Dube            |     39 |      24 | 162.5  | Not out                 |
++-------------------+--------+---------+--------+-------------------------+
+| DA Miller         |     30 |      15 | 200.0  | Not out                 |
++-------------------+--------+---------+--------+-------------------------+
+| R Parag           |      0 |       0 | DNB    |                         |
++-------------------+--------+---------+--------+-------------------------+
+| R Tewatia         |      0 |       0 | DNB    |                         |
++-------------------+--------+---------+--------+-------------------------+
+| CH Morris         |      0 |       0 | DNB    |                         |
++-------------------+--------+---------+--------+-------------------------+
+| JD Unadkat        |      0 |       0 | DNB    |                         |
++-------------------+--------+---------+--------+-------------------------+
+| C Sakariya        |      0 |       0 | DNB    |                         |
++-------------------+--------+---------+--------+-------------------------+
+| Mustafizur Rahman |      0 |       0 | DNB    |                         |
++-------------------+--------+---------+--------+-------------------------+
 +-------------------+--------+---------+-----------+-------+
 | Player            |   Runs |   Overs |   Wickets | Eco   |
 +===================+========+=========+===========+=======+
-| N Rana            |     14 |       2 |         0 | 7.0   |
+| N Rana            |      0 |       0 |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
 | Shubman Gill      |      0 |       0 |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
@@ -159,167 +159,168 @@ kkr won the toss and chose to field
 +-------------------+--------+---------+-----------+-------+
 | EJG Morgan        |      0 |       0 |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| AD Russell        |     15 |       1 |         0 | 15.0  |
+| AD Russell        |     37 |       4 |         0 | 9.25  |
 +-------------------+--------+---------+-----------+-------+
 | KD Karthik        |      0 |       0 |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| SP Narine         |     33 |       4 |         0 | 8.25  |
+| SP Narine         |     35 |       4 |         0 | 8.75  |
 +-------------------+--------+---------+-----------+-------+
-| PJ Cummins        |     27 |       4 |         2 | 6.75  |
+| PJ Cummins        |     20 |       2 |         0 | 10.0  |
 +-------------------+--------+---------+-----------+-------+
-| Shivam Mavi       |     17 |       2 |         0 | 8.5   |
+| Shivam Mavi       |     15 |       2 |         0 | 7.5   |
 +-------------------+--------+---------+-----------+-------+
-| CV Varun          |     20 |       3 |         1 | 6.67  |
+| CV Varun          |     54 |       4 |         2 | 13.5  |
 +-------------------+--------+---------+-----------+-------+
-| M Prasidh Krishna |     23 |       4 |         0 | 5.75  |
+| M Prasidh Krishna |     31 |       4 |         1 | 7.75  |
 +-------------------+--------+---------+-----------+-------+
 0.1 Chetan Sakariya to Rahul Tripathi 0 Score: 0/0
-0.2 Chetan Sakariya to Rahul Tripathi 0 Score: 0/0
-0.3 Chetan Sakariya to Rahul Tripathi 0 Score: 0/0
-0.4 Chetan Sakariya to Rahul Tripathi 0 Score: 0/0
-0.5 Chetan Sakariya to Rahul Tripathi 0 Score: 0/0
-0.6 Chetan Sakariya to Rahul Tripathi 0 Score: 0/0
-1.1 Jaydev Unadkat to Nitish Rana 1 Score: 1/0
-1.2 Jaydev Unadkat to Rahul Tripathi 0 Score: 1/0
-1.3 Jaydev Unadkat to Rahul Tripathi 4 Score: 5/0
-1.4 Jaydev Unadkat to Rahul Tripathi 0 Score: 5/0
-1.5 Jaydev Unadkat to Rahul Tripathi Wide Score: 6/0
-1.6 Jaydev Unadkat to Rahul Tripathi 1 Score: 7/0
-1.7 Jaydev Unadkat to Nitish Rana 0 Score: 7/0
-2.1 Chetan Sakariya to Rahul Tripathi 1 Score: 8/0
-2.2 Chetan Sakariya to Nitish Rana 0 Score: 8/0
-2.3 Chetan Sakariya to Nitish Rana 0 Score: 8/0
-2.4 Chetan Sakariya to Nitish Rana 0 Score: 8/0
-2.5 Chetan Sakariya to Nitish Rana 0 Score: 8/0
-2.6 Chetan Sakariya to Nitish Rana 1 Score: 9/0
-3.1 Jaydev Unadkat to Nitish Rana 6 Score: 15/0
-3.2 Jaydev Unadkat to Nitish Rana 6 Score: 21/0
-3.3 Jaydev Unadkat to Nitish Rana 0 Score: 21/0
-3.4 Jaydev Unadkat to Nitish Rana 0 Score: 21/0
-3.5 Jaydev Unadkat to Nitish Rana 1 Score: 22/0
-3.6 Jaydev Unadkat to Rahul Tripathi 1 Score: 23/0
-4.1 Chris Morris to Rahul Tripathi 0 Score: 23/0
-4.2 Chris Morris to Rahul Tripathi 2 Score: 25/0
-4.3 Chris Morris to Rahul Tripathi 1 Score: 26/0
-4.4 Chris Morris to Nitish Rana 0 Score: 26/0
-4.5 Chris Morris to Nitish Rana 1 Score: 27/0
-4.6 Chris Morris to Rahul Tripathi 2 Score: 29/0
-5.1 Rahul Tewatia to Nitish Rana 1 Score: 30/0
-5.2 Rahul Tewatia to Rahul Tripathi 1 Score: 31/0
-5.3 Rahul Tewatia to Nitish Rana 6 Score: 37/0
-5.4 Rahul Tewatia to Nitish Rana 0 Score: 37/0
-5.5 Rahul Tewatia to Nitish Rana 1 Score: 38/0
-5.6 Rahul Tewatia to Rahul Tripathi 1 Score: 39/0
-6.1 Chris Morris to Rahul Tripathi 4 Score: 43/0
-6.2 Chris Morris to Rahul Tripathi W Score: 43/1 Bowled
-6.3 Chris Morris to Sunil Narine 0 Score: 43/1
-6.4 Chris Morris to Sunil Narine 1 Score: 44/1
-6.5 Chris Morris to Nitish Rana 0 Score: 44/1
-6.6 Chris Morris to Nitish Rana Wide Score: 45/1
-6.7 Chris Morris to Nitish Rana 0 Score: 45/1
-7.1 Rahul Tewatia to Sunil Narine 6 Score: 51/1
-7.2 Rahul Tewatia to Sunil Narine 2 Score: 53/1
-7.3 Rahul Tewatia to Sunil Narine 1 Score: 54/1
-7.4 Rahul Tewatia to Nitish Rana 4 Score: 58/1
-7.5 Rahul Tewatia to Nitish Rana 1 Score: 59/1
-7.6 Rahul Tewatia to Sunil Narine 1 Score: 60/1
-8.1 Chris Morris to Sunil Narine 1 Score: 61/1
-8.2 Chris Morris to Nitish Rana 0 Score: 61/1
-8.3 Chris Morris to Nitish Rana 4 Score: 65/1
-8.4 Chris Morris to Nitish Rana 0 Score: 65/1
-8.5 Chris Morris to Nitish Rana 1 Score: 66/1
-8.6 Chris Morris to Sunil Narine 1 Score: 67/1
-9.1 Rahul Tewatia to Sunil Narine 1 Score: 68/1
-9.2 Rahul Tewatia to Nitish Rana 0 Score: 68/1
-9.3 Rahul Tewatia to Nitish Rana 1 Score: 69/1
-9.4 Rahul Tewatia to Sunil Narine 1 Score: 70/1
-9.5 Rahul Tewatia to Nitish Rana W Score: 70/2 Caught by Chris Morris
-9.6 Rahul Tewatia to Shubman Gill 1 Score: 71/2
-10.1 Mustafizur Rahman to Shubman Gill 0 Score: 71/2
-10.2 Mustafizur Rahman to Shubman Gill 0 Score: 71/2
-10.3 Mustafizur Rahman to Shubman Gill 6 Score: 77/2
-10.4 Mustafizur Rahman to Shubman Gill 0 Score: 77/2
-10.5 Mustafizur Rahman to Shubman Gill 1 Score: 78/2
-10.6 Mustafizur Rahman to Sunil Narine 0 Score: 78/2
-11.1 Rahul Tewatia to Shubman Gill 0 Score: 78/2
-11.2 Rahul Tewatia to Shubman Gill 0 Score: 78/2
-11.3 Rahul Tewatia to Shubman Gill 1 Score: 79/2
-11.4 Rahul Tewatia to Sunil Narine 0 Score: 79/2
-11.5 Rahul Tewatia to Sunil Narine 4 Score: 83/2
-11.6 Rahul Tewatia to Sunil Narine 0 Score: 83/2
-12.1 Mustafizur Rahman to Shubman Gill 6 Score: 89/2
-12.2 Mustafizur Rahman to Shubman Gill 1 Score: 90/2
-12.3 Mustafizur Rahman to Sunil Narine 1 Score: 91/2
-12.4 Mustafizur Rahman to Shubman Gill 1 Score: 92/2
-12.5 Mustafizur Rahman to Sunil Narine 0 Score: 92/2
-12.6 Mustafizur Rahman to Sunil Narine 1 Score: 93/2
-13.1 Jaydev Unadkat to Sunil Narine 1 Score: 94/2
-13.2 Jaydev Unadkat to Shubman Gill 0 Score: 94/2
-13.3 Jaydev Unadkat to Shubman Gill W Score: 94/3 Caught by David Miller
-13.4 Jaydev Unadkat to Eoin Morgan 0 Score: 94/3
-13.5 Jaydev Unadkat to Eoin Morgan W Score: 94/4 Caught by Chris Morris
-13.6 Jaydev Unadkat to Dinesh Karthik 1 Score: 95/4
-14.1 Mustafizur Rahman to Dinesh Karthik 0 Score: 95/4
-14.2 Mustafizur Rahman to Dinesh Karthik 1 Score: 96/4
-14.3 Mustafizur Rahman to Sunil Narine 2 Score: 98/4
-14.4 Mustafizur Rahman to Sunil Narine 0 Score: 98/4
-14.5 Mustafizur Rahman to Sunil Narine 0 Score: 98/4
-14.6 Mustafizur Rahman to Sunil Narine 6 Score: 104/4
-15.1 Shivam Dube to Dinesh Karthik 1 Score: 105/4
-15.2 Shivam Dube to Sunil Narine 4 Score: 109/4
-15.3 Shivam Dube to Sunil Narine 1 Score: 110/4
-15.4 Shivam Dube to Dinesh Karthik 0 Score: 110/4
-15.5 Shivam Dube to Dinesh Karthik 0 Score: 110/4
-15.6 Shivam Dube to Dinesh Karthik 0 Score: 110/4
-16.1 Riyan Parag to Sunil Narine 0 Score: 110/4
-16.2 Riyan Parag to Sunil Narine 1 Score: 111/4
-16.3 Riyan Parag to Dinesh Karthik 0 Score: 111/4
-16.4 Riyan Parag to Dinesh Karthik 6 Score: 117/4
-16.5 Riyan Parag to Dinesh Karthik W Score: 117/5 Caught by Chetan Sakariya
-16.6 Riyan Parag to Andre Russell 1 Score: 118/5
-17.1 Mustafizur Rahman to Andre Russell W Score: 118/6 Caught by Chris Morris
-17.2 Mustafizur Rahman to Pat Cummins 1 Score: 119/6
-17.3 Mustafizur Rahman to Sunil Narine 0 Score: 119/6
-17.4 Mustafizur Rahman to Sunil Narine 4 Score: 123/6
-17.5 Mustafizur Rahman to Sunil Narine 0 Score: 123/6
-17.6 Mustafizur Rahman to Sunil Narine 1 Score: 124/6
-18.1 Chris Morris to Sunil Narine 6 Score: 130/6
-18.2 Chris Morris to Sunil Narine 6 Score: 136/6
-18.3 Chris Morris to Sunil Narine 1 Score: 137/6
-18.4 Chris Morris to Pat Cummins W Score: 137/7 Bowled
-18.5 Chris Morris to Shivam Mavi 1 Score: 138/7
-18.6 Chris Morris to Sunil Narine 0 Score: 138/7
-19.1 Jaydev Unadkat to Shivam Mavi 0 Score: 138/7
-19.2 Jaydev Unadkat to Shivam Mavi 4 Score: 142/7
-19.3 Jaydev Unadkat to Shivam Mavi W Score: 142/8 Caught by Mustafizur Rahman
-19.4 Jaydev Unadkat to Varun Chakravarthy 4 Score: 146/8
-19.5 Jaydev Unadkat to Varun Chakravarthy 4 Score: 150/8
-kkr won by 2 wickets
-+-------------------+--------+---------+--------+----------------------------------+
-| Player            |   Runs |   Balls | SR     | Out                              |
-+===================+========+=========+========+==================================+
-| N Rana            |     35 |      29 | 120.69 | c CH Morris b R Tewatia          |
-+-------------------+--------+---------+--------+----------------------------------+
-| Shubman Gill      |     17 |      14 | 121.43 | c DA Miller b JD Unadkat         |
-+-------------------+--------+---------+--------+----------------------------------+
-| RA Tripathi       |     18 |      20 | 90.0   | bowled b CH Morris               |
-+-------------------+--------+---------+--------+----------------------------------+
-| EJG Morgan        |      0 |       2 | 0.0    | c CH Morris b JD Unadkat         |
-+-------------------+--------+---------+--------+----------------------------------+
-| AD Russell        |      1 |       2 | 50.0   | c CH Morris b Mustafizur Rahman  |
-+-------------------+--------+---------+--------+----------------------------------+
-| KD Karthik        |      9 |      10 | 90.0   | c C Sakariya b R Parag           |
-+-------------------+--------+---------+--------+----------------------------------+
-| SP Narine         |     54 |      34 | 158.82 | Not out                          |
-+-------------------+--------+---------+--------+----------------------------------+
-| PJ Cummins        |      1 |       2 | 50.0   | bowled b CH Morris               |
-+-------------------+--------+---------+--------+----------------------------------+
-| Shivam Mavi       |      5 |       4 | 125.0  | c Mustafizur Rahman b JD Unadkat |
-+-------------------+--------+---------+--------+----------------------------------+
-| CV Varun          |      8 |       2 | 400.0  | Not out                          |
-+-------------------+--------+---------+--------+----------------------------------+
-| M Prasidh Krishna |      0 |       0 | DNB    |                                  |
-+-------------------+--------+---------+--------+----------------------------------+
+0.2 Chetan Sakariya to Rahul Tripathi 1 Score: 1/0
+0.3 Chetan Sakariya to Nitish Rana 1 Score: 2/0
+0.4 Chetan Sakariya to Rahul Tripathi 2 Score: 4/0
+0.5 Chetan Sakariya to Rahul Tripathi Wide Score: 5/0
+0.6 Chetan Sakariya to Rahul Tripathi 0 Score: 5/0
+0.7 Chetan Sakariya to Rahul Tripathi 1 Score: 6/0
+1.1 Jaydev Unadkat to Rahul Tripathi W Score: 6/1 Caught by Chetan Sakariya
+1.2 Jaydev Unadkat to Sunil Narine 2 Score: 8/1
+1.3 Jaydev Unadkat to Sunil Narine 1 Score: 9/1
+1.4 Jaydev Unadkat to Nitish Rana 0 Score: 9/1
+1.5 Jaydev Unadkat to Nitish Rana 0 Score: 9/1
+1.6 Jaydev Unadkat to Nitish Rana 1 Score: 10/1
+2.1 Chetan Sakariya to Nitish Rana 1 Score: 11/1
+2.2 Chetan Sakariya to Sunil Narine 1 Score: 12/1
+2.3 Chetan Sakariya to Nitish Rana 0 Score: 12/1
+2.4 Chetan Sakariya to Nitish Rana 1 Score: 13/1
+2.5 Chetan Sakariya to Sunil Narine 1 Score: 14/1
+2.6 Chetan Sakariya to Nitish Rana 1 Score: 15/1
+3.1 Jaydev Unadkat to Nitish Rana 0 Score: 15/1
+3.2 Jaydev Unadkat to Nitish Rana 1 Score: 16/1
+3.3 Jaydev Unadkat to Sunil Narine 4 Score: 20/1
+3.4 Jaydev Unadkat to Sunil Narine 1 Score: 21/1
+3.5 Jaydev Unadkat to Nitish Rana 4 Score: 25/1
+3.6 Jaydev Unadkat to Nitish Rana 0 Score: 25/1
+4.1 Mustafizur Rahman to Sunil Narine 0 Score: 25/1
+4.2 Mustafizur Rahman to Sunil Narine 4 Score: 29/1
+4.3 Mustafizur Rahman to Sunil Narine 0 Score: 29/1
+4.4 Mustafizur Rahman to Sunil Narine 4 Score: 33/1
+4.5 Mustafizur Rahman to Sunil Narine W Score: 33/2 Caught by Manan Vohra
+4.6 Mustafizur Rahman to Shubman Gill W Score: 33/3 Caught by Rahul Tewatia
+5.1 Chris Morris to Nitish Rana 0 Score: 33/3
+5.2 Chris Morris to Nitish Rana Wide Score: 34/3
+5.3 Chris Morris to Nitish Rana W Score: 34/4 Caught by Riyan Parag
+5.4 Chris Morris to Eoin Morgan 0 Score: 34/4
+5.5 Chris Morris to Eoin Morgan 2 Score: 36/4
+5.6 Chris Morris to Eoin Morgan 6 Score: 42/4
+5.7 Chris Morris to Eoin Morgan 1 Score: 43/4
+6.1 Mustafizur Rahman to Eoin Morgan 4 Score: 47/4
+6.2 Mustafizur Rahman to Eoin Morgan 1 Score: 48/4
+6.3 Mustafizur Rahman to Eoin Morgan 4 Score: 52/4
+6.4 Mustafizur Rahman to Eoin Morgan 0 Score: 52/4
+6.5 Mustafizur Rahman to Eoin Morgan 4 Score: 56/4
+6.6 Mustafizur Rahman to Eoin Morgan 0 Score: 56/4
+7.1 Chris Morris to Eoin Morgan 1 Score: 57/4
+7.2 Chris Morris to Eoin Morgan 1 Score: 58/4
+7.3 Chris Morris to Eoin Morgan 0 Score: 58/4
+7.4 Chris Morris to Eoin Morgan 0 Score: 58/4
+7.5 Chris Morris to Eoin Morgan Wide Score: 59/4
+7.6 Chris Morris to Eoin Morgan W Score: 59/5 Caught by Sanju Samson
+7.7 Chris Morris to Dinesh Karthik 4 Score: 63/5
+8.1 Mustafizur Rahman to Eoin Morgan 1 Score: 64/5
+8.2 Mustafizur Rahman to Dinesh Karthik 1 Score: 65/5
+8.3 Mustafizur Rahman to Eoin Morgan 1 Score: 66/5
+8.4 Mustafizur Rahman to Dinesh Karthik 0 Score: 66/5
+8.5 Mustafizur Rahman to Dinesh Karthik 6 Score: 72/5
+8.6 Mustafizur Rahman to Dinesh Karthik 0 Score: 72/5
+9.1 Chris Morris to Eoin Morgan 0 Score: 72/5
+9.2 Chris Morris to Eoin Morgan W Score: 72/6 Lbw
+9.3 Chris Morris to Andre Russell 0 Score: 72/6
+9.4 Chris Morris to Andre Russell Wide Score: 73/6
+9.5 Chris Morris to Andre Russell 0 Score: 73/6
+9.6 Chris Morris to Andre Russell 0 Score: 73/6
+9.7 Chris Morris to Andre Russell 0 Score: 73/6
+10.1 Rahul Tewatia to Dinesh Karthik 2 Score: 75/6
+10.2 Rahul Tewatia to Dinesh Karthik 0 Score: 75/6
+10.3 Rahul Tewatia to Dinesh Karthik 1 Score: 76/6
+10.4 Rahul Tewatia to Andre Russell 0 Score: 76/6
+10.5 Rahul Tewatia to Andre Russell 0 Score: 76/6
+10.6 Rahul Tewatia to Andre Russell 0 Score: 76/6
+11.1 David Miller to Dinesh Karthik 0 Score: 76/6
+11.2 David Miller to Dinesh Karthik 0 Score: 76/6
+11.3 David Miller to Dinesh Karthik 1 Score: 77/6
+11.4 David Miller to Andre Russell 0 Score: 77/6
+11.5 David Miller to Andre Russell 1 Score: 78/6
+11.6 David Miller to Dinesh Karthik 1 Score: 79/6
+12.1 Rahul Tewatia to Dinesh Karthik 4 Score: 83/6
+12.2 Rahul Tewatia to Dinesh Karthik 0 Score: 83/6
+12.3 Rahul Tewatia to Dinesh Karthik 4 Score: 87/6
+12.4 Rahul Tewatia to Dinesh Karthik 6 Score: 93/6
+12.5 Rahul Tewatia to Dinesh Karthik 1 Score: 94/6
+12.6 Rahul Tewatia to Andre Russell 1 Score: 95/6
+13.1 David Miller to Andre Russell 0 Score: 95/6
+13.2 David Miller to Andre Russell 1 Score: 96/6
+13.3 David Miller to Dinesh Karthik 4 Score: 100/6
+13.4 David Miller to Dinesh Karthik 4 Score: 104/6
+13.5 David Miller to Dinesh Karthik 1 Score: 105/6
+13.6 David Miller to Andre Russell 1 Score: 106/6
+14.1 Rahul Tewatia to Andre Russell 1 Score: 107/6
+14.2 Rahul Tewatia to Dinesh Karthik 1 Score: 108/6
+14.3 Rahul Tewatia to Andre Russell 4 Score: 112/6
+14.4 Rahul Tewatia to Andre Russell 1 Score: 113/6
+14.5 Rahul Tewatia to Dinesh Karthik 0 Score: 113/6
+14.6 Rahul Tewatia to Dinesh Karthik W Score: 113/7 Caught by Chris Morris
+15.1 David Miller to Andre Russell 0 Score: 113/7
+15.2 David Miller to Andre Russell 0 Score: 113/7
+15.3 David Miller to Andre Russell 0 Score: 113/7
+15.4 David Miller to Andre Russell 1 Score: 114/7
+15.5 David Miller to Pat Cummins 4 Score: 118/7
+15.6 David Miller to Pat Cummins 1 Score: 119/7
+16.1 Rahul Tewatia to Pat Cummins 0 Score: 119/7
+16.2 Rahul Tewatia to Pat Cummins 1 Score: 120/7
+16.3 Rahul Tewatia to Andre Russell 1 Score: 121/7
+16.4 Rahul Tewatia to Pat Cummins 1 Score: 122/7
+16.5 Rahul Tewatia to Andre Russell 4 Score: 126/7
+16.6 Rahul Tewatia to Andre Russell 1 Score: 127/7
+17.1 Mustafizur Rahman to Andre Russell W Score: 127/8 Caught by Chris Morris
+17.2 Mustafizur Rahman to Shivam Mavi 1 Score: 128/8
+17.3 Mustafizur Rahman to Pat Cummins W Score: 128/9 Caught by Chris Morris
+17.4 Mustafizur Rahman to Varun Chakravarthy 0 Score: 128/9
+17.5 Mustafizur Rahman to Varun Chakravarthy 0 Score: 128/9
+17.6 Mustafizur Rahman to Varun Chakravarthy 4 Score: 132/9
+18.1 Chris Morris to Shivam Mavi 4 Score: 136/9
+18.2 Chris Morris to Shivam Mavi 6 Score: 142/9
+18.3 Chris Morris to Shivam Mavi 0 Score: 142/9
+18.4 Chris Morris to Shivam Mavi 0 Score: 142/9
+18.5 Chris Morris to Shivam Mavi 0 Score: 142/9
+18.6 Chris Morris to Shivam Mavi 1 Score: 143/9
+19.1 Jaydev Unadkat to Shivam Mavi 1 Score: 144/9
+19.2 Jaydev Unadkat to Varun Chakravarthy 1 Score: 145/9
+19.3 Jaydev Unadkat to Shivam Mavi W Score: 145/10 Bowled
+ALL OUT
+rr won by 47 runs
++-------------------+--------+---------+--------+---------------------------------+
+| Player            |   Runs |   Balls | SR     | Out                             |
++===================+========+=========+========+=================================+
+| N Rana            |     10 |      14 | 71.43  | c R Parag b CH Morris           |
++-------------------+--------+---------+--------+---------------------------------+
+| Shubman Gill      |      0 |       1 | 0.0    | c R Tewatia b Mustafizur Rahman |
++-------------------+--------+---------+--------+---------------------------------+
+| RA Tripathi       |      4 |       6 | 66.67  | c C Sakariya b JD Unadkat       |
++-------------------+--------+---------+--------+---------------------------------+
+| EJG Morgan        |     26 |      19 | 136.84 | lbw b CH Morris                 |
++-------------------+--------+---------+--------+---------------------------------+
+| AD Russell        |     17 |      24 | 70.83  | c CH Morris b Mustafizur Rahman |
++-------------------+--------+---------+--------+---------------------------------+
+| KD Karthik        |     41 |      23 | 178.26 | c CH Morris b R Tewatia         |
++-------------------+--------+---------+--------+---------------------------------+
+| SP Narine         |     18 |      11 | 163.64 | c M Vohra b Mustafizur Rahman   |
++-------------------+--------+---------+--------+---------------------------------+
+| PJ Cummins        |      7 |       6 | 116.67 | c CH Morris b Mustafizur Rahman |
++-------------------+--------+---------+--------+---------------------------------+
+| Shivam Mavi       |     13 |       9 | 144.44 | bowled b JD Unadkat             |
++-------------------+--------+---------+--------+---------------------------------+
+| CV Varun          |      5 |       4 | 125.0  | Not out                         |
++-------------------+--------+---------+--------+---------------------------------+
+| M Prasidh Krishna |      0 |       0 | DNB    |                                 |
++-------------------+--------+---------+--------+---------------------------------+
 +-------------------+--------+---------+-----------+-------+
 | Player            |   Runs |   Overs |   Wickets | Eco   |
 +===================+========+=========+===========+=======+
@@ -329,19 +330,19 @@ kkr won by 2 wickets
 +-------------------+--------+---------+-----------+-------+
 | SV Samson         |      0 |     0   |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| S Dube            |      6 |     1   |         0 | 6.0   |
+| S Dube            |      0 |     0   |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| DA Miller         |      0 |     0   |         0 | NA    |
+| DA Miller         |     20 |     3   |         0 | 6.67  |
 +-------------------+--------+---------+-----------+-------+
-| R Parag           |      8 |     1   |         1 | 8.0   |
+| R Parag           |      0 |     0   |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
 | R Tewatia         |     34 |     4   |         1 | 8.5   |
 +-------------------+--------+---------+-----------+-------+
-| CH Morris         |     33 |     4   |         2 | 8.25  |
+| CH Morris         |     29 |     4   |         3 | 7.25  |
 +-------------------+--------+---------+-----------+-------+
-| JD Unadkat        |     35 |     3.5 |         3 | 9.13  |
+| JD Unadkat        |     16 |     2.3 |         2 | 6.4   |
 +-------------------+--------+---------+-----------+-------+
-| C Sakariya        |      2 |     2   |         0 | 1.0   |
+| C Sakariya        |     11 |     2   |         0 | 5.5   |
 +-------------------+--------+---------+-----------+-------+
-| Mustafizur Rahman |     32 |     4   |         1 | 8.0   |
+| Mustafizur Rahman |     35 |     4   |         4 | 8.75  |
 +-------------------+--------+---------+-----------+-------+

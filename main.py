@@ -15,15 +15,28 @@ import json
 #If RRR is low in the last 10, team may falter, fix it
 #designate 6 bowlers and bowl them in a shuffled
 #see for localBattingOrder
+
 #K Williamson bowling
+
+#TRANSLATE RATING TO DEN AVG, OUT AVG, ETC.
+
+#BIPUL SHARMA - OVERPOWERED AND SO ->
+# - 1. MAKE SURE PLAYER HAS PLAYED X NUMBER OF GAMES OR ELSE DRIVE DOWN HIS RATINGS (such as avgs, dens, etc.) (!!!IMPORTANT)
+# - 2. DO FOR BOTH BATTING & BOWLING SEPARATELY
+
 #Triple not out
 #not many 100s
 #12-over rule
 #too many dots (increase 1s & 2s, reduce 0s)
 #too many all-outs
+
 #Last 10 overs both innings very slow even when 1-2 wickets fall (too many wickets fall)
 #weigh economy more, if eco is like 6 or 7, then bowl over a player with 1 wicket but 9 economy
-#12-17 over increase rate (1st inning)
+#dont drag game too long if rrr < 9 in last 3-4 overs
+
+#IMP
+#12-17 over increase rate (1st innings) & (2nd innings too)
+#Wickets (140s scores with 3 wickets in 1st innings - fix it (apply 2nd inn logic))
 
 #FEATURES
 #Commentary

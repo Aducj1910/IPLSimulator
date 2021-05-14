@@ -3,8 +3,12 @@ pre-defined overs (random), only swap overs if economy calls for it
 ____
 
 or (LAMBDA METHOD)
+fist sort bowling array and keep only top 6 best bowlers (minimum) with bowlOutsTotalRate lower limit
+
 have rejected bowlers list, lambda function sorts bowling rate, run through loop
 keep adding rejected bowlers to list and if the index is out range, pick a player from that rejected list
 as long as the player hasnt bowled > 23 balls, not in death overs bowling, hasn't bowled last over
+
+use the console errors to find loops where to implement the rejected arrays
 
 !Urgent
