@@ -1,324 +1,150 @@
 ['Prithvi Shaw', 'Shikhar Dhawan', 'Steven Smith', 'Rishabh Pant', 'Shimron Hetmyer', 'Marcus Stoinis', 'Axar Patel', 'Ravichandran Ashwin', 'Amit Mishra', 'Kagiso Rabada', 'Avesh Khan']
-dc won the toss and chose to bat
-0.1 Mohammed Siraj to Prithvi Shaw 0 Score: 0/0
-0.2 Mohammed Siraj to Prithvi Shaw 2 Score: 2/0
-0.3 Mohammed Siraj to Prithvi Shaw 0 Score: 2/0
-0.4 Mohammed Siraj to Prithvi Shaw 1 Score: 3/0
-0.5 Mohammed Siraj to Shikhar Dhawan 1 Score: 4/0
-0.6 Mohammed Siraj to Prithvi Shaw 0 Score: 4/0
-1.1 Washington Sundar to Shikhar Dhawan 1 Score: 5/0
-1.2 Washington Sundar to Prithvi Shaw 4 Score: 9/0
-1.3 Washington Sundar to Prithvi Shaw 0 Score: 9/0
-1.4 Washington Sundar to Prithvi Shaw 0 Score: 9/0
-1.5 Washington Sundar to Prithvi Shaw 1 Score: 10/0
-1.6 Washington Sundar to Shikhar Dhawan 0 Score: 10/0
-2.1 Mohammed Siraj to Prithvi Shaw 1 Score: 11/0
-2.2 Mohammed Siraj to Shikhar Dhawan 0 Score: 11/0
-2.3 Mohammed Siraj to Shikhar Dhawan 4 Score: 15/0
-2.4 Mohammed Siraj to Shikhar Dhawan 1 Score: 16/0
-2.5 Mohammed Siraj to Prithvi Shaw 0 Score: 16/0
-2.6 Mohammed Siraj to Prithvi Shaw 0 Score: 16/0
-3.1 Washington Sundar to Shikhar Dhawan 0 Score: 16/0
-3.2 Washington Sundar to Shikhar Dhawan 0 Score: 16/0
-3.3 Washington Sundar to Shikhar Dhawan 1 Score: 17/0
-3.4 Washington Sundar to Prithvi Shaw 1 Score: 18/0
-3.5 Washington Sundar to Shikhar Dhawan 4 Score: 22/0
-3.6 Washington Sundar to Shikhar Dhawan 1 Score: 23/0
-4.1 Kyle Jamieson to Shikhar Dhawan Wide Score: 24/0
-4.2 Kyle Jamieson to Shikhar Dhawan 4 Score: 28/0
-4.3 Kyle Jamieson to Shikhar Dhawan 6 Score: 34/0
-4.4 Kyle Jamieson to Shikhar Dhawan 1 Score: 35/0
-4.5 Kyle Jamieson to Prithvi Shaw W Score: 35/1 Caught by Harshal Patel
-4.6 Kyle Jamieson to Steven Smith 1 Score: 36/1
-4.7 Kyle Jamieson to Shikhar Dhawan 3 Score: 39/1
-5.1 Navdeep Saini to Shikhar Dhawan 0 Score: 39/1
-5.2 Navdeep Saini to Shikhar Dhawan 0 Score: 39/1
-5.3 Navdeep Saini to Shikhar Dhawan 1 Score: 40/1
-5.4 Navdeep Saini to Steven Smith 0 Score: 40/1
-5.5 Navdeep Saini to Steven Smith 0 Score: 40/1
-5.6 Navdeep Saini to Steven Smith 0 Score: 40/1
-6.1 Kyle Jamieson to Shikhar Dhawan 4 Score: 44/1
-6.2 Kyle Jamieson to Shikhar Dhawan 1 Score: 45/1
-6.3 Kyle Jamieson to Steven Smith 1 Score: 46/1
-6.4 Kyle Jamieson to Shikhar Dhawan W Score: 46/2 Caught by Navdeep Saini
-6.5 Kyle Jamieson to Rishabh Pant 1 Score: 47/2
-6.6 Kyle Jamieson to Steven Smith 0 Score: 47/2
-7.1 Navdeep Saini to Rishabh Pant 0 Score: 47/2
-7.2 Navdeep Saini to Rishabh Pant 1 Score: 48/2
-7.3 Navdeep Saini to Steven Smith 0 Score: 48/2
-7.4 Navdeep Saini to Steven Smith 0 Score: 48/2
-7.5 Navdeep Saini to Steven Smith 1 Score: 49/2
-7.6 Navdeep Saini to Rishabh Pant 0 Score: 49/2
-8.1 Kyle Jamieson to Steven Smith 4 Score: 53/2
-8.2 Kyle Jamieson to Steven Smith 0 Score: 53/2
-8.3 Kyle Jamieson to Steven Smith 0 Score: 53/2
-8.4 Kyle Jamieson to Steven Smith 1 Score: 54/2
-8.5 Kyle Jamieson to Rishabh Pant 1 Score: 55/2
-8.6 Kyle Jamieson to Steven Smith 0 Score: 55/2
-9.1 Navdeep Saini to Rishabh Pant 6 Score: 61/2
-9.2 Navdeep Saini to Rishabh Pant 4 Score: 65/2
-9.3 Navdeep Saini to Rishabh Pant 4 Score: 69/2
-9.4 Navdeep Saini to Rishabh Pant 0 Score: 69/2
-9.5 Navdeep Saini to Rishabh Pant 6 Score: 75/2
-9.6 Navdeep Saini to Rishabh Pant 0 Score: 75/2
-10.1 Harshal Patel to Steven Smith 1 Score: 76/2
-10.2 Harshal Patel to Rishabh Pant 2 Score: 78/2
-10.3 Harshal Patel to Rishabh Pant 0 Score: 78/2
-10.4 Harshal Patel to Rishabh Pant 0 Score: 78/2
-10.5 Harshal Patel to Rishabh Pant W Score: 78/3 Lbw
-10.6 Harshal Patel to Marcus Stoinis 1 Score: 79/3
-11.1 Yuzvendra Chahal to Marcus Stoinis Wide Score: 80/3
-11.2 Yuzvendra Chahal to Marcus Stoinis 2 Score: 82/3
-11.3 Yuzvendra Chahal to Marcus Stoinis 1 Score: 83/3
-11.4 Yuzvendra Chahal to Steven Smith 2 Score: 85/3
-11.5 Yuzvendra Chahal to Steven Smith 0 Score: 85/3
-11.6 Yuzvendra Chahal to Steven Smith 1 Score: 86/3
-11.7 Yuzvendra Chahal to Marcus Stoinis 2 Score: 88/3
-12.1 Harshal Patel to Steven Smith 4 Score: 92/3
-12.2 Harshal Patel to Steven Smith 1 Score: 93/3
-12.3 Harshal Patel to Marcus Stoinis 1 Score: 94/3
-12.4 Harshal Patel to Steven Smith 1 Score: 95/3
-12.5 Harshal Patel to Marcus Stoinis 1 Score: 96/3
-12.6 Harshal Patel to Steven Smith 1 Score: 97/3
-13.1 Yuzvendra Chahal to Steven Smith 1 Score: 98/3
-13.2 Yuzvendra Chahal to Marcus Stoinis 6 Score: 104/3
-13.3 Yuzvendra Chahal to Marcus Stoinis 0 Score: 104/3
-13.4 Yuzvendra Chahal to Marcus Stoinis 0 Score: 104/3
-13.5 Yuzvendra Chahal to Marcus Stoinis 1 Score: 105/3
-13.6 Yuzvendra Chahal to Steven Smith 1 Score: 106/3
-14.1 Harshal Patel to Steven Smith 6 Score: 112/3
-14.2 Harshal Patel to Steven Smith W Score: 112/4 Caught by AB de Villiers
-14.3 Harshal Patel to Shimron Hetmyer 1 Score: 113/4
-14.4 Harshal Patel to Marcus Stoinis Wide Score: 114/4
-14.5 Harshal Patel to Marcus Stoinis 0 Score: 114/4
-14.6 Harshal Patel to Marcus Stoinis 1 Score: 115/4
-14.7 Harshal Patel to Shimron Hetmyer 1 Score: 116/4
-15.1 Yuzvendra Chahal to Shimron Hetmyer 0 Score: 116/4
-15.2 Yuzvendra Chahal to Shimron Hetmyer 1 Score: 117/4
-15.3 Yuzvendra Chahal to Marcus Stoinis 0 Score: 117/4
-15.4 Yuzvendra Chahal to Marcus Stoinis 0 Score: 117/4
-15.5 Yuzvendra Chahal to Marcus Stoinis 0 Score: 117/4
-15.6 Yuzvendra Chahal to Marcus Stoinis 0 Score: 117/4
-16.1 Harshal Patel to Shimron Hetmyer 4 Score: 121/4
-16.2 Harshal Patel to Shimron Hetmyer 1 Score: 122/4
-16.3 Harshal Patel to Marcus Stoinis Wide Score: 123/4
-16.4 Harshal Patel to Marcus Stoinis 0 Score: 123/4
-16.5 Harshal Patel to Marcus Stoinis 1 Score: 124/4
-16.6 Harshal Patel to Shimron Hetmyer 0 Score: 124/4
-16.7 Harshal Patel to Shimron Hetmyer 1 Score: 125/4
-17.1 Mohammed Siraj to Shimron Hetmyer 1 Score: 126/4
-17.2 Mohammed Siraj to Marcus Stoinis 6 Score: 132/4
-17.3 Mohammed Siraj to Marcus Stoinis 4 Score: 136/4
-17.4 Mohammed Siraj to Marcus Stoinis 1 Score: 137/4
-17.5 Mohammed Siraj to Shimron Hetmyer 0 Score: 137/4
-17.6 Mohammed Siraj to Shimron Hetmyer 1 Score: 138/4
-18.1 Navdeep Saini to Shimron Hetmyer 0 Score: 138/4
-18.2 Navdeep Saini to Shimron Hetmyer 4 Score: 142/4
-18.3 Navdeep Saini to Shimron Hetmyer 0 Score: 142/4
-18.4 Navdeep Saini to Shimron Hetmyer 1 Score: 143/4
-18.5 Navdeep Saini to Marcus Stoinis 0 Score: 143/4
-18.6 Navdeep Saini to Marcus Stoinis 1 Score: 144/4
-19.1 Mohammed Siraj to Marcus Stoinis 1 Score: 145/4
-19.2 Mohammed Siraj to Shimron Hetmyer 6 Score: 151/4
-19.3 Mohammed Siraj to Shimron Hetmyer 0 Score: 151/4
-19.4 Mohammed Siraj to Shimron Hetmyer 1 Score: 152/4
-19.5 Mohammed Siraj to Marcus Stoinis 6 Score: 158/4
-19.6 Mohammed Siraj to Marcus Stoinis 4 Score: 162/4
-+------------+--------+---------+--------+-----------------------------+
-| Player     |   Runs |   Balls | SR     | Out                         |
-+============+========+=========+========+=============================+
-| PP Shaw    |     10 |      14 | 71.43  | c HV Patel b KA Jamieson    |
-+------------+--------+---------+--------+-----------------------------+
-| S Dhawan   |     33 |      21 | 157.14 | c NA Saini b KA Jamieson    |
-+------------+--------+---------+--------+-----------------------------+
-| SPD Smith  |     27 |      26 | 103.85 | c AB de Villiers b HV Patel |
-+------------+--------+---------+--------+-----------------------------+
-| RR Pant    |     25 |      15 | 166.67 | lbw b HV Patel              |
-+------------+--------+---------+--------+-----------------------------+
-| SO Hetmyer |     23 |      18 | 127.78 | Not out                     |
-+------------+--------+---------+--------+-----------------------------+
-| MP Stoinis |     40 |      26 | 153.85 | Not out                     |
-+------------+--------+---------+--------+-----------------------------+
-| AR Patel   |      0 |       0 | DNB    |                             |
-+------------+--------+---------+--------+-----------------------------+
-| R Ashwin   |      0 |       0 | DNB    |                             |
-+------------+--------+---------+--------+-----------------------------+
-| A Mishra   |      0 |       0 | DNB    |                             |
-+------------+--------+---------+--------+-----------------------------+
-| K Rabada   |      0 |       0 | DNB    |                             |
-+------------+--------+---------+--------+-----------------------------+
-| Avesh Khan |      0 |       0 | DNB    |                             |
-+------------+--------+---------+--------+-----------------------------+
-+-------------------+--------+---------+-----------+-------+
-| Player            |   Runs |   Overs |   Wickets | Eco   |
-+===================+========+=========+===========+=======+
-| D Padikkal        |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| V Kohli           |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| GJ Maxwell        |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| AB de Villiers    |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| Shahbaz Ahmed     |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| Washington Sundar |     13 |       2 |         0 | 6.5   |
-+-------------------+--------+---------+-----------+-------+
-| KA Jamieson       |     29 |       3 |         2 | 9.67  |
-+-------------------+--------+---------+-----------+-------+
-| Mohammed Siraj    |     41 |       4 |         0 | 10.25 |
-+-------------------+--------+---------+-----------+-------+
-| HV Patel          |     31 |       4 |         2 | 7.75  |
-+-------------------+--------+---------+-----------+-------+
-| NA Saini          |     29 |       4 |         0 | 7.25  |
-+-------------------+--------+---------+-----------+-------+
-| YS Chahal         |     19 |       3 |         0 | 6.33  |
-+-------------------+--------+---------+-----------+-------+
+dc won the toss and chose to field
 0.1 Kagiso Rabada to Devdutt Padikkal 1 Score: 1/0
 0.2 Kagiso Rabada to Virat Kohli 1 Score: 2/0
-0.3 Kagiso Rabada to Devdutt Padikkal 0 Score: 2/0
-0.4 Kagiso Rabada to Devdutt Padikkal 0 Score: 2/0
-0.5 Kagiso Rabada to Devdutt Padikkal 1 Score: 3/0
-0.6 Kagiso Rabada to Virat Kohli 2 Score: 5/0
-1.1 Ravichandran Ashwin to Devdutt Padikkal Wide Score: 6/0
-1.2 Ravichandran Ashwin to Devdutt Padikkal 1 Score: 7/0
-1.3 Ravichandran Ashwin to Virat Kohli 0 Score: 7/0
-1.4 Ravichandran Ashwin to Virat Kohli 0 Score: 7/0
-1.5 Ravichandran Ashwin to Virat Kohli 1 Score: 8/0
-1.6 Ravichandran Ashwin to Devdutt Padikkal 2 Score: 10/0
-1.7 Ravichandran Ashwin to Devdutt Padikkal 1 Score: 11/0
-2.1 Kagiso Rabada to Devdutt Padikkal 0 Score: 11/0
-2.2 Kagiso Rabada to Devdutt Padikkal 0 Score: 11/0
-2.3 Kagiso Rabada to Devdutt Padikkal 1 Score: 12/0
-2.4 Kagiso Rabada to Virat Kohli 1 Score: 13/0
-2.5 Kagiso Rabada to Devdutt Padikkal 1 Score: 14/0
-2.6 Kagiso Rabada to Virat Kohli 1 Score: 15/0
-3.1 Ravichandran Ashwin to Virat Kohli 1 Score: 16/0
-3.2 Ravichandran Ashwin to Devdutt Padikkal 6 Score: 22/0
-3.3 Ravichandran Ashwin to Devdutt Padikkal 1 Score: 23/0
-3.4 Ravichandran Ashwin to Virat Kohli 4 Score: 27/0
-3.5 Ravichandran Ashwin to Virat Kohli 1 Score: 28/0
-3.6 Ravichandran Ashwin to Devdutt Padikkal 2 Score: 30/0
-4.1 Axar Patel to Virat Kohli 0 Score: 30/0
-4.2 Axar Patel to Virat Kohli 1 Score: 31/0
-4.3 Axar Patel to Devdutt Padikkal 0 Score: 31/0
-4.4 Axar Patel to Devdutt Padikkal 0 Score: 31/0
-4.5 Axar Patel to Devdutt Padikkal 0 Score: 31/0
-4.6 Axar Patel to Devdutt Padikkal 6 Score: 37/0
-5.1 Marcus Stoinis to Virat Kohli 1 Score: 38/0
-5.2 Marcus Stoinis to Devdutt Padikkal 0 Score: 38/0
-5.3 Marcus Stoinis to Devdutt Padikkal 2 Score: 40/0
-5.4 Marcus Stoinis to Devdutt Padikkal 1 Score: 41/0
-5.5 Marcus Stoinis to Virat Kohli 0 Score: 41/0
-5.6 Marcus Stoinis to Virat Kohli 1 Score: 42/0
-6.1 Axar Patel to Virat Kohli Wide Score: 43/0
-6.2 Axar Patel to Virat Kohli W Score: 43/1 Stumped
-6.3 Axar Patel to AB de Villiers 1 Score: 44/1
-6.4 Axar Patel to Devdutt Padikkal 6 Score: 50/1
-6.5 Axar Patel to Devdutt Padikkal 0 Score: 50/1
-6.6 Axar Patel to Devdutt Padikkal W Score: 50/2 Caught by Avesh Khan
-6.7 Axar Patel to Glenn Maxwell 1 Score: 51/2
-7.1 Marcus Stoinis to Glenn Maxwell 0 Score: 51/2
-7.2 Marcus Stoinis to Glenn Maxwell 6 Score: 57/2
-7.3 Marcus Stoinis to Glenn Maxwell 0 Score: 57/2
-7.4 Marcus Stoinis to Glenn Maxwell 0 Score: 57/2
-7.5 Marcus Stoinis to Glenn Maxwell 1 Score: 58/2
-7.6 Marcus Stoinis to AB de Villiers 1 Score: 59/2
-8.1 Axar Patel to AB de Villiers 1 Score: 60/2
-8.2 Axar Patel to Glenn Maxwell 1 Score: 61/2
-8.3 Axar Patel to AB de Villiers 1 Score: 62/2
-8.4 Axar Patel to Glenn Maxwell 6 Score: 68/2
-8.5 Axar Patel to Glenn Maxwell 0 Score: 68/2
-8.6 Axar Patel to Glenn Maxwell W Score: 68/3 Lbw
-9.1 Marcus Stoinis to AB de Villiers 4 Score: 72/3
-9.2 Marcus Stoinis to AB de Villiers 1 Score: 73/3
-9.3 Marcus Stoinis to Shahbaz Ahmed 1 Score: 74/3
-9.4 Marcus Stoinis to AB de Villiers 6 Score: 80/3
-9.5 Marcus Stoinis to AB de Villiers 1 Score: 81/3
-9.6 Marcus Stoinis to Shahbaz Ahmed 0 Score: 81/3
-10.1 Axar Patel to AB de Villiers 1 Score: 82/3
-10.2 Axar Patel to Shahbaz Ahmed 1 Score: 83/3
-10.3 Axar Patel to AB de Villiers 1 Score: 84/3
-10.4 Axar Patel to Shahbaz Ahmed 1 Score: 85/3
-10.5 Axar Patel to AB de Villiers 0 Score: 85/3
-10.6 Axar Patel to AB de Villiers 1 Score: 86/3
-11.1 Marcus Stoinis to AB de Villiers W Score: 86/4 Caught by Shimron Hetmyer
-11.2 Marcus Stoinis to Harshal Patel 1 Score: 87/4
-11.3 Marcus Stoinis to Shahbaz Ahmed 1 Score: 88/4
-11.4 Marcus Stoinis to Harshal Patel 1 Score: 89/4
-11.5 Marcus Stoinis to Shahbaz Ahmed 1 Score: 90/4
-11.6 Marcus Stoinis to Harshal Patel 0 Score: 90/4
-12.1 Avesh Khan to Shahbaz Ahmed 0 Score: 90/4
-12.2 Avesh Khan to Shahbaz Ahmed 1 Score: 91/4
-12.3 Avesh Khan to Harshal Patel 1 Score: 92/4
-12.4 Avesh Khan to Shahbaz Ahmed W Score: 92/5 Caught by Kagiso Rabada
-12.5 Avesh Khan to Washington Sundar 0 Score: 92/5
-12.6 Avesh Khan to Washington Sundar 0 Score: 92/5
-13.1 Amit Mishra to Harshal Patel 1 Score: 93/5
-13.2 Amit Mishra to Washington Sundar 1 Score: 94/5
-13.3 Amit Mishra to Harshal Patel 1 Score: 95/5
-13.4 Amit Mishra to Washington Sundar 1 Score: 96/5
-13.5 Amit Mishra to Harshal Patel 1 Score: 97/5
-13.6 Amit Mishra to Washington Sundar 0 Score: 97/5
-14.1 Avesh Khan to Harshal Patel 1 Score: 98/5
-14.2 Avesh Khan to Washington Sundar 4 Score: 102/5
-14.3 Avesh Khan to Washington Sundar 1 Score: 103/5
-14.4 Avesh Khan to Harshal Patel 1 Score: 104/5
-14.5 Avesh Khan to Washington Sundar 2 Score: 106/5
-14.6 Avesh Khan to Washington Sundar 0 Score: 106/5
-15.1 Amit Mishra to Harshal Patel 0 Score: 106/5
-15.2 Amit Mishra to Harshal Patel W Score: 106/6 Caught by Kagiso Rabada
-15.3 Amit Mishra to Kyle Jamieson 1 Score: 107/6
-15.4 Amit Mishra to Washington Sundar 1 Score: 108/6
-15.5 Amit Mishra to Kyle Jamieson 0 Score: 108/6
-15.6 Amit Mishra to Kyle Jamieson 1 Score: 109/6
-16.1 Avesh Khan to Kyle Jamieson 0 Score: 109/6
-16.2 Avesh Khan to Kyle Jamieson 1 Score: 110/6
-16.3 Avesh Khan to Washington Sundar 0 Score: 110/6
-16.4 Avesh Khan to Washington Sundar 1 Score: 111/6
-16.5 Avesh Khan to Kyle Jamieson W Score: 112/7 Run Out!
-16.6 Avesh Khan to Navdeep Saini 1 Score: 113/7
-17.1 Amit Mishra to Navdeep Saini 1 Score: 114/7
-17.2 Amit Mishra to Washington Sundar 0 Score: 114/7
-17.3 Amit Mishra to Washington Sundar 0 Score: 114/7
-17.4 Amit Mishra to Washington Sundar 0 Score: 114/7
-17.5 Amit Mishra to Washington Sundar 0 Score: 114/7
-17.6 Amit Mishra to Washington Sundar W Score: 114/8 Bowled
-18.1 Avesh Khan to Navdeep Saini 0 Score: 114/8
-18.2 Avesh Khan to Navdeep Saini 4 Score: 118/8
-18.3 Avesh Khan to Navdeep Saini 4 Score: 122/8
-18.4 Avesh Khan to Navdeep Saini 4 Score: 126/8
-18.5 Avesh Khan to Navdeep Saini 6 Score: 132/8
-18.6 Avesh Khan to Navdeep Saini 0 Score: 132/8
-19.1 Amit Mishra to Mohammed Siraj 1 Score: 133/8
-19.2 Amit Mishra to Navdeep Saini 1 Score: 134/8
-19.3 Amit Mishra to Mohammed Siraj 6 Score: 140/8
-19.4 Amit Mishra to Mohammed Siraj 1 Score: 141/8
-19.5 Amit Mishra to Navdeep Saini 0 Score: 141/8
-19.6 Amit Mishra to Navdeep Saini 0 Score: 141/8
-dc won by 21 runs
+0.3 Kagiso Rabada to Devdutt Padikkal 4 Score: 6/0
+0.4 Kagiso Rabada to Devdutt Padikkal 1 Score: 7/0
+0.5 Kagiso Rabada to Virat Kohli 1 Score: 8/0
+0.6 Kagiso Rabada to Devdutt Padikkal 0 Score: 8/0
+1.1 Ravichandran Ashwin to Virat Kohli 1 Score: 9/0
+1.2 Ravichandran Ashwin to Devdutt Padikkal 1 Score: 10/0
+1.3 Ravichandran Ashwin to Virat Kohli 1 Score: 11/0
+1.4 Ravichandran Ashwin to Devdutt Padikkal 1 Score: 12/0
+1.5 Ravichandran Ashwin to Virat Kohli 2 Score: 14/0
+1.6 Ravichandran Ashwin to Virat Kohli 0 Score: 14/0
+2.1 Kagiso Rabada to Devdutt Padikkal 2 Score: 16/0
+2.2 Kagiso Rabada to Devdutt Padikkal 1 Score: 17/0
+2.3 Kagiso Rabada to Virat Kohli 1 Score: 18/0
+2.4 Kagiso Rabada to Devdutt Padikkal 4 Score: 22/0
+2.5 Kagiso Rabada to Devdutt Padikkal 0 Score: 22/0
+2.6 Kagiso Rabada to Devdutt Padikkal 0 Score: 22/0
+3.1 Ravichandran Ashwin to Virat Kohli 0 Score: 22/0
+3.2 Ravichandran Ashwin to Virat Kohli 1 Score: 23/0
+3.3 Ravichandran Ashwin to Devdutt Padikkal 1 Score: 24/0
+3.4 Ravichandran Ashwin to Virat Kohli 0 Score: 24/0
+3.5 Ravichandran Ashwin to Virat Kohli 1 Score: 25/0
+3.6 Ravichandran Ashwin to Devdutt Padikkal 2 Score: 27/0
+4.1 Axar Patel to Virat Kohli 1 Score: 28/0
+4.2 Axar Patel to Devdutt Padikkal 1 Score: 29/0
+4.3 Axar Patel to Virat Kohli 0 Score: 29/0
+4.4 Axar Patel to Virat Kohli 1 Score: 30/0
+4.5 Axar Patel to Devdutt Padikkal 0 Score: 30/0
+4.6 Axar Patel to Devdutt Padikkal 0 Score: 30/0
+5.1 Marcus Stoinis to Virat Kohli 1 Score: 31/0
+5.2 Marcus Stoinis to Devdutt Padikkal 4 Score: 35/0
+5.3 Marcus Stoinis to Devdutt Padikkal 0 Score: 35/0
+5.4 Marcus Stoinis to Devdutt Padikkal 4 Score: 39/0
+5.5 Marcus Stoinis to Devdutt Padikkal 4 Score: 43/0
+5.6 Marcus Stoinis to Devdutt Padikkal 1 Score: 44/0
+6.1 Axar Patel to Devdutt Padikkal 4 Score: 48/0
+6.2 Axar Patel to Devdutt Padikkal 1 Score: 49/0
+6.3 Axar Patel to Virat Kohli 0 Score: 49/0
+6.4 Axar Patel to Virat Kohli W Score: 49/1 Bowled
+6.5 Axar Patel to AB de Villiers 1 Score: 50/1
+6.6 Axar Patel to Devdutt Padikkal 4 Score: 54/1
+7.1 Marcus Stoinis to AB de Villiers 0 Score: 54/1
+7.2 Marcus Stoinis to AB de Villiers 1 Score: 55/1
+7.3 Marcus Stoinis to Devdutt Padikkal W Score: 55/2 Bowled
+7.4 Marcus Stoinis to Glenn Maxwell 1 Score: 56/2
+7.5 Marcus Stoinis to AB de Villiers 0 Score: 56/2
+7.6 Marcus Stoinis to AB de Villiers 0 Score: 56/2
+8.1 Axar Patel to Glenn Maxwell 2 Score: 58/2
+8.2 Axar Patel to Glenn Maxwell 1 Score: 59/2
+8.3 Axar Patel to AB de Villiers 0 Score: 59/2
+8.4 Axar Patel to AB de Villiers 6 Score: 65/2
+8.5 Axar Patel to AB de Villiers 1 Score: 66/2
+8.6 Axar Patel to Glenn Maxwell 0 Score: 66/2
+9.1 Marcus Stoinis to AB de Villiers 1 Score: 67/2
+9.2 Marcus Stoinis to Glenn Maxwell 0 Score: 67/2
+9.3 Marcus Stoinis to Glenn Maxwell Wide Score: 68/2
+9.4 Marcus Stoinis to Glenn Maxwell 6 Score: 74/2
+9.5 Marcus Stoinis to Glenn Maxwell 6 Score: 80/2
+9.6 Marcus Stoinis to Glenn Maxwell 1 Score: 81/2
+9.7 Marcus Stoinis to AB de Villiers 0 Score: 81/2
+10.1 Axar Patel to Glenn Maxwell 1 Score: 82/2
+10.2 Axar Patel to AB de Villiers Wide Score: 83/2
+10.3 Axar Patel to AB de Villiers 1 Score: 84/2
+10.4 Axar Patel to Glenn Maxwell 1 Score: 85/2
+10.5 Axar Patel to AB de Villiers 1 Score: 86/2
+10.6 Axar Patel to Glenn Maxwell W Score: 86/3 Caught by Shikhar Dhawan
+10.7 Axar Patel to Shahbaz Ahmed 1 Score: 87/3
+11.1 Marcus Stoinis to Shahbaz Ahmed 4 Score: 91/3
+11.2 Marcus Stoinis to Shahbaz Ahmed W Score: 91/4 Caught by Shimron Hetmyer
+11.3 Marcus Stoinis to Harshal Patel 2 Score: 93/4
+11.4 Marcus Stoinis to Harshal Patel 0 Score: 93/4
+11.5 Marcus Stoinis to Harshal Patel 1 Score: 94/4
+11.6 Marcus Stoinis to AB de Villiers 4 Score: 98/4
+12.1 Amit Mishra to Harshal Patel 1 Score: 99/4
+12.2 Amit Mishra to AB de Villiers 4 Score: 103/4
+12.3 Amit Mishra to AB de Villiers 1 Score: 104/4
+12.4 Amit Mishra to Harshal Patel 0 Score: 104/4
+12.5 Amit Mishra to Harshal Patel 1 Score: 105/4
+12.6 Amit Mishra to AB de Villiers 0 Score: 105/4
+13.1 Avesh Khan to Harshal Patel 0 Score: 105/4
+13.2 Avesh Khan to Harshal Patel 0 Score: 105/4
+13.3 Avesh Khan to Harshal Patel 1 Score: 106/4
+13.4 Avesh Khan to AB de Villiers Wide Score: 107/4
+13.5 Avesh Khan to AB de Villiers 0 Score: 107/4
+13.6 Avesh Khan to AB de Villiers 0 Score: 107/4
+13.7 Avesh Khan to AB de Villiers 4 Score: 111/4
+14.1 Amit Mishra to Harshal Patel 0 Score: 111/4
+14.2 Amit Mishra to Harshal Patel 0 Score: 111/4
+14.3 Amit Mishra to Harshal Patel 1 Score: 112/4
+14.4 Amit Mishra to AB de Villiers 1 Score: 113/4
+14.5 Amit Mishra to Harshal Patel 1 Score: 114/4
+14.6 Amit Mishra to AB de Villiers 4 Score: 118/4
+15.1 Avesh Khan to Harshal Patel 0 Score: 118/4
+15.2 Avesh Khan to Harshal Patel 0 Score: 118/4
+15.3 Avesh Khan to Harshal Patel 1 Score: 119/4
+15.4 Avesh Khan to AB de Villiers 1 Score: 120/4
+15.5 Avesh Khan to Harshal Patel 4 Score: 124/4
+15.6 Avesh Khan to Harshal Patel 0 Score: 124/4
+16.1 Amit Mishra to AB de Villiers 1 Score: 125/4
+16.2 Amit Mishra to Harshal Patel 6 Score: 131/4
+16.3 Amit Mishra to Harshal Patel 1 Score: 132/4
+16.4 Amit Mishra to AB de Villiers 1 Score: 133/4
+16.5 Amit Mishra to Harshal Patel 0 Score: 133/4
+16.6 Amit Mishra to Harshal Patel 1 Score: 134/4
+17.1 Avesh Khan to Harshal Patel 6 Score: 140/4
+17.2 Avesh Khan to Harshal Patel 1 Score: 141/4
+17.3 Avesh Khan to AB de Villiers 4 Score: 145/4
+17.4 Avesh Khan to AB de Villiers W Score: 145/5 Caught by Avesh Khan
+17.5 Avesh Khan to Washington Sundar 1 Score: 146/5
+17.6 Avesh Khan to Harshal Patel 0 Score: 146/5
+18.1 Amit Mishra to Washington Sundar 4 Score: 150/5
+18.2 Amit Mishra to Washington Sundar 1 Score: 151/5
+18.3 Amit Mishra to Harshal Patel 6 Score: 157/5
+18.4 Amit Mishra to Harshal Patel 1 Score: 158/5
+18.5 Amit Mishra to Washington Sundar 0 Score: 158/5
+18.6 Amit Mishra to Washington Sundar 4 Score: 162/5
+19.1 Avesh Khan to Harshal Patel 1 Score: 163/5
+19.2 Avesh Khan to Washington Sundar 4 Score: 167/5
+19.3 Avesh Khan to Washington Sundar W Score: 167/6 Caught by Shikhar Dhawan
+19.4 Avesh Khan to Kyle Jamieson 6 Score: 173/6
+19.5 Avesh Khan to Kyle Jamieson 1 Score: 174/6
+19.6 Avesh Khan to Harshal Patel 6 Score: 180/6
 +-------------------+--------+---------+--------+---------------------------+
 | Player            |   Runs |   Balls | SR     | Out                       |
 +===================+========+=========+========+===========================+
-| D Padikkal        |     32 |      24 | 133.33 | c Avesh Khan b AR Patel   |
+| D Padikkal        |     41 |      25 | 164.0  | bowled b MP Stoinis       |
 +-------------------+--------+---------+--------+---------------------------+
-| V Kohli           |     15 |      16 | 93.75  | stumped b AR Patel        |
+| V Kohli           |     12 |      17 | 70.59  | bowled b AR Patel         |
 +-------------------+--------+---------+--------+---------------------------+
-| GJ Maxwell        |     15 |      10 | 150.0  | lbw b AR Patel            |
+| GJ Maxwell        |     19 |      11 | 172.73 | c S Dhawan b AR Patel     |
 +-------------------+--------+---------+--------+---------------------------+
-| AB de Villiers    |     19 |      13 | 146.15 | c SO Hetmyer b MP Stoinis |
+| AB de Villiers    |     37 |      26 | 142.31 | c Avesh Khan b Avesh Khan |
 +-------------------+--------+---------+--------+---------------------------+
-| Shahbaz Ahmed     |      6 |       9 | 66.67  | c K Rabada b Avesh Khan   |
+| Shahbaz Ahmed     |      5 |       3 | 166.67 | c SO Hetmyer b MP Stoinis |
 +-------------------+--------+---------+--------+---------------------------+
-| Washington Sundar |     11 |      17 | 64.71  | bowled b A Mishra         |
+| Washington Sundar |     14 |       7 | 200.0  | c S Dhawan b Avesh Khan   |
 +-------------------+--------+---------+--------+---------------------------+
-| KA Jamieson       |      4 |       6 | 66.67  | Not out                   |
+| KA Jamieson       |      7 |       2 | 350.0  | Not out                   |
 +-------------------+--------+---------+--------+---------------------------+
-| Mohammed Siraj    |      8 |       3 | 266.67 | Not out                   |
+| Mohammed Siraj    |      0 |       0 | DNB    |                           |
 +-------------------+--------+---------+--------+---------------------------+
-| HV Patel          |      8 |      11 | 72.73  | c K Rabada b A Mishra     |
+| HV Patel          |     42 |      29 | 144.83 | Not out                   |
 +-------------------+--------+---------+--------+---------------------------+
-| NA Saini          |     21 |      11 | 190.91 | Not out                   |
+| NA Saini          |      0 |       0 | DNB    |                           |
 +-------------------+--------+---------+--------+---------------------------+
 | YS Chahal         |      0 |       0 | DNB    |                           |
 +-------------------+--------+---------+--------+---------------------------+
@@ -335,15 +161,184 @@ dc won by 21 runs
 +------------+--------+---------+-----------+-------+
 | SO Hetmyer |      0 |       0 |         0 | NA    |
 +------------+--------+---------+-----------+-------+
-| MP Stoinis |     30 |       4 |         1 | 7.5   |
+| MP Stoinis |     42 |       4 |         2 | 10.5  |
 +------------+--------+---------+-----------+-------+
-| AR Patel   |     30 |       4 |         3 | 7.5   |
+| AR Patel   |     29 |       4 |         2 | 7.25  |
 +------------+--------+---------+-----------+-------+
-| R Ashwin   |     21 |       2 |         0 | 10.5  |
+| R Ashwin   |     11 |       2 |         0 | 5.5   |
 +------------+--------+---------+-----------+-------+
-| A Mishra   |     18 |       4 |         2 | 4.5   |
+| A Mishra   |     40 |       4 |         0 | 10.0  |
 +------------+--------+---------+-----------+-------+
-| K Rabada   |      9 |       2 |         0 | 4.5   |
+| K Rabada   |     16 |       2 |         0 | 8.0   |
 +------------+--------+---------+-----------+-------+
-| Avesh Khan |     33 |       4 |         1 | 8.25  |
+| Avesh Khan |     42 |       4 |         2 | 10.5  |
 +------------+--------+---------+-----------+-------+
+0.1 Mohammed Siraj to Prithvi Shaw 0 Score: 0/0
+0.2 Mohammed Siraj to Prithvi Shaw Wide Score: 1/0
+0.3 Mohammed Siraj to Prithvi Shaw W Score: 1/1 Caught by AB de Villiers
+0.4 Mohammed Siraj to Shikhar Dhawan 1 Score: 2/1
+0.5 Mohammed Siraj to Shikhar Dhawan 0 Score: 2/1
+0.6 Mohammed Siraj to Shikhar Dhawan 1 Score: 3/1
+0.7 Mohammed Siraj to Shikhar Dhawan 2 Score: 5/1
+1.1 Washington Sundar to Shikhar Dhawan 0 Score: 5/1
+1.2 Washington Sundar to Shikhar Dhawan 1 Score: 6/1
+1.3 Washington Sundar to Shikhar Dhawan W Score: 6/2 Caught by Shahbaz Ahmed
+1.4 Washington Sundar to Steven Smith 0 Score: 6/2
+1.5 Washington Sundar to Steven Smith 1 Score: 7/2
+1.6 Washington Sundar to Shikhar Dhawan 0 Score: 7/2
+2.1 Mohammed Siraj to Steven Smith 0 Score: 7/2
+2.2 Mohammed Siraj to Steven Smith 6 Score: 13/2
+2.3 Mohammed Siraj to Steven Smith 4 Score: 17/2
+2.4 Mohammed Siraj to Steven Smith 0 Score: 17/2
+2.5 Mohammed Siraj to Steven Smith 1 Score: 18/2
+2.6 Mohammed Siraj to Shikhar Dhawan 0 Score: 18/2
+3.1 Washington Sundar to Steven Smith 1 Score: 19/2
+3.2 Washington Sundar to Shikhar Dhawan 0 Score: 19/2
+3.3 Washington Sundar to Shikhar Dhawan 0 Score: 19/2
+3.4 Washington Sundar to Shikhar Dhawan 6 Score: 25/2
+3.5 Washington Sundar to Shikhar Dhawan 1 Score: 26/2
+3.6 Washington Sundar to Steven Smith 1 Score: 27/2
+4.1 Kyle Jamieson to Steven Smith 0 Score: 27/2
+4.2 Kyle Jamieson to Steven Smith 1 Score: 28/2
+4.3 Kyle Jamieson to Shikhar Dhawan 1 Score: 29/2
+4.4 Kyle Jamieson to Steven Smith 1 Score: 30/2
+4.5 Kyle Jamieson to Shikhar Dhawan 2 Score: 32/2
+4.6 Kyle Jamieson to Shikhar Dhawan 0 Score: 32/2
+5.1 Navdeep Saini to Steven Smith 4 Score: 36/2
+5.2 Navdeep Saini to Steven Smith 0 Score: 36/2
+5.3 Navdeep Saini to Steven Smith 4 Score: 40/2
+5.4 Navdeep Saini to Steven Smith 1 Score: 41/2
+5.5 Navdeep Saini to Shikhar Dhawan 6 Score: 47/2
+5.6 Navdeep Saini to Shikhar Dhawan 0 Score: 47/2
+6.1 Kyle Jamieson to Steven Smith 0 Score: 47/2
+6.2 Kyle Jamieson to Steven Smith 0 Score: 47/2
+6.3 Kyle Jamieson to Steven Smith 1 Score: 48/2
+6.4 Kyle Jamieson to Shikhar Dhawan 6 Score: 54/2
+6.5 Kyle Jamieson to Shikhar Dhawan Wide Score: 55/2
+6.6 Kyle Jamieson to Shikhar Dhawan 0 Score: 55/2
+6.7 Kyle Jamieson to Shikhar Dhawan 1 Score: 56/2
+7.1 Navdeep Saini to Shikhar Dhawan W Score: 56/3 Lbw
+7.2 Navdeep Saini to Rishabh Pant 1 Score: 57/3
+7.3 Navdeep Saini to Steven Smith 0 Score: 57/3
+7.4 Navdeep Saini to Steven Smith 1 Score: 58/3
+7.5 Navdeep Saini to Rishabh Pant 1 Score: 59/3
+7.6 Navdeep Saini to Steven Smith 0 Score: 59/3
+8.1 Kyle Jamieson to Rishabh Pant 1 Score: 60/3
+8.2 Kyle Jamieson to Steven Smith W Score: 60/4 Caught by Mohammed Siraj
+8.3 Kyle Jamieson to Marcus Stoinis 1 Score: 61/4
+8.4 Kyle Jamieson to Rishabh Pant 6 Score: 67/4
+8.5 Kyle Jamieson to Rishabh Pant 1 Score: 68/4
+8.6 Kyle Jamieson to Marcus Stoinis 0 Score: 68/4
+9.1 Navdeep Saini to Rishabh Pant 0 Score: 68/4
+9.2 Navdeep Saini to Rishabh Pant 0 Score: 68/4
+9.3 Navdeep Saini to Rishabh Pant 6 Score: 74/4
+9.4 Navdeep Saini to Rishabh Pant 1 Score: 75/4
+9.5 Navdeep Saini to Marcus Stoinis 0 Score: 75/4
+9.6 Navdeep Saini to Marcus Stoinis 0 Score: 75/4
+10.1 Harshal Patel to Rishabh Pant 0 Score: 75/4
+10.2 Harshal Patel to Rishabh Pant 6 Score: 81/4
+10.3 Harshal Patel to Rishabh Pant 1 Score: 82/4
+10.4 Harshal Patel to Marcus Stoinis 1 Score: 83/4
+10.5 Harshal Patel to Rishabh Pant 0 Score: 83/4
+10.6 Harshal Patel to Rishabh Pant 0 Score: 83/4
+11.1 Yuzvendra Chahal to Marcus Stoinis 2 Score: 85/4
+11.2 Yuzvendra Chahal to Marcus Stoinis 0 Score: 85/4
+11.3 Yuzvendra Chahal to Marcus Stoinis 0 Score: 85/4
+11.4 Yuzvendra Chahal to Marcus Stoinis 0 Score: 85/4
+11.5 Yuzvendra Chahal to Marcus Stoinis 1 Score: 86/4
+11.6 Yuzvendra Chahal to Rishabh Pant W Score: 86/5 Caught by Devdutt Padikkal
+12.1 Harshal Patel to Marcus Stoinis 1 Score: 87/5
+12.2 Harshal Patel to Shimron Hetmyer 1 Score: 88/5
+12.3 Harshal Patel to Marcus Stoinis W Score: 88/6 Bowled
+12.4 Harshal Patel to Axar Patel 1 Score: 89/6
+12.5 Harshal Patel to Shimron Hetmyer W Score: 89/7 Caught by Kyle Jamieson
+12.6 Harshal Patel to Ravichandran Ashwin 1 Score: 90/7
+13.1 Yuzvendra Chahal to Ravichandran Ashwin 0 Score: 90/7
+13.2 Yuzvendra Chahal to Ravichandran Ashwin 0 Score: 90/7
+13.3 Yuzvendra Chahal to Ravichandran Ashwin 1 Score: 91/7
+13.4 Yuzvendra Chahal to Axar Patel 0 Score: 91/7
+13.5 Yuzvendra Chahal to Axar Patel 1 Score: 92/7
+13.6 Yuzvendra Chahal to Ravichandran Ashwin Wide Score: 93/7
+13.7 Yuzvendra Chahal to Ravichandran Ashwin 1 Score: 94/7
+14.1 Harshal Patel to Ravichandran Ashwin 0 Score: 94/7
+14.2 Harshal Patel to Ravichandran Ashwin 0 Score: 94/7
+14.3 Harshal Patel to Ravichandran Ashwin 6 Score: 100/7
+14.4 Harshal Patel to Ravichandran Ashwin 0 Score: 100/7
+14.5 Harshal Patel to Ravichandran Ashwin Wide Score: 101/7
+14.6 Harshal Patel to Ravichandran Ashwin 1 Score: 102/7
+14.7 Harshal Patel to Axar Patel 0 Score: 102/7
+15.1 Yuzvendra Chahal to Ravichandran Ashwin W Score: 104/8 Run Out!
+15.2 Yuzvendra Chahal to Amit Mishra 1 Score: 105/8
+15.3 Yuzvendra Chahal to Axar Patel 1 Score: 106/8
+15.4 Yuzvendra Chahal to Amit Mishra 1 Score: 107/8
+15.5 Yuzvendra Chahal to Axar Patel 0 Score: 107/8
+15.6 Yuzvendra Chahal to Axar Patel 1 Score: 108/8
+16.1 Harshal Patel to Axar Patel 1 Score: 109/8
+16.2 Harshal Patel to Amit Mishra 1 Score: 110/8
+16.3 Harshal Patel to Axar Patel 0 Score: 110/8
+16.4 Harshal Patel to Axar Patel 1 Score: 111/8
+16.5 Harshal Patel to Amit Mishra 4 Score: 115/8
+16.6 Harshal Patel to Amit Mishra 1 Score: 116/8
+17.1 Mohammed Siraj to Amit Mishra 0 Score: 116/8
+17.2 Mohammed Siraj to Amit Mishra 1 Score: 117/8
+17.3 Mohammed Siraj to Axar Patel 1 Score: 118/8
+17.4 Mohammed Siraj to Amit Mishra 1 Score: 119/8
+17.5 Mohammed Siraj to Axar Patel 1 Score: 120/8
+17.6 Mohammed Siraj to Amit Mishra 4 Score: 124/8
+18.1 Navdeep Saini to Axar Patel W Score: 124/9 Caught by AB de Villiers
+18.2 Navdeep Saini to Kagiso Rabada 1 Score: 125/9
+18.3 Navdeep Saini to Amit Mishra 0 Score: 125/9
+18.4 Navdeep Saini to Amit Mishra 6 Score: 131/9
+18.5 Navdeep Saini to Amit Mishra W Score: 131/10 Bowled
+ALL OUT
+rcb won by 49 runs
++------------+--------+---------+--------+-----------------------------------+
+| Player     |   Runs |   Balls | SR     | Out                               |
++============+========+=========+========+===================================+
+| PP Shaw    |      0 |       2 | 0.0    | c AB de Villiers b Mohammed Siraj |
++------------+--------+---------+--------+-----------------------------------+
+| S Dhawan   |     28 |      22 | 127.27 | lbw b NA Saini                    |
++------------+--------+---------+--------+-----------------------------------+
+| SPD Smith  |     27 |      23 | 117.39 | c Mohammed Siraj b KA Jamieson    |
++------------+--------+---------+--------+-----------------------------------+
+| RR Pant    |     24 |      15 | 160.0  | c D Padikkal b YS Chahal          |
++------------+--------+---------+--------+-----------------------------------+
+| SO Hetmyer |      1 |       2 | 50.0   | c KA Jamieson b HV Patel          |
++------------+--------+---------+--------+-----------------------------------+
+| MP Stoinis |      6 |      12 | 50.0   | bowled b HV Patel                 |
++------------+--------+---------+--------+-----------------------------------+
+| AR Patel   |      8 |      13 | 61.54  | c AB de Villiers b NA Saini       |
++------------+--------+---------+--------+-----------------------------------+
+| R Ashwin   |     12 |      11 | 109.09 | Not out                           |
++------------+--------+---------+--------+-----------------------------------+
+| A Mishra   |     20 |      12 | 166.67 | bowled b NA Saini                 |
++------------+--------+---------+--------+-----------------------------------+
+| K Rabada   |      1 |       1 | 100.0  | Not out                           |
++------------+--------+---------+--------+-----------------------------------+
+| Avesh Khan |      0 |       0 | DNB    |                                   |
++------------+--------+---------+--------+-----------------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| D Padikkal        |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| V Kohli           |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| GJ Maxwell        |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| AB de Villiers    |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Shahbaz Ahmed     |      0 |     0   |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| Washington Sundar |     11 |     2   |         1 | 5.5   |
++-------------------+--------+---------+-----------+-------+
+| KA Jamieson       |     23 |     3   |         1 | 7.67  |
++-------------------+--------+---------+-----------+-------+
+| Mohammed Siraj    |     24 |     3   |         1 | 8.0   |
++-------------------+--------+---------+-----------+-------+
+| HV Patel          |     28 |     4   |         2 | 7.0   |
++-------------------+--------+---------+-----------+-------+
+| NA Saini          |     32 |     3.5 |         3 | 8.35  |
++-------------------+--------+---------+-----------+-------+
+| YS Chahal         |     13 |     3   |         1 | 4.33  |
++-------------------+--------+---------+-----------+-------+

@@ -1,157 +1,150 @@
 ['Jos Buttler', 'Manan Vohra', 'Sanju Samson', 'Shivam Dube', 'David Miller', 'Riyan Parag', 'Rahul Tewatia', 'Chris Morris', 'Jaydev Unadkat', 'Chetan Sakariya', 'Mustafizur Rahman']
 dc won the toss and chose to bat
-0.1 Chetan Sakariya to Prithvi Shaw 1 Score: 1/0
-0.2 Chetan Sakariya to Shikhar Dhawan 1 Score: 2/0
-0.3 Chetan Sakariya to Prithvi Shaw 1 Score: 3/0
-0.4 Chetan Sakariya to Shikhar Dhawan 3 Score: 6/0
-0.5 Chetan Sakariya to Prithvi Shaw 4 Score: 10/0
-0.6 Chetan Sakariya to Prithvi Shaw 0 Score: 10/0
-1.1 Jaydev Unadkat to Shikhar Dhawan 1 Score: 11/0
-1.2 Jaydev Unadkat to Prithvi Shaw 1 Score: 12/0
-1.3 Jaydev Unadkat to Shikhar Dhawan 1 Score: 13/0
-1.4 Jaydev Unadkat to Prithvi Shaw 0 Score: 13/0
-1.5 Jaydev Unadkat to Prithvi Shaw 1 Score: 14/0
-1.6 Jaydev Unadkat to Shikhar Dhawan 1 Score: 15/0
-2.1 Chetan Sakariya to Shikhar Dhawan 1 Score: 16/0
-2.2 Chetan Sakariya to Prithvi Shaw 2 Score: 18/0
-2.3 Chetan Sakariya to Prithvi Shaw W Score: 18/1 Caught by Rahul Tewatia
-2.4 Chetan Sakariya to Steven Smith Wide Score: 19/1
-2.5 Chetan Sakariya to Steven Smith 4 Score: 23/1
-2.6 Chetan Sakariya to Steven Smith 2 Score: 25/1
-2.7 Chetan Sakariya to Steven Smith Wide Score: 26/1
-2.8 Chetan Sakariya to Steven Smith 0 Score: 26/1
-3.1 Jaydev Unadkat to Shikhar Dhawan 0 Score: 26/1
-3.2 Jaydev Unadkat to Shikhar Dhawan 1 Score: 27/1
-3.3 Jaydev Unadkat to Steven Smith 6 Score: 33/1
-3.4 Jaydev Unadkat to Steven Smith 4 Score: 37/1
-3.5 Jaydev Unadkat to Steven Smith 0 Score: 37/1
-3.6 Jaydev Unadkat to Steven Smith 1 Score: 38/1
-4.1 Mustafizur Rahman to Steven Smith 0 Score: 38/1
-4.2 Mustafizur Rahman to Steven Smith 0 Score: 38/1
-4.3 Mustafizur Rahman to Steven Smith 0 Score: 38/1
-4.4 Mustafizur Rahman to Steven Smith 1 Score: 39/1
-4.5 Mustafizur Rahman to Shikhar Dhawan Wide Score: 40/1
-4.6 Mustafizur Rahman to Shikhar Dhawan 0 Score: 40/1
-4.7 Mustafizur Rahman to Shikhar Dhawan 4 Score: 44/1
-5.1 Chris Morris to Steven Smith 0 Score: 44/1
-5.2 Chris Morris to Steven Smith 0 Score: 44/1
-5.3 Chris Morris to Steven Smith 0 Score: 44/1
-5.4 Chris Morris to Steven Smith 1 Score: 45/1
-5.5 Chris Morris to Shikhar Dhawan 1 Score: 46/1
-5.6 Chris Morris to Steven Smith 6 Score: 52/1
-6.1 Mustafizur Rahman to Shikhar Dhawan 1 Score: 53/1
-6.2 Mustafizur Rahman to Steven Smith Wide Score: 54/1
-6.3 Mustafizur Rahman to Steven Smith 0 Score: 54/1
-6.4 Mustafizur Rahman to Steven Smith 2 Score: 56/1
-6.5 Mustafizur Rahman to Steven Smith 4 Score: 60/1
-6.6 Mustafizur Rahman to Steven Smith 0 Score: 60/1
-6.7 Mustafizur Rahman to Steven Smith 0 Score: 60/1
-7.1 Chris Morris to Shikhar Dhawan 0 Score: 60/1
-7.2 Chris Morris to Shikhar Dhawan 1 Score: 61/1
-7.3 Chris Morris to Steven Smith 0 Score: 61/1
-7.4 Chris Morris to Steven Smith 1 Score: 62/1
-7.5 Chris Morris to Shikhar Dhawan Wide Score: 63/1
-7.6 Chris Morris to Shikhar Dhawan 0 Score: 63/1
-7.7 Chris Morris to Shikhar Dhawan 4 Score: 67/1
-8.1 Mustafizur Rahman to Steven Smith 0 Score: 67/1
-8.2 Mustafizur Rahman to Steven Smith 2 Score: 69/1
-8.3 Mustafizur Rahman to Steven Smith 1 Score: 70/1
-8.4 Mustafizur Rahman to Shikhar Dhawan 1 Score: 71/1
-8.5 Mustafizur Rahman to Steven Smith 1 Score: 72/1
-8.6 Mustafizur Rahman to Shikhar Dhawan 0 Score: 72/1
-9.1 Chris Morris to Steven Smith W Score: 72/2 Bowled
-9.2 Chris Morris to Rishabh Pant 0 Score: 72/2
-9.3 Chris Morris to Rishabh Pant W Score: 72/3 Caught by David Miller
-9.4 Chris Morris to Marcus Stoinis 0 Score: 72/3
-9.5 Chris Morris to Marcus Stoinis 1 Score: 73/3
-9.6 Chris Morris to Shikhar Dhawan 0 Score: 73/3
-10.1 Riyan Parag to Marcus Stoinis 1 Score: 74/3
-10.2 Riyan Parag to Shikhar Dhawan 1 Score: 75/3
-10.3 Riyan Parag to Marcus Stoinis 0 Score: 75/3
-10.4 Riyan Parag to Marcus Stoinis 4 Score: 79/3
-10.5 Riyan Parag to Marcus Stoinis 1 Score: 80/3
-10.6 Riyan Parag to Shikhar Dhawan 1 Score: 81/3
-11.1 Rahul Tewatia to Shikhar Dhawan 0 Score: 81/3
-11.2 Rahul Tewatia to Shikhar Dhawan 1 Score: 82/3
-11.3 Rahul Tewatia to Marcus Stoinis 1 Score: 83/3
-11.4 Rahul Tewatia to Shikhar Dhawan 0 Score: 83/3
-11.5 Rahul Tewatia to Shikhar Dhawan 1 Score: 84/3
-11.6 Rahul Tewatia to Marcus Stoinis 1 Score: 85/3
-12.1 Riyan Parag to Marcus Stoinis 1 Score: 86/3
-12.2 Riyan Parag to Shikhar Dhawan 2 Score: 88/3
-12.3 Riyan Parag to Shikhar Dhawan 1 Score: 89/3
-12.4 Riyan Parag to Marcus Stoinis 0 Score: 89/3
-12.5 Riyan Parag to Marcus Stoinis 1 Score: 90/3
-12.6 Riyan Parag to Shikhar Dhawan Wide Score: 91/3
-12.7 Riyan Parag to Shikhar Dhawan 1 Score: 92/3
-13.1 Rahul Tewatia to Shikhar Dhawan 0 Score: 92/3
-13.2 Rahul Tewatia to Shikhar Dhawan 4 Score: 96/3
-13.3 Rahul Tewatia to Shikhar Dhawan 3 Score: 99/3
-13.4 Rahul Tewatia to Marcus Stoinis 1 Score: 100/3
-13.5 Rahul Tewatia to Shikhar Dhawan W Score: 100/4 Caught by Sanju Samson
-13.6 Rahul Tewatia to Shimron Hetmyer 0 Score: 100/4
-14.1 Riyan Parag to Marcus Stoinis 1 Score: 101/4
-14.2 Riyan Parag to Shimron Hetmyer 2 Score: 103/4
-14.3 Riyan Parag to Shimron Hetmyer 0 Score: 103/4
-14.4 Riyan Parag to Shimron Hetmyer 0 Score: 103/4
-14.5 Riyan Parag to Shimron Hetmyer 1 Score: 104/4
-14.6 Riyan Parag to Marcus Stoinis 4 Score: 108/4
-15.1 Rahul Tewatia to Shimron Hetmyer 0 Score: 108/4
-15.2 Rahul Tewatia to Shimron Hetmyer 0 Score: 108/4
-15.3 Rahul Tewatia to Shimron Hetmyer 1 Score: 109/4
-15.4 Rahul Tewatia to Marcus Stoinis 1 Score: 110/4
-15.5 Rahul Tewatia to Shimron Hetmyer 0 Score: 110/4
-15.6 Rahul Tewatia to Shimron Hetmyer 0 Score: 110/4
-16.1 Riyan Parag to Marcus Stoinis 1 Score: 111/4
-16.2 Riyan Parag to Shimron Hetmyer 2 Score: 113/4
-16.3 Riyan Parag to Shimron Hetmyer 0 Score: 113/4
-16.4 Riyan Parag to Shimron Hetmyer 1 Score: 114/4
-16.5 Riyan Parag to Marcus Stoinis 4 Score: 118/4
-16.6 Riyan Parag to Marcus Stoinis 1 Score: 119/4
-17.1 Mustafizur Rahman to Marcus Stoinis 4 Score: 123/4
-17.2 Mustafizur Rahman to Marcus Stoinis 0 Score: 123/4
-17.3 Mustafizur Rahman to Marcus Stoinis 6 Score: 129/4
-17.4 Mustafizur Rahman to Marcus Stoinis 1 Score: 130/4
-17.5 Mustafizur Rahman to Shimron Hetmyer 1 Score: 131/4
-17.6 Mustafizur Rahman to Marcus Stoinis 1 Score: 132/4
-18.1 Chris Morris to Marcus Stoinis 4 Score: 136/4
-18.2 Chris Morris to Marcus Stoinis Wide Score: 137/4
-18.3 Chris Morris to Marcus Stoinis 4 Score: 141/4
-18.4 Chris Morris to Marcus Stoinis 0 Score: 141/4
-18.5 Chris Morris to Marcus Stoinis 6 Score: 147/4
-18.6 Chris Morris to Marcus Stoinis 6 Score: 153/4
-18.7 Chris Morris to Marcus Stoinis 6 Score: 159/4
-19.1 Jaydev Unadkat to Shimron Hetmyer 6 Score: 165/4
-19.2 Jaydev Unadkat to Shimron Hetmyer 0 Score: 165/4
-19.3 Jaydev Unadkat to Shimron Hetmyer W Score: 165/5 Caught by Sanju Samson
-19.4 Jaydev Unadkat to Axar Patel 1 Score: 166/5
-19.5 Jaydev Unadkat to Marcus Stoinis 6 Score: 172/5
-19.6 Jaydev Unadkat to Marcus Stoinis 6 Score: 178/5
-+------------+--------+---------+--------+--------------------------+
-| Player     |   Runs |   Balls | SR     | Out                      |
-+============+========+=========+========+==========================+
-| PP Shaw    |     10 |       9 | 111.11 | c R Tewatia b C Sakariya |
-+------------+--------+---------+--------+--------------------------+
-| S Dhawan   |     36 |      32 | 112.5  | c SV Samson b R Tewatia  |
-+------------+--------+---------+--------+--------------------------+
-| SPD Smith  |     36 |      28 | 128.57 | bowled b CH Morris       |
-+------------+--------+---------+--------+--------------------------+
-| RR Pant    |      0 |       2 | 0.0    | c DA Miller b CH Morris  |
-+------------+--------+---------+--------+--------------------------+
-| SO Hetmyer |     14 |      17 | 82.35  | c SV Samson b JD Unadkat |
-+------------+--------+---------+--------+--------------------------+
-| MP Stoinis |     74 |      31 | 238.71 | Not out                  |
-+------------+--------+---------+--------+--------------------------+
-| AR Patel   |      1 |       1 | 100.0  | Not out                  |
-+------------+--------+---------+--------+--------------------------+
-| R Ashwin   |      0 |       0 | DNB    |                          |
-+------------+--------+---------+--------+--------------------------+
-| A Mishra   |      0 |       0 | DNB    |                          |
-+------------+--------+---------+--------+--------------------------+
-| K Rabada   |      0 |       0 | DNB    |                          |
-+------------+--------+---------+--------+--------------------------+
-| Avesh Khan |      0 |       0 | DNB    |                          |
-+------------+--------+---------+--------+--------------------------+
+0.1 Chetan Sakariya to Prithvi Shaw 0 Score: 0/0
+0.2 Chetan Sakariya to Prithvi Shaw 0 Score: 0/0
+0.3 Chetan Sakariya to Prithvi Shaw 1 Score: 1/0
+0.4 Chetan Sakariya to Shikhar Dhawan 1 Score: 2/0
+0.5 Chetan Sakariya to Prithvi Shaw 1 Score: 3/0
+0.6 Chetan Sakariya to Shikhar Dhawan 4 Score: 7/0
+1.1 Jaydev Unadkat to Prithvi Shaw 0 Score: 7/0
+1.2 Jaydev Unadkat to Prithvi Shaw 1 Score: 8/0
+1.3 Jaydev Unadkat to Shikhar Dhawan 1 Score: 9/0
+1.4 Jaydev Unadkat to Prithvi Shaw 1 Score: 10/0
+1.5 Jaydev Unadkat to Shikhar Dhawan 1 Score: 11/0
+1.6 Jaydev Unadkat to Prithvi Shaw 1 Score: 12/0
+2.1 Chetan Sakariya to Prithvi Shaw 6 Score: 18/0
+2.2 Chetan Sakariya to Prithvi Shaw W Score: 18/1 Caught by Chris Morris
+2.3 Chetan Sakariya to Steven Smith 1 Score: 19/1
+2.4 Chetan Sakariya to Shikhar Dhawan 2 Score: 21/1
+2.5 Chetan Sakariya to Shikhar Dhawan 1 Score: 22/1
+2.6 Chetan Sakariya to Steven Smith 0 Score: 22/1
+3.1 Jaydev Unadkat to Shikhar Dhawan 0 Score: 22/1
+3.2 Jaydev Unadkat to Shikhar Dhawan 0 Score: 22/1
+3.3 Jaydev Unadkat to Shikhar Dhawan 6 Score: 28/1
+3.4 Jaydev Unadkat to Shikhar Dhawan 1 Score: 29/1
+3.5 Jaydev Unadkat to Steven Smith 0 Score: 29/1
+3.6 Jaydev Unadkat to Steven Smith 0 Score: 29/1
+4.1 Mustafizur Rahman to Shikhar Dhawan 1 Score: 30/1
+4.2 Mustafizur Rahman to Steven Smith 4 Score: 34/1
+4.3 Mustafizur Rahman to Steven Smith 0 Score: 34/1
+4.4 Mustafizur Rahman to Steven Smith 4 Score: 38/1
+4.5 Mustafizur Rahman to Steven Smith 1 Score: 39/1
+4.6 Mustafizur Rahman to Shikhar Dhawan 1 Score: 40/1
+5.1 Rahul Tewatia to Shikhar Dhawan 0 Score: 40/1
+5.2 Rahul Tewatia to Shikhar Dhawan 1 Score: 41/1
+5.3 Rahul Tewatia to Steven Smith 1 Score: 42/1
+5.4 Rahul Tewatia to Shikhar Dhawan 1 Score: 43/1
+5.5 Rahul Tewatia to Steven Smith 0 Score: 43/1
+5.6 Rahul Tewatia to Steven Smith 1 Score: 44/1
+6.1 Mustafizur Rahman to Steven Smith 0 Score: 44/1
+6.2 Mustafizur Rahman to Steven Smith 4 Score: 48/1
+6.3 Mustafizur Rahman to Steven Smith 1 Score: 49/1
+6.4 Mustafizur Rahman to Shikhar Dhawan 0 Score: 49/1
+6.5 Mustafizur Rahman to Shikhar Dhawan W Score: 49/2 Caught by Jos Buttler
+6.6 Mustafizur Rahman to Rishabh Pant 1 Score: 50/2
+7.1 Rahul Tewatia to Rishabh Pant 1 Score: 51/2
+7.2 Rahul Tewatia to Steven Smith 0 Score: 51/2
+7.3 Rahul Tewatia to Steven Smith 0 Score: 51/2
+7.4 Rahul Tewatia to Steven Smith 1 Score: 52/2
+7.5 Rahul Tewatia to Rishabh Pant 1 Score: 53/2
+7.6 Rahul Tewatia to Steven Smith 4 Score: 57/2
+8.1 Mustafizur Rahman to Rishabh Pant 0 Score: 57/2
+8.2 Mustafizur Rahman to Rishabh Pant 1 Score: 58/2
+8.3 Mustafizur Rahman to Steven Smith 0 Score: 58/2
+8.4 Mustafizur Rahman to Steven Smith 2 Score: 60/2
+8.5 Mustafizur Rahman to Steven Smith 1 Score: 61/2
+8.6 Mustafizur Rahman to Rishabh Pant 2 Score: 63/2
+9.1 Rahul Tewatia to Steven Smith 1 Score: 64/2
+9.2 Rahul Tewatia to Rishabh Pant 1 Score: 65/2
+9.3 Rahul Tewatia to Steven Smith 0 Score: 65/2
+9.4 Rahul Tewatia to Steven Smith 0 Score: 65/2
+9.5 Rahul Tewatia to Steven Smith 1 Score: 66/2
+9.6 Rahul Tewatia to Rishabh Pant 2 Score: 68/2
+10.1 Riyan Parag to Steven Smith 0 Score: 68/2
+10.2 Riyan Parag to Steven Smith 6 Score: 74/2
+10.3 Riyan Parag to Steven Smith 1 Score: 75/2
+10.4 Riyan Parag to Rishabh Pant 1 Score: 76/2
+10.5 Riyan Parag to Steven Smith 4 Score: 80/2
+10.6 Riyan Parag to Steven Smith 1 Score: 81/2
+11.1 Rahul Tewatia to Steven Smith 4 Score: 85/2
+11.2 Rahul Tewatia to Steven Smith 0 Score: 85/2
+11.3 Rahul Tewatia to Steven Smith 1 Score: 86/2
+11.4 Rahul Tewatia to Rishabh Pant 2 Score: 88/2
+11.5 Rahul Tewatia to Rishabh Pant 0 Score: 88/2
+11.6 Rahul Tewatia to Rishabh Pant 1 Score: 89/2
+12.1 Riyan Parag to Rishabh Pant 4 Score: 93/2
+12.2 Riyan Parag to Rishabh Pant 1 Score: 94/2
+12.3 Riyan Parag to Steven Smith 4 Score: 98/2
+12.4 Riyan Parag to Steven Smith 0 Score: 98/2
+12.5 Riyan Parag to Steven Smith 1 Score: 99/2
+12.6 Riyan Parag to Rishabh Pant 4 Score: 103/2
+13.1 Mustafizur Rahman to Steven Smith W Score: 103/3 Caught by David Miller
+13.2 Mustafizur Rahman to Marcus Stoinis 0 Score: 103/3
+13.3 Mustafizur Rahman to Marcus Stoinis 1 Score: 104/3
+13.4 Mustafizur Rahman to Rishabh Pant 4 Score: 108/3
+13.5 Mustafizur Rahman to Rishabh Pant 0 Score: 108/3
+13.6 Mustafizur Rahman to Rishabh Pant 6 Score: 114/3
+14.1 Riyan Parag to Marcus Stoinis 0 Score: 114/3
+14.2 Riyan Parag to Marcus Stoinis 0 Score: 114/3
+14.3 Riyan Parag to Marcus Stoinis 4 Score: 118/3
+14.4 Riyan Parag to Marcus Stoinis 1 Score: 119/3
+14.5 Riyan Parag to Rishabh Pant 6 Score: 125/3
+14.6 Riyan Parag to Rishabh Pant 1 Score: 126/3
+15.1 Chris Morris to Rishabh Pant 0 Score: 126/3
+15.2 Chris Morris to Rishabh Pant 0 Score: 126/3
+15.3 Chris Morris to Rishabh Pant 1 Score: 127/3
+15.4 Chris Morris to Marcus Stoinis 6 Score: 133/3
+15.5 Chris Morris to Marcus Stoinis 1 Score: 134/3
+15.6 Chris Morris to Rishabh Pant 2 Score: 136/3
+16.1 Riyan Parag to Marcus Stoinis 1 Score: 137/3
+16.2 Riyan Parag to Rishabh Pant 1 Score: 138/3
+16.3 Riyan Parag to Marcus Stoinis 4 Score: 142/3
+16.4 Riyan Parag to Marcus Stoinis 0 Score: 142/3
+16.5 Riyan Parag to Marcus Stoinis 4 Score: 146/3
+16.6 Riyan Parag to Marcus Stoinis 1 Score: 147/3
+17.1 Chris Morris to Marcus Stoinis 1 Score: 148/3
+17.2 Chris Morris to Rishabh Pant 1 Score: 149/3
+17.3 Chris Morris to Marcus Stoinis W Score: 149/4 Lbw
+17.4 Chris Morris to Shimron Hetmyer 0 Score: 149/4
+17.5 Chris Morris to Shimron Hetmyer 6 Score: 155/4
+17.6 Chris Morris to Shimron Hetmyer 0 Score: 155/4
+18.1 Jaydev Unadkat to Rishabh Pant W Score: 155/5 Caught by Chetan Sakariya
+18.2 Jaydev Unadkat to Axar Patel 1 Score: 156/5
+18.3 Jaydev Unadkat to Shimron Hetmyer 6 Score: 162/5
+18.4 Jaydev Unadkat to Shimron Hetmyer 1 Score: 163/5
+18.5 Jaydev Unadkat to Axar Patel 2 Score: 165/5
+18.6 Jaydev Unadkat to Axar Patel 0 Score: 165/5
+19.1 Chris Morris to Shimron Hetmyer 4 Score: 169/5
+19.2 Chris Morris to Shimron Hetmyer 0 Score: 169/5
+19.3 Chris Morris to Shimron Hetmyer 0 Score: 169/5
+19.4 Chris Morris to Shimron Hetmyer 6 Score: 175/5
+19.5 Chris Morris to Shimron Hetmyer 0 Score: 175/5
+19.6 Chris Morris to Shimron Hetmyer 4 Score: 179/5
++------------+--------+---------+--------+----------------------------------+
+| Player     |   Runs |   Balls | SR     | Out                              |
++============+========+=========+========+==================================+
+| PP Shaw    |     11 |      10 | 110.0  | c CH Morris b C Sakariya         |
++------------+--------+---------+--------+----------------------------------+
+| S Dhawan   |     21 |      17 | 123.53 | c JC Buttler b Mustafizur Rahman |
++------------+--------+---------+--------+----------------------------------+
+| SPD Smith  |     49 |      37 | 132.43 | c DA Miller b Mustafizur Rahman  |
++------------+--------+---------+--------+----------------------------------+
+| RR Pant    |     44 |      27 | 162.96 | c C Sakariya b JD Unadkat        |
++------------+--------+---------+--------+----------------------------------+
+| SO Hetmyer |     27 |      11 | 245.45 | Not out                          |
++------------+--------+---------+--------+----------------------------------+
+| MP Stoinis |     24 |      15 | 160.0  | lbw b CH Morris                  |
++------------+--------+---------+--------+----------------------------------+
+| AR Patel   |      3 |       3 | 100.0  | Not out                          |
++------------+--------+---------+--------+----------------------------------+
+| R Ashwin   |      0 |       0 | DNB    |                                  |
++------------+--------+---------+--------+----------------------------------+
+| A Mishra   |      0 |       0 | DNB    |                                  |
++------------+--------+---------+--------+----------------------------------+
+| K Rabada   |      0 |       0 | DNB    |                                  |
++------------+--------+---------+--------+----------------------------------+
+| Avesh Khan |      0 |       0 | DNB    |                                  |
++------------+--------+---------+--------+----------------------------------+
 +-------------------+--------+---------+-----------+-------+
 | Player            |   Runs |   Overs |   Wickets | Eco   |
 +===================+========+=========+===========+=======+
@@ -165,156 +158,153 @@ dc won the toss and chose to bat
 +-------------------+--------+---------+-----------+-------+
 | DA Miller         |      0 |       0 |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| R Parag           |     32 |       4 |         0 | 8.0   |
+| R Parag           |     50 |       4 |         0 | 12.5  |
 +-------------------+--------+---------+-----------+-------+
-| R Tewatia         |     14 |       3 |         1 | 4.67  |
+| R Tewatia         |     24 |       4 |         0 | 6.0   |
 +-------------------+--------+---------+-----------+-------+
-| CH Morris         |     43 |       4 |         2 | 10.75 |
+| CH Morris         |     32 |       3 |         1 | 10.67 |
 +-------------------+--------+---------+-----------+-------+
-| JD Unadkat        |     36 |       3 |         1 | 12.0  |
+| JD Unadkat        |     22 |       3 |         1 | 7.33  |
 +-------------------+--------+---------+-----------+-------+
-| C Sakariya        |     21 |       2 |         1 | 10.5  |
+| C Sakariya        |     17 |       2 |         1 | 8.5   |
 +-------------------+--------+---------+-----------+-------+
-| Mustafizur Rahman |     32 |       4 |         0 | 8.0   |
+| Mustafizur Rahman |     34 |       4 |         2 | 8.5   |
 +-------------------+--------+---------+-----------+-------+
 0.1 Kagiso Rabada to Manan Vohra 0 Score: 0/0
 0.2 Kagiso Rabada to Manan Vohra 1 Score: 1/0
-0.3 Kagiso Rabada to Sanju Samson 4 Score: 5/0
-0.4 Kagiso Rabada to Sanju Samson 0 Score: 5/0
-0.5 Kagiso Rabada to Sanju Samson 0 Score: 5/0
-0.6 Kagiso Rabada to Sanju Samson 2 Score: 7/0
-1.1 Ravichandran Ashwin to Manan Vohra 4 Score: 11/0
-1.2 Ravichandran Ashwin to Manan Vohra 0 Score: 11/0
-1.3 Ravichandran Ashwin to Manan Vohra 0 Score: 11/0
-1.4 Ravichandran Ashwin to Manan Vohra 0 Score: 11/0
-1.5 Ravichandran Ashwin to Manan Vohra 1 Score: 12/0
-1.6 Ravichandran Ashwin to Sanju Samson 1 Score: 13/0
-2.1 Kagiso Rabada to Sanju Samson 4 Score: 17/0
-2.2 Kagiso Rabada to Sanju Samson 0 Score: 17/0
-2.3 Kagiso Rabada to Sanju Samson 6 Score: 23/0
-2.4 Kagiso Rabada to Sanju Samson 0 Score: 23/0
-2.5 Kagiso Rabada to Sanju Samson 0 Score: 23/0
-2.6 Kagiso Rabada to Sanju Samson 4 Score: 27/0
-3.1 Ravichandran Ashwin to Manan Vohra 1 Score: 28/0
-3.2 Ravichandran Ashwin to Sanju Samson 0 Score: 28/0
-3.3 Ravichandran Ashwin to Sanju Samson 1 Score: 29/0
-3.4 Ravichandran Ashwin to Manan Vohra 0 Score: 29/0
-3.5 Ravichandran Ashwin to Manan Vohra 0 Score: 29/0
-3.6 Ravichandran Ashwin to Manan Vohra 2 Score: 31/0
-4.1 Avesh Khan to Sanju Samson 0 Score: 31/0
-4.2 Avesh Khan to Sanju Samson 1 Score: 32/0
-4.3 Avesh Khan to Manan Vohra 1 Score: 33/0
-4.4 Avesh Khan to Sanju Samson 1 Score: 34/0
-4.5 Avesh Khan to Manan Vohra 4 Score: 38/0
-4.6 Avesh Khan to Manan Vohra 1 Score: 39/0
-5.1 Axar Patel to Manan Vohra 0 Score: 39/0
-5.2 Axar Patel to Manan Vohra 4 Score: 43/0
-5.3 Axar Patel to Manan Vohra Wide Score: 44/0
-5.4 Axar Patel to Manan Vohra 1 Score: 45/0
-5.5 Axar Patel to Sanju Samson 0 Score: 45/0
-5.6 Axar Patel to Sanju Samson 0 Score: 45/0
-5.7 Axar Patel to Sanju Samson 4 Score: 49/0
-6.1 Avesh Khan to Manan Vohra 0 Score: 49/0
-6.2 Avesh Khan to Manan Vohra 0 Score: 49/0
-6.3 Avesh Khan to Manan Vohra 6 Score: 55/0
-6.4 Avesh Khan to Manan Vohra 1 Score: 56/0
-6.5 Avesh Khan to Sanju Samson 6 Score: 62/0
-6.6 Avesh Khan to Sanju Samson 4 Score: 66/0
-7.1 Axar Patel to Manan Vohra 4 Score: 70/0
-7.2 Axar Patel to Manan Vohra 4 Score: 74/0
-7.3 Axar Patel to Manan Vohra 4 Score: 78/0
-7.4 Axar Patel to Manan Vohra 0 Score: 78/0
-7.5 Axar Patel to Manan Vohra 4 Score: 82/0
-7.6 Axar Patel to Manan Vohra 1 Score: 83/0
-8.1 Avesh Khan to Manan Vohra 1 Score: 84/0
-8.2 Avesh Khan to Sanju Samson Wide Score: 85/0
-8.3 Avesh Khan to Sanju Samson 1 Score: 86/0
-8.4 Avesh Khan to Manan Vohra 0 Score: 86/0
-8.5 Avesh Khan to Manan Vohra 0 Score: 86/0
-8.6 Avesh Khan to Manan Vohra 0 Score: 86/0
-8.7 Avesh Khan to Manan Vohra 1 Score: 87/0
-9.1 Axar Patel to Manan Vohra 4 Score: 91/0
-9.2 Axar Patel to Manan Vohra 4 Score: 95/0
-9.3 Axar Patel to Manan Vohra 0 Score: 95/0
-9.4 Axar Patel to Manan Vohra W Score: 95/1 Lbw
-9.5 Axar Patel to Jos Buttler 1 Score: 96/1
-9.6 Axar Patel to Sanju Samson 0 Score: 96/1
-10.1 Marcus Stoinis to Jos Buttler 0 Score: 96/1
-10.2 Marcus Stoinis to Jos Buttler 1 Score: 97/1
-10.3 Marcus Stoinis to Sanju Samson 0 Score: 97/1
-10.4 Marcus Stoinis to Sanju Samson 1 Score: 98/1
-10.5 Marcus Stoinis to Jos Buttler 6 Score: 104/1
-10.6 Marcus Stoinis to Jos Buttler 0 Score: 104/1
-11.1 Axar Patel to Sanju Samson W Score: 104/2 Lbw
-11.2 Axar Patel to David Miller 1 Score: 105/2
-11.3 Axar Patel to Jos Buttler 1 Score: 106/2
-11.4 Axar Patel to David Miller 1 Score: 107/2
-11.5 Axar Patel to Jos Buttler 2 Score: 109/2
-11.6 Axar Patel to Jos Buttler 4 Score: 113/2
-12.1 Marcus Stoinis to David Miller 6 Score: 119/2
-12.2 Marcus Stoinis to David Miller 2 Score: 121/2
-12.3 Marcus Stoinis to David Miller 1 Score: 122/2
-12.4 Marcus Stoinis to Jos Buttler 4 Score: 126/2
-12.5 Marcus Stoinis to Jos Buttler 1 Score: 127/2
-12.6 Marcus Stoinis to David Miller 2 Score: 129/2
-13.1 Ravichandran Ashwin to Jos Buttler 0 Score: 129/2
-13.2 Ravichandran Ashwin to Jos Buttler 1 Score: 130/2
-13.3 Ravichandran Ashwin to David Miller 1 Score: 131/2
-13.4 Ravichandran Ashwin to Jos Buttler 3 Score: 134/2
-13.5 Ravichandran Ashwin to David Miller 2 Score: 136/2
-13.6 Ravichandran Ashwin to David Miller 2 Score: 138/2
-14.1 Marcus Stoinis to Jos Buttler 0 Score: 138/2
-14.2 Marcus Stoinis to Jos Buttler 0 Score: 138/2
-14.3 Marcus Stoinis to Jos Buttler 0 Score: 138/2
-14.4 Marcus Stoinis to Jos Buttler 0 Score: 138/2
-14.5 Marcus Stoinis to Jos Buttler 4 Score: 142/2
-14.6 Marcus Stoinis to Jos Buttler 0 Score: 142/2
-15.1 Ravichandran Ashwin to David Miller 1 Score: 143/2
-15.2 Ravichandran Ashwin to Jos Buttler 1 Score: 144/2
-15.3 Ravichandran Ashwin to David Miller 2 Score: 146/2
-15.4 Ravichandran Ashwin to David Miller 0 Score: 146/2
-15.5 Ravichandran Ashwin to David Miller 1 Score: 147/2
-15.6 Ravichandran Ashwin to Jos Buttler 1 Score: 148/2
-16.1 Marcus Stoinis to Jos Buttler 0 Score: 148/2
-16.2 Marcus Stoinis to Jos Buttler W Score: 148/3 Caught by Shimron Hetmyer
-16.3 Marcus Stoinis to Shivam Dube 0 Score: 148/3
-16.4 Marcus Stoinis to Shivam Dube 1 Score: 149/3
-16.5 Marcus Stoinis to David Miller 1 Score: 150/3
-16.6 Marcus Stoinis to Shivam Dube Wide Score: 151/3
-16.7 Marcus Stoinis to Shivam Dube 1 Score: 152/3
-17.1 Kagiso Rabada to Shivam Dube 4 Score: 156/3
-17.2 Kagiso Rabada to Shivam Dube W Score: 156/4 Bowled
-17.3 Kagiso Rabada to Riyan Parag 4 Score: 160/4
-17.4 Kagiso Rabada to Riyan Parag 1 Score: 161/4
-17.5 Kagiso Rabada to David Miller 4 Score: 165/4
-17.6 Kagiso Rabada to David Miller 6 Score: 171/4
-18.1 Avesh Khan to Riyan Parag 6 Score: 177/4
-18.2 Avesh Khan to Riyan Parag 4 Score: 181/4
-rr won by 6 wickets
+0.3 Kagiso Rabada to Sanju Samson 0 Score: 1/0
+0.4 Kagiso Rabada to Sanju Samson 0 Score: 1/0
+0.5 Kagiso Rabada to Sanju Samson 0 Score: 1/0
+0.6 Kagiso Rabada to Sanju Samson 1 Score: 2/0
+1.1 Ravichandran Ashwin to Sanju Samson 1 Score: 3/0
+1.2 Ravichandran Ashwin to Manan Vohra 6 Score: 9/0
+1.3 Ravichandran Ashwin to Manan Vohra 1 Score: 10/0
+1.4 Ravichandran Ashwin to Sanju Samson 0 Score: 10/0
+1.5 Ravichandran Ashwin to Sanju Samson 0 Score: 10/0
+1.6 Ravichandran Ashwin to Sanju Samson 1 Score: 11/0
+2.1 Kagiso Rabada to Sanju Samson 0 Score: 11/0
+2.2 Kagiso Rabada to Sanju Samson 4 Score: 15/0
+2.3 Kagiso Rabada to Sanju Samson 0 Score: 15/0
+2.4 Kagiso Rabada to Sanju Samson 4 Score: 19/0
+2.5 Kagiso Rabada to Sanju Samson 1 Score: 20/0
+2.6 Kagiso Rabada to Manan Vohra 4 Score: 24/0
+3.1 Ravichandran Ashwin to Sanju Samson 1 Score: 25/0
+3.2 Ravichandran Ashwin to Manan Vohra 1 Score: 26/0
+3.3 Ravichandran Ashwin to Sanju Samson 0 Score: 26/0
+3.4 Ravichandran Ashwin to Sanju Samson 0 Score: 26/0
+3.5 Ravichandran Ashwin to Sanju Samson 1 Score: 27/0
+3.6 Ravichandran Ashwin to Manan Vohra 1 Score: 28/0
+4.1 Axar Patel to Manan Vohra 4 Score: 32/0
+4.2 Axar Patel to Manan Vohra 1 Score: 33/0
+4.3 Axar Patel to Sanju Samson 1 Score: 34/0
+4.4 Axar Patel to Manan Vohra 1 Score: 35/0
+4.5 Axar Patel to Sanju Samson 0 Score: 35/0
+4.6 Axar Patel to Sanju Samson 0 Score: 35/0
+5.1 Avesh Khan to Manan Vohra W Score: 35/1 Caught by Shimron Hetmyer
+5.2 Avesh Khan to Jos Buttler 0 Score: 35/1
+5.3 Avesh Khan to Jos Buttler 1 Score: 36/1
+5.4 Avesh Khan to Sanju Samson Wide Score: 37/1
+5.5 Avesh Khan to Sanju Samson 0 Score: 37/1
+5.6 Avesh Khan to Sanju Samson 1 Score: 38/1
+5.7 Avesh Khan to Jos Buttler 0 Score: 38/1
+6.1 Axar Patel to Sanju Samson W Score: 38/2 Caught by Ravichandran Ashwin
+6.2 Axar Patel to David Miller 1 Score: 39/2
+6.3 Axar Patel to Jos Buttler 1 Score: 40/2
+6.4 Axar Patel to David Miller 1 Score: 41/2
+6.5 Axar Patel to Jos Buttler 1 Score: 42/2
+6.6 Axar Patel to David Miller W Score: 42/3 Caught by Steven Smith
+7.1 Avesh Khan to Jos Buttler 4 Score: 46/3
+7.2 Avesh Khan to Jos Buttler 0 Score: 46/3
+7.3 Avesh Khan to Jos Buttler 1 Score: 47/3
+7.4 Avesh Khan to Shivam Dube 0 Score: 47/3
+7.5 Avesh Khan to Shivam Dube 0 Score: 47/3
+7.6 Avesh Khan to Shivam Dube 0 Score: 47/3
+8.1 Axar Patel to Jos Buttler 0 Score: 47/3
+8.2 Axar Patel to Jos Buttler 1 Score: 48/3
+8.3 Axar Patel to Shivam Dube 0 Score: 48/3
+8.4 Axar Patel to Shivam Dube 6 Score: 54/3
+8.5 Axar Patel to Shivam Dube 1 Score: 55/3
+8.6 Axar Patel to Jos Buttler 0 Score: 55/3
+9.1 Avesh Khan to Shivam Dube 0 Score: 55/3
+9.2 Avesh Khan to Shivam Dube 0 Score: 55/3
+9.3 Avesh Khan to Shivam Dube 1 Score: 56/3
+9.4 Avesh Khan to Jos Buttler 0 Score: 56/3
+9.5 Avesh Khan to Jos Buttler 1 Score: 57/3
+9.6 Avesh Khan to Shivam Dube 0 Score: 57/3
+10.1 Axar Patel to Jos Buttler 1 Score: 58/3
+10.2 Axar Patel to Shivam Dube 6 Score: 64/3
+10.3 Axar Patel to Shivam Dube 0 Score: 64/3
+10.4 Axar Patel to Shivam Dube 0 Score: 64/3
+10.5 Axar Patel to Shivam Dube 6 Score: 70/3
+10.6 Axar Patel to Shivam Dube 1 Score: 71/3
+11.1 Amit Mishra to Shivam Dube W Score: 71/4 Caught by Prithvi Shaw
+11.2 Amit Mishra to Riyan Parag 1 Score: 72/4
+11.3 Amit Mishra to Jos Buttler 1 Score: 73/4
+11.4 Amit Mishra to Riyan Parag 4 Score: 77/4
+11.5 Amit Mishra to Riyan Parag 1 Score: 78/4
+11.6 Amit Mishra to Jos Buttler 6 Score: 84/4
+12.1 Marcus Stoinis to Riyan Parag 0 Score: 84/4
+12.2 Marcus Stoinis to Riyan Parag 6 Score: 90/4
+12.3 Marcus Stoinis to Riyan Parag 0 Score: 90/4
+12.4 Marcus Stoinis to Riyan Parag 1 Score: 91/4
+12.5 Marcus Stoinis to Jos Buttler 1 Score: 92/4
+12.6 Marcus Stoinis to Riyan Parag 0 Score: 92/4
+13.1 Amit Mishra to Jos Buttler 1 Score: 93/4
+13.2 Amit Mishra to Riyan Parag 1 Score: 94/4
+13.3 Amit Mishra to Jos Buttler 0 Score: 94/4
+13.4 Amit Mishra to Jos Buttler 1 Score: 95/4
+13.5 Amit Mishra to Riyan Parag 1 Score: 96/4
+13.6 Amit Mishra to Jos Buttler 1 Score: 97/4
+14.1 Marcus Stoinis to Jos Buttler Wide Score: 98/4
+14.2 Marcus Stoinis to Jos Buttler 1 Score: 99/4
+14.3 Marcus Stoinis to Riyan Parag 0 Score: 99/4
+14.4 Marcus Stoinis to Riyan Parag 0 Score: 99/4
+14.5 Marcus Stoinis to Riyan Parag W Score: 99/5 Caught by Axar Patel
+14.6 Marcus Stoinis to Rahul Tewatia 0 Score: 99/5
+14.7 Marcus Stoinis to Rahul Tewatia 1 Score: 100/5
+15.1 Amit Mishra to Rahul Tewatia 4 Score: 104/5
+15.2 Amit Mishra to Rahul Tewatia 0 Score: 104/5
+15.3 Amit Mishra to Rahul Tewatia 6 Score: 110/5
+15.4 Amit Mishra to Rahul Tewatia W Score: 110/6 Caught by Steven Smith
+15.5 Amit Mishra to Chris Morris 1 Score: 111/6
+15.6 Amit Mishra to Jos Buttler 1 Score: 112/6
+16.1 Marcus Stoinis to Jos Buttler 1 Score: 113/6
+16.2 Marcus Stoinis to Chris Morris W Score: 115/7 Run Out!
+16.3 Marcus Stoinis to Jaydev Unadkat 0 Score: 115/7
+16.4 Marcus Stoinis to Jaydev Unadkat 0 Score: 115/7
+16.5 Marcus Stoinis to Jaydev Unadkat W Score: 115/8 Caught by Avesh Khan
+16.6 Marcus Stoinis to Chetan Sakariya 6 Score: 121/8
+17.1 Amit Mishra to Jos Buttler 0 Score: 121/8
+17.2 Amit Mishra to Jos Buttler 1 Score: 122/8
+17.3 Amit Mishra to Chetan Sakariya 0 Score: 122/8
+17.4 Amit Mishra to Chetan Sakariya W Score: 122/9 Caught by Axar Patel
+17.5 Amit Mishra to Mustafizur Rahman W Score: 122/10 Caught by Shikhar Dhawan
+ALL OUT
+dc won by 57 runs
 +-------------------+--------+---------+--------+---------------------------+
-| Player            |   Runs |   Balls | SR     | Out                       |
+| Player            |   Runs |   Balls |     SR | Out                       |
 +===================+========+=========+========+===========================+
-| JC Buttler        |     30 |      23 | 130.43 | c SO Hetmyer b MP Stoinis |
+| JC Buttler        |     26 |      26 | 100    | Not out                   |
 +-------------------+--------+---------+--------+---------------------------+
-| M Vohra           |     54 |      36 | 150.0  | lbw b AR Patel            |
+| M Vohra           |     20 |      11 | 181.82 | c SO Hetmyer b Avesh Khan |
 +-------------------+--------+---------+--------+---------------------------+
-| SV Samson         |     40 |      26 | 153.85 | lbw b AR Patel            |
+| SV Samson         |     16 |      23 |  69.57 | c R Ashwin b AR Patel     |
 +-------------------+--------+---------+--------+---------------------------+
-| S Dube            |      6 |       5 | 120.0  | bowled b K Rabada         |
+| S Dube            |     21 |      16 | 131.25 | c PP Shaw b A Mishra      |
 +-------------------+--------+---------+--------+---------------------------+
-| DA Miller         |     33 |      16 | 206.25 | Not out                   |
+| DA Miller         |      2 |       3 |  66.67 | c SPD Smith b AR Patel    |
 +-------------------+--------+---------+--------+---------------------------+
-| R Parag           |     15 |       4 | 375.0  | Not out                   |
+| R Parag           |     15 |      13 | 115.38 | c AR Patel b MP Stoinis   |
 +-------------------+--------+---------+--------+---------------------------+
-| R Tewatia         |      0 |       0 | DNB    |                           |
+| R Tewatia         |     11 |       6 | 183.33 | c SPD Smith b A Mishra    |
 +-------------------+--------+---------+--------+---------------------------+
-| CH Morris         |      0 |       0 | DNB    |                           |
+| CH Morris         |      3 |       2 | 150    | Not out                   |
 +-------------------+--------+---------+--------+---------------------------+
-| JD Unadkat        |      0 |       0 | DNB    |                           |
+| JD Unadkat        |      0 |       3 |   0    | c Avesh Khan b MP Stoinis |
 +-------------------+--------+---------+--------+---------------------------+
-| C Sakariya        |      0 |       0 | DNB    |                           |
+| C Sakariya        |      6 |       3 | 200    | c AR Patel b A Mishra     |
 +-------------------+--------+---------+--------+---------------------------+
-| Mustafizur Rahman |      0 |       0 | DNB    |                           |
+| Mustafizur Rahman |      0 |       1 |   0    | c S Dhawan b A Mishra     |
 +-------------------+--------+---------+--------+---------------------------+
 +------------+--------+---------+-----------+-------+
 | Player     |   Runs |   Overs |   Wickets | Eco   |
@@ -329,15 +319,15 @@ rr won by 6 wickets
 +------------+--------+---------+-----------+-------+
 | SO Hetmyer |      0 |     0   |         0 | NA    |
 +------------+--------+---------+-----------+-------+
-| MP Stoinis |     32 |     4   |         1 | 8.0   |
+| MP Stoinis |     20 |     3   |         2 | 6.67  |
 +------------+--------+---------+-----------+-------+
-| AR Patel   |     45 |     4   |         2 | 11.25 |
+| AR Patel   |     33 |     4   |         2 | 8.25  |
 +------------+--------+---------+-----------+-------+
-| R Ashwin   |     25 |     4   |         0 | 6.25  |
+| R Ashwin   |     13 |     2   |         0 | 6.5   |
 +------------+--------+---------+-----------+-------+
-| A Mishra   |      0 |     0   |         0 | NA    |
+| A Mishra   |     31 |     3.5 |         4 | 8.09  |
 +------------+--------+---------+-----------+-------+
-| K Rabada   |     40 |     3   |         1 | 13.33 |
+| K Rabada   |     15 |     2   |         0 | 7.5   |
 +------------+--------+---------+-----------+-------+
-| Avesh Khan |     39 |     3.2 |         0 | 11.7  |
+| Avesh Khan |     10 |     3   |         1 | 3.33  |
 +------------+--------+---------+-----------+-------+

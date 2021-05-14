@@ -1,335 +1,152 @@
 ['Ruturaj Gaikwad', 'Faf du Plessis', 'Moeen Ali', 'Suresh Raina', 'Ambati Rayudu', 'Ravindra Jadeja', 'MS Dhoni', 'Sam Curran', 'Dwayne Bravo', 'Shardul Thakur', 'Deepak Chahar']
-csk won the toss and chose to field
-0.1 Deepak Chahar to Quinton de Kock 0 Score: 0/0
-0.2 Deepak Chahar to Quinton de Kock 0 Score: 0/0
-0.3 Deepak Chahar to Quinton de Kock 0 Score: 0/0
-0.4 Deepak Chahar to Quinton de Kock 1 Score: 1/0
-0.5 Deepak Chahar to Rohit Sharma 1 Score: 2/0
-0.6 Deepak Chahar to Quinton de Kock 1 Score: 3/0
-1.1 Moeen Ali to Quinton de Kock Wide Score: 4/0
-1.2 Moeen Ali to Quinton de Kock Wide Score: 5/0
-1.3 Moeen Ali to Quinton de Kock 0 Score: 5/0
-1.4 Moeen Ali to Quinton de Kock 1 Score: 6/0
-1.5 Moeen Ali to Rohit Sharma 1 Score: 7/0
-1.6 Moeen Ali to Quinton de Kock 1 Score: 8/0
-1.7 Moeen Ali to Rohit Sharma 0 Score: 8/0
-1.8 Moeen Ali to Rohit Sharma 4 Score: 12/0
-2.1 Deepak Chahar to Quinton de Kock 0 Score: 12/0
-2.2 Deepak Chahar to Quinton de Kock 1 Score: 13/0
-2.3 Deepak Chahar to Rohit Sharma 0 Score: 13/0
-2.4 Deepak Chahar to Rohit Sharma 1 Score: 14/0
-2.5 Deepak Chahar to Quinton de Kock 0 Score: 14/0
-2.6 Deepak Chahar to Quinton de Kock 0 Score: 14/0
-3.1 Moeen Ali to Rohit Sharma 0 Score: 14/0
-3.2 Moeen Ali to Rohit Sharma 0 Score: 14/0
-3.3 Moeen Ali to Rohit Sharma 0 Score: 14/0
-3.4 Moeen Ali to Rohit Sharma 0 Score: 14/0
-3.5 Moeen Ali to Rohit Sharma 0 Score: 14/0
-3.6 Moeen Ali to Rohit Sharma 1 Score: 15/0
-4.1 Sam Curran to Rohit Sharma W Score: 15/1 Caught by Dwayne Bravo
-4.2 Sam Curran to Ishan Kishan 4 Score: 19/1
-4.3 Sam Curran to Ishan Kishan 0 Score: 19/1
-4.4 Sam Curran to Ishan Kishan 2 Score: 21/1
-4.5 Sam Curran to Ishan Kishan 1 Score: 22/1
-4.6 Sam Curran to Quinton de Kock 2 Score: 24/1
-5.1 Ravindra Jadeja to Ishan Kishan 0 Score: 24/1
-5.2 Ravindra Jadeja to Ishan Kishan 0 Score: 24/1
-5.3 Ravindra Jadeja to Ishan Kishan 0 Score: 24/1
-5.4 Ravindra Jadeja to Ishan Kishan 1 Score: 25/1
-5.5 Ravindra Jadeja to Quinton de Kock 1 Score: 26/1
-5.6 Ravindra Jadeja to Ishan Kishan 1 Score: 27/1
-6.1 Sam Curran to Ishan Kishan W Score: 27/2 Caught by Faf du Plessis
-6.2 Sam Curran to Suryakumar Yadav 2 Score: 29/2
-6.3 Sam Curran to Suryakumar Yadav 1 Score: 30/2
-6.4 Sam Curran to Quinton de Kock 0 Score: 30/2
-6.5 Sam Curran to Quinton de Kock 4 Score: 34/2
-6.6 Sam Curran to Quinton de Kock 0 Score: 34/2
-7.1 Ravindra Jadeja to Suryakumar Yadav 1 Score: 35/2
-7.2 Ravindra Jadeja to Quinton de Kock 1 Score: 36/2
-7.3 Ravindra Jadeja to Suryakumar Yadav 0 Score: 36/2
-7.4 Ravindra Jadeja to Suryakumar Yadav 0 Score: 36/2
-7.5 Ravindra Jadeja to Suryakumar Yadav 1 Score: 37/2
-7.6 Ravindra Jadeja to Quinton de Kock 3 Score: 40/2
-8.1 Sam Curran to Quinton de Kock Wide Score: 41/2
-8.2 Sam Curran to Quinton de Kock 1 Score: 42/2
-8.3 Sam Curran to Suryakumar Yadav 0 Score: 42/2
-8.4 Sam Curran to Suryakumar Yadav 0 Score: 42/2
-8.5 Sam Curran to Suryakumar Yadav 0 Score: 42/2
-8.6 Sam Curran to Suryakumar Yadav Wide Score: 43/2
-8.7 Sam Curran to Suryakumar Yadav 1 Score: 44/2
-8.8 Sam Curran to Quinton de Kock 0 Score: 44/2
-9.1 Ravindra Jadeja to Suryakumar Yadav 1 Score: 45/2
-9.2 Ravindra Jadeja to Quinton de Kock 1 Score: 46/2
-9.3 Ravindra Jadeja to Suryakumar Yadav 1 Score: 47/2
-9.4 Ravindra Jadeja to Quinton de Kock W Score: 47/3 Bowled
-9.5 Ravindra Jadeja to Kieron Pollard 1 Score: 48/3
-9.6 Ravindra Jadeja to Suryakumar Yadav 1 Score: 49/3
-10.1 Dwayne Bravo to Suryakumar Yadav Wide Score: 50/3
-10.2 Dwayne Bravo to Suryakumar Yadav Wide Score: 51/3
-10.3 Dwayne Bravo to Suryakumar Yadav 1 Score: 52/3
-10.4 Dwayne Bravo to Kieron Pollard 0 Score: 52/3
-10.5 Dwayne Bravo to Kieron Pollard 2 Score: 54/3
-10.6 Dwayne Bravo to Kieron Pollard 2 Score: 56/3
-10.7 Dwayne Bravo to Kieron Pollard 2 Score: 58/3
-10.8 Dwayne Bravo to Kieron Pollard 0 Score: 58/3
-11.1 Ravindra Jadeja to Suryakumar Yadav 1 Score: 59/3
-11.2 Ravindra Jadeja to Kieron Pollard 0 Score: 59/3
-11.3 Ravindra Jadeja to Kieron Pollard 6 Score: 65/3
-11.4 Ravindra Jadeja to Kieron Pollard 1 Score: 66/3
-11.5 Ravindra Jadeja to Suryakumar Yadav W Score: 66/4 Caught by MS Dhoni
-11.6 Ravindra Jadeja to Hardik Pandya 1 Score: 67/4
-12.1 Dwayne Bravo to Hardik Pandya 5 Score: 72/4
-12.2 Dwayne Bravo to Kieron Pollard 1 Score: 73/4
-12.3 Dwayne Bravo to Hardik Pandya 1 Score: 74/4
-12.4 Dwayne Bravo to Kieron Pollard 1 Score: 75/4
-12.5 Dwayne Bravo to Hardik Pandya 1 Score: 76/4
-12.6 Dwayne Bravo to Kieron Pollard 1 Score: 77/4
-13.1 Sam Curran to Kieron Pollard Wide Score: 78/4
-13.2 Sam Curran to Kieron Pollard 0 Score: 78/4
-13.3 Sam Curran to Kieron Pollard 1 Score: 79/4
-13.4 Sam Curran to Hardik Pandya 0 Score: 79/4
-13.5 Sam Curran to Hardik Pandya 2 Score: 81/4
-13.6 Sam Curran to Hardik Pandya W Score: 81/5 Caught by Shardul Thakur
-13.7 Sam Curran to Krunal Pandya 0 Score: 81/5
-14.1 Dwayne Bravo to Kieron Pollard 2 Score: 83/5
-14.2 Dwayne Bravo to Kieron Pollard 0 Score: 83/5
-14.3 Dwayne Bravo to Kieron Pollard 2 Score: 85/5
-14.4 Dwayne Bravo to Kieron Pollard 0 Score: 85/5
-14.5 Dwayne Bravo to Kieron Pollard Wide Score: 86/5
-14.6 Dwayne Bravo to Kieron Pollard 1 Score: 87/5
-14.7 Dwayne Bravo to Krunal Pandya 1 Score: 88/5
-15.1 Shardul Thakur to Krunal Pandya 1 Score: 89/5
-15.2 Shardul Thakur to Kieron Pollard 1 Score: 90/5
-15.3 Shardul Thakur to Krunal Pandya 1 Score: 91/5
-15.4 Shardul Thakur to Kieron Pollard 1 Score: 92/5
-15.5 Shardul Thakur to Krunal Pandya 4 Score: 96/5
-15.6 Shardul Thakur to Krunal Pandya W Score: 96/6 Caught by MS Dhoni
-16.1 Moeen Ali to Kieron Pollard Wide Score: 97/6
-16.2 Moeen Ali to Kieron Pollard 1 Score: 98/6
-16.3 Moeen Ali to Jayant Yadav W Score: 99/7 Run Out!
-16.4 Moeen Ali to Rahul Chahar 0 Score: 99/7
-16.5 Moeen Ali to Rahul Chahar 0 Score: 99/7
-16.6 Moeen Ali to Rahul Chahar 1 Score: 100/7
-16.7 Moeen Ali to Kieron Pollard 2 Score: 102/7
-17.1 Shardul Thakur to Rahul Chahar W Score: 102/8 Caught by Moeen Ali
-17.2 Shardul Thakur to Jasprit Bumrah 4 Score: 106/8
-17.3 Shardul Thakur to Jasprit Bumrah Wide Score: 107/8
-17.4 Shardul Thakur to Jasprit Bumrah 0 Score: 107/8
-17.5 Shardul Thakur to Jasprit Bumrah 1 Score: 108/8
-17.6 Shardul Thakur to Kieron Pollard 0 Score: 108/8
-17.7 Shardul Thakur to Kieron Pollard 4 Score: 112/8
-18.1 Dwayne Bravo to Jasprit Bumrah 1 Score: 113/8
-18.2 Dwayne Bravo to Kieron Pollard 6 Score: 119/8
-18.3 Dwayne Bravo to Kieron Pollard 4 Score: 123/8
-18.4 Dwayne Bravo to Kieron Pollard W Score: 123/9 Caught by MS Dhoni
-18.5 Dwayne Bravo to Trent Boult Wide Score: 124/9
-18.6 Dwayne Bravo to Trent Boult 1 Score: 125/9
-18.7 Dwayne Bravo to Jasprit Bumrah 6 Score: 131/9
-19.1 Shardul Thakur to Trent Boult 0 Score: 131/9
-19.2 Shardul Thakur to Trent Boult 0 Score: 131/9
-19.3 Shardul Thakur to Trent Boult 0 Score: 131/9
-19.4 Shardul Thakur to Trent Boult 0 Score: 131/9
-19.5 Shardul Thakur to Trent Boult 4 Score: 135/9
-19.6 Shardul Thakur to Trent Boult W Score: 135/10 Bowled
-ALL OUT
-+--------------+--------+---------+--------+----------------------------+
-| Player       |   Runs |   Balls |     SR | Out                        |
-+==============+========+=========+========+============================+
-| Q de Kock    |     18 |      23 |  78.26 | bowled b RA Jadeja         |
-+--------------+--------+---------+--------+----------------------------+
-| RG Sharma    |      8 |      13 |  61.54 | c DJ Bravo b SM Curran     |
-+--------------+--------+---------+--------+----------------------------+
-| SA Yadav     |     11 |      16 |  68.75 | c MS Dhoni b RA Jadeja     |
-+--------------+--------+---------+--------+----------------------------+
-| Ishan Kishan |      9 |      10 |  90    | c F du Plessis b SM Curran |
-+--------------+--------+---------+--------+----------------------------+
-| KA Pollard   |     42 |      28 | 150    | c MS Dhoni b DJ Bravo      |
-+--------------+--------+---------+--------+----------------------------+
-| HH Pandya    |     10 |       7 | 142.86 | c SN Thakur b SM Curran    |
-+--------------+--------+---------+--------+----------------------------+
-| KH Pandya    |      7 |       6 | 116.67 | c MS Dhoni b SN Thakur     |
-+--------------+--------+---------+--------+----------------------------+
-| J Yadav      |      1 |       1 | 100    | Not out                    |
-+--------------+--------+---------+--------+----------------------------+
-| RD Chahar    |      1 |       4 |  25    | c MM Ali b SN Thakur       |
-+--------------+--------+---------+--------+----------------------------+
-| JJ Bumrah    |     12 |       5 | 240    | Not out                    |
-+--------------+--------+---------+--------+----------------------------+
-| TA Boult     |      5 |       7 |  71.43 | bowled b SN Thakur         |
-+--------------+--------+---------+--------+----------------------------+
-+--------------+--------+---------+-----------+-------+
-| Player       |   Runs |   Overs |   Wickets | Eco   |
-+==============+========+=========+===========+=======+
-| RD Gaikwad   |      0 |       0 |         0 | NA    |
-+--------------+--------+---------+-----------+-------+
-| F du Plessis |      0 |       0 |         0 | NA    |
-+--------------+--------+---------+-----------+-------+
-| MM Ali       |     16 |       3 |         0 | 5.33  |
-+--------------+--------+---------+-----------+-------+
-| SK Raina     |      0 |       0 |         0 | NA    |
-+--------------+--------+---------+-----------+-------+
-| AT Rayudu    |      0 |       0 |         0 | NA    |
-+--------------+--------+---------+-----------+-------+
-| RA Jadeja    |     23 |       4 |         2 | 5.75  |
-+--------------+--------+---------+-----------+-------+
-| MS Dhoni     |      0 |       0 |         0 | NA    |
-+--------------+--------+---------+-----------+-------+
-| SM Curran    |     24 |       4 |         3 | 6.0   |
-+--------------+--------+---------+-----------+-------+
-| DJ Bravo     |     45 |       4 |         1 | 11.25 |
-+--------------+--------+---------+-----------+-------+
-| SN Thakur    |     22 |       3 |         3 | 7.33  |
-+--------------+--------+---------+-----------+-------+
-| DL Chahar    |      5 |       2 |         0 | 2.5   |
-+--------------+--------+---------+-----------+-------+
-0.1 Trent Boult to Ruturaj Gaikwad 1 Score: 1/0
-0.2 Trent Boult to Faf du Plessis 1 Score: 2/0
-0.3 Trent Boult to Ruturaj Gaikwad 0 Score: 2/0
-0.4 Trent Boult to Ruturaj Gaikwad 0 Score: 2/0
-0.5 Trent Boult to Ruturaj Gaikwad 4 Score: 6/0
-0.6 Trent Boult to Ruturaj Gaikwad 0 Score: 6/0
-1.1 Jayant Yadav to Faf du Plessis 0 Score: 6/0
-1.2 Jayant Yadav to Faf du Plessis 1 Score: 7/0
-1.3 Jayant Yadav to Ruturaj Gaikwad 0 Score: 7/0
-1.4 Jayant Yadav to Ruturaj Gaikwad 2 Score: 9/0
-1.5 Jayant Yadav to Ruturaj Gaikwad 0 Score: 9/0
-1.6 Jayant Yadav to Ruturaj Gaikwad 1 Score: 10/0
-2.1 Trent Boult to Ruturaj Gaikwad 1 Score: 11/0
+mi won the toss and chose to field
+0.1 Trent Boult to Ruturaj Gaikwad 2 Score: 2/0
+0.2 Trent Boult to Ruturaj Gaikwad 1 Score: 3/0
+0.3 Trent Boult to Faf du Plessis 4 Score: 7/0
+0.4 Trent Boult to Faf du Plessis 0 Score: 7/0
+0.5 Trent Boult to Faf du Plessis 1 Score: 8/0
+0.6 Trent Boult to Ruturaj Gaikwad 0 Score: 8/0
+1.1 Jayant Yadav to Faf du Plessis 1 Score: 9/0
+1.2 Jayant Yadav to Ruturaj Gaikwad 1 Score: 10/0
+1.3 Jayant Yadav to Faf du Plessis 0 Score: 10/0
+1.4 Jayant Yadav to Faf du Plessis 1 Score: 11/0
+1.5 Jayant Yadav to Ruturaj Gaikwad 0 Score: 11/0
+1.6 Jayant Yadav to Ruturaj Gaikwad 0 Score: 11/0
+2.1 Trent Boult to Faf du Plessis 0 Score: 11/0
 2.2 Trent Boult to Faf du Plessis 1 Score: 12/0
-2.3 Trent Boult to Ruturaj Gaikwad 1 Score: 13/0
-2.4 Trent Boult to Faf du Plessis 1 Score: 14/0
-2.5 Trent Boult to Ruturaj Gaikwad Wide Score: 15/0
-2.6 Trent Boult to Ruturaj Gaikwad 0 Score: 15/0
-2.7 Trent Boult to Ruturaj Gaikwad 0 Score: 15/0
-3.1 Jayant Yadav to Faf du Plessis 1 Score: 16/0
-3.2 Jayant Yadav to Ruturaj Gaikwad 0 Score: 16/0
-3.3 Jayant Yadav to Ruturaj Gaikwad 0 Score: 16/0
-3.4 Jayant Yadav to Ruturaj Gaikwad 0 Score: 16/0
-3.5 Jayant Yadav to Ruturaj Gaikwad 1 Score: 17/0
-3.6 Jayant Yadav to Faf du Plessis 1 Score: 18/0
-4.1 Rahul Chahar to Faf du Plessis 1 Score: 19/0
-4.2 Rahul Chahar to Ruturaj Gaikwad 0 Score: 19/0
-4.3 Rahul Chahar to Ruturaj Gaikwad 0 Score: 19/0
-4.4 Rahul Chahar to Ruturaj Gaikwad 1 Score: 20/0
-4.5 Rahul Chahar to Faf du Plessis 1 Score: 21/0
-4.6 Rahul Chahar to Ruturaj Gaikwad 1 Score: 22/0
-5.1 Krunal Pandya to Ruturaj Gaikwad 1 Score: 23/0
-5.2 Krunal Pandya to Faf du Plessis 0 Score: 23/0
-5.3 Krunal Pandya to Faf du Plessis 1 Score: 24/0
-5.4 Krunal Pandya to Ruturaj Gaikwad 1 Score: 25/0
-5.5 Krunal Pandya to Faf du Plessis 1 Score: 26/0
-5.6 Krunal Pandya to Ruturaj Gaikwad 1 Score: 27/0
-6.1 Rahul Chahar to Ruturaj Gaikwad 0 Score: 27/0
-6.2 Rahul Chahar to Ruturaj Gaikwad 2 Score: 29/0
-6.3 Rahul Chahar to Ruturaj Gaikwad 1 Score: 30/0
-6.4 Rahul Chahar to Faf du Plessis 1 Score: 31/0
-6.5 Rahul Chahar to Ruturaj Gaikwad 0 Score: 31/0
-6.6 Rahul Chahar to Ruturaj Gaikwad 4 Score: 35/0
-7.1 Krunal Pandya to Faf du Plessis 2 Score: 37/0
-7.2 Krunal Pandya to Faf du Plessis 0 Score: 37/0
-7.3 Krunal Pandya to Faf du Plessis 1 Score: 38/0
-7.4 Krunal Pandya to Ruturaj Gaikwad 0 Score: 38/0
-7.5 Krunal Pandya to Ruturaj Gaikwad 1 Score: 39/0
-7.6 Krunal Pandya to Faf du Plessis 0 Score: 39/0
-8.1 Rahul Chahar to Ruturaj Gaikwad 1 Score: 40/0
-8.2 Rahul Chahar to Faf du Plessis 0 Score: 40/0
-8.3 Rahul Chahar to Faf du Plessis 4 Score: 44/0
-8.4 Rahul Chahar to Faf du Plessis 1 Score: 45/0
-8.5 Rahul Chahar to Ruturaj Gaikwad 6 Score: 51/0
-8.6 Rahul Chahar to Ruturaj Gaikwad W Score: 53/1 Run Out!
-9.1 Krunal Pandya to Faf du Plessis 0 Score: 53/1
-9.2 Krunal Pandya to Faf du Plessis 1 Score: 54/1
-9.3 Krunal Pandya to Suresh Raina 1 Score: 55/1
-9.4 Krunal Pandya to Faf du Plessis 4 Score: 59/1
-9.5 Krunal Pandya to Faf du Plessis 1 Score: 60/1
-9.6 Krunal Pandya to Suresh Raina 0 Score: 60/1
-10.1 Rahul Chahar to Faf du Plessis 0 Score: 60/1
-10.2 Rahul Chahar to Faf du Plessis 0 Score: 60/1
-10.3 Rahul Chahar to Faf du Plessis Wide Score: 61/1
-10.4 Rahul Chahar to Faf du Plessis 1 Score: 62/1
-10.5 Rahul Chahar to Suresh Raina 0 Score: 62/1
-10.6 Rahul Chahar to Suresh Raina 0 Score: 62/1
-10.7 Rahul Chahar to Suresh Raina 6 Score: 68/1
-11.1 Krunal Pandya to Faf du Plessis W Score: 68/2 Caught by Krunal Pandya
-11.2 Krunal Pandya to Ambati Rayudu 0 Score: 68/2
-11.3 Krunal Pandya to Ambati Rayudu 1 Score: 69/2
-11.4 Krunal Pandya to Suresh Raina 1 Score: 70/2
-11.5 Krunal Pandya to Ambati Rayudu 1 Score: 71/2
-11.6 Krunal Pandya to Suresh Raina 1 Score: 72/2
-12.1 Jayant Yadav to Suresh Raina 0 Score: 72/2
-12.2 Jayant Yadav to Suresh Raina 1 Score: 73/2
-12.3 Jayant Yadav to Ambati Rayudu 6 Score: 79/2
-12.4 Jayant Yadav to Ambati Rayudu 0 Score: 79/2
-12.5 Jayant Yadav to Ambati Rayudu 1 Score: 80/2
-12.6 Jayant Yadav to Suresh Raina 1 Score: 81/2
-13.1 Hardik Pandya to Suresh Raina 1 Score: 82/2
-13.2 Hardik Pandya to Ambati Rayudu 0 Score: 82/2
-13.3 Hardik Pandya to Ambati Rayudu 1 Score: 83/2
-13.4 Hardik Pandya to Suresh Raina 0 Score: 83/2
-13.5 Hardik Pandya to Suresh Raina 1 Score: 84/2
-13.6 Hardik Pandya to Ambati Rayudu 1 Score: 85/2
-14.1 Jayant Yadav to Ambati Rayudu 1 Score: 86/2
-14.2 Jayant Yadav to Suresh Raina 1 Score: 87/2
-14.3 Jayant Yadav to Ambati Rayudu 1 Score: 88/2
-14.4 Jayant Yadav to Suresh Raina 6 Score: 94/2
-14.5 Jayant Yadav to Suresh Raina 2 Score: 96/2
-14.6 Jayant Yadav to Suresh Raina 1 Score: 97/2
-15.1 Hardik Pandya to Suresh Raina 0 Score: 97/2
-15.2 Hardik Pandya to Suresh Raina 0 Score: 97/2
-15.3 Hardik Pandya to Suresh Raina 0 Score: 97/2
-15.4 Hardik Pandya to Suresh Raina 0 Score: 97/2
-15.5 Hardik Pandya to Suresh Raina 0 Score: 97/2
-15.6 Hardik Pandya to Suresh Raina W Score: 97/3 Caught by Ishan Kishan
-16.1 Jasprit Bumrah to Ambati Rayudu 1 Score: 98/3
-16.2 Jasprit Bumrah to Moeen Ali 0 Score: 98/3
-16.3 Jasprit Bumrah to Moeen Ali 0 Score: 98/3
-16.4 Jasprit Bumrah to Moeen Ali 0 Score: 98/3
-16.5 Jasprit Bumrah to Moeen Ali 0 Score: 98/3
-16.6 Jasprit Bumrah to Moeen Ali W Score: 98/4 Bowled
-17.1 Hardik Pandya to Ambati Rayudu 1 Score: 99/4
-17.2 Hardik Pandya to Sam Curran 2 Score: 101/4
-17.3 Hardik Pandya to Sam Curran 1 Score: 102/4
-17.4 Hardik Pandya to Ambati Rayudu 2 Score: 104/4
-17.5 Hardik Pandya to Ambati Rayudu 4 Score: 108/4
-17.6 Hardik Pandya to Ambati Rayudu 1 Score: 109/4
-18.1 Jasprit Bumrah to Ambati Rayudu 1 Score: 110/4
-18.2 Jasprit Bumrah to Sam Curran 6 Score: 116/4
-18.3 Jasprit Bumrah to Sam Curran 1 Score: 117/4
-18.4 Jasprit Bumrah to Ambati Rayudu 1 Score: 118/4
-18.5 Jasprit Bumrah to Sam Curran 4 Score: 122/4
-18.6 Jasprit Bumrah to Sam Curran 0 Score: 122/4
-19.1 Hardik Pandya to Ambati Rayudu 4 Score: 126/4
-19.2 Hardik Pandya to Ambati Rayudu 0 Score: 126/4
-19.3 Hardik Pandya to Ambati Rayudu 0 Score: 126/4
-19.4 Hardik Pandya to Ambati Rayudu 1 Score: 127/4
-19.5 Hardik Pandya to Sam Curran 1 Score: 128/4
-19.6 Hardik Pandya to Ambati Rayudu 4 Score: 132/4
-mi won by 3 runs
-+--------------+--------+---------+--------+----------------------------+
-| Player       |   Runs |   Balls | SR     | Out                        |
-+==============+========+=========+========+============================+
-| RD Gaikwad   |     33 |      34 | 97.06  | Not out                    |
-+--------------+--------+---------+--------+----------------------------+
-| F du Plessis |     26 |      28 | 92.86  | c KH Pandya b KH Pandya    |
-+--------------+--------+---------+--------+----------------------------+
-| MM Ali       |      0 |       5 | 0.0    | bowled b JJ Bumrah         |
-+--------------+--------+---------+--------+----------------------------+
-| SK Raina     |     23 |      23 | 100.0  | c Ishan Kishan b HH Pandya |
-+--------------+--------+---------+--------+----------------------------+
-| AT Rayudu    |     33 |      23 | 143.48 | Not out                    |
-+--------------+--------+---------+--------+----------------------------+
-| RA Jadeja    |      0 |       0 | DNB    |                            |
-+--------------+--------+---------+--------+----------------------------+
-| MS Dhoni     |      0 |       0 | DNB    |                            |
-+--------------+--------+---------+--------+----------------------------+
-| SM Curran    |     15 |       7 | 214.29 | Not out                    |
-+--------------+--------+---------+--------+----------------------------+
-| DJ Bravo     |      0 |       0 | DNB    |                            |
-+--------------+--------+---------+--------+----------------------------+
-| SN Thakur    |      0 |       0 | DNB    |                            |
-+--------------+--------+---------+--------+----------------------------+
-| DL Chahar    |      0 |       0 | DNB    |                            |
-+--------------+--------+---------+--------+----------------------------+
+2.3 Trent Boult to Ruturaj Gaikwad Wide Score: 13/0
+2.4 Trent Boult to Ruturaj Gaikwad 4 Score: 17/0
+2.5 Trent Boult to Ruturaj Gaikwad 0 Score: 17/0
+2.6 Trent Boult to Ruturaj Gaikwad 4 Score: 21/0
+2.7 Trent Boult to Ruturaj Gaikwad 0 Score: 21/0
+3.1 Jayant Yadav to Faf du Plessis 0 Score: 21/0
+3.2 Jayant Yadav to Faf du Plessis 4 Score: 25/0
+3.3 Jayant Yadav to Faf du Plessis 4 Score: 29/0
+3.4 Jayant Yadav to Faf du Plessis 1 Score: 30/0
+3.5 Jayant Yadav to Ruturaj Gaikwad 1 Score: 31/0
+3.6 Jayant Yadav to Faf du Plessis 4 Score: 35/0
+4.1 Jasprit Bumrah to Ruturaj Gaikwad 0 Score: 35/0
+4.2 Jasprit Bumrah to Ruturaj Gaikwad 2 Score: 37/0
+4.3 Jasprit Bumrah to Ruturaj Gaikwad 0 Score: 37/0
+4.4 Jasprit Bumrah to Ruturaj Gaikwad 1 Score: 38/0
+4.5 Jasprit Bumrah to Faf du Plessis 1 Score: 39/0
+4.6 Jasprit Bumrah to Ruturaj Gaikwad W Score: 39/1 Bowled
+5.1 Krunal Pandya to Faf du Plessis 0 Score: 39/1
+5.2 Krunal Pandya to Faf du Plessis 1 Score: 40/1
+5.3 Krunal Pandya to Suresh Raina 0 Score: 40/1
+5.4 Krunal Pandya to Suresh Raina Wide Score: 41/1
+5.5 Krunal Pandya to Suresh Raina 1 Score: 42/1
+5.6 Krunal Pandya to Faf du Plessis 0 Score: 42/1
+5.7 Krunal Pandya to Faf du Plessis 4 Score: 46/1
+6.1 Jasprit Bumrah to Suresh Raina 1 Score: 47/1
+6.2 Jasprit Bumrah to Faf du Plessis 0 Score: 47/1
+6.3 Jasprit Bumrah to Faf du Plessis 3 Score: 50/1
+6.4 Jasprit Bumrah to Suresh Raina 0 Score: 50/1
+6.5 Jasprit Bumrah to Suresh Raina 1 Score: 51/1
+6.6 Jasprit Bumrah to Faf du Plessis 1 Score: 52/1
+7.1 Krunal Pandya to Faf du Plessis W Score: 53/2 Run Out!
+7.2 Krunal Pandya to Ambati Rayudu 0 Score: 53/2
+7.3 Krunal Pandya to Ambati Rayudu 0 Score: 53/2
+7.4 Krunal Pandya to Ambati Rayudu 0 Score: 53/2
+7.5 Krunal Pandya to Ambati Rayudu 1 Score: 54/2
+7.6 Krunal Pandya to Suresh Raina 1 Score: 55/2
+8.1 Jasprit Bumrah to Suresh Raina 0 Score: 55/2
+8.2 Jasprit Bumrah to Suresh Raina 6 Score: 61/2
+8.3 Jasprit Bumrah to Suresh Raina 1 Score: 62/2
+8.4 Jasprit Bumrah to Ambati Rayudu 4 Score: 66/2
+8.5 Jasprit Bumrah to Ambati Rayudu 1 Score: 67/2
+8.6 Jasprit Bumrah to Suresh Raina 0 Score: 67/2
+9.1 Krunal Pandya to Ambati Rayudu 4 Score: 71/2
+9.2 Krunal Pandya to Ambati Rayudu 1 Score: 72/2
+9.3 Krunal Pandya to Suresh Raina 1 Score: 73/2
+9.4 Krunal Pandya to Ambati Rayudu 4 Score: 77/2
+9.5 Krunal Pandya to Ambati Rayudu 0 Score: 77/2
+9.6 Krunal Pandya to Ambati Rayudu 1 Score: 78/2
+10.1 Rahul Chahar to Ambati Rayudu 1 Score: 79/2
+10.2 Rahul Chahar to Suresh Raina 1 Score: 80/2
+10.3 Rahul Chahar to Ambati Rayudu 1 Score: 81/2
+10.4 Rahul Chahar to Suresh Raina 0 Score: 81/2
+10.5 Rahul Chahar to Suresh Raina W Score: 81/3 Caught by Kieron Pollard
+10.6 Rahul Chahar to Moeen Ali 1 Score: 82/3
+11.1 Krunal Pandya to Moeen Ali 1 Score: 83/3
+11.2 Krunal Pandya to Ambati Rayudu 0 Score: 83/3
+11.3 Krunal Pandya to Ambati Rayudu 6 Score: 89/3
+11.4 Krunal Pandya to Ambati Rayudu 1 Score: 90/3
+11.5 Krunal Pandya to Moeen Ali 6 Score: 96/3
+11.6 Krunal Pandya to Moeen Ali 1 Score: 97/3
+12.1 Rahul Chahar to Moeen Ali 1 Score: 98/3
+12.2 Rahul Chahar to Ambati Rayudu 1 Score: 99/3
+12.3 Rahul Chahar to Moeen Ali 4 Score: 103/3
+12.4 Rahul Chahar to Moeen Ali 0 Score: 103/3
+12.5 Rahul Chahar to Moeen Ali 1 Score: 104/3
+12.6 Rahul Chahar to Ambati Rayudu 4 Score: 108/3
+13.1 Jayant Yadav to Moeen Ali 1 Score: 109/3
+13.2 Jayant Yadav to Ambati Rayudu 2 Score: 111/3
+13.3 Jayant Yadav to Ambati Rayudu 0 Score: 111/3
+13.4 Jayant Yadav to Ambati Rayudu 1 Score: 112/3
+13.5 Jayant Yadav to Moeen Ali 1 Score: 113/3
+13.6 Jayant Yadav to Ambati Rayudu 0 Score: 113/3
+14.1 Rahul Chahar to Moeen Ali 1 Score: 114/3
+14.2 Rahul Chahar to Ambati Rayudu 0 Score: 114/3
+14.3 Rahul Chahar to Ambati Rayudu W Score: 114/4 Bowled
+14.4 Rahul Chahar to Sam Curran 1 Score: 115/4
+14.5 Rahul Chahar to Moeen Ali 0 Score: 115/4
+14.6 Rahul Chahar to Moeen Ali 1 Score: 116/4
+15.1 Jayant Yadav to Moeen Ali 0 Score: 116/4
+15.2 Jayant Yadav to Moeen Ali 0 Score: 116/4
+15.3 Jayant Yadav to Moeen Ali 1 Score: 117/4
+15.4 Jayant Yadav to Sam Curran 6 Score: 123/4
+15.5 Jayant Yadav to Sam Curran 0 Score: 123/4
+15.6 Jayant Yadav to Sam Curran 0 Score: 123/4
+16.1 Rahul Chahar to Moeen Ali 1 Score: 124/4
+16.2 Rahul Chahar to Sam Curran 0 Score: 124/4
+16.3 Rahul Chahar to Sam Curran 1 Score: 125/4
+16.4 Rahul Chahar to Moeen Ali 0 Score: 125/4
+16.5 Rahul Chahar to Moeen Ali 0 Score: 125/4
+16.6 Rahul Chahar to Moeen Ali 4 Score: 129/4
+17.1 Jasprit Bumrah to Sam Curran 6 Score: 135/4
+17.2 Jasprit Bumrah to Sam Curran 0 Score: 135/4
+17.3 Jasprit Bumrah to Sam Curran 0 Score: 135/4
+17.4 Jasprit Bumrah to Sam Curran W Score: 135/5 Lbw
+17.5 Jasprit Bumrah to MS Dhoni 0 Score: 135/5
+17.6 Jasprit Bumrah to MS Dhoni 0 Score: 135/5
+18.1 Trent Boult to Moeen Ali 4 Score: 139/5
+18.2 Trent Boult to Moeen Ali 6 Score: 145/5
+18.3 Trent Boult to Moeen Ali 6 Score: 151/5
+18.4 Trent Boult to Moeen Ali 1 Score: 152/5
+18.5 Trent Boult to MS Dhoni 1 Score: 153/5
+18.6 Trent Boult to Moeen Ali 6 Score: 159/5
+19.1 Hardik Pandya to MS Dhoni 4 Score: 163/5
+19.2 Hardik Pandya to MS Dhoni 0 Score: 163/5
+19.3 Hardik Pandya to MS Dhoni 6 Score: 169/5
+19.4 Hardik Pandya to MS Dhoni 4 Score: 173/5
+19.5 Hardik Pandya to MS Dhoni 4 Score: 177/5
+19.6 Hardik Pandya to MS Dhoni 6 Score: 183/5
++--------------+--------+---------+--------+--------------------------+
+| Player       |   Runs |   Balls | SR     | Out                      |
++==============+========+=========+========+==========================+
+| RD Gaikwad   |     16 |      16 | 100.0  | bowled b JJ Bumrah       |
++--------------+--------+---------+--------+--------------------------+
+| F du Plessis |     32 |      22 | 145.45 | Not out                  |
++--------------+--------+---------+--------+--------------------------+
+| MM Ali       |     48 |      25 | 192.0  | Not out                  |
++--------------+--------+---------+--------+--------------------------+
+| SK Raina     |     13 |      14 | 92.86  | c KA Pollard b RD Chahar |
++--------------+--------+---------+--------+--------------------------+
+| AT Rayudu    |     33 |      24 | 137.5  | bowled b RD Chahar       |
++--------------+--------+---------+--------+--------------------------+
+| RA Jadeja    |      0 |       0 | DNB    |                          |
++--------------+--------+---------+--------+--------------------------+
+| MS Dhoni     |     25 |       9 | 277.78 | Not out                  |
++--------------+--------+---------+--------+--------------------------+
+| SM Curran    |     14 |      10 | 140.0  | lbw b JJ Bumrah          |
++--------------+--------+---------+--------+--------------------------+
+| DJ Bravo     |      0 |       0 | DNB    |                          |
++--------------+--------+---------+--------+--------------------------+
+| SN Thakur    |      0 |       0 | DNB    |                          |
++--------------+--------+---------+--------+--------------------------+
+| DL Chahar    |      0 |       0 | DNB    |                          |
++--------------+--------+---------+--------+--------------------------+
 +--------------+--------+---------+-----------+-------+
 | Player       |   Runs |   Overs |   Wickets | Eco   |
 +==============+========+=========+===========+=======+
@@ -343,15 +160,186 @@ mi won by 3 runs
 +--------------+--------+---------+-----------+-------+
 | KA Pollard   |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| HH Pandya    |     25 |       4 |         1 | 6.25  |
+| HH Pandya    |     24 |       1 |         0 | 24.0  |
 +--------------+--------+---------+-----------+-------+
-| KH Pandya    |     20 |       4 |         1 | 5.0   |
+| KH Pandya    |     36 |       4 |         0 | 9.0   |
 +--------------+--------+---------+-----------+-------+
-| J Yadav      |     28 |       4 |         0 | 7.0   |
+| J Yadav      |     29 |       4 |         0 | 7.25  |
 +--------------+--------+---------+-----------+-------+
-| RD Chahar    |     34 |       4 |         0 | 8.5   |
+| RD Chahar    |     24 |       4 |         2 | 6.0   |
 +--------------+--------+---------+-----------+-------+
-| JJ Bumrah    |     14 |       2 |         1 | 7.0   |
+| JJ Bumrah    |     28 |       4 |         2 | 7.0   |
 +--------------+--------+---------+-----------+-------+
-| TA Boult     |     11 |       2 |         0 | 5.5   |
+| TA Boult     |     42 |       3 |         0 | 14.0  |
++--------------+--------+---------+-----------+-------+
+0.1 Deepak Chahar to Quinton de Kock 1 Score: 1/0
+0.2 Deepak Chahar to Rohit Sharma 0 Score: 1/0
+0.3 Deepak Chahar to Rohit Sharma W Score: 1/1 Caught by MS Dhoni
+0.4 Deepak Chahar to Ishan Kishan 4 Score: 5/1
+0.5 Deepak Chahar to Ishan Kishan 4 Score: 9/1
+0.6 Deepak Chahar to Ishan Kishan 4 Score: 13/1
+1.1 Moeen Ali to Quinton de Kock 1 Score: 14/1
+1.2 Moeen Ali to Ishan Kishan 1 Score: 15/1
+1.3 Moeen Ali to Quinton de Kock 2 Score: 17/1
+1.4 Moeen Ali to Quinton de Kock 0 Score: 17/1
+1.5 Moeen Ali to Quinton de Kock 4 Score: 21/1
+1.6 Moeen Ali to Quinton de Kock 1 Score: 22/1
+2.1 Deepak Chahar to Quinton de Kock 0 Score: 22/1
+2.2 Deepak Chahar to Quinton de Kock 1 Score: 23/1
+2.3 Deepak Chahar to Ishan Kishan 1 Score: 24/1
+2.4 Deepak Chahar to Quinton de Kock 4 Score: 28/1
+2.5 Deepak Chahar to Quinton de Kock 1 Score: 29/1
+2.6 Deepak Chahar to Ishan Kishan 6 Score: 35/1
+3.1 Moeen Ali to Quinton de Kock 1 Score: 36/1
+3.2 Moeen Ali to Ishan Kishan 1 Score: 37/1
+3.3 Moeen Ali to Quinton de Kock 0 Score: 37/1
+3.4 Moeen Ali to Quinton de Kock 0 Score: 37/1
+3.5 Moeen Ali to Quinton de Kock 1 Score: 38/1
+3.6 Moeen Ali to Ishan Kishan 1 Score: 39/1
+4.1 Sam Curran to Ishan Kishan 4 Score: 43/1
+4.2 Sam Curran to Ishan Kishan 0 Score: 43/1
+4.3 Sam Curran to Ishan Kishan 1 Score: 44/1
+4.4 Sam Curran to Quinton de Kock 0 Score: 44/1
+4.5 Sam Curran to Quinton de Kock 4 Score: 48/1
+4.6 Sam Curran to Quinton de Kock 1 Score: 49/1
+5.1 Shardul Thakur to Quinton de Kock 1 Score: 50/1
+5.2 Shardul Thakur to Ishan Kishan 0 Score: 50/1
+5.3 Shardul Thakur to Ishan Kishan 4 Score: 54/1
+5.4 Shardul Thakur to Ishan Kishan 4 Score: 58/1
+5.5 Shardul Thakur to Ishan Kishan 6 Score: 64/1
+5.6 Shardul Thakur to Ishan Kishan 4 Score: 68/1
+6.1 Sam Curran to Quinton de Kock 2 Score: 70/1
+6.2 Sam Curran to Quinton de Kock 1 Score: 71/1
+6.3 Sam Curran to Ishan Kishan 1 Score: 72/1
+6.4 Sam Curran to Quinton de Kock 1 Score: 73/1
+6.5 Sam Curran to Ishan Kishan 0 Score: 73/1
+6.6 Sam Curran to Ishan Kishan 1 Score: 74/1
+7.1 Shardul Thakur to Ishan Kishan 0 Score: 74/1
+7.2 Shardul Thakur to Ishan Kishan 4 Score: 78/1
+7.3 Shardul Thakur to Ishan Kishan 4 Score: 82/1
+7.4 Shardul Thakur to Ishan Kishan W Score: 82/2 Caught by Ravindra Jadeja
+7.5 Shardul Thakur to Suryakumar Yadav 0 Score: 82/2
+7.6 Shardul Thakur to Suryakumar Yadav 6 Score: 88/2
+8.1 Sam Curran to Quinton de Kock 1 Score: 89/2
+8.2 Sam Curran to Suryakumar Yadav 1 Score: 90/2
+8.3 Sam Curran to Quinton de Kock 4 Score: 94/2
+8.4 Sam Curran to Quinton de Kock 1 Score: 95/2
+8.5 Sam Curran to Suryakumar Yadav 1 Score: 96/2
+8.6 Sam Curran to Quinton de Kock 0 Score: 96/2
+9.1 Shardul Thakur to Suryakumar Yadav 0 Score: 96/2
+9.2 Shardul Thakur to Suryakumar Yadav 4 Score: 100/2
+9.3 Shardul Thakur to Suryakumar Yadav 1 Score: 101/2
+9.4 Shardul Thakur to Quinton de Kock 0 Score: 101/2
+9.5 Shardul Thakur to Quinton de Kock 4 Score: 105/2
+9.6 Shardul Thakur to Quinton de Kock 4 Score: 109/2
+10.1 Dwayne Bravo to Suryakumar Yadav 1 Score: 110/2
+10.2 Dwayne Bravo to Quinton de Kock 4 Score: 114/2
+10.3 Dwayne Bravo to Quinton de Kock 0 Score: 114/2
+10.4 Dwayne Bravo to Quinton de Kock 1 Score: 115/2
+10.5 Dwayne Bravo to Suryakumar Yadav 0 Score: 115/2
+10.6 Dwayne Bravo to Suryakumar Yadav 0 Score: 115/2
+11.1 Moeen Ali to Quinton de Kock 0 Score: 115/2
+11.2 Moeen Ali to Quinton de Kock 1 Score: 116/2
+11.3 Moeen Ali to Suryakumar Yadav 0 Score: 116/2
+11.4 Moeen Ali to Suryakumar Yadav 0 Score: 116/2
+11.5 Moeen Ali to Suryakumar Yadav 1 Score: 117/2
+11.6 Moeen Ali to Quinton de Kock W Score: 117/3 Caught by Ravindra Jadeja
+12.1 Dwayne Bravo to Suryakumar Yadav 1 Score: 118/3
+12.2 Dwayne Bravo to Kieron Pollard 1 Score: 119/3
+12.3 Dwayne Bravo to Suryakumar Yadav 0 Score: 119/3
+12.4 Dwayne Bravo to Suryakumar Yadav 0 Score: 119/3
+12.5 Dwayne Bravo to Suryakumar Yadav 0 Score: 119/3
+12.6 Dwayne Bravo to Suryakumar Yadav 0 Score: 119/3
+13.1 Moeen Ali to Kieron Pollard 0 Score: 119/3
+13.2 Moeen Ali to Kieron Pollard 1 Score: 120/3
+13.3 Moeen Ali to Suryakumar Yadav 4 Score: 124/3
+13.4 Moeen Ali to Suryakumar Yadav 1 Score: 125/3
+13.5 Moeen Ali to Kieron Pollard 0 Score: 125/3
+13.6 Moeen Ali to Kieron Pollard 6 Score: 131/3
+14.1 Dwayne Bravo to Suryakumar Yadav 1 Score: 132/3
+14.2 Dwayne Bravo to Kieron Pollard 1 Score: 133/3
+14.3 Dwayne Bravo to Suryakumar Yadav 1 Score: 134/3
+14.4 Dwayne Bravo to Kieron Pollard 4 Score: 138/3
+14.5 Dwayne Bravo to Kieron Pollard 0 Score: 138/3
+14.6 Dwayne Bravo to Kieron Pollard 6 Score: 144/3
+15.1 Ravindra Jadeja to Suryakumar Yadav 1 Score: 145/3
+15.2 Ravindra Jadeja to Kieron Pollard 4 Score: 149/3
+15.3 Ravindra Jadeja to Kieron Pollard 1 Score: 150/3
+15.4 Ravindra Jadeja to Suryakumar Yadav 2 Score: 152/3
+15.5 Ravindra Jadeja to Suryakumar Yadav 2 Score: 154/3
+15.6 Ravindra Jadeja to Suryakumar Yadav 4 Score: 158/3
+16.1 Ambati Rayudu to Kieron Pollard 0 Score: 158/3
+16.2 Ambati Rayudu to Kieron Pollard 1 Score: 159/3
+16.3 Ambati Rayudu to Suryakumar Yadav 1 Score: 160/3
+16.4 Ambati Rayudu to Kieron Pollard 1 Score: 161/3
+16.5 Ambati Rayudu to Suryakumar Yadav 1 Score: 162/3
+16.6 Ambati Rayudu to Kieron Pollard 0 Score: 162/3
+17.1 Sam Curran to Suryakumar Yadav 0 Score: 162/3
+17.2 Sam Curran to Suryakumar Yadav 0 Score: 162/3
+17.3 Sam Curran to Suryakumar Yadav 0 Score: 162/3
+17.4 Sam Curran to Suryakumar Yadav 4 Score: 166/3
+17.5 Sam Curran to Suryakumar Yadav 0 Score: 166/3
+17.6 Sam Curran to Suryakumar Yadav 0 Score: 166/3
+18.1 Shardul Thakur to Kieron Pollard Wide Score: 167/3
+18.2 Shardul Thakur to Kieron Pollard 1 Score: 168/3
+18.3 Shardul Thakur to Suryakumar Yadav W Score: 168/4 Caught by Ravindra Jadeja
+18.4 Shardul Thakur to Hardik Pandya 0 Score: 168/4
+18.5 Shardul Thakur to Hardik Pandya W Score: 168/5 Caught by Ravindra Jadeja
+18.6 Shardul Thakur to Krunal Pandya 6 Score: 174/5
+18.7 Shardul Thakur to Krunal Pandya 2 Score: 176/5
+19.1 Dwayne Bravo to Kieron Pollard 0 Score: 176/5
+19.2 Dwayne Bravo to Kieron Pollard 4 Score: 180/5
+19.3 Dwayne Bravo to Kieron Pollard 1 Score: 181/5
+19.4 Dwayne Bravo to Krunal Pandya 1 Score: 182/5
+19.5 Dwayne Bravo to Kieron Pollard 4 Score: 186/5
+mi won by 5 wickets
++--------------+--------+---------+--------+-------------------------+
+| Player       |   Runs |   Balls | SR     | Out                     |
++==============+========+=========+========+=========================+
+| Q de Kock    |     47 |      34 | 138.24 | c RA Jadeja b MM Ali    |
++--------------+--------+---------+--------+-------------------------+
+| RG Sharma    |      0 |       2 | 0.0    | c MS Dhoni b DL Chahar  |
++--------------+--------+---------+--------+-------------------------+
+| SA Yadav     |     38 |      35 | 108.57 | c RA Jadeja b SN Thakur |
++--------------+--------+---------+--------+-------------------------+
+| Ishan Kishan |     55 |      23 | 239.13 | c RA Jadeja b SN Thakur |
++--------------+--------+---------+--------+-------------------------+
+| KA Pollard   |     36 |      20 | 180.0  | Not out                 |
++--------------+--------+---------+--------+-------------------------+
+| HH Pandya    |      0 |       2 | 0.0    | c RA Jadeja b SN Thakur |
++--------------+--------+---------+--------+-------------------------+
+| KH Pandya    |      9 |       3 | 300.0  | Not out                 |
++--------------+--------+---------+--------+-------------------------+
+| J Yadav      |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| RD Chahar    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| JJ Bumrah    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| TA Boult     |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
++--------------+--------+---------+-----------+-------+
+| Player       |   Runs |   Overs |   Wickets | Eco   |
++==============+========+=========+===========+=======+
+| RD Gaikwad   |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| F du Plessis |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| MM Ali       |     27 |     4   |         1 | 6.75  |
++--------------+--------+---------+-----------+-------+
+| SK Raina     |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| AT Rayudu    |      4 |     1   |         0 | 4.0   |
++--------------+--------+---------+-----------+-------+
+| RA Jadeja    |     14 |     1   |         0 | 14.0  |
++--------------+--------+---------+-----------+-------+
+| MS Dhoni     |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| SM Curran    |     28 |     4   |         0 | 7.0   |
++--------------+--------+---------+-----------+-------+
+| DJ Bravo     |     31 |     3.5 |         0 | 8.09  |
++--------------+--------+---------+-----------+-------+
+| SN Thakur    |     56 |     4   |         3 | 14.0  |
++--------------+--------+---------+-----------+-------+
+| DL Chahar    |     26 |     2   |         1 | 13.0  |
 +--------------+--------+---------+-----------+-------+

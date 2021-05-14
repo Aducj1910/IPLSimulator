@@ -1,154 +1,152 @@
 ['Jos Buttler', 'Manan Vohra', 'Sanju Samson', 'Shivam Dube', 'David Miller', 'Riyan Parag', 'Rahul Tewatia', 'Chris Morris', 'Jaydev Unadkat', 'Chetan Sakariya', 'Mustafizur Rahman']
 rr won the toss and chose to bat
-0.1 Mohammed Siraj to Manan Vohra 1 Score: 1/0
-0.2 Mohammed Siraj to Sanju Samson 0 Score: 1/0
-0.3 Mohammed Siraj to Sanju Samson 2 Score: 3/0
-0.4 Mohammed Siraj to Sanju Samson 1 Score: 4/0
-0.5 Mohammed Siraj to Manan Vohra 2 Score: 6/0
-0.6 Mohammed Siraj to Manan Vohra 2 Score: 8/0
-1.1 Washington Sundar to Sanju Samson 2 Score: 10/0
-1.2 Washington Sundar to Sanju Samson 1 Score: 11/0
-1.3 Washington Sundar to Manan Vohra 1 Score: 12/0
-1.4 Washington Sundar to Sanju Samson 0 Score: 12/0
-1.5 Washington Sundar to Sanju Samson 6 Score: 18/0
-1.6 Washington Sundar to Sanju Samson 1 Score: 19/0
-2.1 Mohammed Siraj to Sanju Samson 0 Score: 19/0
-2.2 Mohammed Siraj to Sanju Samson 1 Score: 20/0
-2.3 Mohammed Siraj to Manan Vohra 0 Score: 20/0
-2.4 Mohammed Siraj to Manan Vohra 4 Score: 24/0
-2.5 Mohammed Siraj to Manan Vohra 0 Score: 24/0
-2.6 Mohammed Siraj to Manan Vohra 0 Score: 24/0
-3.1 Kyle Jamieson to Sanju Samson 0 Score: 24/0
-3.2 Kyle Jamieson to Sanju Samson 6 Score: 30/0
-3.3 Kyle Jamieson to Sanju Samson 1 Score: 31/0
-3.4 Kyle Jamieson to Manan Vohra 4 Score: 35/0
-3.5 Kyle Jamieson to Manan Vohra W Score: 35/1 Caught by Harshal Patel
-3.6 Kyle Jamieson to Jos Buttler 1 Score: 36/1
-4.1 Washington Sundar to Jos Buttler 1 Score: 37/1
-4.2 Washington Sundar to Sanju Samson 0 Score: 37/1
-4.3 Washington Sundar to Sanju Samson 4 Score: 41/1
-4.4 Washington Sundar to Sanju Samson 0 Score: 41/1
-4.5 Washington Sundar to Sanju Samson 4 Score: 45/1
-4.6 Washington Sundar to Sanju Samson 0 Score: 45/1
-5.1 Kyle Jamieson to Jos Buttler 0 Score: 45/1
-5.2 Kyle Jamieson to Jos Buttler 2 Score: 47/1
-5.3 Kyle Jamieson to Jos Buttler 4 Score: 51/1
-5.4 Kyle Jamieson to Jos Buttler 1 Score: 52/1
-5.5 Kyle Jamieson to Sanju Samson 6 Score: 58/1
-5.6 Kyle Jamieson to Sanju Samson 0 Score: 58/1
-6.1 Washington Sundar to Jos Buttler 1 Score: 59/1
-6.2 Washington Sundar to Sanju Samson 4 Score: 63/1
-6.3 Washington Sundar to Sanju Samson 1 Score: 64/1
-6.4 Washington Sundar to Jos Buttler 0 Score: 64/1
-6.5 Washington Sundar to Jos Buttler 0 Score: 64/1
-6.6 Washington Sundar to Jos Buttler 1 Score: 65/1
-7.1 Kyle Jamieson to Jos Buttler 1 Score: 66/1
-7.2 Kyle Jamieson to Sanju Samson 1 Score: 67/1
-7.3 Kyle Jamieson to Jos Buttler 0 Score: 67/1
-7.4 Kyle Jamieson to Jos Buttler 4 Score: 71/1
-7.5 Kyle Jamieson to Jos Buttler 1 Score: 72/1
-7.6 Kyle Jamieson to Sanju Samson 1 Score: 73/1
-8.1 Washington Sundar to Sanju Samson 4 Score: 77/1
-8.2 Washington Sundar to Sanju Samson 1 Score: 78/1
-8.3 Washington Sundar to Jos Buttler 1 Score: 79/1
-8.4 Washington Sundar to Sanju Samson 1 Score: 80/1
-8.5 Washington Sundar to Jos Buttler 1 Score: 81/1
-8.6 Washington Sundar to Sanju Samson 4 Score: 85/1
-9.1 Harshal Patel to Jos Buttler Wide Score: 86/1
-9.2 Harshal Patel to Jos Buttler 0 Score: 86/1
-9.3 Harshal Patel to Jos Buttler 0 Score: 86/1
-9.4 Harshal Patel to Jos Buttler 1 Score: 87/1
-9.5 Harshal Patel to Sanju Samson 2 Score: 89/1
-9.6 Harshal Patel to Sanju Samson 6 Score: 95/1
-9.7 Harshal Patel to Sanju Samson 0 Score: 95/1
-10.1 Yuzvendra Chahal to Jos Buttler Wide Score: 96/1
-10.2 Yuzvendra Chahal to Jos Buttler 0 Score: 96/1
-10.3 Yuzvendra Chahal to Jos Buttler 1 Score: 97/1
-10.4 Yuzvendra Chahal to Sanju Samson 0 Score: 97/1
-10.5 Yuzvendra Chahal to Sanju Samson 1 Score: 98/1
-10.6 Yuzvendra Chahal to Jos Buttler 0 Score: 98/1
-10.7 Yuzvendra Chahal to Jos Buttler 1 Score: 99/1
-11.1 Harshal Patel to Jos Buttler 4 Score: 103/1
-11.2 Harshal Patel to Jos Buttler 4 Score: 107/1
-11.3 Harshal Patel to Jos Buttler 0 Score: 107/1
-11.4 Harshal Patel to Jos Buttler 0 Score: 107/1
-11.5 Harshal Patel to Jos Buttler 4 Score: 111/1
-11.6 Harshal Patel to Jos Buttler 0 Score: 111/1
-12.1 Yuzvendra Chahal to Sanju Samson 4 Score: 115/1
-12.2 Yuzvendra Chahal to Sanju Samson 1 Score: 116/1
-12.3 Yuzvendra Chahal to Jos Buttler 2 Score: 118/1
-12.4 Yuzvendra Chahal to Jos Buttler 1 Score: 119/1
-12.5 Yuzvendra Chahal to Sanju Samson 4 Score: 123/1
-12.6 Yuzvendra Chahal to Sanju Samson 1 Score: 124/1
-13.1 Harshal Patel to Sanju Samson 1 Score: 125/1
-13.2 Harshal Patel to Jos Buttler 0 Score: 125/1
-13.3 Harshal Patel to Jos Buttler 0 Score: 125/1
-13.4 Harshal Patel to Jos Buttler W Score: 125/2 Bowled
-13.5 Harshal Patel to David Miller W Score: 125/3 Caught by AB de Villiers
-13.6 Harshal Patel to Shivam Dube 0 Score: 125/3
-14.1 Yuzvendra Chahal to Sanju Samson 0 Score: 125/3
-14.2 Yuzvendra Chahal to Sanju Samson 3 Score: 128/3
-14.3 Yuzvendra Chahal to Shivam Dube Wide Score: 129/3
-14.4 Yuzvendra Chahal to Shivam Dube 0 Score: 129/3
-14.5 Yuzvendra Chahal to Shivam Dube 0 Score: 129/3
-14.6 Yuzvendra Chahal to Shivam Dube 6 Score: 135/3
-14.7 Yuzvendra Chahal to Shivam Dube 0 Score: 135/3
-15.1 Harshal Patel to Sanju Samson 0 Score: 135/3
-15.2 Harshal Patel to Sanju Samson W Score: 135/4 Lbw
-15.3 Harshal Patel to Riyan Parag 0 Score: 135/4
-15.4 Harshal Patel to Riyan Parag 1 Score: 136/4
-15.5 Harshal Patel to Shivam Dube 1 Score: 137/4
-15.6 Harshal Patel to Riyan Parag 6 Score: 143/4
-16.1 Yuzvendra Chahal to Shivam Dube 4 Score: 147/4
-16.2 Yuzvendra Chahal to Shivam Dube 0 Score: 147/4
-16.3 Yuzvendra Chahal to Shivam Dube 6 Score: 153/4
-16.4 Yuzvendra Chahal to Shivam Dube 0 Score: 153/4
-16.5 Yuzvendra Chahal to Shivam Dube 2 Score: 155/4
-16.6 Yuzvendra Chahal to Shivam Dube 6 Score: 161/4
-17.1 Mohammed Siraj to Riyan Parag 0 Score: 161/4
-17.2 Mohammed Siraj to Riyan Parag 0 Score: 161/4
-17.3 Mohammed Siraj to Riyan Parag 1 Score: 162/4
-17.4 Mohammed Siraj to Shivam Dube 6 Score: 168/4
-17.5 Mohammed Siraj to Shivam Dube 6 Score: 174/4
-17.6 Mohammed Siraj to Shivam Dube 2 Score: 176/4
-18.1 Navdeep Saini to Riyan Parag 0 Score: 176/4
-18.2 Navdeep Saini to Riyan Parag 4 Score: 180/4
-18.3 Navdeep Saini to Riyan Parag 4 Score: 184/4
-18.4 Navdeep Saini to Riyan Parag 0 Score: 184/4
-18.5 Navdeep Saini to Riyan Parag 4 Score: 188/4
-18.6 Navdeep Saini to Riyan Parag 0 Score: 188/4
-19.1 Mohammed Siraj to Shivam Dube W Score: 188/5 Caught by Kyle Jamieson
-19.2 Mohammed Siraj to Rahul Tewatia 6 Score: 194/5
-19.3 Mohammed Siraj to Rahul Tewatia 0 Score: 194/5
-19.4 Mohammed Siraj to Rahul Tewatia Wide Score: 195/5
-19.5 Mohammed Siraj to Rahul Tewatia 0 Score: 195/5
-19.6 Mohammed Siraj to Rahul Tewatia 1 Score: 196/5
-19.7 Mohammed Siraj to Riyan Parag 6 Score: 202/5
-+-------------------+--------+---------+--------+--------------------------------+
-| Player            |   Runs |   Balls | SR     | Out                            |
-+===================+========+=========+========+================================+
-| JC Buttler        |     37 |      34 | 108.82 | bowled b HV Patel              |
-+-------------------+--------+---------+--------+--------------------------------+
-| M Vohra           |     14 |      10 | 140.0  | c HV Patel b KA Jamieson       |
-+-------------------+--------+---------+--------+--------------------------------+
-| SV Samson         |     75 |      42 | 178.57 | lbw b HV Patel                 |
-+-------------------+--------+---------+--------+--------------------------------+
-| S Dube            |     39 |      16 | 243.75 | c KA Jamieson b Mohammed Siraj |
-+-------------------+--------+---------+--------+--------------------------------+
-| DA Miller         |      0 |       1 | 0.0    | c AB de Villiers b HV Patel    |
-+-------------------+--------+---------+--------+--------------------------------+
-| R Parag           |     26 |      13 | 200.0  | Not out                        |
-+-------------------+--------+---------+--------+--------------------------------+
-| R Tewatia         |      7 |       4 | 175.0  | Not out                        |
-+-------------------+--------+---------+--------+--------------------------------+
-| CH Morris         |      0 |       0 | DNB    |                                |
-+-------------------+--------+---------+--------+--------------------------------+
-| JD Unadkat        |      0 |       0 | DNB    |                                |
-+-------------------+--------+---------+--------+--------------------------------+
-| C Sakariya        |      0 |       0 | DNB    |                                |
-+-------------------+--------+---------+--------+--------------------------------+
-| Mustafizur Rahman |      0 |       0 | DNB    |                                |
-+-------------------+--------+---------+--------+--------------------------------+
+0.1 Mohammed Siraj to Manan Vohra 4 Score: 4/0
+0.2 Mohammed Siraj to Manan Vohra 0 Score: 4/0
+0.3 Mohammed Siraj to Manan Vohra 0 Score: 4/0
+0.4 Mohammed Siraj to Manan Vohra 0 Score: 4/0
+0.5 Mohammed Siraj to Manan Vohra 0 Score: 4/0
+0.6 Mohammed Siraj to Manan Vohra 0 Score: 4/0
+1.1 Washington Sundar to Sanju Samson 1 Score: 5/0
+1.2 Washington Sundar to Manan Vohra 1 Score: 6/0
+1.3 Washington Sundar to Sanju Samson 4 Score: 10/0
+1.4 Washington Sundar to Sanju Samson 6 Score: 16/0
+1.5 Washington Sundar to Sanju Samson 1 Score: 17/0
+1.6 Washington Sundar to Manan Vohra 4 Score: 21/0
+2.1 Mohammed Siraj to Sanju Samson 4 Score: 25/0
+2.2 Mohammed Siraj to Sanju Samson 1 Score: 26/0
+2.3 Mohammed Siraj to Manan Vohra 1 Score: 27/0
+2.4 Mohammed Siraj to Sanju Samson 4 Score: 31/0
+2.5 Mohammed Siraj to Sanju Samson 1 Score: 32/0
+2.6 Mohammed Siraj to Manan Vohra W Score: 32/1 Caught by Harshal Patel
+3.1 Kyle Jamieson to Sanju Samson 6 Score: 38/1
+3.2 Kyle Jamieson to Sanju Samson 0 Score: 38/1
+3.3 Kyle Jamieson to Sanju Samson 0 Score: 38/1
+3.4 Kyle Jamieson to Sanju Samson 1 Score: 39/1
+3.5 Kyle Jamieson to Jos Buttler 1 Score: 40/1
+3.6 Kyle Jamieson to Sanju Samson 0 Score: 40/1
+4.1 Navdeep Saini to Jos Buttler 6 Score: 46/1
+4.2 Navdeep Saini to Jos Buttler 1 Score: 47/1
+4.3 Navdeep Saini to Sanju Samson 0 Score: 47/1
+4.4 Navdeep Saini to Sanju Samson 4 Score: 51/1
+4.5 Navdeep Saini to Sanju Samson 4 Score: 55/1
+4.6 Navdeep Saini to Sanju Samson 0 Score: 55/1
+5.1 Kyle Jamieson to Jos Buttler 1 Score: 56/1
+5.2 Kyle Jamieson to Sanju Samson 1 Score: 57/1
+5.3 Kyle Jamieson to Jos Buttler 4 Score: 61/1
+5.4 Kyle Jamieson to Jos Buttler 4 Score: 65/1
+5.5 Kyle Jamieson to Jos Buttler 4 Score: 69/1
+5.6 Kyle Jamieson to Jos Buttler 4 Score: 73/1
+6.1 Navdeep Saini to Sanju Samson 2 Score: 75/1
+6.2 Navdeep Saini to Sanju Samson 4 Score: 79/1
+6.3 Navdeep Saini to Sanju Samson 1 Score: 80/1
+6.4 Navdeep Saini to Jos Buttler 0 Score: 80/1
+6.5 Navdeep Saini to Jos Buttler 0 Score: 80/1
+6.6 Navdeep Saini to Jos Buttler 4 Score: 84/1
+7.1 Kyle Jamieson to Sanju Samson W Score: 84/2 Bowled
+7.2 Kyle Jamieson to David Miller 1 Score: 85/2
+7.3 Kyle Jamieson to Jos Buttler 1 Score: 86/2
+7.4 Kyle Jamieson to David Miller 1 Score: 87/2
+7.5 Kyle Jamieson to Jos Buttler 0 Score: 87/2
+7.6 Kyle Jamieson to Jos Buttler 0 Score: 87/2
+8.1 Navdeep Saini to David Miller 1 Score: 88/2
+8.2 Navdeep Saini to Jos Buttler 1 Score: 89/2
+8.3 Navdeep Saini to David Miller 1 Score: 90/2
+8.4 Navdeep Saini to Jos Buttler 4 Score: 94/2
+8.5 Navdeep Saini to Jos Buttler 6 Score: 100/2
+8.6 Navdeep Saini to Jos Buttler 0 Score: 100/2
+9.1 Harshal Patel to David Miller 1 Score: 101/2
+9.2 Harshal Patel to Jos Buttler 4 Score: 105/2
+9.3 Harshal Patel to Jos Buttler Wide Score: 106/2
+9.4 Harshal Patel to Jos Buttler 1 Score: 107/2
+9.5 Harshal Patel to David Miller 6 Score: 113/2
+9.6 Harshal Patel to David Miller 4 Score: 117/2
+9.7 Harshal Patel to David Miller 1 Score: 118/2
+10.1 Yuzvendra Chahal to David Miller 4 Score: 122/2
+10.2 Yuzvendra Chahal to David Miller 1 Score: 123/2
+10.3 Yuzvendra Chahal to Jos Buttler 1 Score: 124/2
+10.4 Yuzvendra Chahal to David Miller 1 Score: 125/2
+10.5 Yuzvendra Chahal to Jos Buttler 0 Score: 125/2
+10.6 Yuzvendra Chahal to Jos Buttler 1 Score: 126/2
+11.1 Harshal Patel to Jos Buttler 1 Score: 127/2
+11.2 Harshal Patel to David Miller 0 Score: 127/2
+11.3 Harshal Patel to David Miller 1 Score: 128/2
+11.4 Harshal Patel to Jos Buttler 2 Score: 130/2
+11.5 Harshal Patel to Jos Buttler 4 Score: 134/2
+11.6 Harshal Patel to Jos Buttler 0 Score: 134/2
+12.1 Yuzvendra Chahal to David Miller 1 Score: 135/2
+12.2 Yuzvendra Chahal to Jos Buttler 1 Score: 136/2
+12.3 Yuzvendra Chahal to David Miller 0 Score: 136/2
+12.4 Yuzvendra Chahal to David Miller 0 Score: 136/2
+12.5 Yuzvendra Chahal to David Miller 0 Score: 136/2
+12.6 Yuzvendra Chahal to David Miller 4 Score: 140/2
+13.1 Harshal Patel to Jos Buttler 4 Score: 144/2
+13.2 Harshal Patel to Jos Buttler 6 Score: 150/2
+13.3 Harshal Patel to Jos Buttler 4 Score: 154/2
+13.4 Harshal Patel to Jos Buttler Wide Score: 155/2
+13.5 Harshal Patel to Jos Buttler 0 Score: 155/2
+13.6 Harshal Patel to Jos Buttler W Score: 155/3 Bowled
+13.7 Harshal Patel to Shivam Dube 1 Score: 156/3
+14.1 Yuzvendra Chahal to Shivam Dube 0 Score: 156/3
+14.2 Yuzvendra Chahal to Shivam Dube 1 Score: 157/3
+14.3 Yuzvendra Chahal to David Miller 0 Score: 157/3
+14.4 Yuzvendra Chahal to David Miller 0 Score: 157/3
+14.5 Yuzvendra Chahal to David Miller 0 Score: 157/3
+14.6 Yuzvendra Chahal to David Miller 4 Score: 161/3
+15.1 Harshal Patel to Shivam Dube 6 Score: 167/3
+15.2 Harshal Patel to Shivam Dube 0 Score: 167/3
+15.3 Harshal Patel to Shivam Dube 0 Score: 167/3
+15.4 Harshal Patel to Shivam Dube 4 Score: 171/3
+15.5 Harshal Patel to Shivam Dube 0 Score: 171/3
+15.6 Harshal Patel to Shivam Dube 0 Score: 171/3
+16.1 Yuzvendra Chahal to David Miller 4 Score: 175/3
+16.2 Yuzvendra Chahal to David Miller 1 Score: 176/3
+16.3 Yuzvendra Chahal to Shivam Dube 1 Score: 177/3
+16.4 Yuzvendra Chahal to David Miller 1 Score: 178/3
+16.5 Yuzvendra Chahal to Shivam Dube 2 Score: 180/3
+16.6 Yuzvendra Chahal to Shivam Dube 0 Score: 180/3
+17.1 Mohammed Siraj to David Miller 0 Score: 180/3
+17.2 Mohammed Siraj to David Miller W Score: 180/4 Caught by Harshal Patel
+17.3 Mohammed Siraj to Riyan Parag 4 Score: 184/4
+17.4 Mohammed Siraj to Riyan Parag 4 Score: 188/4
+17.5 Mohammed Siraj to Riyan Parag 2 Score: 190/4
+17.6 Mohammed Siraj to Riyan Parag 1 Score: 191/4
+18.1 Navdeep Saini to Riyan Parag 6 Score: 197/4
+18.2 Navdeep Saini to Riyan Parag 1 Score: 198/4
+18.3 Navdeep Saini to Shivam Dube 6 Score: 204/4
+18.4 Navdeep Saini to Shivam Dube 6 Score: 210/4
+18.5 Navdeep Saini to Shivam Dube 6 Score: 216/4
+18.6 Navdeep Saini to Shivam Dube 1 Score: 217/4
+19.1 Mohammed Siraj to Shivam Dube 1 Score: 218/4
+19.2 Mohammed Siraj to Riyan Parag W Score: 218/5 Hitwicket
+19.3 Mohammed Siraj to Rahul Tewatia 4 Score: 222/5
+19.4 Mohammed Siraj to Rahul Tewatia W Score: 222/6 Caught by Devdutt Padikkal
+19.5 Mohammed Siraj to Chris Morris 1 Score: 223/6
+19.6 Mohammed Siraj to Shivam Dube 2 Score: 225/6
++-------------------+--------+---------+--------+-------------------------------+
+| Player            |   Runs |   Balls | SR     | Out                           |
++===================+========+=========+========+===============================+
+| JC Buttler        |     70 |      33 | 212.12 | bowled b HV Patel             |
++-------------------+--------+---------+--------+-------------------------------+
+| M Vohra           |     10 |      10 | 100.0  | c HV Patel b Mohammed Siraj   |
++-------------------+--------+---------+--------+-------------------------------+
+| SV Samson         |     45 |      22 | 204.55 | bowled b KA Jamieson          |
++-------------------+--------+---------+--------+-------------------------------+
+| S Dube            |     37 |      18 | 205.56 | Not out                       |
++-------------------+--------+---------+--------+-------------------------------+
+| DA Miller         |     38 |      27 | 140.74 | c HV Patel b Mohammed Siraj   |
++-------------------+--------+---------+--------+-------------------------------+
+| R Parag           |     18 |       7 | 257.14 | hitwicket b Mohammed Siraj    |
++-------------------+--------+---------+--------+-------------------------------+
+| R Tewatia         |      4 |       2 | 200.0  | c D Padikkal b Mohammed Siraj |
++-------------------+--------+---------+--------+-------------------------------+
+| CH Morris         |      1 |       1 | 100.0  | Not out                       |
++-------------------+--------+---------+--------+-------------------------------+
+| JD Unadkat        |      0 |       0 | DNB    |                               |
++-------------------+--------+---------+--------+-------------------------------+
+| C Sakariya        |      0 |       0 | DNB    |                               |
++-------------------+--------+---------+--------+-------------------------------+
+| Mustafizur Rahman |      0 |       0 | DNB    |                               |
++-------------------+--------+---------+--------+-------------------------------+
 +-------------------+--------+---------+-----------+-------+
 | Player            |   Runs |   Overs |   Wickets | Eco   |
 +===================+========+=========+===========+=======+
@@ -162,150 +160,165 @@ rr won the toss and chose to bat
 +-------------------+--------+---------+-----------+-------+
 | Shahbaz Ahmed     |      0 |       0 |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| Washington Sundar |     39 |       4 |         0 | 9.75  |
+| Washington Sundar |     17 |       1 |         0 | 17.0  |
 +-------------------+--------+---------+-----------+-------+
-| KA Jamieson       |     33 |       3 |         1 | 11.0  |
+| KA Jamieson       |     29 |       3 |         1 | 9.67  |
 +-------------------+--------+---------+-----------+-------+
-| Mohammed Siraj    |     42 |       4 |         1 | 10.5  |
+| Mohammed Siraj    |     34 |       4 |         4 | 8.5   |
 +-------------------+--------+---------+-----------+-------+
-| HV Patel          |     31 |       4 |         3 | 7.75  |
+| HV Patel          |     52 |       4 |         1 | 13.0  |
 +-------------------+--------+---------+-----------+-------+
-| NA Saini          |     12 |       1 |         0 | 12.0  |
+| NA Saini          |     65 |       4 |         0 | 16.25 |
 +-------------------+--------+---------+-----------+-------+
-| YS Chahal         |     45 |       4 |         0 | 11.25 |
+| YS Chahal         |     28 |       4 |         0 | 7.0   |
 +-------------------+--------+---------+-----------+-------+
 0.1 Chetan Sakariya to Devdutt Padikkal 2 Score: 2/0
-0.2 Chetan Sakariya to Devdutt Padikkal 1 Score: 3/0
-0.3 Chetan Sakariya to Virat Kohli 4 Score: 7/0
-0.4 Chetan Sakariya to Virat Kohli 0 Score: 7/0
-0.5 Chetan Sakariya to Virat Kohli 0 Score: 7/0
-0.6 Chetan Sakariya to Virat Kohli 4 Score: 11/0
-1.1 Jaydev Unadkat to Devdutt Padikkal 4 Score: 15/0
-1.2 Jaydev Unadkat to Devdutt Padikkal 0 Score: 15/0
-1.3 Jaydev Unadkat to Devdutt Padikkal 1 Score: 16/0
-1.4 Jaydev Unadkat to Virat Kohli 1 Score: 17/0
-1.5 Jaydev Unadkat to Devdutt Padikkal W Score: 17/1 Caught by Rahul Tewatia
-1.6 Jaydev Unadkat to AB de Villiers 0 Score: 17/1
-2.1 Chetan Sakariya to Virat Kohli 1 Score: 18/1
-2.2 Chetan Sakariya to AB de Villiers 1 Score: 19/1
-2.3 Chetan Sakariya to Virat Kohli 4 Score: 23/1
-2.4 Chetan Sakariya to Virat Kohli 2 Score: 25/1
-2.5 Chetan Sakariya to Virat Kohli 1 Score: 26/1
-2.6 Chetan Sakariya to AB de Villiers 6 Score: 32/1
-3.1 Jaydev Unadkat to Virat Kohli 1 Score: 33/1
-3.2 Jaydev Unadkat to AB de Villiers 4 Score: 37/1
-3.3 Jaydev Unadkat to AB de Villiers 0 Score: 37/1
-3.4 Jaydev Unadkat to AB de Villiers 1 Score: 38/1
-3.5 Jaydev Unadkat to Virat Kohli 1 Score: 39/1
-3.6 Jaydev Unadkat to AB de Villiers 4 Score: 43/1
-4.1 Mustafizur Rahman to Virat Kohli 6 Score: 49/1
-4.2 Mustafizur Rahman to Virat Kohli 0 Score: 49/1
-4.3 Mustafizur Rahman to Virat Kohli 1 Score: 50/1
-4.4 Mustafizur Rahman to AB de Villiers 0 Score: 50/1
-4.5 Mustafizur Rahman to AB de Villiers 4 Score: 54/1
-4.6 Mustafizur Rahman to AB de Villiers 0 Score: 54/1
-5.1 Chris Morris to Virat Kohli Wide Score: 55/1
-5.2 Chris Morris to Virat Kohli 0 Score: 55/1
-5.3 Chris Morris to Virat Kohli 1 Score: 56/1
-5.4 Chris Morris to AB de Villiers 1 Score: 57/1
-5.5 Chris Morris to Virat Kohli 1 Score: 58/1
-5.6 Chris Morris to AB de Villiers 6 Score: 64/1
-5.7 Chris Morris to AB de Villiers 0 Score: 64/1
-6.1 Mustafizur Rahman to Virat Kohli 0 Score: 64/1
-6.2 Mustafizur Rahman to Virat Kohli 4 Score: 68/1
-6.3 Mustafizur Rahman to Virat Kohli 1 Score: 69/1
-6.4 Mustafizur Rahman to AB de Villiers 6 Score: 75/1
-6.5 Mustafizur Rahman to AB de Villiers 0 Score: 75/1
-6.6 Mustafizur Rahman to AB de Villiers 0 Score: 75/1
-7.1 Chris Morris to Virat Kohli 1 Score: 76/1
-7.2 Chris Morris to AB de Villiers 6 Score: 82/1
-7.3 Chris Morris to AB de Villiers 0 Score: 82/1
-7.4 Chris Morris to AB de Villiers 1 Score: 83/1
-7.5 Chris Morris to Virat Kohli 4 Score: 87/1
-7.6 Chris Morris to Virat Kohli 0 Score: 87/1
-8.1 Mustafizur Rahman to AB de Villiers 6 Score: 93/1
-8.2 Mustafizur Rahman to AB de Villiers 4 Score: 97/1
-8.3 Mustafizur Rahman to AB de Villiers 0 Score: 97/1
-8.4 Mustafizur Rahman to AB de Villiers 6 Score: 103/1
-8.5 Mustafizur Rahman to AB de Villiers 6 Score: 109/1
-8.6 Mustafizur Rahman to AB de Villiers 6 Score: 115/1
-9.1 Chris Morris to Virat Kohli 1 Score: 116/1
-9.2 Chris Morris to AB de Villiers 6 Score: 122/1
-9.3 Chris Morris to AB de Villiers 2 Score: 124/1
-9.4 Chris Morris to AB de Villiers 0 Score: 124/1
-9.5 Chris Morris to AB de Villiers 4 Score: 128/1
-9.6 Chris Morris to AB de Villiers 1 Score: 129/1
-10.1 Riyan Parag to AB de Villiers 2 Score: 131/1
-10.2 Riyan Parag to AB de Villiers 0 Score: 131/1
-10.3 Riyan Parag to AB de Villiers 0 Score: 131/1
-10.4 Riyan Parag to AB de Villiers 0 Score: 131/1
-10.5 Riyan Parag to AB de Villiers 0 Score: 131/1
-10.6 Riyan Parag to AB de Villiers 6 Score: 137/1
-11.1 Rahul Tewatia to Virat Kohli 6 Score: 143/1
-11.2 Rahul Tewatia to Virat Kohli 6 Score: 149/1
-11.3 Rahul Tewatia to Virat Kohli 1 Score: 150/1
-11.4 Rahul Tewatia to AB de Villiers 1 Score: 151/1
-11.5 Rahul Tewatia to Virat Kohli 1 Score: 152/1
-11.6 Rahul Tewatia to AB de Villiers 1 Score: 153/1
-12.1 Riyan Parag to AB de Villiers 4 Score: 157/1
-12.2 Riyan Parag to AB de Villiers 0 Score: 157/1
-12.3 Riyan Parag to AB de Villiers 1 Score: 158/1
-12.4 Riyan Parag to Virat Kohli 1 Score: 159/1
-12.5 Riyan Parag to AB de Villiers 0 Score: 159/1
-12.6 Riyan Parag to AB de Villiers 4 Score: 163/1
-13.1 Rahul Tewatia to Virat Kohli 1 Score: 164/1
-13.2 Rahul Tewatia to AB de Villiers 6 Score: 170/1
-13.3 Rahul Tewatia to AB de Villiers 4 Score: 174/1
-13.4 Rahul Tewatia to AB de Villiers 0 Score: 174/1
-13.5 Rahul Tewatia to AB de Villiers 1 Score: 175/1
-13.6 Rahul Tewatia to Virat Kohli 0 Score: 175/1
-14.1 Riyan Parag to AB de Villiers 0 Score: 175/1
-14.2 Riyan Parag to AB de Villiers 1 Score: 176/1
-14.3 Riyan Parag to Virat Kohli 0 Score: 176/1
-14.4 Riyan Parag to Virat Kohli 2 Score: 178/1
-14.5 Riyan Parag to Virat Kohli 1 Score: 179/1
-14.6 Riyan Parag to AB de Villiers 1 Score: 180/1
-15.1 Rahul Tewatia to AB de Villiers 6 Score: 186/1
-15.2 Rahul Tewatia to AB de Villiers 4 Score: 190/1
-15.3 Rahul Tewatia to AB de Villiers 2 Score: 192/1
-15.4 Rahul Tewatia to AB de Villiers 0 Score: 192/1
-15.5 Rahul Tewatia to AB de Villiers 0 Score: 192/1
-15.6 Rahul Tewatia to AB de Villiers 1 Score: 193/1
-16.1 Riyan Parag to AB de Villiers 0 Score: 193/1
-16.2 Riyan Parag to AB de Villiers 0 Score: 193/1
-16.3 Riyan Parag to AB de Villiers 0 Score: 193/1
-16.4 Riyan Parag to AB de Villiers 6 Score: 199/1
-16.5 Riyan Parag to AB de Villiers 1 Score: 200/1
-16.6 Riyan Parag to Virat Kohli 1 Score: 201/1
-17.1 Mustafizur Rahman to Virat Kohli W Score: 201/2 Caught by Manan Vohra
-17.2 Mustafizur Rahman to Glenn Maxwell 1 Score: 202/2
-17.3 Mustafizur Rahman to AB de Villiers 6 Score: 208/2
-rcb won by 8 wickets
-+-------------------+--------+---------+--------+-------------------------------+
-| Player            |   Runs |   Balls | SR     | Out                           |
-+===================+========+=========+========+===============================+
-| D Padikkal        |      8 |       6 | 133.33 | c R Tewatia b JD Unadkat      |
-+-------------------+--------+---------+--------+-------------------------------+
-| V Kohli           |     59 |      36 | 163.89 | c M Vohra b Mustafizur Rahman |
-+-------------------+--------+---------+--------+-------------------------------+
-| GJ Maxwell        |      1 |       1 | 100.0  | Not out                       |
-+-------------------+--------+---------+--------+-------------------------------+
-| AB de Villiers    |    139 |      62 | 224.19 | Not out                       |
-+-------------------+--------+---------+--------+-------------------------------+
-| Shahbaz Ahmed     |      0 |       0 | DNB    |                               |
-+-------------------+--------+---------+--------+-------------------------------+
-| Washington Sundar |      0 |       0 | DNB    |                               |
-+-------------------+--------+---------+--------+-------------------------------+
-| KA Jamieson       |      0 |       0 | DNB    |                               |
-+-------------------+--------+---------+--------+-------------------------------+
-| Mohammed Siraj    |      0 |       0 | DNB    |                               |
-+-------------------+--------+---------+--------+-------------------------------+
-| HV Patel          |      0 |       0 | DNB    |                               |
-+-------------------+--------+---------+--------+-------------------------------+
-| NA Saini          |      0 |       0 | DNB    |                               |
-+-------------------+--------+---------+--------+-------------------------------+
-| YS Chahal         |      0 |       0 | DNB    |                               |
-+-------------------+--------+---------+--------+-------------------------------+
+0.2 Chetan Sakariya to Devdutt Padikkal 0 Score: 2/0
+0.3 Chetan Sakariya to Devdutt Padikkal 4 Score: 6/0
+0.4 Chetan Sakariya to Devdutt Padikkal 4 Score: 10/0
+0.5 Chetan Sakariya to Devdutt Padikkal 1 Score: 11/0
+0.6 Chetan Sakariya to Virat Kohli 1 Score: 12/0
+1.1 Jaydev Unadkat to Virat Kohli 6 Score: 18/0
+1.2 Jaydev Unadkat to Virat Kohli 2 Score: 20/0
+1.3 Jaydev Unadkat to Virat Kohli 4 Score: 24/0
+1.4 Jaydev Unadkat to Virat Kohli 1 Score: 25/0
+1.5 Jaydev Unadkat to Devdutt Padikkal 0 Score: 25/0
+1.6 Jaydev Unadkat to Devdutt Padikkal 0 Score: 25/0
+2.1 Chris Morris to Virat Kohli W Score: 25/1 Caught by Jos Buttler
+2.2 Chris Morris to AB de Villiers 1 Score: 26/1
+2.3 Chris Morris to Devdutt Padikkal 1 Score: 27/1
+2.4 Chris Morris to AB de Villiers W Score: 27/2 Bowled
+2.5 Chris Morris to Glenn Maxwell 1 Score: 28/2
+2.6 Chris Morris to Devdutt Padikkal 0 Score: 28/2
+3.1 Chetan Sakariya to Glenn Maxwell 0 Score: 28/2
+3.2 Chetan Sakariya to Glenn Maxwell 1 Score: 29/2
+3.3 Chetan Sakariya to Devdutt Padikkal 4 Score: 33/2
+3.4 Chetan Sakariya to Devdutt Padikkal W Score: 33/3 Caught by Jaydev Unadkat
+3.5 Chetan Sakariya to Shahbaz Ahmed 1 Score: 34/3
+3.6 Chetan Sakariya to Glenn Maxwell 1 Score: 35/3
+4.1 Chris Morris to Glenn Maxwell 0 Score: 35/3
+4.2 Chris Morris to Glenn Maxwell Wide Score: 36/3
+4.3 Chris Morris to Glenn Maxwell 1 Score: 37/3
+4.4 Chris Morris to Shahbaz Ahmed 4 Score: 41/3
+4.5 Chris Morris to Shahbaz Ahmed 1 Score: 42/3
+4.6 Chris Morris to Glenn Maxwell 1 Score: 43/3
+4.7 Chris Morris to Shahbaz Ahmed 4 Score: 47/3
+5.1 Jaydev Unadkat to Glenn Maxwell 2 Score: 49/3
+5.2 Jaydev Unadkat to Glenn Maxwell 6 Score: 55/3
+5.3 Jaydev Unadkat to Glenn Maxwell 6 Score: 61/3
+5.4 Jaydev Unadkat to Glenn Maxwell 1 Score: 62/3
+5.5 Jaydev Unadkat to Shahbaz Ahmed 0 Score: 62/3
+5.6 Jaydev Unadkat to Shahbaz Ahmed 0 Score: 62/3
+6.1 Chris Morris to Glenn Maxwell 0 Score: 62/3
+6.2 Chris Morris to Glenn Maxwell 4 Score: 66/3
+6.3 Chris Morris to Glenn Maxwell 1 Score: 67/3
+6.4 Chris Morris to Shahbaz Ahmed 0 Score: 67/3
+6.5 Chris Morris to Shahbaz Ahmed 1 Score: 68/3
+6.6 Chris Morris to Glenn Maxwell 0 Score: 68/3
+7.1 Jaydev Unadkat to Shahbaz Ahmed 0 Score: 68/3
+7.2 Jaydev Unadkat to Shahbaz Ahmed 1 Score: 69/3
+7.3 Jaydev Unadkat to Glenn Maxwell 0 Score: 69/3
+7.4 Jaydev Unadkat to Glenn Maxwell W Score: 69/4 Caught by Jaydev Unadkat
+7.5 Jaydev Unadkat to Harshal Patel 1 Score: 70/4
+7.6 Jaydev Unadkat to Shahbaz Ahmed 1 Score: 71/4
+8.1 Riyan Parag to Shahbaz Ahmed 1 Score: 72/4
+8.2 Riyan Parag to Harshal Patel 0 Score: 72/4
+8.3 Riyan Parag to Harshal Patel 0 Score: 72/4
+8.4 Riyan Parag to Harshal Patel 1 Score: 73/4
+8.5 Riyan Parag to Shahbaz Ahmed 4 Score: 77/4
+8.6 Riyan Parag to Shahbaz Ahmed 1 Score: 78/4
+9.1 Rahul Tewatia to Shahbaz Ahmed 1 Score: 79/4
+9.2 Rahul Tewatia to Harshal Patel 1 Score: 80/4
+9.3 Rahul Tewatia to Shahbaz Ahmed 1 Score: 81/4
+9.4 Rahul Tewatia to Harshal Patel W Score: 81/5 Lbw
+9.5 Rahul Tewatia to Washington Sundar 0 Score: 81/5
+9.6 Rahul Tewatia to Washington Sundar 1 Score: 82/5
+10.1 Riyan Parag to Washington Sundar Wide Score: 83/5
+10.2 Riyan Parag to Washington Sundar 1 Score: 84/5
+10.3 Riyan Parag to Shahbaz Ahmed 1 Score: 85/5
+10.4 Riyan Parag to Washington Sundar 0 Score: 85/5
+10.5 Riyan Parag to Washington Sundar 6 Score: 91/5
+10.6 Riyan Parag to Washington Sundar 4 Score: 95/5
+10.7 Riyan Parag to Washington Sundar 0 Score: 95/5
+11.1 Rahul Tewatia to Shahbaz Ahmed 1 Score: 96/5
+11.2 Rahul Tewatia to Washington Sundar 1 Score: 97/5
+11.3 Rahul Tewatia to Shahbaz Ahmed 0 Score: 97/5
+11.4 Rahul Tewatia to Shahbaz Ahmed 0 Score: 97/5
+11.5 Rahul Tewatia to Shahbaz Ahmed 0 Score: 97/5
+11.6 Rahul Tewatia to Shahbaz Ahmed 1 Score: 98/5
+12.1 Riyan Parag to Shahbaz Ahmed 0 Score: 98/5
+12.2 Riyan Parag to Shahbaz Ahmed 6 Score: 104/5
+12.3 Riyan Parag to Shahbaz Ahmed 0 Score: 104/5
+12.4 Riyan Parag to Shahbaz Ahmed 0 Score: 104/5
+12.5 Riyan Parag to Shahbaz Ahmed 1 Score: 105/5
+12.6 Riyan Parag to Washington Sundar 1 Score: 106/5
+13.1 Rahul Tewatia to Washington Sundar 1 Score: 107/5
+13.2 Rahul Tewatia to Shahbaz Ahmed 1 Score: 108/5
+13.3 Rahul Tewatia to Washington Sundar 0 Score: 108/5
+13.4 Rahul Tewatia to Washington Sundar 0 Score: 108/5
+13.5 Rahul Tewatia to Washington Sundar 1 Score: 109/5
+13.6 Rahul Tewatia to Shahbaz Ahmed 1 Score: 110/5
+14.1 Riyan Parag to Shahbaz Ahmed 1 Score: 111/5
+14.2 Riyan Parag to Washington Sundar 0 Score: 111/5
+14.3 Riyan Parag to Washington Sundar 1 Score: 112/5
+14.4 Riyan Parag to Shahbaz Ahmed 1 Score: 113/5
+14.5 Riyan Parag to Washington Sundar W Score: 113/6 Caught by Sanju Samson
+14.6 Riyan Parag to Kyle Jamieson 1 Score: 114/6
+15.1 Rahul Tewatia to Kyle Jamieson 0 Score: 114/6
+15.2 Rahul Tewatia to Kyle Jamieson 6 Score: 120/6
+15.3 Rahul Tewatia to Kyle Jamieson 4 Score: 124/6
+15.4 Rahul Tewatia to Kyle Jamieson 1 Score: 125/6
+15.5 Rahul Tewatia to Shahbaz Ahmed 1 Score: 126/6
+15.6 Rahul Tewatia to Kyle Jamieson 0 Score: 126/6
+16.1 Jaydev Unadkat to Shahbaz Ahmed 1 Score: 127/6
+16.2 Jaydev Unadkat to Kyle Jamieson 1 Score: 128/6
+16.3 Jaydev Unadkat to Shahbaz Ahmed 6 Score: 134/6
+16.4 Jaydev Unadkat to Shahbaz Ahmed 1 Score: 135/6
+16.5 Jaydev Unadkat to Kyle Jamieson 0 Score: 135/6
+16.6 Jaydev Unadkat to Kyle Jamieson 0 Score: 135/6
+17.1 Mustafizur Rahman to Shahbaz Ahmed 6 Score: 141/6
+17.2 Mustafizur Rahman to Shahbaz Ahmed 1 Score: 142/6
+17.3 Mustafizur Rahman to Kyle Jamieson 6 Score: 148/6
+17.4 Mustafizur Rahman to Kyle Jamieson 4 Score: 152/6
+17.5 Mustafizur Rahman to Kyle Jamieson 0 Score: 152/6
+17.6 Mustafizur Rahman to Kyle Jamieson W Score: 152/7 Caught by Jaydev Unadkat
+18.1 Chris Morris to Shahbaz Ahmed 1 Score: 153/7
+18.2 Chris Morris to Navdeep Saini 0 Score: 153/7
+18.3 Chris Morris to Navdeep Saini 0 Score: 153/7
+18.4 Chris Morris to Navdeep Saini W Score: 153/8 Bowled
+18.5 Chris Morris to Mohammed Siraj 0 Score: 153/8
+18.6 Chris Morris to Mohammed Siraj 4 Score: 157/8
+19.1 Mustafizur Rahman to Shahbaz Ahmed 2 Score: 159/8
+19.2 Mustafizur Rahman to Shahbaz Ahmed Wide Score: 160/8
+19.3 Mustafizur Rahman to Shahbaz Ahmed W Score: 160/9 Caught by Sanju Samson
+19.4 Mustafizur Rahman to Yuzvendra Chahal W Score: 160/10 Caught by David Miller
+ALL OUT
+rr won by 65 runs
++-------------------+--------+---------+--------+----------------------------------+
+| Player            |   Runs |   Balls |     SR | Out                              |
++===================+========+=========+========+==================================+
+| D Padikkal        |     16 |      11 | 145.45 | c JD Unadkat b C Sakariya        |
++-------------------+--------+---------+--------+----------------------------------+
+| V Kohli           |     14 |       6 | 233.33 | c JC Buttler b CH Morris         |
++-------------------+--------+---------+--------+----------------------------------+
+| GJ Maxwell        |     25 |      17 | 147.06 | c JD Unadkat b JD Unadkat        |
++-------------------+--------+---------+--------+----------------------------------+
+| AB de Villiers    |      1 |       2 |  50    | bowled b CH Morris               |
++-------------------+--------+---------+--------+----------------------------------+
+| Shahbaz Ahmed     |     54 |      40 | 135    | c SV Samson b Mustafizur Rahman  |
++-------------------+--------+---------+--------+----------------------------------+
+| Washington Sundar |     17 |      16 | 106.25 | c SV Samson b R Parag            |
++-------------------+--------+---------+--------+----------------------------------+
+| KA Jamieson       |     23 |      13 | 176.92 | c JD Unadkat b Mustafizur Rahman |
++-------------------+--------+---------+--------+----------------------------------+
+| Mohammed Siraj    |      4 |       2 | 200    | Not out                          |
++-------------------+--------+---------+--------+----------------------------------+
+| HV Patel          |      3 |       6 |  50    | lbw b R Tewatia                  |
++-------------------+--------+---------+--------+----------------------------------+
+| NA Saini          |      0 |       3 |   0    | bowled b CH Morris               |
++-------------------+--------+---------+--------+----------------------------------+
+| YS Chahal         |      0 |       1 |   0    | c DA Miller b Mustafizur Rahman  |
++-------------------+--------+---------+--------+----------------------------------+
 +-------------------+--------+---------+-----------+-------+
 | Player            |   Runs |   Overs |   Wickets | Eco   |
 +===================+========+=========+===========+=======+
@@ -319,15 +332,15 @@ rcb won by 8 wickets
 +-------------------+--------+---------+-----------+-------+
 | DA Miller         |      0 |     0   |         0 | NA    |
 +-------------------+--------+---------+-----------+-------+
-| R Parag           |     31 |     4   |         0 | 7.75  |
+| R Parag           |     32 |     4   |         1 | 8.0   |
 +-------------------+--------+---------+-----------+-------+
-| R Tewatia         |     41 |     3   |         0 | 13.67 |
+| R Tewatia         |     23 |     4   |         1 | 5.75  |
 +-------------------+--------+---------+-----------+-------+
-| CH Morris         |     36 |     3   |         0 | 12.0  |
+| CH Morris         |     26 |     4   |         3 | 6.5   |
 +-------------------+--------+---------+-----------+-------+
-| JD Unadkat        |     17 |     2   |         1 | 8.5   |
+| JD Unadkat        |     40 |     4   |         1 | 10.0  |
 +-------------------+--------+---------+-----------+-------+
-| C Sakariya        |     26 |     2   |         0 | 13.0  |
+| C Sakariya        |     19 |     2   |         1 | 9.5   |
 +-------------------+--------+---------+-----------+-------+
-| Mustafizur Rahman |     57 |     3.3 |         1 | 16.29 |
+| Mustafizur Rahman |     20 |     1.3 |         3 | 13.33 |
 +-------------------+--------+---------+-----------+-------+
