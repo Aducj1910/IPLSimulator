@@ -1,333 +1,156 @@
 ['KL Rahul', 'Mayank Agarwal', 'Chris Gayle', 'Deepak Hooda', 'Nicholas Pooran', 'Shahrukh Khan', 'Harpreet Brar', 'Riley Meredith', 'Ravi Bishnoi', 'Mohammed Shami', 'Chris Jordan']
-pbks won the toss and chose to bat
-0.1 Chetan Sakariya to KL Rahul 0 Score: 0/0
-0.2 Chetan Sakariya to KL Rahul Wide Score: 1/0
-0.3 Chetan Sakariya to KL Rahul 1 Score: 2/0
-0.4 Chetan Sakariya to Chris Gayle 1 Score: 3/0
-0.5 Chetan Sakariya to KL Rahul 0 Score: 3/0
-0.6 Chetan Sakariya to KL Rahul 0 Score: 3/0
-0.7 Chetan Sakariya to KL Rahul 1 Score: 4/0
-1.1 Jaydev Unadkat to KL Rahul 6 Score: 10/0
-1.2 Jaydev Unadkat to KL Rahul 2 Score: 12/0
-1.3 Jaydev Unadkat to KL Rahul 1 Score: 13/0
-1.4 Jaydev Unadkat to Chris Gayle 0 Score: 13/0
-1.5 Jaydev Unadkat to Chris Gayle 0 Score: 13/0
-1.6 Jaydev Unadkat to Chris Gayle 0 Score: 13/0
-2.1 Chetan Sakariya to KL Rahul 1 Score: 14/0
-2.2 Chetan Sakariya to Chris Gayle 1 Score: 15/0
-2.3 Chetan Sakariya to KL Rahul 4 Score: 19/0
-2.4 Chetan Sakariya to KL Rahul Wide Score: 20/0
-2.5 Chetan Sakariya to KL Rahul 1 Score: 21/0
-2.6 Chetan Sakariya to Chris Gayle 4 Score: 25/0
-2.7 Chetan Sakariya to Chris Gayle 0 Score: 25/0
-3.1 Jaydev Unadkat to KL Rahul 1 Score: 26/0
-3.2 Jaydev Unadkat to Chris Gayle 2 Score: 28/0
-3.3 Jaydev Unadkat to Chris Gayle 4 Score: 32/0
-3.4 Jaydev Unadkat to Chris Gayle 6 Score: 38/0
-3.5 Jaydev Unadkat to Chris Gayle 0 Score: 38/0
-3.6 Jaydev Unadkat to Chris Gayle 1 Score: 39/0
-4.1 Mustafizur Rahman to Chris Gayle 1 Score: 40/0
-4.2 Mustafizur Rahman to KL Rahul 0 Score: 40/0
-4.3 Mustafizur Rahman to KL Rahul 0 Score: 40/0
-4.4 Mustafizur Rahman to KL Rahul 1 Score: 41/0
-4.5 Mustafizur Rahman to Chris Gayle 1 Score: 42/0
-4.6 Mustafizur Rahman to KL Rahul 1 Score: 43/0
-5.1 Rahul Tewatia to KL Rahul 4 Score: 47/0
-5.2 Rahul Tewatia to KL Rahul 0 Score: 47/0
-5.3 Rahul Tewatia to KL Rahul 1 Score: 48/0
-5.4 Rahul Tewatia to Chris Gayle 0 Score: 48/0
-5.5 Rahul Tewatia to Chris Gayle 1 Score: 49/0
-5.6 Rahul Tewatia to KL Rahul 0 Score: 49/0
-6.1 Mustafizur Rahman to Chris Gayle 0 Score: 49/0
-6.2 Mustafizur Rahman to Chris Gayle 1 Score: 50/0
-6.3 Mustafizur Rahman to KL Rahul 1 Score: 51/0
-6.4 Mustafizur Rahman to Chris Gayle 1 Score: 52/0
-6.5 Mustafizur Rahman to KL Rahul 1 Score: 53/0
-6.6 Mustafizur Rahman to Chris Gayle 4 Score: 57/0
-7.1 Rahul Tewatia to KL Rahul 1 Score: 58/0
-7.2 Rahul Tewatia to Chris Gayle 1 Score: 59/0
-7.3 Rahul Tewatia to KL Rahul 0 Score: 59/0
-7.4 Rahul Tewatia to KL Rahul 1 Score: 60/0
-7.5 Rahul Tewatia to Chris Gayle 1 Score: 61/0
-7.6 Rahul Tewatia to KL Rahul Wide Score: 62/0
-7.7 Rahul Tewatia to KL Rahul 1 Score: 63/0
-8.1 Mustafizur Rahman to KL Rahul 2 Score: 65/0
-8.2 Mustafizur Rahman to KL Rahul 6 Score: 71/0
-8.3 Mustafizur Rahman to KL Rahul W Score: 71/1 Caught by David Miller
-8.4 Mustafizur Rahman to Mayank Agarwal 1 Score: 72/1
-8.5 Mustafizur Rahman to Chris Gayle 1 Score: 73/1
-8.6 Mustafizur Rahman to Mayank Agarwal 1 Score: 74/1
-9.1 Rahul Tewatia to Mayank Agarwal 1 Score: 75/1
-9.2 Rahul Tewatia to Chris Gayle 0 Score: 75/1
-9.3 Rahul Tewatia to Chris Gayle W Score: 75/2 Lbw
-9.4 Rahul Tewatia to Nicholas Pooran 0 Score: 75/2
-9.5 Rahul Tewatia to Nicholas Pooran W Score: 75/3 Caught by Jaydev Unadkat
-9.6 Rahul Tewatia to Deepak Hooda Wide Score: 76/3
-9.7 Rahul Tewatia to Deepak Hooda 1 Score: 77/3
-10.1 Chris Morris to Deepak Hooda 2 Score: 79/3
-10.2 Chris Morris to Deepak Hooda 2 Score: 81/3
-10.3 Chris Morris to Deepak Hooda 0 Score: 81/3
-10.4 Chris Morris to Deepak Hooda 0 Score: 81/3
-10.5 Chris Morris to Deepak Hooda 0 Score: 81/3
-10.6 Chris Morris to Deepak Hooda 1 Score: 82/3
-11.1 Rahul Tewatia to Deepak Hooda 1 Score: 83/3
-11.2 Rahul Tewatia to Mayank Agarwal 0 Score: 83/3
-11.3 Rahul Tewatia to Mayank Agarwal 4 Score: 87/3
-11.4 Rahul Tewatia to Mayank Agarwal 0 Score: 87/3
-11.5 Rahul Tewatia to Mayank Agarwal 1 Score: 88/3
-11.6 Rahul Tewatia to Deepak Hooda 1 Score: 89/3
-12.1 Chris Morris to Deepak Hooda 1 Score: 90/3
-12.2 Chris Morris to Mayank Agarwal 4 Score: 94/3
-12.3 Chris Morris to Mayank Agarwal 0 Score: 94/3
-12.4 Chris Morris to Mayank Agarwal 0 Score: 94/3
-12.5 Chris Morris to Mayank Agarwal 0 Score: 94/3
-12.6 Chris Morris to Mayank Agarwal 0 Score: 94/3
-13.1 Mustafizur Rahman to Deepak Hooda 1 Score: 95/3
-13.2 Mustafizur Rahman to Mayank Agarwal 0 Score: 95/3
-13.3 Mustafizur Rahman to Mayank Agarwal 1 Score: 96/3
-13.4 Mustafizur Rahman to Deepak Hooda W Score: 96/4 Caught by Riyan Parag
-13.5 Mustafizur Rahman to Shahrukh Khan 2 Score: 98/4
-13.6 Mustafizur Rahman to Shahrukh Khan 0 Score: 98/4
-14.1 Chris Morris to Mayank Agarwal 0 Score: 98/4
-14.2 Chris Morris to Mayank Agarwal 0 Score: 98/4
-14.3 Chris Morris to Mayank Agarwal 4 Score: 102/4
-14.4 Chris Morris to Mayank Agarwal W Score: 102/5 Caught by Riyan Parag
-14.5 Chris Morris to Chris Jordan 6 Score: 108/5
-14.6 Chris Morris to Chris Jordan 1 Score: 109/5
-15.1 Riyan Parag to Chris Jordan 0 Score: 109/5
-15.2 Riyan Parag to Chris Jordan 1 Score: 110/5
-15.3 Riyan Parag to Shahrukh Khan Wide Score: 111/5
-15.4 Riyan Parag to Shahrukh Khan 1 Score: 112/5
-15.5 Riyan Parag to Chris Jordan 1 Score: 113/5
-15.6 Riyan Parag to Shahrukh Khan 1 Score: 114/5
-15.7 Riyan Parag to Chris Jordan 0 Score: 114/5
-16.1 Manan Vohra to Shahrukh Khan 0 Score: 114/5
-16.2 Manan Vohra to Shahrukh Khan 0 Score: 114/5
-16.3 Manan Vohra to Shahrukh Khan 1 Score: 115/5
-16.4 Manan Vohra to Chris Jordan 0 Score: 115/5
-16.5 Manan Vohra to Chris Jordan 2 Score: 117/5
-16.6 Manan Vohra to Chris Jordan 1 Score: 118/5
-17.1 Chris Morris to Chris Jordan 6 Score: 124/5
-17.2 Chris Morris to Chris Jordan 0 Score: 124/5
-17.3 Chris Morris to Chris Jordan 6 Score: 130/5
-17.4 Chris Morris to Chris Jordan Wide Score: 131/5
-17.5 Chris Morris to Chris Jordan 1 Score: 132/5
-17.6 Chris Morris to Shahrukh Khan 6 Score: 138/5
-17.7 Chris Morris to Shahrukh Khan 1 Score: 139/5
-18.1 Jaydev Unadkat to Shahrukh Khan 0 Score: 139/5
-18.2 Jaydev Unadkat to Shahrukh Khan 1 Score: 140/5
-18.3 Jaydev Unadkat to Chris Jordan 2 Score: 142/5
-18.4 Jaydev Unadkat to Chris Jordan 6 Score: 148/5
-18.5 Jaydev Unadkat to Chris Jordan 6 Score: 154/5
-18.6 Jaydev Unadkat to Chris Jordan 6 Score: 160/5
-19.1 Shivam Dube to Shahrukh Khan 1 Score: 161/5
-19.2 Shivam Dube to Chris Jordan W Score: 161/6 Run Out!
-19.3 Shivam Dube to Harpreet Brar W Score: 161/7 Run Out!
-19.4 Shivam Dube to Ravi Bishnoi 0 Score: 161/7
-19.5 Shivam Dube to Ravi Bishnoi 0 Score: 161/7
-19.6 Shivam Dube to Ravi Bishnoi 2 Score: 163/7
-+-----------------+--------+---------+--------+---------------------------------+
-| Player          |   Runs |   Balls | SR     | Out                             |
-+=================+========+=========+========+=================================+
-| KL Rahul        |     38 |      29 | 131.03 | c DA Miller b Mustafizur Rahman |
-+-----------------+--------+---------+--------+---------------------------------+
-| MA Agarwal      |     17 |      18 | 94.44  | c R Parag b CH Morris           |
-+-----------------+--------+---------+--------+---------------------------------+
-| CH Gayle        |     31 |      25 | 124.0  | lbw b R Tewatia                 |
-+-----------------+--------+---------+--------+---------------------------------+
-| DJ Hooda        |     10 |      12 | 83.33  | c R Parag b Mustafizur Rahman   |
-+-----------------+--------+---------+--------+---------------------------------+
-| N Pooran        |      0 |       2 | 0.0    | c JD Unadkat b R Tewatia        |
-+-----------------+--------+---------+--------+---------------------------------+
-| M Shahrukh Khan |     14 |      12 | 116.67 | Not out                         |
-+-----------------+--------+---------+--------+---------------------------------+
-| Harpreet Brar   |      0 |       1 | 0.0    | Not out                         |
-+-----------------+--------+---------+--------+---------------------------------+
-| RP Meredith     |      0 |       0 | DNB    |                                 |
-+-----------------+--------+---------+--------+---------------------------------+
-| Ravi Bishnoi    |      2 |       3 | 66.67  | Not out                         |
-+-----------------+--------+---------+--------+---------------------------------+
-| Mohammed Shami  |      0 |       0 | DNB    |                                 |
-+-----------------+--------+---------+--------+---------------------------------+
-| CJ Jordan       |     45 |      18 | 250.0  | Not out                         |
-+-----------------+--------+---------+--------+---------------------------------+
-+-------------------+--------+---------+-----------+-------+
-| Player            |   Runs |   Overs |   Wickets | Eco   |
-+===================+========+=========+===========+=======+
-| JC Buttler        |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| M Vohra           |      4 |       1 |         0 | 4.0   |
-+-------------------+--------+---------+-----------+-------+
-| SV Samson         |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| S Dube            |      3 |       1 |         0 | 3.0   |
-+-------------------+--------+---------+-----------+-------+
-| DA Miller         |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| R Parag           |      5 |       1 |         0 | 5.0   |
-+-------------------+--------+---------+-----------+-------+
-| R Tewatia         |     22 |       4 |         2 | 5.5   |
-+-------------------+--------+---------+-----------+-------+
-| CH Morris         |     42 |       4 |         1 | 10.5  |
-+-------------------+--------+---------+-----------+-------+
-| JD Unadkat        |     44 |       3 |         0 | 14.67 |
-+-------------------+--------+---------+-----------+-------+
-| C Sakariya        |     16 |       2 |         0 | 8.0   |
-+-------------------+--------+---------+-----------+-------+
-| Mustafizur Rahman |     27 |       4 |         2 | 6.75  |
-+-------------------+--------+---------+-----------+-------+
+pbks won the toss and chose to field
 0.1 Riley Meredith to Manan Vohra 0 Score: 0/0
 0.2 Riley Meredith to Manan Vohra 1 Score: 1/0
-0.3 Riley Meredith to Sanju Samson 0 Score: 1/0
-0.4 Riley Meredith to Sanju Samson 4 Score: 5/0
-0.5 Riley Meredith to Sanju Samson 1 Score: 6/0
-0.6 Riley Meredith to Manan Vohra 0 Score: 6/0
+0.3 Riley Meredith to Sanju Samson 1 Score: 2/0
+0.4 Riley Meredith to Manan Vohra 3 Score: 5/0
+0.5 Riley Meredith to Sanju Samson 0 Score: 5/0
+0.6 Riley Meredith to Sanju Samson 1 Score: 6/0
 1.1 Harpreet Brar to Sanju Samson 0 Score: 6/0
 1.2 Harpreet Brar to Sanju Samson 1 Score: 7/0
 1.3 Harpreet Brar to Manan Vohra 0 Score: 7/0
 1.4 Harpreet Brar to Manan Vohra 1 Score: 8/0
-1.5 Harpreet Brar to Sanju Samson 1 Score: 9/0
-1.6 Harpreet Brar to Manan Vohra 1 Score: 10/0
-2.1 Riley Meredith to Manan Vohra 0 Score: 10/0
-2.2 Riley Meredith to Manan Vohra 1 Score: 11/0
-2.3 Riley Meredith to Sanju Samson 1 Score: 12/0
-2.4 Riley Meredith to Manan Vohra 0 Score: 12/0
-2.5 Riley Meredith to Manan Vohra 2 Score: 14/0
-2.6 Riley Meredith to Manan Vohra 0 Score: 14/0
-3.1 Harpreet Brar to Sanju Samson 1 Score: 15/0
-3.2 Harpreet Brar to Manan Vohra 0 Score: 15/0
-3.3 Harpreet Brar to Manan Vohra 0 Score: 15/0
-3.4 Harpreet Brar to Manan Vohra 0 Score: 15/0
-3.5 Harpreet Brar to Manan Vohra 6 Score: 21/0
-3.6 Harpreet Brar to Manan Vohra 0 Score: 21/0
-4.1 Mohammed Shami to Sanju Samson 1 Score: 22/0
-4.2 Mohammed Shami to Manan Vohra 1 Score: 23/0
-4.3 Mohammed Shami to Sanju Samson 1 Score: 24/0
-4.4 Mohammed Shami to Manan Vohra 1 Score: 25/0
-4.5 Mohammed Shami to Sanju Samson 4 Score: 29/0
-4.6 Mohammed Shami to Sanju Samson 0 Score: 29/0
-5.1 Ravi Bishnoi to Manan Vohra 1 Score: 30/0
-5.2 Ravi Bishnoi to Sanju Samson 0 Score: 30/0
-5.3 Ravi Bishnoi to Sanju Samson 0 Score: 30/0
-5.4 Ravi Bishnoi to Sanju Samson 1 Score: 31/0
-5.5 Ravi Bishnoi to Manan Vohra 0 Score: 31/0
-5.6 Ravi Bishnoi to Manan Vohra 1 Score: 32/0
-6.1 Mohammed Shami to Manan Vohra 4 Score: 36/0
-6.2 Mohammed Shami to Manan Vohra 0 Score: 36/0
-6.3 Mohammed Shami to Manan Vohra Wide Score: 37/0
-6.4 Mohammed Shami to Manan Vohra W Score: 37/1 Lbw
-6.5 Mohammed Shami to Jos Buttler 0 Score: 37/1
-6.6 Mohammed Shami to Jos Buttler 4 Score: 41/1
-6.7 Mohammed Shami to Jos Buttler Wide Score: 42/1
-6.8 Mohammed Shami to Jos Buttler 0 Score: 42/1
-7.1 Ravi Bishnoi to Sanju Samson 6 Score: 48/1
-7.2 Ravi Bishnoi to Sanju Samson 0 Score: 48/1
-7.3 Ravi Bishnoi to Sanju Samson 0 Score: 48/1
-7.4 Ravi Bishnoi to Sanju Samson W Score: 50/2 Run Out!
-7.5 Ravi Bishnoi to David Miller 0 Score: 50/2
-7.6 Ravi Bishnoi to David Miller 0 Score: 50/2
-8.1 Mohammed Shami to Jos Buttler 0 Score: 50/2
-8.2 Mohammed Shami to Jos Buttler 1 Score: 51/2
-8.3 Mohammed Shami to David Miller 4 Score: 55/2
-8.4 Mohammed Shami to David Miller 0 Score: 55/2
-8.5 Mohammed Shami to David Miller 0 Score: 55/2
-8.6 Mohammed Shami to David Miller 0 Score: 55/2
-9.1 Ravi Bishnoi to Jos Buttler 0 Score: 55/2
-9.2 Ravi Bishnoi to Jos Buttler 4 Score: 59/2
-9.3 Ravi Bishnoi to Jos Buttler 4 Score: 63/2
-9.4 Ravi Bishnoi to Jos Buttler 0 Score: 63/2
-9.5 Ravi Bishnoi to Jos Buttler 4 Score: 67/2
-9.6 Ravi Bishnoi to Jos Buttler 1 Score: 68/2
-10.1 Chris Jordan to Jos Buttler 4 Score: 72/2
-10.2 Chris Jordan to Jos Buttler 0 Score: 72/2
-10.3 Chris Jordan to Jos Buttler 1 Score: 73/2
-10.4 Chris Jordan to David Miller 0 Score: 73/2
-10.5 Chris Jordan to David Miller 0 Score: 73/2
-10.6 Chris Jordan to David Miller 1 Score: 74/2
-11.1 Ravi Bishnoi to David Miller 0 Score: 74/2
-11.2 Ravi Bishnoi to David Miller 1 Score: 75/2
-11.3 Ravi Bishnoi to Jos Buttler 0 Score: 75/2
-11.4 Ravi Bishnoi to Jos Buttler 1 Score: 76/2
-11.5 Ravi Bishnoi to David Miller 1 Score: 77/2
-11.6 Ravi Bishnoi to Jos Buttler W Score: 77/3 Bowled
-12.1 Chris Jordan to David Miller 0 Score: 77/3
-12.2 Chris Jordan to David Miller 1 Score: 78/3
-12.3 Chris Jordan to Shivam Dube 4 Score: 82/3
-12.4 Chris Jordan to Shivam Dube 2 Score: 84/3
-12.5 Chris Jordan to Shivam Dube Wide Score: 85/3
-12.6 Chris Jordan to Shivam Dube 1 Score: 86/3
-12.7 Chris Jordan to David Miller 6 Score: 92/3
-13.1 Mohammed Shami to Shivam Dube 6 Score: 98/3
-13.2 Mohammed Shami to Shivam Dube 0 Score: 98/3
-13.3 Mohammed Shami to Shivam Dube 1 Score: 99/3
-13.4 Mohammed Shami to David Miller W Score: 99/4 Bowled
-13.5 Mohammed Shami to Riyan Parag 1 Score: 100/4
-13.6 Mohammed Shami to Shivam Dube 0 Score: 100/4
-14.1 Chris Jordan to Riyan Parag W Score: 100/5 Run Out!
-14.2 Chris Jordan to Rahul Tewatia 1 Score: 101/5
-14.3 Chris Jordan to Shivam Dube 2 Score: 103/5
-14.4 Chris Jordan to Shivam Dube 4 Score: 107/5
-14.5 Chris Jordan to Shivam Dube 1 Score: 108/5
-14.6 Chris Jordan to Rahul Tewatia 0 Score: 108/5
-15.1 Deepak Hooda to Shivam Dube 0 Score: 108/5
-15.2 Deepak Hooda to Shivam Dube 1 Score: 109/5
-15.3 Deepak Hooda to Rahul Tewatia 2 Score: 111/5
-15.4 Deepak Hooda to Rahul Tewatia 0 Score: 111/5
-15.5 Deepak Hooda to Rahul Tewatia 1 Score: 112/5
-15.6 Deepak Hooda to Shivam Dube 1 Score: 113/5
-16.1 Chris Gayle to Shivam Dube 0 Score: 113/5
-16.2 Chris Gayle to Shivam Dube 0 Score: 113/5
-16.3 Chris Gayle to Shivam Dube 0 Score: 113/5
-16.4 Chris Gayle to Shivam Dube 0 Score: 113/5
-16.5 Chris Gayle to Shivam Dube 1 Score: 114/5
-16.6 Chris Gayle to Rahul Tewatia 1 Score: 115/5
-17.1 Riley Meredith to Rahul Tewatia 0 Score: 115/5
-17.2 Riley Meredith to Rahul Tewatia Wide Score: 116/5
-17.3 Riley Meredith to Rahul Tewatia 1 Score: 117/5
-17.4 Riley Meredith to Shivam Dube 4 Score: 121/5
-17.5 Riley Meredith to Shivam Dube Wide Score: 122/5
-17.6 Riley Meredith to Shivam Dube 1 Score: 123/5
-17.7 Riley Meredith to Rahul Tewatia 1 Score: 124/5
-17.8 Riley Meredith to Shivam Dube 6 Score: 130/5
-18.1 Chris Jordan to Rahul Tewatia 1 Score: 131/5
-18.2 Chris Jordan to Shivam Dube 0 Score: 131/5
-18.3 Chris Jordan to Shivam Dube 0 Score: 131/5
-18.4 Chris Jordan to Shivam Dube W Score: 131/6 Caught by Shahrukh Khan
-18.5 Chris Jordan to Chris Morris 6 Score: 137/6
-18.6 Chris Jordan to Chris Morris W Score: 137/7 Caught by Nicholas Pooran
-19.1 Riley Meredith to Rahul Tewatia 6 Score: 143/7
-19.2 Riley Meredith to Rahul Tewatia 0 Score: 143/7
-19.3 Riley Meredith to Rahul Tewatia 1 Score: 144/7
-19.4 Riley Meredith to Jaydev Unadkat 0 Score: 144/7
-19.5 Riley Meredith to Jaydev Unadkat Wide Score: 145/7
-19.6 Riley Meredith to Jaydev Unadkat 0 Score: 145/7
-19.7 Riley Meredith to Jaydev Unadkat 2 Score: 147/7
-pbks won by 16 runs
-+-------------------+--------+---------+--------+-------------------------------+
-| Player            |   Runs |   Balls | SR     | Out                           |
-+===================+========+=========+========+===============================+
-| JC Buttler        |     24 |      17 | 141.18 | bowled b Ravi Bishnoi         |
-+-------------------+--------+---------+--------+-------------------------------+
-| M Vohra           |     20 |      24 | 83.33  | lbw b Mohammed Shami          |
-+-------------------+--------+---------+--------+-------------------------------+
-| SV Samson         |     24 |      19 | 126.32 | Not out                       |
-+-------------------+--------+---------+--------+-------------------------------+
-| S Dube            |     35 |      24 | 145.83 | c M Shahrukh Khan b CJ Jordan |
-+-------------------+--------+---------+--------+-------------------------------+
-| DA Miller         |     14 |      16 | 87.5   | bowled b Mohammed Shami       |
-+-------------------+--------+---------+--------+-------------------------------+
-| R Parag           |      1 |       2 | 50.0   | Not out                       |
-+-------------------+--------+---------+--------+-------------------------------+
-| R Tewatia         |     15 |      13 | 115.38 | Not out                       |
-+-------------------+--------+---------+--------+-------------------------------+
-| CH Morris         |      6 |       2 | 300.0  | c N Pooran b CJ Jordan        |
-+-------------------+--------+---------+--------+-------------------------------+
-| JD Unadkat        |      2 |       3 | 66.67  | Not out                       |
-+-------------------+--------+---------+--------+-------------------------------+
-| C Sakariya        |      0 |       0 | DNB    |                               |
-+-------------------+--------+---------+--------+-------------------------------+
-| Mustafizur Rahman |      0 |       0 | DNB    |                               |
-+-------------------+--------+---------+--------+-------------------------------+
+1.5 Harpreet Brar to Sanju Samson 2 Score: 10/0
+1.6 Harpreet Brar to Sanju Samson 1 Score: 11/0
+2.1 Riley Meredith to Sanju Samson 0 Score: 11/0
+2.2 Riley Meredith to Sanju Samson 0 Score: 11/0
+2.3 Riley Meredith to Sanju Samson 0 Score: 11/0
+2.4 Riley Meredith to Sanju Samson 2 Score: 13/0
+2.5 Riley Meredith to Sanju Samson 0 Score: 13/0
+2.6 Riley Meredith to Sanju Samson 1 Score: 14/0
+3.1 Harpreet Brar to Sanju Samson 0 Score: 14/0
+3.2 Harpreet Brar to Sanju Samson 0 Score: 14/0
+3.3 Harpreet Brar to Sanju Samson 2 Score: 16/0
+3.4 Harpreet Brar to Sanju Samson W Score: 16/1 Bowled
+3.5 Harpreet Brar to Jos Buttler 1 Score: 17/1
+3.6 Harpreet Brar to Manan Vohra 1 Score: 18/1
+4.1 Mohammed Shami to Manan Vohra 1 Score: 19/1
+4.2 Mohammed Shami to Jos Buttler 1 Score: 20/1
+4.3 Mohammed Shami to Manan Vohra 0 Score: 20/1
+4.4 Mohammed Shami to Manan Vohra W Score: 20/2 Caught by Shahrukh Khan
+4.5 Mohammed Shami to David Miller 1 Score: 21/2
+4.6 Mohammed Shami to Jos Buttler 1 Score: 22/2
+5.1 Ravi Bishnoi to Jos Buttler 1 Score: 23/2
+5.2 Ravi Bishnoi to David Miller 4 Score: 27/2
+5.3 Ravi Bishnoi to David Miller 0 Score: 27/2
+5.4 Ravi Bishnoi to David Miller 1 Score: 28/2
+5.5 Ravi Bishnoi to Jos Buttler 0 Score: 28/2
+5.6 Ravi Bishnoi to Jos Buttler 0 Score: 28/2
+6.1 Mohammed Shami to David Miller 0 Score: 28/2
+6.2 Mohammed Shami to David Miller 0 Score: 28/2
+6.3 Mohammed Shami to David Miller 1 Score: 29/2
+6.4 Mohammed Shami to Jos Buttler 0 Score: 29/2
+6.5 Mohammed Shami to Jos Buttler 0 Score: 29/2
+6.6 Mohammed Shami to Jos Buttler 0 Score: 29/2
+7.1 Ravi Bishnoi to David Miller 0 Score: 29/2
+7.2 Ravi Bishnoi to David Miller 0 Score: 29/2
+7.3 Ravi Bishnoi to David Miller 0 Score: 29/2
+7.4 Ravi Bishnoi to David Miller 2 Score: 31/2
+7.5 Ravi Bishnoi to David Miller 0 Score: 31/2
+7.6 Ravi Bishnoi to David Miller 2 Score: 33/2
+8.1 Mohammed Shami to Jos Buttler 4 Score: 37/2
+8.2 Mohammed Shami to Jos Buttler 0 Score: 37/2
+8.3 Mohammed Shami to Jos Buttler 1 Score: 38/2
+8.4 Mohammed Shami to David Miller 1 Score: 39/2
+8.5 Mohammed Shami to Jos Buttler 0 Score: 39/2
+8.6 Mohammed Shami to Jos Buttler 0 Score: 39/2
+9.1 Ravi Bishnoi to David Miller 1 Score: 40/2
+9.2 Ravi Bishnoi to Jos Buttler 0 Score: 40/2
+9.3 Ravi Bishnoi to Jos Buttler 0 Score: 40/2
+9.4 Ravi Bishnoi to Jos Buttler 6 Score: 46/2
+9.5 Ravi Bishnoi to Jos Buttler 0 Score: 46/2
+9.6 Ravi Bishnoi to Jos Buttler 1 Score: 47/2
+10.1 Deepak Hooda to Jos Buttler 1 Score: 48/2
+10.2 Deepak Hooda to David Miller 1 Score: 49/2
+10.3 Deepak Hooda to Jos Buttler 1 Score: 50/2
+10.4 Deepak Hooda to David Miller 6 Score: 56/2
+10.5 Deepak Hooda to David Miller 1 Score: 57/2
+10.6 Deepak Hooda to Jos Buttler 0 Score: 57/2
+11.1 Ravi Bishnoi to David Miller 4 Score: 61/2
+11.2 Ravi Bishnoi to David Miller 0 Score: 61/2
+11.3 Ravi Bishnoi to David Miller 2 Score: 63/2
+11.4 Ravi Bishnoi to David Miller 1 Score: 64/2
+11.5 Ravi Bishnoi to Jos Buttler 1 Score: 65/2
+11.6 Ravi Bishnoi to David Miller 6 Score: 71/2
+12.1 Deepak Hooda to Jos Buttler 0 Score: 71/2
+12.2 Deepak Hooda to Jos Buttler 1 Score: 72/2
+12.3 Deepak Hooda to David Miller 1 Score: 73/2
+12.4 Deepak Hooda to Jos Buttler 6 Score: 79/2
+12.5 Deepak Hooda to Jos Buttler 1 Score: 80/2
+12.6 Deepak Hooda to David Miller 0 Score: 80/2
+13.1 Chris Jordan to Jos Buttler 2 Score: 82/2
+13.2 Chris Jordan to Jos Buttler 4 Score: 86/2
+13.3 Chris Jordan to Jos Buttler 1 Score: 87/2
+13.4 Chris Jordan to David Miller 0 Score: 87/2
+13.5 Chris Jordan to David Miller 1 Score: 88/2
+13.6 Chris Jordan to Jos Buttler 1 Score: 89/2
+14.1 Deepak Hooda to Jos Buttler 1 Score: 90/2
+14.2 Deepak Hooda to David Miller 0 Score: 90/2
+14.3 Deepak Hooda to David Miller 6 Score: 96/2
+14.4 Deepak Hooda to David Miller 1 Score: 97/2
+14.5 Deepak Hooda to Jos Buttler 1 Score: 98/2
+14.6 Deepak Hooda to David Miller 1 Score: 99/2
+15.1 Chris Jordan to David Miller Wide Score: 100/2
+15.2 Chris Jordan to David Miller 1 Score: 101/2
+15.3 Chris Jordan to Jos Buttler 4 Score: 105/2
+15.4 Chris Jordan to Jos Buttler 1 Score: 106/2
+15.5 Chris Jordan to David Miller W Score: 106/3 Bowled
+15.6 Chris Jordan to Shivam Dube 2 Score: 108/3
+15.7 Chris Jordan to Shivam Dube Wide Score: 109/3
+15.8 Chris Jordan to Shivam Dube W Score: 109/4 Caught by Ravi Bishnoi
+16.1 Deepak Hooda to Jos Buttler 4 Score: 113/4
+16.2 Deepak Hooda to Jos Buttler 1 Score: 114/4
+16.3 Deepak Hooda to Riyan Parag 4 Score: 118/4
+16.4 Deepak Hooda to Riyan Parag 1 Score: 119/4
+16.5 Deepak Hooda to Jos Buttler 1 Score: 120/4
+16.6 Deepak Hooda to Riyan Parag 1 Score: 121/4
+17.1 Chris Jordan to Riyan Parag Wide Score: 122/4
+17.2 Chris Jordan to Riyan Parag 1 Score: 123/4
+17.3 Chris Jordan to Jos Buttler 6 Score: 129/4
+17.4 Chris Jordan to Jos Buttler Wide Score: 130/4
+17.5 Chris Jordan to Jos Buttler 4 Score: 134/4
+17.6 Chris Jordan to Jos Buttler 1 Score: 135/4
+17.7 Chris Jordan to Riyan Parag 4 Score: 139/4
+17.8 Chris Jordan to Riyan Parag 0 Score: 139/4
+18.1 Riley Meredith to Jos Buttler 4 Score: 143/4
+18.2 Riley Meredith to Jos Buttler 0 Score: 143/4
+18.3 Riley Meredith to Jos Buttler 6 Score: 149/4
+18.4 Riley Meredith to Jos Buttler 4 Score: 153/4
+18.5 Riley Meredith to Jos Buttler Wide Score: 154/4
+18.6 Riley Meredith to Jos Buttler W Score: 154/5 Lbw
+18.7 Riley Meredith to Rahul Tewatia Wide Score: 155/5
+18.8 Riley Meredith to Rahul Tewatia 1 Score: 156/5
+19.1 Chris Jordan to Rahul Tewatia 6 Score: 162/5
+19.2 Chris Jordan to Rahul Tewatia W Score: 162/6 Bowled
+19.3 Chris Jordan to Chris Morris 1 Score: 163/6
+19.4 Chris Jordan to Riyan Parag 6 Score: 169/6
+19.5 Chris Jordan to Riyan Parag 1 Score: 170/6
+19.6 Chris Jordan to Chris Morris 1 Score: 171/6
++-------------------+--------+---------+--------+------------------------------------+
+| Player            |   Runs |   Balls | SR     | Out                                |
++===================+========+=========+========+====================================+
+| JC Buttler        |     73 |      46 | 158.7  | lbw b RP Meredith                  |
++-------------------+--------+---------+--------+------------------------------------+
+| M Vohra           |      7 |       9 | 77.78  | c M Shahrukh Khan b Mohammed Shami |
++-------------------+--------+---------+--------+------------------------------------+
+| SV Samson         |     11 |      17 | 64.71  | bowled b Harpreet Brar             |
++-------------------+--------+---------+--------+------------------------------------+
+| S Dube            |      2 |       2 | 100.0  | c Ravi Bishnoi b CJ Jordan         |
++-------------------+--------+---------+--------+------------------------------------+
+| DA Miller         |     45 |      33 | 136.36 | bowled b CJ Jordan                 |
++-------------------+--------+---------+--------+------------------------------------+
+| R Parag           |     18 |       8 | 225.0  | Not out                            |
++-------------------+--------+---------+--------+------------------------------------+
+| R Tewatia         |      7 |       3 | 233.33 | bowled b CJ Jordan                 |
++-------------------+--------+---------+--------+------------------------------------+
+| CH Morris         |      2 |       2 | 100.0  | Not out                            |
++-------------------+--------+---------+--------+------------------------------------+
+| JD Unadkat        |      0 |       0 | DNB    |                                    |
++-------------------+--------+---------+--------+------------------------------------+
+| C Sakariya        |      0 |       0 | DNB    |                                    |
++-------------------+--------+---------+--------+------------------------------------+
+| Mustafizur Rahman |      0 |       0 | DNB    |                                    |
++-------------------+--------+---------+--------+------------------------------------+
 +-----------------+--------+---------+-----------+-------+
 | Player          |   Runs |   Overs |   Wickets | Eco   |
 +=================+========+=========+===========+=======+
@@ -335,21 +158,198 @@ pbks won by 16 runs
 +-----------------+--------+---------+-----------+-------+
 | MA Agarwal      |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| CH Gayle        |      2 |       1 |         0 | 2.0   |
+| CH Gayle        |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| DJ Hooda        |      5 |       1 |         0 | 5.0   |
+| DJ Hooda        |     41 |       4 |         0 | 10.25 |
 +-----------------+--------+---------+-----------+-------+
 | N Pooran        |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
 | M Shahrukh Khan |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| Harpreet Brar   |     11 |       2 |         0 | 5.5   |
+| Harpreet Brar   |      9 |       2 |         1 | 4.5   |
 +-----------------+--------+---------+-----------+-------+
-| RP Meredith     |     35 |       4 |         0 | 8.75  |
+| RP Meredith     |     26 |       3 |         1 | 8.67  |
 +-----------------+--------+---------+-----------+-------+
-| Ravi Bishnoi    |     27 |       4 |         1 | 6.75  |
+| Ravi Bishnoi    |     32 |       4 |         0 | 8.0   |
 +-----------------+--------+---------+-----------+-------+
-| Mohammed Shami  |     31 |       4 |         2 | 7.75  |
+| Mohammed Shami  |     11 |       3 |         1 | 3.67  |
 +-----------------+--------+---------+-----------+-------+
-| CJ Jordan       |     36 |       4 |         2 | 9.0   |
+| CJ Jordan       |     52 |       4 |         3 | 13.0  |
 +-----------------+--------+---------+-----------+-------+
+0.1 Chetan Sakariya to KL Rahul 1 Score: 1/0
+0.2 Chetan Sakariya to Chris Gayle Wide Score: 2/0
+0.3 Chetan Sakariya to Chris Gayle Wide Score: 3/0
+0.4 Chetan Sakariya to Chris Gayle 0 Score: 3/0
+0.5 Chetan Sakariya to Chris Gayle 1 Score: 4/0
+0.6 Chetan Sakariya to KL Rahul 1 Score: 5/0
+0.7 Chetan Sakariya to Chris Gayle 1 Score: 6/0
+0.8 Chetan Sakariya to KL Rahul Wide Score: 7/0
+0.9 Chetan Sakariya to KL Rahul 0 Score: 7/0
+1.1 Jaydev Unadkat to Chris Gayle 1 Score: 8/0
+1.2 Jaydev Unadkat to KL Rahul 0 Score: 8/0
+1.3 Jaydev Unadkat to KL Rahul 0 Score: 8/0
+1.4 Jaydev Unadkat to KL Rahul 1 Score: 9/0
+1.5 Jaydev Unadkat to Chris Gayle 2 Score: 11/0
+1.6 Jaydev Unadkat to Chris Gayle 0 Score: 11/0
+2.1 Chetan Sakariya to KL Rahul Wide Score: 12/0
+2.2 Chetan Sakariya to KL Rahul 0 Score: 12/0
+2.3 Chetan Sakariya to KL Rahul 0 Score: 12/0
+2.4 Chetan Sakariya to KL Rahul 1 Score: 13/0
+2.5 Chetan Sakariya to Chris Gayle 2 Score: 15/0
+2.6 Chetan Sakariya to Chris Gayle 0 Score: 15/0
+2.7 Chetan Sakariya to Chris Gayle 0 Score: 15/0
+3.1 Jaydev Unadkat to KL Rahul 0 Score: 15/0
+3.2 Jaydev Unadkat to KL Rahul 1 Score: 16/0
+3.3 Jaydev Unadkat to Chris Gayle 1 Score: 17/0
+3.4 Jaydev Unadkat to KL Rahul 1 Score: 18/0
+3.5 Jaydev Unadkat to Chris Gayle 0 Score: 18/0
+3.6 Jaydev Unadkat to Chris Gayle 6 Score: 24/0
+4.1 Mustafizur Rahman to KL Rahul 1 Score: 25/0
+4.2 Mustafizur Rahman to Chris Gayle 0 Score: 25/0
+4.3 Mustafizur Rahman to Chris Gayle 0 Score: 25/0
+4.4 Mustafizur Rahman to Chris Gayle 1 Score: 26/0
+4.5 Mustafizur Rahman to KL Rahul Wide Score: 27/0
+4.6 Mustafizur Rahman to KL Rahul 0 Score: 27/0
+4.7 Mustafizur Rahman to KL Rahul 1 Score: 28/0
+5.1 Rahul Tewatia to KL Rahul 6 Score: 34/0
+5.2 Rahul Tewatia to KL Rahul 0 Score: 34/0
+5.3 Rahul Tewatia to KL Rahul 4 Score: 38/0
+5.4 Rahul Tewatia to KL Rahul 1 Score: 39/0
+5.5 Rahul Tewatia to Chris Gayle 1 Score: 40/0
+5.6 Rahul Tewatia to KL Rahul 4 Score: 44/0
+6.1 Mustafizur Rahman to Chris Gayle 4 Score: 48/0
+6.2 Mustafizur Rahman to Chris Gayle 0 Score: 48/0
+6.3 Mustafizur Rahman to Chris Gayle 0 Score: 48/0
+6.4 Mustafizur Rahman to Chris Gayle 4 Score: 52/0
+6.5 Mustafizur Rahman to Chris Gayle 0 Score: 52/0
+6.6 Mustafizur Rahman to Chris Gayle 0 Score: 52/0
+7.1 Rahul Tewatia to KL Rahul 4 Score: 56/0
+7.2 Rahul Tewatia to KL Rahul W Score: 58/1 Run Out!
+7.3 Rahul Tewatia to Mayank Agarwal 0 Score: 58/1
+7.4 Rahul Tewatia to Mayank Agarwal 1 Score: 59/1
+7.5 Rahul Tewatia to Chris Gayle 1 Score: 60/1
+7.6 Rahul Tewatia to Mayank Agarwal 1 Score: 61/1
+8.1 Mustafizur Rahman to Mayank Agarwal 0 Score: 61/1
+8.2 Mustafizur Rahman to Mayank Agarwal 0 Score: 61/1
+8.3 Mustafizur Rahman to Mayank Agarwal 0 Score: 61/1
+8.4 Mustafizur Rahman to Mayank Agarwal 1 Score: 62/1
+8.5 Mustafizur Rahman to Chris Gayle 4 Score: 66/1
+8.6 Mustafizur Rahman to Chris Gayle 1 Score: 67/1
+9.1 Rahul Tewatia to Chris Gayle 1 Score: 68/1
+9.2 Rahul Tewatia to Mayank Agarwal 1 Score: 69/1
+9.3 Rahul Tewatia to Chris Gayle 0 Score: 69/1
+9.4 Rahul Tewatia to Chris Gayle 1 Score: 70/1
+9.5 Rahul Tewatia to Mayank Agarwal 6 Score: 76/1
+9.6 Rahul Tewatia to Mayank Agarwal 0 Score: 76/1
+10.1 Chetan Sakariya to Chris Gayle W Score: 76/2 Caught by Sanju Samson
+10.2 Chetan Sakariya to Nicholas Pooran 4 Score: 80/2
+10.3 Chetan Sakariya to Nicholas Pooran W Score: 80/3 Caught by Riyan Parag
+10.4 Chetan Sakariya to Deepak Hooda 1 Score: 81/3
+10.5 Chetan Sakariya to Mayank Agarwal 0 Score: 81/3
+10.6 Chetan Sakariya to Mayank Agarwal 0 Score: 81/3
+11.1 Rahul Tewatia to Deepak Hooda 1 Score: 82/3
+11.2 Rahul Tewatia to Mayank Agarwal W Score: 82/4 Caught by Chetan Sakariya
+11.3 Rahul Tewatia to Shahrukh Khan 4 Score: 86/4
+11.4 Rahul Tewatia to Shahrukh Khan 0 Score: 86/4
+11.5 Rahul Tewatia to Shahrukh Khan 0 Score: 86/4
+11.6 Rahul Tewatia to Shahrukh Khan 0 Score: 86/4
+12.1 Chetan Sakariya to Deepak Hooda 0 Score: 86/4
+12.2 Chetan Sakariya to Deepak Hooda 4 Score: 90/4
+12.3 Chetan Sakariya to Deepak Hooda 1 Score: 91/4
+12.4 Chetan Sakariya to Shahrukh Khan 0 Score: 91/4
+12.5 Chetan Sakariya to Shahrukh Khan 1 Score: 92/4
+12.6 Chetan Sakariya to Deepak Hooda 2 Score: 94/4
+13.1 Jaydev Unadkat to Shahrukh Khan 0 Score: 94/4
+13.2 Jaydev Unadkat to Shahrukh Khan 1 Score: 95/4
+13.3 Jaydev Unadkat to Deepak Hooda 0 Score: 95/4
+13.4 Jaydev Unadkat to Deepak Hooda 1 Score: 96/4
+13.5 Jaydev Unadkat to Shahrukh Khan 1 Score: 97/4
+13.6 Jaydev Unadkat to Deepak Hooda 1 Score: 98/4
+14.1 Chris Morris to Deepak Hooda 0 Score: 98/4
+14.2 Chris Morris to Deepak Hooda 1 Score: 99/4
+14.3 Chris Morris to Shahrukh Khan W Score: 99/5 Caught by Chetan Sakariya
+14.4 Chris Morris to Chris Jordan 0 Score: 99/5
+14.5 Chris Morris to Chris Jordan 1 Score: 100/5
+14.6 Chris Morris to Deepak Hooda 1 Score: 101/5
+15.1 Riyan Parag to Deepak Hooda W Score: 101/6 Bowled
+15.2 Riyan Parag to Harpreet Brar 1 Score: 102/6
+15.3 Riyan Parag to Chris Jordan 1 Score: 103/6
+15.4 Riyan Parag to Harpreet Brar 6 Score: 109/6
+15.5 Riyan Parag to Harpreet Brar 4 Score: 113/6
+15.6 Riyan Parag to Harpreet Brar 1 Score: 114/6
+16.1 Chris Morris to Harpreet Brar 4 Score: 118/6
+16.2 Chris Morris to Harpreet Brar 0 Score: 118/6
+16.3 Chris Morris to Harpreet Brar 0 Score: 118/6
+16.4 Chris Morris to Harpreet Brar 6 Score: 124/6
+16.5 Chris Morris to Harpreet Brar 6 Score: 130/6
+16.6 Chris Morris to Harpreet Brar 1 Score: 131/6
+17.1 Mustafizur Rahman to Harpreet Brar 0 Score: 131/6
+17.2 Mustafizur Rahman to Harpreet Brar 0 Score: 131/6
+17.3 Mustafizur Rahman to Harpreet Brar 1 Score: 132/6
+17.4 Mustafizur Rahman to Chris Jordan 1 Score: 133/6
+17.5 Mustafizur Rahman to Harpreet Brar 6 Score: 139/6
+17.6 Mustafizur Rahman to Harpreet Brar 4 Score: 143/6
+18.1 Chris Morris to Chris Jordan 0 Score: 143/6
+18.2 Chris Morris to Chris Jordan 6 Score: 149/6
+18.3 Chris Morris to Chris Jordan 0 Score: 149/6
+18.4 Chris Morris to Chris Jordan 0 Score: 149/6
+18.5 Chris Morris to Chris Jordan 0 Score: 149/6
+18.6 Chris Morris to Chris Jordan 1 Score: 150/6
+19.1 Jaydev Unadkat to Chris Jordan Wide Score: 151/6
+19.2 Jaydev Unadkat to Chris Jordan 1 Score: 152/6
+19.3 Jaydev Unadkat to Harpreet Brar W Score: 152/7 Bowled
+19.4 Jaydev Unadkat to Ravi Bishnoi 1 Score: 153/7
+19.5 Jaydev Unadkat to Chris Jordan 6 Score: 159/7
+19.6 Jaydev Unadkat to Chris Jordan 1 Score: 160/7
+19.7 Jaydev Unadkat to Ravi Bishnoi 0 Score: 160/7
+rr won by 11 runs
++-----------------+--------+---------+--------+--------------------------+
+| Player          |   Runs |   Balls | SR     | Out                      |
++=================+========+=========+========+==========================+
+| KL Rahul        |     29 |      22 | 131.82 | Not out                  |
++-----------------+--------+---------+--------+--------------------------+
+| MA Agarwal      |     10 |      13 | 76.92  | c C Sakariya b R Tewatia |
++-----------------+--------+---------+--------+--------------------------+
+| CH Gayle        |     32 |      29 | 110.34 | c SV Samson b C Sakariya |
++-----------------+--------+---------+--------+--------------------------+
+| DJ Hooda        |     13 |      13 | 100.0  | bowled b R Parag         |
++-----------------+--------+---------+--------+--------------------------+
+| N Pooran        |      4 |       2 | 200.0  | c R Parag b C Sakariya   |
++-----------------+--------+---------+--------+--------------------------+
+| M Shahrukh Khan |      7 |      10 | 70.0   | c C Sakariya b CH Morris |
++-----------------+--------+---------+--------+--------------------------+
+| Harpreet Brar   |     40 |      16 | 250.0  | bowled b JD Unadkat      |
++-----------------+--------+---------+--------+--------------------------+
+| RP Meredith     |      0 |       0 | DNB    |                          |
++-----------------+--------+---------+--------+--------------------------+
+| Ravi Bishnoi    |      1 |       2 | 50.0   | Not out                  |
++-----------------+--------+---------+--------+--------------------------+
+| Mohammed Shami  |      0 |       0 | DNB    |                          |
++-----------------+--------+---------+--------+--------------------------+
+| CJ Jordan       |     18 |      13 | 138.46 | Not out                  |
++-----------------+--------+---------+--------+--------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| JC Buttler        |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| M Vohra           |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| SV Samson         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| S Dube            |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| DA Miller         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| R Parag           |     13 |       1 |         1 | 13.0  |
++-------------------+--------+---------+-----------+-------+
+| R Tewatia         |     39 |       4 |         1 | 9.75  |
++-------------------+--------+---------+-----------+-------+
+| CH Morris         |     27 |       3 |         1 | 9.0   |
++-------------------+--------+---------+-----------+-------+
+| JD Unadkat        |     27 |       4 |         1 | 6.75  |
++-------------------+--------+---------+-----------+-------+
+| C Sakariya        |     24 |       4 |         2 | 6.0   |
++-------------------+--------+---------+-----------+-------+
+| Mustafizur Rahman |     30 |       4 |         0 | 7.5   |
++-------------------+--------+---------+-----------+-------+

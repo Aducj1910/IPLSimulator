@@ -1,149 +1,316 @@
 ['Jos Buttler', 'Manan Vohra', 'Sanju Samson', 'Shivam Dube', 'David Miller', 'Riyan Parag', 'Rahul Tewatia', 'Chris Morris', 'Jaydev Unadkat', 'Chetan Sakariya', 'Mustafizur Rahman']
-rr won the toss and chose to bat
-0.1 Trent Boult to Manan Vohra 0 Score: 0/0
-0.2 Trent Boult to Manan Vohra 0 Score: 0/0
-0.3 Trent Boult to Manan Vohra 0 Score: 0/0
-0.4 Trent Boult to Manan Vohra 1 Score: 1/0
-0.5 Trent Boult to Sanju Samson 2 Score: 3/0
-0.6 Trent Boult to Sanju Samson 2 Score: 5/0
-1.1 Jayant Yadav to Manan Vohra 1 Score: 6/0
-1.2 Jayant Yadav to Sanju Samson 2 Score: 8/0
-1.3 Jayant Yadav to Sanju Samson 1 Score: 9/0
-1.4 Jayant Yadav to Manan Vohra 0 Score: 9/0
-1.5 Jayant Yadav to Manan Vohra 0 Score: 9/0
-1.6 Jayant Yadav to Manan Vohra 1 Score: 10/0
-2.1 Trent Boult to Manan Vohra 4 Score: 14/0
-2.2 Trent Boult to Manan Vohra 0 Score: 14/0
-2.3 Trent Boult to Manan Vohra 4 Score: 18/0
-2.4 Trent Boult to Manan Vohra 1 Score: 19/0
-2.5 Trent Boult to Sanju Samson 0 Score: 19/0
-2.6 Trent Boult to Sanju Samson W Score: 19/1 Caught by Hardik Pandya
-3.1 Jayant Yadav to Manan Vohra 0 Score: 19/1
-3.2 Jayant Yadav to Manan Vohra 2 Score: 21/1
-3.3 Jayant Yadav to Manan Vohra 4 Score: 25/1
-3.4 Jayant Yadav to Manan Vohra 1 Score: 26/1
-3.5 Jayant Yadav to Jos Buttler 2 Score: 28/1
-3.6 Jayant Yadav to Jos Buttler 0 Score: 28/1
-4.1 Jasprit Bumrah to Manan Vohra 4 Score: 32/1
-4.2 Jasprit Bumrah to Manan Vohra 1 Score: 33/1
-4.3 Jasprit Bumrah to Jos Buttler 1 Score: 34/1
-4.4 Jasprit Bumrah to Manan Vohra 1 Score: 35/1
-4.5 Jasprit Bumrah to Jos Buttler 0 Score: 35/1
-4.6 Jasprit Bumrah to Jos Buttler 1 Score: 36/1
-5.1 Krunal Pandya to Jos Buttler 1 Score: 37/1
-5.2 Krunal Pandya to Manan Vohra 3 Score: 40/1
-5.3 Krunal Pandya to Jos Buttler 0 Score: 40/1
-5.4 Krunal Pandya to Jos Buttler 4 Score: 44/1
-5.5 Krunal Pandya to Jos Buttler 1 Score: 45/1
-5.6 Krunal Pandya to Manan Vohra W Score: 45/2 Bowled
-6.1 Jasprit Bumrah to Jos Buttler 1 Score: 46/2
-6.2 Jasprit Bumrah to David Miller 1 Score: 47/2
-6.3 Jasprit Bumrah to Jos Buttler 1 Score: 48/2
-6.4 Jasprit Bumrah to David Miller 2 Score: 50/2
-6.5 Jasprit Bumrah to David Miller 0 Score: 50/2
-6.6 Jasprit Bumrah to David Miller 1 Score: 51/2
-7.1 Krunal Pandya to David Miller 1 Score: 52/2
-7.2 Krunal Pandya to Jos Buttler 1 Score: 53/2
-7.3 Krunal Pandya to David Miller 1 Score: 54/2
-7.4 Krunal Pandya to Jos Buttler 0 Score: 54/2
-7.5 Krunal Pandya to Jos Buttler 0 Score: 54/2
-7.6 Krunal Pandya to Jos Buttler 4 Score: 58/2
-8.1 Jasprit Bumrah to David Miller 0 Score: 58/2
-8.2 Jasprit Bumrah to David Miller 0 Score: 58/2
-8.3 Jasprit Bumrah to David Miller 0 Score: 58/2
-8.4 Jasprit Bumrah to David Miller 1 Score: 59/2
-8.5 Jasprit Bumrah to Jos Buttler 0 Score: 59/2
-8.6 Jasprit Bumrah to Jos Buttler W Score: 59/3 Caught by Hardik Pandya
-9.1 Krunal Pandya to David Miller 1 Score: 60/3
-9.2 Krunal Pandya to Shivam Dube 4 Score: 64/3
-9.3 Krunal Pandya to Shivam Dube 0 Score: 64/3
-9.4 Krunal Pandya to Shivam Dube 0 Score: 64/3
-9.5 Krunal Pandya to Shivam Dube 1 Score: 65/3
-9.6 Krunal Pandya to David Miller 1 Score: 66/3
-10.1 Rahul Chahar to David Miller 0 Score: 66/3
-10.2 Rahul Chahar to David Miller 0 Score: 66/3
-10.3 Rahul Chahar to David Miller 0 Score: 66/3
-10.4 Rahul Chahar to David Miller 2 Score: 68/3
-10.5 Rahul Chahar to David Miller 0 Score: 68/3
-10.6 Rahul Chahar to David Miller 1 Score: 69/3
-11.1 Krunal Pandya to David Miller 1 Score: 70/3
-11.2 Krunal Pandya to Shivam Dube 6 Score: 76/3
-11.3 Krunal Pandya to Shivam Dube 0 Score: 76/3
-11.4 Krunal Pandya to Shivam Dube 0 Score: 76/3
-11.5 Krunal Pandya to Shivam Dube 2 Score: 78/3
-11.6 Krunal Pandya to Shivam Dube 1 Score: 79/3
-12.1 Rahul Chahar to Shivam Dube 0 Score: 79/3
-12.2 Rahul Chahar to Shivam Dube 1 Score: 80/3
-12.3 Rahul Chahar to David Miller 1 Score: 81/3
-12.4 Rahul Chahar to Shivam Dube 1 Score: 82/3
-12.5 Rahul Chahar to David Miller 0 Score: 82/3
-12.6 Rahul Chahar to David Miller 1 Score: 83/3
-13.1 Jayant Yadav to David Miller 1 Score: 84/3
-13.2 Jayant Yadav to Shivam Dube 0 Score: 84/3
-13.3 Jayant Yadav to Shivam Dube 0 Score: 84/3
-13.4 Jayant Yadav to Shivam Dube 1 Score: 85/3
-13.5 Jayant Yadav to David Miller 1 Score: 86/3
-13.6 Jayant Yadav to Shivam Dube 1 Score: 87/3
-14.1 Rahul Chahar to Shivam Dube 6 Score: 93/3
-14.2 Rahul Chahar to Shivam Dube 0 Score: 93/3
-14.3 Rahul Chahar to Shivam Dube 1 Score: 94/3
-14.4 Rahul Chahar to David Miller 1 Score: 95/3
-14.5 Rahul Chahar to Shivam Dube 6 Score: 101/3
-14.6 Rahul Chahar to Shivam Dube 0 Score: 101/3
-15.1 Jayant Yadav to David Miller 0 Score: 101/3
-15.2 Jayant Yadav to David Miller 1 Score: 102/3
-15.3 Jayant Yadav to Shivam Dube 1 Score: 103/3
-15.4 Jayant Yadav to David Miller 0 Score: 103/3
-15.5 Jayant Yadav to David Miller W Score: 103/4 Caught by Rohit Sharma
-15.6 Jayant Yadav to Riyan Parag 1 Score: 104/4
-16.1 Rahul Chahar to Riyan Parag 1 Score: 105/4
-16.2 Rahul Chahar to Shivam Dube Wide Score: 106/4
-16.3 Rahul Chahar to Shivam Dube 1 Score: 107/4
-16.4 Rahul Chahar to Riyan Parag 4 Score: 111/4
-16.5 Rahul Chahar to Riyan Parag 0 Score: 111/4
-16.6 Rahul Chahar to Riyan Parag 1 Score: 112/4
-16.7 Rahul Chahar to Shivam Dube 0 Score: 112/4
-17.1 Jasprit Bumrah to Riyan Parag 1 Score: 113/4
-17.2 Jasprit Bumrah to Shivam Dube 1 Score: 114/4
-17.3 Jasprit Bumrah to Riyan Parag 0 Score: 114/4
-17.4 Jasprit Bumrah to Riyan Parag W Score: 114/5 Caught by Trent Boult
-17.5 Jasprit Bumrah to Rahul Tewatia 0 Score: 114/5
-17.6 Jasprit Bumrah to Rahul Tewatia 0 Score: 114/5
-18.1 Trent Boult to Shivam Dube 6 Score: 120/5
-18.2 Trent Boult to Shivam Dube W Score: 120/6 Caught by Suryakumar Yadav
-18.3 Trent Boult to Chris Morris 4 Score: 124/6
-18.4 Trent Boult to Chris Morris W Score: 124/7 Bowled
-18.5 Trent Boult to Jaydev Unadkat 1 Score: 125/7
-18.6 Trent Boult to Rahul Tewatia W Score: 125/8 Caught by Quinton de Kock
-19.1 Hardik Pandya to Jaydev Unadkat W Score: 125/9 Caught by Rahul Chahar
-19.2 Hardik Pandya to Chetan Sakariya 0 Score: 125/9
-19.3 Hardik Pandya to Chetan Sakariya W Score: 125/10 Caught by Rahul Chahar
-ALL OUT
-+-------------------+--------+---------+--------+-------------------------+
-| Player            |   Runs |   Balls | SR     | Out                     |
-+===================+========+=========+========+=========================+
-| JC Buttler        |     17 |      17 | 100.0  | c HH Pandya b JJ Bumrah |
-+-------------------+--------+---------+--------+-------------------------+
-| M Vohra           |     28 |      21 | 133.33 | bowled b KH Pandya      |
-+-------------------+--------+---------+--------+-------------------------+
-| SV Samson         |      7 |       6 | 116.67 | c HH Pandya b TA Boult  |
-+-------------------+--------+---------+--------+-------------------------+
-| S Dube            |     40 |      27 | 148.15 | c SA Yadav b TA Boult   |
-+-------------------+--------+---------+--------+-------------------------+
-| DA Miller         |     19 |      29 | 65.52  | c RG Sharma b J Yadav   |
-+-------------------+--------+---------+--------+-------------------------+
-| R Parag           |      8 |       8 | 100.0  | c TA Boult b JJ Bumrah  |
-+-------------------+--------+---------+--------+-------------------------+
-| R Tewatia         |      0 |       3 | 0.0    | c Q de Kock b TA Boult  |
-+-------------------+--------+---------+--------+-------------------------+
-| CH Morris         |      4 |       2 | 200.0  | bowled b TA Boult       |
-+-------------------+--------+---------+--------+-------------------------+
-| JD Unadkat        |      1 |       2 | 50.0   | c RD Chahar b HH Pandya |
-+-------------------+--------+---------+--------+-------------------------+
-| C Sakariya        |      0 |       2 | 0.0    | c RD Chahar b HH Pandya |
-+-------------------+--------+---------+--------+-------------------------+
-| Mustafizur Rahman |      0 |       0 | DNB    |                         |
-+-------------------+--------+---------+--------+-------------------------+
+mi won the toss and chose to bat
+0.1 Chetan Sakariya to Quinton de Kock 4 Score: 4/0
+0.2 Chetan Sakariya to Quinton de Kock 0 Score: 4/0
+0.3 Chetan Sakariya to Quinton de Kock 2 Score: 6/0
+0.4 Chetan Sakariya to Quinton de Kock 0 Score: 6/0
+0.5 Chetan Sakariya to Quinton de Kock 1 Score: 7/0
+0.6 Chetan Sakariya to Rohit Sharma 0 Score: 7/0
+1.1 Jaydev Unadkat to Quinton de Kock 0 Score: 7/0
+1.2 Jaydev Unadkat to Quinton de Kock 5 Score: 12/0
+1.3 Jaydev Unadkat to Rohit Sharma 6 Score: 18/0
+1.4 Jaydev Unadkat to Rohit Sharma 4 Score: 22/0
+1.5 Jaydev Unadkat to Rohit Sharma 1 Score: 23/0
+1.6 Jaydev Unadkat to Quinton de Kock 4 Score: 27/0
+2.1 Chetan Sakariya to Rohit Sharma 1 Score: 28/0
+2.2 Chetan Sakariya to Quinton de Kock 4 Score: 32/0
+2.3 Chetan Sakariya to Quinton de Kock 1 Score: 33/0
+2.4 Chetan Sakariya to Rohit Sharma 2 Score: 35/0
+2.5 Chetan Sakariya to Rohit Sharma 1 Score: 36/0
+2.6 Chetan Sakariya to Quinton de Kock W Score: 36/1 Caught by Riyan Parag
+3.1 Jaydev Unadkat to Rohit Sharma 1 Score: 37/1
+3.2 Jaydev Unadkat to Ishan Kishan 1 Score: 38/1
+3.3 Jaydev Unadkat to Rohit Sharma 1 Score: 39/1
+3.4 Jaydev Unadkat to Ishan Kishan 1 Score: 40/1
+3.5 Jaydev Unadkat to Rohit Sharma 1 Score: 41/1
+3.6 Jaydev Unadkat to Ishan Kishan 4 Score: 45/1
+4.1 Mustafizur Rahman to Rohit Sharma 1 Score: 46/1
+4.2 Mustafizur Rahman to Ishan Kishan 1 Score: 47/1
+4.3 Mustafizur Rahman to Rohit Sharma 0 Score: 47/1
+4.4 Mustafizur Rahman to Rohit Sharma 0 Score: 47/1
+4.5 Mustafizur Rahman to Rohit Sharma 1 Score: 48/1
+4.6 Mustafizur Rahman to Ishan Kishan 0 Score: 48/1
+5.1 Rahul Tewatia to Rohit Sharma 0 Score: 48/1
+5.2 Rahul Tewatia to Rohit Sharma 0 Score: 48/1
+5.3 Rahul Tewatia to Rohit Sharma 2 Score: 50/1
+5.4 Rahul Tewatia to Rohit Sharma 0 Score: 50/1
+5.5 Rahul Tewatia to Rohit Sharma 0 Score: 50/1
+5.6 Rahul Tewatia to Rohit Sharma 4 Score: 54/1
+6.1 Mustafizur Rahman to Ishan Kishan 1 Score: 55/1
+6.2 Mustafizur Rahman to Rohit Sharma 0 Score: 55/1
+6.3 Mustafizur Rahman to Rohit Sharma 0 Score: 55/1
+6.4 Mustafizur Rahman to Rohit Sharma 0 Score: 55/1
+6.5 Mustafizur Rahman to Rohit Sharma 0 Score: 55/1
+6.6 Mustafizur Rahman to Rohit Sharma 2 Score: 57/1
+7.1 Rahul Tewatia to Ishan Kishan 0 Score: 57/1
+7.2 Rahul Tewatia to Ishan Kishan 1 Score: 58/1
+7.3 Rahul Tewatia to Rohit Sharma 1 Score: 59/1
+7.4 Rahul Tewatia to Ishan Kishan 6 Score: 65/1
+7.5 Rahul Tewatia to Ishan Kishan Wide Score: 66/1
+7.6 Rahul Tewatia to Ishan Kishan 1 Score: 67/1
+7.7 Rahul Tewatia to Rohit Sharma 1 Score: 68/1
+8.1 Mustafizur Rahman to Rohit Sharma 0 Score: 68/1
+8.2 Mustafizur Rahman to Rohit Sharma 0 Score: 68/1
+8.3 Mustafizur Rahman to Rohit Sharma 0 Score: 68/1
+8.4 Mustafizur Rahman to Rohit Sharma 0 Score: 68/1
+8.5 Mustafizur Rahman to Rohit Sharma 1 Score: 69/1
+8.6 Mustafizur Rahman to Ishan Kishan 0 Score: 69/1
+9.1 Rahul Tewatia to Rohit Sharma 0 Score: 69/1
+9.2 Rahul Tewatia to Rohit Sharma 1 Score: 70/1
+9.3 Rahul Tewatia to Ishan Kishan 0 Score: 70/1
+9.4 Rahul Tewatia to Ishan Kishan 2 Score: 72/1
+9.5 Rahul Tewatia to Ishan Kishan 0 Score: 72/1
+9.6 Rahul Tewatia to Ishan Kishan 0 Score: 72/1
+10.1 Riyan Parag to Rohit Sharma 1 Score: 73/1
+10.2 Riyan Parag to Ishan Kishan 6 Score: 79/1
+10.3 Riyan Parag to Ishan Kishan 0 Score: 79/1
+10.4 Riyan Parag to Ishan Kishan 1 Score: 80/1
+10.5 Riyan Parag to Rohit Sharma 6 Score: 86/1
+10.6 Riyan Parag to Rohit Sharma 6 Score: 92/1
+11.1 Rahul Tewatia to Ishan Kishan 6 Score: 98/1
+11.2 Rahul Tewatia to Ishan Kishan 0 Score: 98/1
+11.3 Rahul Tewatia to Ishan Kishan 1 Score: 99/1
+11.4 Rahul Tewatia to Rohit Sharma 0 Score: 99/1
+11.5 Rahul Tewatia to Rohit Sharma 1 Score: 100/1
+11.6 Rahul Tewatia to Ishan Kishan 0 Score: 100/1
+12.1 Riyan Parag to Rohit Sharma 6 Score: 106/1
+12.2 Riyan Parag to Rohit Sharma 0 Score: 106/1
+12.3 Riyan Parag to Rohit Sharma 2 Score: 108/1
+12.4 Riyan Parag to Rohit Sharma W Score: 108/2 Caught by Sanju Samson
+12.5 Riyan Parag to Suryakumar Yadav 0 Score: 108/2
+12.6 Riyan Parag to Suryakumar Yadav 0 Score: 108/2
+13.1 Chris Morris to Ishan Kishan 0 Score: 108/2
+13.2 Chris Morris to Ishan Kishan 1 Score: 109/2
+13.3 Chris Morris to Suryakumar Yadav 1 Score: 110/2
+13.4 Chris Morris to Ishan Kishan 4 Score: 114/2
+13.5 Chris Morris to Ishan Kishan 0 Score: 114/2
+13.6 Chris Morris to Ishan Kishan 1 Score: 115/2
+14.1 Riyan Parag to Ishan Kishan 0 Score: 115/2
+14.2 Riyan Parag to Ishan Kishan 2 Score: 117/2
+14.3 Riyan Parag to Ishan Kishan 4 Score: 121/2
+14.4 Riyan Parag to Ishan Kishan 1 Score: 122/2
+14.5 Riyan Parag to Suryakumar Yadav 2 Score: 124/2
+14.6 Riyan Parag to Suryakumar Yadav 1 Score: 125/2
+15.1 Chris Morris to Suryakumar Yadav 1 Score: 126/2
+15.2 Chris Morris to Ishan Kishan 0 Score: 126/2
+15.3 Chris Morris to Ishan Kishan 0 Score: 126/2
+15.4 Chris Morris to Ishan Kishan W Score: 126/3 Bowled
+15.5 Chris Morris to Kieron Pollard 1 Score: 127/3
+15.6 Chris Morris to Suryakumar Yadav 1 Score: 128/3
+16.1 Riyan Parag to Suryakumar Yadav 0 Score: 128/3
+16.2 Riyan Parag to Suryakumar Yadav 1 Score: 129/3
+16.3 Riyan Parag to Kieron Pollard 4 Score: 133/3
+16.4 Riyan Parag to Kieron Pollard 6 Score: 139/3
+16.5 Riyan Parag to Kieron Pollard Wide Score: 140/3
+16.6 Riyan Parag to Kieron Pollard 1 Score: 141/3
+16.7 Riyan Parag to Suryakumar Yadav 1 Score: 142/3
+17.1 Chris Morris to Suryakumar Yadav 0 Score: 142/3
+17.2 Chris Morris to Suryakumar Yadav 1 Score: 143/3
+17.3 Chris Morris to Kieron Pollard W Score: 143/4 Caught by Chris Morris
+17.4 Chris Morris to Hardik Pandya 0 Score: 143/4
+17.5 Chris Morris to Hardik Pandya 4 Score: 147/4
+17.6 Chris Morris to Hardik Pandya 6 Score: 153/4
+18.1 Mustafizur Rahman to Suryakumar Yadav 0 Score: 153/4
+18.2 Mustafizur Rahman to Suryakumar Yadav 0 Score: 153/4
+18.3 Mustafizur Rahman to Suryakumar Yadav 0 Score: 153/4
+18.4 Mustafizur Rahman to Suryakumar Yadav 4 Score: 157/4
+18.5 Mustafizur Rahman to Suryakumar Yadav 1 Score: 158/4
+18.6 Mustafizur Rahman to Hardik Pandya 0 Score: 158/4
+19.1 Chris Morris to Suryakumar Yadav 1 Score: 159/4
+19.2 Chris Morris to Hardik Pandya 1 Score: 160/4
+19.3 Chris Morris to Suryakumar Yadav 0 Score: 160/4
+19.4 Chris Morris to Suryakumar Yadav 2 Score: 162/4
+19.5 Chris Morris to Suryakumar Yadav 0 Score: 162/4
+19.6 Chris Morris to Suryakumar Yadav 1 Score: 163/4
++--------------+--------+---------+--------+-------------------------+
+| Player       |   Runs |   Balls | SR     | Out                     |
++==============+========+=========+========+=========================+
+| Q de Kock    |     21 |      11 | 190.91 | c R Parag b C Sakariya  |
++--------------+--------+---------+--------+-------------------------+
+| RG Sharma    |     54 |      43 | 125.58 | c SV Samson b R Parag   |
++--------------+--------+---------+--------+-------------------------+
+| SA Yadav     |     18 |      22 | 81.82  | Not out                 |
++--------------+--------+---------+--------+-------------------------+
+| Ishan Kishan |     45 |      34 | 132.35 | bowled b CH Morris      |
++--------------+--------+---------+--------+-------------------------+
+| KA Pollard   |     12 |       5 | 240.0  | c CH Morris b CH Morris |
++--------------+--------+---------+--------+-------------------------+
+| HH Pandya    |     11 |       5 | 220.0  | Not out                 |
++--------------+--------+---------+--------+-------------------------+
+| KH Pandya    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| J Yadav      |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| RD Chahar    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| JJ Bumrah    |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
+| TA Boult     |      0 |       0 | DNB    |                         |
++--------------+--------+---------+--------+-------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| JC Buttler        |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| M Vohra           |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| SV Samson         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| S Dube            |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| DA Miller         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| R Parag           |     52 |       4 |         1 | 13.0  |
++-------------------+--------+---------+-----------+-------+
+| R Tewatia         |     28 |       4 |         0 | 7.0   |
++-------------------+--------+---------+-----------+-------+
+| CH Morris         |     26 |       4 |         2 | 6.5   |
++-------------------+--------+---------+-----------+-------+
+| JD Unadkat        |     29 |       2 |         0 | 14.5  |
++-------------------+--------+---------+-----------+-------+
+| C Sakariya        |     16 |       2 |         1 | 8.0   |
++-------------------+--------+---------+-----------+-------+
+| Mustafizur Rahman |     12 |       4 |         0 | 3.0   |
++-------------------+--------+---------+-----------+-------+
+0.1 Trent Boult to Manan Vohra 2 Score: 2/0
+0.2 Trent Boult to Manan Vohra 1 Score: 3/0
+0.3 Trent Boult to Sanju Samson 1 Score: 4/0
+0.4 Trent Boult to Manan Vohra 0 Score: 4/0
+0.5 Trent Boult to Manan Vohra 0 Score: 4/0
+0.6 Trent Boult to Manan Vohra Wide Score: 5/0
+0.7 Trent Boult to Manan Vohra 2 Score: 7/0
+1.1 Jayant Yadav to Sanju Samson 4 Score: 11/0
+1.2 Jayant Yadav to Sanju Samson 1 Score: 12/0
+1.3 Jayant Yadav to Manan Vohra 1 Score: 13/0
+1.4 Jayant Yadav to Sanju Samson 4 Score: 17/0
+1.5 Jayant Yadav to Sanju Samson 1 Score: 18/0
+1.6 Jayant Yadav to Manan Vohra 4 Score: 22/0
+2.1 Trent Boult to Sanju Samson 1 Score: 23/0
+2.2 Trent Boult to Manan Vohra 0 Score: 23/0
+2.3 Trent Boult to Manan Vohra 1 Score: 24/0
+2.4 Trent Boult to Sanju Samson 1 Score: 25/0
+2.5 Trent Boult to Manan Vohra 0 Score: 25/0
+2.6 Trent Boult to Manan Vohra 4 Score: 29/0
+3.1 Jasprit Bumrah to Sanju Samson 1 Score: 30/0
+3.2 Jasprit Bumrah to Manan Vohra 1 Score: 31/0
+3.3 Jasprit Bumrah to Sanju Samson 1 Score: 32/0
+3.4 Jasprit Bumrah to Manan Vohra 1 Score: 33/0
+3.5 Jasprit Bumrah to Sanju Samson 1 Score: 34/0
+3.6 Jasprit Bumrah to Manan Vohra 0 Score: 34/0
+4.1 Jayant Yadav to Sanju Samson 4 Score: 38/0
+4.2 Jayant Yadav to Sanju Samson 0 Score: 38/0
+4.3 Jayant Yadav to Sanju Samson 0 Score: 38/0
+4.4 Jayant Yadav to Sanju Samson 4 Score: 42/0
+4.5 Jayant Yadav to Sanju Samson 0 Score: 42/0
+4.6 Jayant Yadav to Sanju Samson 0 Score: 42/0
+5.1 Jasprit Bumrah to Manan Vohra 1 Score: 43/0
+5.2 Jasprit Bumrah to Sanju Samson 0 Score: 43/0
+5.3 Jasprit Bumrah to Sanju Samson 1 Score: 44/0
+5.4 Jasprit Bumrah to Manan Vohra 1 Score: 45/0
+5.5 Jasprit Bumrah to Sanju Samson 4 Score: 49/0
+5.6 Jasprit Bumrah to Sanju Samson 0 Score: 49/0
+6.1 Jayant Yadav to Manan Vohra 4 Score: 53/0
+6.2 Jayant Yadav to Manan Vohra 4 Score: 57/0
+6.3 Jayant Yadav to Manan Vohra 0 Score: 57/0
+6.4 Jayant Yadav to Manan Vohra 0 Score: 57/0
+6.5 Jayant Yadav to Manan Vohra 0 Score: 57/0
+6.6 Jayant Yadav to Manan Vohra 4 Score: 61/0
+7.1 Jasprit Bumrah to Sanju Samson 2 Score: 63/0
+7.2 Jasprit Bumrah to Sanju Samson 1 Score: 64/0
+7.3 Jasprit Bumrah to Manan Vohra 2 Score: 66/0
+7.4 Jasprit Bumrah to Manan Vohra 1 Score: 67/0
+7.5 Jasprit Bumrah to Sanju Samson 0 Score: 67/0
+7.6 Jasprit Bumrah to Sanju Samson 0 Score: 67/0
+8.1 Jayant Yadav to Manan Vohra 6 Score: 73/0
+8.2 Jayant Yadav to Manan Vohra 2 Score: 75/0
+8.3 Jayant Yadav to Manan Vohra 1 Score: 76/0
+8.4 Jayant Yadav to Sanju Samson 4 Score: 80/0
+8.5 Jayant Yadav to Sanju Samson 0 Score: 80/0
+8.6 Jayant Yadav to Sanju Samson 1 Score: 81/0
+9.1 Rahul Chahar to Sanju Samson 1 Score: 82/0
+9.2 Rahul Chahar to Manan Vohra 2 Score: 84/0
+9.3 Rahul Chahar to Manan Vohra 1 Score: 85/0
+9.4 Rahul Chahar to Sanju Samson 0 Score: 85/0
+9.5 Rahul Chahar to Sanju Samson 0 Score: 85/0
+9.6 Rahul Chahar to Sanju Samson 1 Score: 86/0
+10.1 Krunal Pandya to Sanju Samson 0 Score: 86/0
+10.2 Krunal Pandya to Sanju Samson 2 Score: 88/0
+10.3 Krunal Pandya to Sanju Samson 0 Score: 88/0
+10.4 Krunal Pandya to Sanju Samson 6 Score: 94/0
+10.5 Krunal Pandya to Sanju Samson 1 Score: 95/0
+10.6 Krunal Pandya to Manan Vohra 1 Score: 96/0
+11.1 Rahul Chahar to Manan Vohra 1 Score: 97/0
+11.2 Rahul Chahar to Sanju Samson 1 Score: 98/0
+11.3 Rahul Chahar to Manan Vohra 1 Score: 99/0
+11.4 Rahul Chahar to Sanju Samson 1 Score: 100/0
+11.5 Rahul Chahar to Manan Vohra 0 Score: 100/0
+11.6 Rahul Chahar to Manan Vohra 0 Score: 100/0
+12.1 Krunal Pandya to Sanju Samson 1 Score: 101/0
+12.2 Krunal Pandya to Manan Vohra 1 Score: 102/0
+12.3 Krunal Pandya to Sanju Samson 1 Score: 103/0
+12.4 Krunal Pandya to Manan Vohra 4 Score: 107/0
+12.5 Krunal Pandya to Manan Vohra 1 Score: 108/0
+12.6 Krunal Pandya to Sanju Samson 6 Score: 114/0
+13.1 Rahul Chahar to Manan Vohra 0 Score: 114/0
+13.2 Rahul Chahar to Manan Vohra 4 Score: 118/0
+13.3 Rahul Chahar to Manan Vohra Wide Score: 119/0
+13.4 Rahul Chahar to Manan Vohra 1 Score: 120/0
+13.5 Rahul Chahar to Sanju Samson 1 Score: 121/0
+13.6 Rahul Chahar to Manan Vohra 1 Score: 122/0
+13.7 Rahul Chahar to Sanju Samson 1 Score: 123/0
+14.1 Krunal Pandya to Sanju Samson 4 Score: 127/0
+14.2 Krunal Pandya to Sanju Samson 1 Score: 128/0
+14.3 Krunal Pandya to Manan Vohra 6 Score: 134/0
+14.4 Krunal Pandya to Manan Vohra 0 Score: 134/0
+14.5 Krunal Pandya to Manan Vohra 0 Score: 134/0
+14.6 Krunal Pandya to Manan Vohra 0 Score: 134/0
+15.1 Rahul Chahar to Sanju Samson 1 Score: 135/0
+15.2 Rahul Chahar to Manan Vohra 0 Score: 135/0
+15.3 Rahul Chahar to Manan Vohra 0 Score: 135/0
+15.4 Rahul Chahar to Manan Vohra 1 Score: 136/0
+15.5 Rahul Chahar to Sanju Samson 1 Score: 137/0
+15.6 Rahul Chahar to Manan Vohra 0 Score: 137/0
+16.1 Krunal Pandya to Sanju Samson 1 Score: 138/0
+16.2 Krunal Pandya to Manan Vohra 2 Score: 140/0
+16.3 Krunal Pandya to Manan Vohra W Score: 140/1 Caught by Trent Boult
+16.4 Krunal Pandya to Jos Buttler 1 Score: 141/1
+16.5 Krunal Pandya to Sanju Samson 0 Score: 141/1
+16.6 Krunal Pandya to Sanju Samson 1 Score: 142/1
+17.1 Jasprit Bumrah to Sanju Samson 0 Score: 142/1
+17.2 Jasprit Bumrah to Sanju Samson 6 Score: 148/1
+17.3 Jasprit Bumrah to Sanju Samson 0 Score: 148/1
+17.4 Jasprit Bumrah to Sanju Samson 6 Score: 154/1
+17.5 Jasprit Bumrah to Sanju Samson 2 Score: 156/1
+17.6 Jasprit Bumrah to Sanju Samson 0 Score: 156/1
+18.1 Trent Boult to Jos Buttler 6 Score: 162/1
+18.2 Trent Boult to Jos Buttler W Score: 162/2 Caught by Quinton de Kock
+18.3 Trent Boult to David Miller 2 Score: 164/2
+rr won by 8 wickets
++-------------------+--------+---------+--------+------------------------+
+| Player            |   Runs |   Balls | SR     | Out                    |
++===================+========+=========+========+========================+
+| JC Buttler        |      7 |       3 | 233.33 | c Q de Kock b TA Boult |
++-------------------+--------+---------+--------+------------------------+
+| M Vohra           |     70 |      51 | 137.25 | c TA Boult b KH Pandya |
++-------------------+--------+---------+--------+------------------------+
+| SV Samson         |     83 |      56 | 148.21 | Not out                |
++-------------------+--------+---------+--------+------------------------+
+| S Dube            |      0 |       0 | DNB    |                        |
++-------------------+--------+---------+--------+------------------------+
+| DA Miller         |      2 |       1 | 200.0  | Not out                |
++-------------------+--------+---------+--------+------------------------+
+| R Parag           |      0 |       0 | DNB    |                        |
++-------------------+--------+---------+--------+------------------------+
+| R Tewatia         |      0 |       0 | DNB    |                        |
++-------------------+--------+---------+--------+------------------------+
+| CH Morris         |      0 |       0 | DNB    |                        |
++-------------------+--------+---------+--------+------------------------+
+| JD Unadkat        |      0 |       0 | DNB    |                        |
++-------------------+--------+---------+--------+------------------------+
+| C Sakariya        |      0 |       0 | DNB    |                        |
++-------------------+--------+---------+--------+------------------------+
+| Mustafizur Rahman |      0 |       0 | DNB    |                        |
++-------------------+--------+---------+--------+------------------------+
 +--------------+--------+---------+-----------+-------+
 | Player       |   Runs |   Overs |   Wickets | Eco   |
 +==============+========+=========+===========+=======+
@@ -157,192 +324,15 @@ ALL OUT
 +--------------+--------+---------+-----------+-------+
 | KA Pollard   |      0 |     0   |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| HH Pandya    |      0 |     0.3 |         2 | 0.0   |
+| HH Pandya    |      0 |     0   |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| KH Pandya    |     33 |     4   |         1 | 8.25  |
+| KH Pandya    |     40 |     4   |         1 | 10.0  |
 +--------------+--------+---------+-----------+-------+
-| J Yadav      |     21 |     4   |         1 | 5.25  |
+| J Yadav      |     49 |     4   |         0 | 12.25 |
 +--------------+--------+---------+-----------+-------+
-| RD Chahar    |     29 |     4   |         0 | 7.25  |
+| RD Chahar    |     21 |     4   |         0 | 5.25  |
 +--------------+--------+---------+-----------+-------+
-| JJ Bumrah    |     17 |     4   |         2 | 4.25  |
+| JJ Bumrah    |     32 |     4   |         0 | 8.0   |
 +--------------+--------+---------+-----------+-------+
-| TA Boult     |     25 |     3   |         4 | 8.33  |
+| TA Boult     |     22 |     2.3 |         1 | 8.8   |
 +--------------+--------+---------+-----------+-------+
-0.1 Chetan Sakariya to Quinton de Kock Wide Score: 1/0
-0.2 Chetan Sakariya to Quinton de Kock 2 Score: 3/0
-0.3 Chetan Sakariya to Quinton de Kock 1 Score: 4/0
-0.4 Chetan Sakariya to Rohit Sharma 1 Score: 5/0
-0.5 Chetan Sakariya to Quinton de Kock 1 Score: 6/0
-0.6 Chetan Sakariya to Rohit Sharma 0 Score: 6/0
-0.7 Chetan Sakariya to Rohit Sharma 1 Score: 7/0
-1.1 Jaydev Unadkat to Rohit Sharma 1 Score: 8/0
-1.2 Jaydev Unadkat to Quinton de Kock 0 Score: 8/0
-1.3 Jaydev Unadkat to Quinton de Kock 0 Score: 8/0
-1.4 Jaydev Unadkat to Quinton de Kock 4 Score: 12/0
-1.5 Jaydev Unadkat to Quinton de Kock 2 Score: 14/0
-1.6 Jaydev Unadkat to Quinton de Kock 1 Score: 15/0
-2.1 Chetan Sakariya to Quinton de Kock Wide Score: 16/0
-2.2 Chetan Sakariya to Quinton de Kock 1 Score: 17/0
-2.3 Chetan Sakariya to Rohit Sharma 1 Score: 18/0
-2.4 Chetan Sakariya to Quinton de Kock 1 Score: 19/0
-2.5 Chetan Sakariya to Rohit Sharma 0 Score: 19/0
-2.6 Chetan Sakariya to Rohit Sharma 2 Score: 21/0
-2.7 Chetan Sakariya to Rohit Sharma 0 Score: 21/0
-3.1 Jaydev Unadkat to Quinton de Kock 1 Score: 22/0
-3.2 Jaydev Unadkat to Rohit Sharma 0 Score: 22/0
-3.3 Jaydev Unadkat to Rohit Sharma 1 Score: 23/0
-3.4 Jaydev Unadkat to Quinton de Kock 0 Score: 23/0
-3.5 Jaydev Unadkat to Quinton de Kock 0 Score: 23/0
-3.6 Jaydev Unadkat to Quinton de Kock 0 Score: 23/0
-4.1 Chris Morris to Rohit Sharma 0 Score: 23/0
-4.2 Chris Morris to Rohit Sharma 1 Score: 24/0
-4.3 Chris Morris to Quinton de Kock Wide Score: 25/0
-4.4 Chris Morris to Quinton de Kock 0 Score: 25/0
-4.5 Chris Morris to Quinton de Kock 1 Score: 26/0
-4.6 Chris Morris to Rohit Sharma 0 Score: 26/0
-4.7 Chris Morris to Rohit Sharma 0 Score: 26/0
-5.1 Rahul Tewatia to Quinton de Kock 1 Score: 27/0
-5.2 Rahul Tewatia to Rohit Sharma 0 Score: 27/0
-5.3 Rahul Tewatia to Rohit Sharma 0 Score: 27/0
-5.4 Rahul Tewatia to Rohit Sharma 1 Score: 28/0
-5.5 Rahul Tewatia to Quinton de Kock 2 Score: 30/0
-5.6 Rahul Tewatia to Quinton de Kock Wide Score: 31/0
-5.7 Rahul Tewatia to Quinton de Kock 1 Score: 32/0
-6.1 Chris Morris to Quinton de Kock 1 Score: 33/0
-6.2 Chris Morris to Rohit Sharma 2 Score: 35/0
-6.3 Chris Morris to Rohit Sharma Wide Score: 36/0
-6.4 Chris Morris to Rohit Sharma 1 Score: 37/0
-6.5 Chris Morris to Quinton de Kock 4 Score: 41/0
-6.6 Chris Morris to Quinton de Kock 0 Score: 41/0
-6.7 Chris Morris to Quinton de Kock 0 Score: 41/0
-7.1 Rahul Tewatia to Rohit Sharma 4 Score: 45/0
-7.2 Rahul Tewatia to Rohit Sharma 1 Score: 46/0
-7.3 Rahul Tewatia to Quinton de Kock 0 Score: 46/0
-7.4 Rahul Tewatia to Quinton de Kock 1 Score: 47/0
-7.5 Rahul Tewatia to Rohit Sharma 1 Score: 48/0
-7.6 Rahul Tewatia to Quinton de Kock 1 Score: 49/0
-8.1 Chris Morris to Quinton de Kock 0 Score: 49/0
-8.2 Chris Morris to Quinton de Kock 0 Score: 49/0
-8.3 Chris Morris to Quinton de Kock 0 Score: 49/0
-8.4 Chris Morris to Quinton de Kock 1 Score: 50/0
-8.5 Chris Morris to Rohit Sharma 1 Score: 51/0
-8.6 Chris Morris to Quinton de Kock 1 Score: 52/0
-9.1 Rahul Tewatia to Quinton de Kock 1 Score: 53/0
-9.2 Rahul Tewatia to Rohit Sharma W Score: 55/1 Run Out!
-9.3 Rahul Tewatia to Ishan Kishan 0 Score: 55/1
-9.4 Rahul Tewatia to Ishan Kishan 4 Score: 59/1
-9.5 Rahul Tewatia to Ishan Kishan 1 Score: 60/1
-9.6 Rahul Tewatia to Quinton de Kock 0 Score: 60/1
-10.1 Riyan Parag to Ishan Kishan 4 Score: 64/1
-10.2 Riyan Parag to Ishan Kishan 1 Score: 65/1
-10.3 Riyan Parag to Quinton de Kock 4 Score: 69/1
-10.4 Riyan Parag to Quinton de Kock 0 Score: 69/1
-10.5 Riyan Parag to Quinton de Kock 0 Score: 69/1
-10.6 Riyan Parag to Quinton de Kock 0 Score: 69/1
-11.1 Rahul Tewatia to Ishan Kishan 0 Score: 69/1
-11.2 Rahul Tewatia to Ishan Kishan 0 Score: 69/1
-11.3 Rahul Tewatia to Ishan Kishan 1 Score: 70/1
-11.4 Rahul Tewatia to Quinton de Kock 0 Score: 70/1
-11.5 Rahul Tewatia to Quinton de Kock 0 Score: 70/1
-11.6 Rahul Tewatia to Quinton de Kock 1 Score: 71/1
-12.1 Riyan Parag to Quinton de Kock 0 Score: 71/1
-12.2 Riyan Parag to Quinton de Kock 1 Score: 72/1
-12.3 Riyan Parag to Ishan Kishan 0 Score: 72/1
-12.4 Riyan Parag to Ishan Kishan 0 Score: 72/1
-12.5 Riyan Parag to Ishan Kishan 0 Score: 72/1
-12.6 Riyan Parag to Ishan Kishan 1 Score: 73/1
-13.1 Chris Morris to Ishan Kishan 0 Score: 73/1
-13.2 Chris Morris to Ishan Kishan 1 Score: 74/1
-13.3 Chris Morris to Quinton de Kock Wide Score: 75/1
-13.4 Chris Morris to Quinton de Kock 1 Score: 76/1
-13.5 Chris Morris to Ishan Kishan 1 Score: 77/1
-13.6 Chris Morris to Quinton de Kock 1 Score: 78/1
-13.7 Chris Morris to Ishan Kishan 0 Score: 78/1
-14.1 Riyan Parag to Quinton de Kock 0 Score: 78/1
-14.2 Riyan Parag to Quinton de Kock 1 Score: 79/1
-14.3 Riyan Parag to Ishan Kishan 0 Score: 79/1
-14.4 Riyan Parag to Ishan Kishan 0 Score: 79/1
-14.5 Riyan Parag to Ishan Kishan 0 Score: 79/1
-14.6 Riyan Parag to Ishan Kishan 0 Score: 79/1
-15.1 David Miller to Quinton de Kock 0 Score: 79/1
-15.2 David Miller to Quinton de Kock 0 Score: 79/1
-15.3 David Miller to Quinton de Kock 0 Score: 79/1
-15.4 David Miller to Quinton de Kock 1 Score: 80/1
-15.5 David Miller to Ishan Kishan 1 Score: 81/1
-15.6 David Miller to Quinton de Kock 6 Score: 87/1
-16.1 Riyan Parag to Ishan Kishan W Score: 87/2 Run Out!
-16.2 Riyan Parag to Suryakumar Yadav 1 Score: 88/2
-16.3 Riyan Parag to Quinton de Kock 0 Score: 88/2
-16.4 Riyan Parag to Quinton de Kock W Score: 88/3 Caught by Rahul Tewatia
-16.5 Riyan Parag to Kieron Pollard 0 Score: 88/3
-16.6 Riyan Parag to Kieron Pollard 0 Score: 88/3
-17.1 Mustafizur Rahman to Suryakumar Yadav 1 Score: 89/3
-17.2 Mustafizur Rahman to Kieron Pollard 2 Score: 91/3
-17.3 Mustafizur Rahman to Kieron Pollard 0 Score: 91/3
-17.4 Mustafizur Rahman to Kieron Pollard 4 Score: 95/3
-17.5 Mustafizur Rahman to Kieron Pollard 6 Score: 101/3
-17.6 Mustafizur Rahman to Kieron Pollard 0 Score: 101/3
-18.1 Jaydev Unadkat to Suryakumar Yadav 1 Score: 102/3
-18.2 Jaydev Unadkat to Kieron Pollard 1 Score: 103/3
-18.3 Jaydev Unadkat to Suryakumar Yadav 1 Score: 104/3
-18.4 Jaydev Unadkat to Kieron Pollard 1 Score: 105/3
-18.5 Jaydev Unadkat to Suryakumar Yadav 4 Score: 109/3
-18.6 Jaydev Unadkat to Suryakumar Yadav 0 Score: 109/3
-19.1 Mustafizur Rahman to Kieron Pollard 1 Score: 110/3
-19.2 Mustafizur Rahman to Suryakumar Yadav 0 Score: 110/3
-19.3 Mustafizur Rahman to Suryakumar Yadav 4 Score: 114/3
-19.4 Mustafizur Rahman to Suryakumar Yadav 4 Score: 118/3
-19.5 Mustafizur Rahman to Suryakumar Yadav 4 Score: 122/3
-19.6 Mustafizur Rahman to Suryakumar Yadav 0 Score: 122/3
-rr won by 3 runs
-+--------------+--------+---------+--------+-----------------------+
-| Player       |   Runs |   Balls | SR     | Out                   |
-+==============+========+=========+========+=======================+
-| Q de Kock    |     45 |      53 | 84.91  | c R Tewatia b R Parag |
-+--------------+--------+---------+--------+-----------------------+
-| RG Sharma    |     21 |      24 | 87.5   | Not out               |
-+--------------+--------+---------+--------+-----------------------+
-| SA Yadav     |     20 |      11 | 181.82 | Not out               |
-+--------------+--------+---------+--------+-----------------------+
-| Ishan Kishan |     15 |      22 | 68.18  | Not out               |
-+--------------+--------+---------+--------+-----------------------+
-| KA Pollard   |     15 |      10 | 150.0  | Not out               |
-+--------------+--------+---------+--------+-----------------------+
-| HH Pandya    |      0 |       0 | DNB    |                       |
-+--------------+--------+---------+--------+-----------------------+
-| KH Pandya    |      0 |       0 | DNB    |                       |
-+--------------+--------+---------+--------+-----------------------+
-| J Yadav      |      0 |       0 | DNB    |                       |
-+--------------+--------+---------+--------+-----------------------+
-| RD Chahar    |      0 |       0 | DNB    |                       |
-+--------------+--------+---------+--------+-----------------------+
-| JJ Bumrah    |      0 |       0 | DNB    |                       |
-+--------------+--------+---------+--------+-----------------------+
-| TA Boult     |      0 |       0 | DNB    |                       |
-+--------------+--------+---------+--------+-----------------------+
-+-------------------+--------+---------+-----------+-------+
-| Player            |   Runs |   Overs |   Wickets | Eco   |
-+===================+========+=========+===========+=======+
-| JC Buttler        |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| M Vohra           |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| SV Samson         |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| S Dube            |      0 |       0 |         0 | NA    |
-+-------------------+--------+---------+-----------+-------+
-| DA Miller         |      8 |       1 |         0 | 8.0   |
-+-------------------+--------+---------+-----------+-------+
-| R Parag           |     13 |       4 |         1 | 3.25  |
-+-------------------+--------+---------+-----------+-------+
-| R Tewatia         |     24 |       4 |         0 | 6.0   |
-+-------------------+--------+---------+-----------+-------+
-| CH Morris         |     20 |       4 |         0 | 5.0   |
-+-------------------+--------+---------+-----------+-------+
-| JD Unadkat        |     18 |       3 |         0 | 6.0   |
-+-------------------+--------+---------+-----------+-------+
-| C Sakariya        |     13 |       2 |         0 | 6.5   |
-+-------------------+--------+---------+-----------+-------+
-| Mustafizur Rahman |     26 |       2 |         0 | 13.0  |
-+-------------------+--------+---------+-----------+-------+

@@ -63,7 +63,7 @@ import json
 #Player analysis by phases
 from tabulate import tabulate
 
-target = 1
+target = 1 
 
 innings1Batting = None
 innings1Bowling = None
@@ -274,12 +274,20 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             obj[keys] = avg
         i['overNumbersObject'] = obj
 
+    bowling = sorted(bowling, key=lambda k: k['bowlOutsRate'])
+    bowling.reverse()
+    bowling = bowling[0:6]
+
     bowlingOpening = sorted(bowling, key=lambda k: k['overNumbersObject']['1'])
     bowlingOpening.reverse()
+    bowlingOpening[0:4]
     bowlingDeath = sorted(bowling, key=lambda k: k['overNumbersObject']['19'])
     bowlingDeath.reverse()
+    bowlingDeath[0:4]
     bowlingMiddle = sorted(bowling, key=lambda k: k['overNumbersObject']['10'])
     bowlingMiddle.reverse()
+    bowlingMiddle[0:4]
+
     batter1 = battingOrder[0]
     batter2 = battingOrder[1]
     onStrike = batter1
@@ -1898,7 +1906,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 if(bowlerDict['balls'] > 11 or (bowlerDict['runs'] / bowlerDict['balls']) > 1.7):
                     if(bowlerDict['balls'] > 11 or (bowlerDict['wickets'] / bowlerDict['balls']) < 0.091):
                         valid = False #continue this
-                        localBowling = sorted(bowling, key=lambda k: k['overNumbersObject'][str(i)])
+                        localBowling = sorted(bowling, key=lambda k: k['overNumbersObject'][str(i)])     
                         localBowling.reverse()
                         while(not valid):
                             pick = localBowling[random.randint(0,3)]
