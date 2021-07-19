@@ -15,15 +15,33 @@ import json
 #If RRR is low in the last 10, team may falter, fix it
 #designate 6 bowlers and bowl them in a shuffled
 #see for localBattingOrder
+
 #K Williamson bowling
+
+#TRANSLATE RATING TO DEN AVG, OUT AVG, ETC.
+
+#BIPUL SHARMA - OVERPOWERED AND SO ->
+# - 1. MAKE SURE PLAYER HAS PLAYED X NUMBER OF GAMES OR ELSE DRIVE DOWN HIS RATINGS (such as avgs, dens, etc.) (!!!IMPORTANT)
+# - 2. DO FOR BOTH BATTING & BOWLING SEPARATELY
+#BAD PLAYERS GETTING GOOD SCORES DURING CHASE, SEE TO THAT (RELATED TO PREV ONE, REDUCE PLAYERS
+# WHO HAVE PLAYED A FEW GAMES' 6s, 4s, RATE AND INCREASE OUT AVG AND 0s, 1s)
+#CHECK IF PLAYER HAS PLAYED LESS THAN X NUMBER OF BALLS, OR BOWLED LESS THAN X NUMBER OF BALLS
+#IF BAT RUNS 0, OR VERY LOW, CREATE FILLER WHICH IS VERY BAD FOR BATTING (highs 0s,1s, outavg, low 4s, 6s: see other
+#tail-enders for reference)
+
 #Triple not out
 #not many 100s
 #12-over rule
 #too many dots (increase 1s & 2s, reduce 0s)
 #too many all-outs
+
 #Last 10 overs both innings very slow even when 1-2 wickets fall (too many wickets fall)
 #weigh economy more, if eco is like 6 or 7, then bowl over a player with 1 wicket but 9 economy
-#12-17 over increase rate (1st inning)
+#dont drag game too long if rrr < 9 in last 3-4 overs
+
+#IMP
+#12-17 over increase rate (1st innings) & (2nd innings too)
+#Wickets (140s scores with 3 wickets in 1st innings - fix it (apply 2nd inn logic))
 
 #FEATURES
 #Commentary
@@ -45,7 +63,7 @@ import json
 #Player analysis by phases
 from tabulate import tabulate
 
-target = 1
+target = 1 
 
 innings1Batting = None
 innings1Bowling = None
@@ -256,12 +274,20 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             obj[keys] = avg
         i['overNumbersObject'] = obj
 
+    bowling = sorted(bowling, key=lambda k: k['bowlOutsRate'])
+    bowling.reverse()
+    bowling = bowling[0:7]
+
     bowlingOpening = sorted(bowling, key=lambda k: k['overNumbersObject']['1'])
     bowlingOpening.reverse()
+    bowlingOpening[0:7]
     bowlingDeath = sorted(bowling, key=lambda k: k['overNumbersObject']['19'])
     bowlingDeath.reverse()
+    bowlingDeath[0:7]
     bowlingMiddle = sorted(bowling, key=lambda k: k['overNumbersObject']['10'])
     bowlingMiddle.reverse()
+    bowlingMiddle[0:7]
+
     batter1 = battingOrder[0]
     batter2 = battingOrder[1]
     onStrike = batter1
@@ -887,8 +913,8 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                                 bowlerToReturn = pick
                                                 valid = True
                                 loopIndex += 1
-                                if(loopIndex >= 10):
-                                    for i2 in range(10):
+                                if(loopIndex >= 6):
+                                    for i2 in range(7):
                                         picked_ = bowlingMiddle[i2]
                                         picked_info = bowlerTracker[picked_['playerInitials']]
                                         if(not inDeathBowlers(picked_) and picked_['playerInitials'] != lastOver):
@@ -938,8 +964,8 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                                     bowlerToReturn = pick
                                                     valid = True
                                     loopIndex += 1
-                                    if(loopIndex >= 10):
-                                        for i2 in range(10):
+                                    if(loopIndex >= 6):
+                                        for i2 in range(7):
                                             picked_ = bowlingMiddle[i2]
                                             picked_info = bowlerTracker[picked_['playerInitials']]
                                             if(not inDeathBowlers(picked_) and picked_['playerInitials'] != lastOver):
@@ -1210,12 +1236,20 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             obj[keys] = avg
         i['overNumbersObject'] = obj
 
+    bowling = sorted(bowling, key=lambda k: k['bowlOutsRate'])
+    bowling.reverse()
+    bowling = bowling[0:7]
+
     bowlingOpening = sorted(bowling, key=lambda k: k['overNumbersObject']['1'])
     bowlingOpening.reverse()
+    bowlingOpening[0:7]
     bowlingDeath = sorted(bowling, key=lambda k: k['overNumbersObject']['19'])
     bowlingDeath.reverse()
+    bowlingDeath[0:7]
     bowlingMiddle = sorted(bowling, key=lambda k: k['overNumbersObject']['10'])
     bowlingMiddle.reverse()
+    bowlingMiddle[0:7]
+
     batter1 = battingOrder[0]
     batter2 = battingOrder[1]
     onStrike = batter1
@@ -1880,7 +1914,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                 if(bowlerDict['balls'] > 11 or (bowlerDict['runs'] / bowlerDict['balls']) > 1.7):
                     if(bowlerDict['balls'] > 11 or (bowlerDict['wickets'] / bowlerDict['balls']) < 0.091):
                         valid = False #continue this
-                        localBowling = sorted(bowling, key=lambda k: k['overNumbersObject'][str(i)])
+                        localBowling = sorted(bowling, key=lambda k: k['overNumbersObject'][str(i)])     
                         localBowling.reverse()
                         while(not valid):
                             pick = localBowling[random.randint(0,3)]
@@ -1971,8 +2005,8 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                                 bowlerToReturn = pick
                                                 valid = True
                                 loopIndex += 1
-                                if(loopIndex >= 10):
-                                    for i2 in range(10):
+                                if(loopIndex >= 6):
+                                    for i2 in range(7):
                                         picked_ = bowlingMiddle[i2]
                                         picked_info = bowlerTracker[picked_['playerInitials']]
                                         if(not inDeathBowlers(picked_) and picked_['playerInitials'] != lastOver):
@@ -2022,8 +2056,8 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                                     bowlerToReturn = pick
                                                     valid = True
                                     loopIndex += 1
-                                    if(loopIndex >= 10):
-                                        for i2 in range(10):
+                                    if(loopIndex >= 6):
+                                        for i2 in range(7):
                                             picked_ = bowlingMiddle[i2]
                                             picked_info = bowlerTracker[picked_['playerInitials']]
                                             if(not inDeathBowlers(picked_) and picked_['playerInitials'] != lastOver):

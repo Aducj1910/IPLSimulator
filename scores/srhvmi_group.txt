@@ -1,155 +1,155 @@
 ['David Warner', 'Jonny Bairstow', 'Kane Williamson', 'Manish Pandey', 'Kedar Jadhav', 'Abhishek Sharma', 'Rashid Khan', 'Vijay Shankar', 'Jagadeesha Suchith', 'Bhuvneshwar Kumar', 'Khaleel Ahmed']
-mi won the toss and chose to field
-0.1 Trent Boult to David Warner 4 Score: 4/0
-0.2 Trent Boult to David Warner 1 Score: 5/0
-0.3 Trent Boult to Jonny Bairstow 0 Score: 5/0
-0.4 Trent Boult to Jonny Bairstow 0 Score: 5/0
-0.5 Trent Boult to Jonny Bairstow 4 Score: 9/0
-0.6 Trent Boult to Jonny Bairstow 4 Score: 13/0
-1.1 Jayant Yadav to David Warner 2 Score: 15/0
-1.2 Jayant Yadav to David Warner 0 Score: 15/0
-1.3 Jayant Yadav to David Warner 0 Score: 15/0
-1.4 Jayant Yadav to David Warner 4 Score: 19/0
-1.5 Jayant Yadav to David Warner 0 Score: 19/0
-1.6 Jayant Yadav to David Warner 1 Score: 20/0
-2.1 Krunal Pandya to David Warner 4 Score: 24/0
-2.2 Krunal Pandya to David Warner 1 Score: 25/0
-2.3 Krunal Pandya to Jonny Bairstow 0 Score: 25/0
-2.4 Krunal Pandya to Jonny Bairstow 0 Score: 25/0
-2.5 Krunal Pandya to Jonny Bairstow 0 Score: 25/0
-2.6 Krunal Pandya to Jonny Bairstow 1 Score: 26/0
-3.1 Jayant Yadav to Jonny Bairstow 1 Score: 27/0
-3.2 Jayant Yadav to David Warner 0 Score: 27/0
-3.3 Jayant Yadav to David Warner 0 Score: 27/0
-3.4 Jayant Yadav to David Warner 0 Score: 27/0
-3.5 Jayant Yadav to David Warner 2 Score: 29/0
-3.6 Jayant Yadav to David Warner 6 Score: 35/0
-4.1 Krunal Pandya to Jonny Bairstow 1 Score: 36/0
-4.2 Krunal Pandya to David Warner 1 Score: 37/0
-4.3 Krunal Pandya to Jonny Bairstow 1 Score: 38/0
-4.4 Krunal Pandya to David Warner 1 Score: 39/0
-4.5 Krunal Pandya to Jonny Bairstow 0 Score: 39/0
-4.6 Krunal Pandya to Jonny Bairstow 6 Score: 45/0
-5.1 Trent Boult to David Warner 4 Score: 49/0
-5.2 Trent Boult to David Warner 1 Score: 50/0
-5.3 Trent Boult to Jonny Bairstow 1 Score: 51/0
-5.4 Trent Boult to David Warner Wide Score: 52/0
-5.5 Trent Boult to David Warner 4 Score: 56/0
-5.6 Trent Boult to David Warner 1 Score: 57/0
-5.7 Trent Boult to Jonny Bairstow 4 Score: 61/0
-6.1 Krunal Pandya to David Warner 1 Score: 62/0
-6.2 Krunal Pandya to Jonny Bairstow 1 Score: 63/0
-6.3 Krunal Pandya to David Warner 1 Score: 64/0
-6.4 Krunal Pandya to Jonny Bairstow 1 Score: 65/0
-6.5 Krunal Pandya to David Warner 1 Score: 66/0
-6.6 Krunal Pandya to Jonny Bairstow 1 Score: 67/0
-7.1 Trent Boult to Jonny Bairstow 1 Score: 68/0
-7.2 Trent Boult to David Warner 0 Score: 68/0
-7.3 Trent Boult to David Warner W Score: 68/1 Caught by Hardik Pandya
-7.4 Trent Boult to Kane Williamson 4 Score: 72/1
-7.5 Trent Boult to Kane Williamson 6 Score: 78/1
-7.6 Trent Boult to Kane Williamson 0 Score: 78/1
-8.1 Krunal Pandya to Jonny Bairstow 4 Score: 82/1
-8.2 Krunal Pandya to Jonny Bairstow 1 Score: 83/1
-8.3 Krunal Pandya to Kane Williamson 1 Score: 84/1
-8.4 Krunal Pandya to Jonny Bairstow 1 Score: 85/1
-8.5 Krunal Pandya to Kane Williamson Wide Score: 86/1
-8.6 Krunal Pandya to Kane Williamson 0 Score: 86/1
-8.7 Krunal Pandya to Kane Williamson 1 Score: 87/1
-9.1 Rahul Chahar to Kane Williamson 0 Score: 87/1
-9.2 Rahul Chahar to Kane Williamson 0 Score: 87/1
-9.3 Rahul Chahar to Kane Williamson 4 Score: 91/1
-9.4 Rahul Chahar to Kane Williamson 0 Score: 91/1
-9.5 Rahul Chahar to Kane Williamson 1 Score: 92/1
-9.6 Rahul Chahar to Jonny Bairstow 0 Score: 92/1
-10.1 Kieron Pollard to Kane Williamson 1 Score: 93/1
-10.2 Kieron Pollard to Jonny Bairstow 0 Score: 93/1
-10.3 Kieron Pollard to Jonny Bairstow 4 Score: 97/1
-10.4 Kieron Pollard to Jonny Bairstow 0 Score: 97/1
-10.5 Kieron Pollard to Jonny Bairstow 0 Score: 97/1
-10.6 Kieron Pollard to Jonny Bairstow 2 Score: 99/1
-11.1 Rahul Chahar to Kane Williamson 1 Score: 100/1
-11.2 Rahul Chahar to Jonny Bairstow 0 Score: 100/1
-11.3 Rahul Chahar to Jonny Bairstow 6 Score: 106/1
-11.4 Rahul Chahar to Jonny Bairstow 0 Score: 106/1
-11.5 Rahul Chahar to Jonny Bairstow 1 Score: 107/1
-11.6 Rahul Chahar to Kane Williamson 0 Score: 107/1
-12.1 Kieron Pollard to Jonny Bairstow 1 Score: 108/1
-12.2 Kieron Pollard to Kane Williamson Wide Score: 109/1
-12.3 Kieron Pollard to Kane Williamson 0 Score: 109/1
-12.4 Kieron Pollard to Kane Williamson 0 Score: 109/1
-12.5 Kieron Pollard to Kane Williamson 1 Score: 110/1
-12.6 Kieron Pollard to Jonny Bairstow 1 Score: 111/1
-12.7 Kieron Pollard to Kane Williamson 1 Score: 112/1
-13.1 Rahul Chahar to Kane Williamson 0 Score: 112/1
-13.2 Rahul Chahar to Kane Williamson 1 Score: 113/1
-13.3 Rahul Chahar to Jonny Bairstow Wide Score: 114/1
-13.4 Rahul Chahar to Jonny Bairstow 1 Score: 115/1
-13.5 Rahul Chahar to Kane Williamson 1 Score: 116/1
-13.6 Rahul Chahar to Jonny Bairstow 0 Score: 116/1
-13.7 Rahul Chahar to Jonny Bairstow 0 Score: 116/1
-14.1 Kieron Pollard to Kane Williamson 2 Score: 118/1
-14.2 Kieron Pollard to Kane Williamson 0 Score: 118/1
-14.3 Kieron Pollard to Kane Williamson 0 Score: 118/1
-14.4 Kieron Pollard to Kane Williamson 2 Score: 120/1
-14.5 Kieron Pollard to Kane Williamson 1 Score: 121/1
-14.6 Kieron Pollard to Jonny Bairstow 1 Score: 122/1
-15.1 Rahul Chahar to Jonny Bairstow 0 Score: 122/1
-15.2 Rahul Chahar to Jonny Bairstow 6 Score: 128/1
-15.3 Rahul Chahar to Jonny Bairstow 0 Score: 128/1
-15.4 Rahul Chahar to Jonny Bairstow W Score: 128/2 Caught by Suryakumar Yadav
-15.5 Rahul Chahar to Manish Pandey 0 Score: 128/2
-15.6 Rahul Chahar to Manish Pandey 1 Score: 129/2
-16.1 Kieron Pollard to Manish Pandey 0 Score: 129/2
-16.2 Kieron Pollard to Manish Pandey 1 Score: 130/2
-16.3 Kieron Pollard to Kane Williamson 6 Score: 136/2
-16.4 Kieron Pollard to Kane Williamson 1 Score: 137/2
-16.5 Kieron Pollard to Manish Pandey 0 Score: 137/2
-16.6 Kieron Pollard to Manish Pandey 4 Score: 141/2
-17.1 Jasprit Bumrah to Kane Williamson 1 Score: 142/2
-17.2 Jasprit Bumrah to Manish Pandey 1 Score: 143/2
-17.3 Jasprit Bumrah to Kane Williamson 1 Score: 144/2
-17.4 Jasprit Bumrah to Manish Pandey Wide Score: 145/2
-17.5 Jasprit Bumrah to Manish Pandey 6 Score: 151/2
-17.6 Jasprit Bumrah to Manish Pandey 6 Score: 157/2
-17.7 Jasprit Bumrah to Manish Pandey 4 Score: 161/2
-18.1 Trent Boult to Kane Williamson 1 Score: 162/2
-18.2 Trent Boult to Manish Pandey 4 Score: 166/2
-18.3 Trent Boult to Manish Pandey 1 Score: 167/2
-18.4 Trent Boult to Kane Williamson 1 Score: 168/2
-18.5 Trent Boult to Manish Pandey 1 Score: 169/2
-18.6 Trent Boult to Kane Williamson 6 Score: 175/2
-19.1 Jasprit Bumrah to Manish Pandey 0 Score: 175/2
-19.2 Jasprit Bumrah to Manish Pandey 1 Score: 176/2
-19.3 Jasprit Bumrah to Kane Williamson 6 Score: 182/2
-19.4 Jasprit Bumrah to Kane Williamson 4 Score: 186/2
-19.5 Jasprit Bumrah to Kane Williamson 6 Score: 192/2
-19.6 Jasprit Bumrah to Kane Williamson 1 Score: 193/2
-+-----------------+--------+---------+--------+------------------------+
-| Player          |   Runs |   Balls | SR     | Out                    |
-+=================+========+=========+========+========================+
-| DA Warner       |     40 |      26 | 153.85 | c HH Pandya b TA Boult |
-+-----------------+--------+---------+--------+------------------------+
-| JM Bairstow     |     56 |      42 | 133.33 | c SA Yadav b RD Chahar |
-+-----------------+--------+---------+--------+------------------------+
-| KS Williamson   |     62 |      37 | 167.57 | Not out                |
-+-----------------+--------+---------+--------+------------------------+
-| MK Pandey       |     30 |      15 | 200.0  | Not out                |
-+-----------------+--------+---------+--------+------------------------+
-| KM Jadhav       |      0 |       0 | DNB    |                        |
-+-----------------+--------+---------+--------+------------------------+
-| Abhishek Sharma |      0 |       0 | DNB    |                        |
-+-----------------+--------+---------+--------+------------------------+
-| Rashid Khan     |      0 |       0 | DNB    |                        |
-+-----------------+--------+---------+--------+------------------------+
-| V Shankar       |      0 |       0 | DNB    |                        |
-+-----------------+--------+---------+--------+------------------------+
-| J Suchith       |      0 |       0 | DNB    |                        |
-+-----------------+--------+---------+--------+------------------------+
-| B Kumar         |      0 |       0 | DNB    |                        |
-+-----------------+--------+---------+--------+------------------------+
-| KK Ahmed        |      0 |       0 | DNB    |                        |
-+-----------------+--------+---------+--------+------------------------+
+srh won the toss and chose to bat
+0.1 Trent Boult to David Warner 1 Score: 1/0
+0.2 Trent Boult to Jonny Bairstow 0 Score: 1/0
+0.3 Trent Boult to Jonny Bairstow 1 Score: 2/0
+0.4 Trent Boult to David Warner 4 Score: 6/0
+0.5 Trent Boult to David Warner 1 Score: 7/0
+0.6 Trent Boult to Jonny Bairstow 0 Score: 7/0
+1.1 Jayant Yadav to David Warner 0 Score: 7/0
+1.2 Jayant Yadav to David Warner 1 Score: 8/0
+1.3 Jayant Yadav to Jonny Bairstow 1 Score: 9/0
+1.4 Jayant Yadav to David Warner Wide Score: 10/0
+1.5 Jayant Yadav to David Warner 0 Score: 10/0
+1.6 Jayant Yadav to David Warner 1 Score: 11/0
+1.7 Jayant Yadav to Jonny Bairstow 1 Score: 12/0
+2.1 Trent Boult to Jonny Bairstow 0 Score: 12/0
+2.2 Trent Boult to Jonny Bairstow 0 Score: 12/0
+2.3 Trent Boult to Jonny Bairstow 6 Score: 18/0
+2.4 Trent Boult to Jonny Bairstow 0 Score: 18/0
+2.5 Trent Boult to Jonny Bairstow 0 Score: 18/0
+2.6 Trent Boult to Jonny Bairstow 1 Score: 19/0
+3.1 Jayant Yadav to Jonny Bairstow 4 Score: 23/0
+3.2 Jayant Yadav to Jonny Bairstow 4 Score: 27/0
+3.3 Jayant Yadav to Jonny Bairstow 2 Score: 29/0
+3.4 Jayant Yadav to Jonny Bairstow 4 Score: 33/0
+3.5 Jayant Yadav to Jonny Bairstow 0 Score: 33/0
+3.6 Jayant Yadav to Jonny Bairstow 1 Score: 34/0
+4.1 Jasprit Bumrah to Jonny Bairstow 4 Score: 38/0
+4.2 Jasprit Bumrah to Jonny Bairstow 1 Score: 39/0
+4.3 Jasprit Bumrah to David Warner 0 Score: 39/0
+4.4 Jasprit Bumrah to David Warner 4 Score: 43/0
+4.5 Jasprit Bumrah to David Warner 1 Score: 44/0
+4.6 Jasprit Bumrah to Jonny Bairstow 1 Score: 45/0
+5.1 Krunal Pandya to Jonny Bairstow 0 Score: 45/0
+5.2 Krunal Pandya to Jonny Bairstow 4 Score: 49/0
+5.3 Krunal Pandya to Jonny Bairstow 0 Score: 49/0
+5.4 Krunal Pandya to Jonny Bairstow 6 Score: 55/0
+5.5 Krunal Pandya to Jonny Bairstow 1 Score: 56/0
+5.6 Krunal Pandya to David Warner 0 Score: 56/0
+6.1 Jasprit Bumrah to Jonny Bairstow 0 Score: 56/0
+6.2 Jasprit Bumrah to Jonny Bairstow 6 Score: 62/0
+6.3 Jasprit Bumrah to Jonny Bairstow 6 Score: 68/0
+6.4 Jasprit Bumrah to Jonny Bairstow 0 Score: 68/0
+6.5 Jasprit Bumrah to Jonny Bairstow 3 Score: 71/0
+6.6 Jasprit Bumrah to David Warner 0 Score: 71/0
+7.1 Krunal Pandya to Jonny Bairstow 0 Score: 71/0
+7.2 Krunal Pandya to Jonny Bairstow 0 Score: 71/0
+7.3 Krunal Pandya to Jonny Bairstow 4 Score: 75/0
+7.4 Krunal Pandya to Jonny Bairstow 0 Score: 75/0
+7.5 Krunal Pandya to Jonny Bairstow 1 Score: 76/0
+7.6 Krunal Pandya to David Warner 1 Score: 77/0
+8.1 Jasprit Bumrah to David Warner 4 Score: 81/0
+8.2 Jasprit Bumrah to David Warner 6 Score: 87/0
+8.3 Jasprit Bumrah to David Warner 4 Score: 91/0
+8.4 Jasprit Bumrah to David Warner 4 Score: 95/0
+8.5 Jasprit Bumrah to David Warner 6 Score: 101/0
+8.6 Jasprit Bumrah to David Warner 2 Score: 103/0
+9.1 Krunal Pandya to Jonny Bairstow 0 Score: 103/0
+9.2 Krunal Pandya to Jonny Bairstow 1 Score: 104/0
+9.3 Krunal Pandya to David Warner 0 Score: 104/0
+9.4 Krunal Pandya to David Warner 0 Score: 104/0
+9.5 Krunal Pandya to David Warner 6 Score: 110/0
+9.6 Krunal Pandya to David Warner 1 Score: 111/0
+10.1 Rahul Chahar to David Warner 1 Score: 112/0
+10.2 Rahul Chahar to Jonny Bairstow 4 Score: 116/0
+10.3 Rahul Chahar to Jonny Bairstow 4 Score: 120/0
+10.4 Rahul Chahar to Jonny Bairstow 0 Score: 120/0
+10.5 Rahul Chahar to Jonny Bairstow 0 Score: 120/0
+10.6 Rahul Chahar to Jonny Bairstow 4 Score: 124/0
+11.1 Krunal Pandya to David Warner 0 Score: 124/0
+11.2 Krunal Pandya to David Warner 0 Score: 124/0
+11.3 Krunal Pandya to David Warner 4 Score: 128/0
+11.4 Krunal Pandya to David Warner 0 Score: 128/0
+11.5 Krunal Pandya to David Warner 2 Score: 130/0
+11.6 Krunal Pandya to David Warner Wide Score: 131/0
+11.7 Krunal Pandya to David Warner 0 Score: 131/0
+12.1 Rahul Chahar to Jonny Bairstow 6 Score: 137/0
+12.2 Rahul Chahar to Jonny Bairstow 0 Score: 137/0
+12.3 Rahul Chahar to Jonny Bairstow 1 Score: 138/0
+12.4 Rahul Chahar to David Warner 0 Score: 138/0
+12.5 Rahul Chahar to David Warner W Score: 138/1 Caught by Kieron Pollard
+12.6 Rahul Chahar to Kane Williamson Wide Score: 139/1
+12.7 Rahul Chahar to Kane Williamson Wide Score: 140/1
+12.8 Rahul Chahar to Kane Williamson 0 Score: 140/1
+13.1 Kieron Pollard to Jonny Bairstow 4 Score: 144/1
+13.2 Kieron Pollard to Jonny Bairstow 0 Score: 144/1
+13.3 Kieron Pollard to Jonny Bairstow 0 Score: 144/1
+13.4 Kieron Pollard to Jonny Bairstow 4 Score: 148/1
+13.5 Kieron Pollard to Jonny Bairstow 0 Score: 148/1
+13.6 Kieron Pollard to Jonny Bairstow 0 Score: 148/1
+14.1 Rahul Chahar to Kane Williamson 0 Score: 148/1
+14.2 Rahul Chahar to Kane Williamson 1 Score: 149/1
+14.3 Rahul Chahar to Jonny Bairstow 6 Score: 155/1
+14.4 Rahul Chahar to Jonny Bairstow 4 Score: 159/1
+14.5 Rahul Chahar to Jonny Bairstow 1 Score: 160/1
+14.6 Rahul Chahar to Kane Williamson 4 Score: 164/1
+15.1 Kieron Pollard to Jonny Bairstow 0 Score: 164/1
+15.2 Kieron Pollard to Jonny Bairstow 1 Score: 165/1
+15.3 Kieron Pollard to Kane Williamson 1 Score: 166/1
+15.4 Kieron Pollard to Jonny Bairstow 0 Score: 166/1
+15.5 Kieron Pollard to Jonny Bairstow 1 Score: 167/1
+15.6 Kieron Pollard to Kane Williamson 1 Score: 168/1
+16.1 Rahul Chahar to Kane Williamson 0 Score: 168/1
+16.2 Rahul Chahar to Kane Williamson 1 Score: 169/1
+16.3 Rahul Chahar to Jonny Bairstow 2 Score: 171/1
+16.4 Rahul Chahar to Jonny Bairstow 1 Score: 172/1
+16.5 Rahul Chahar to Kane Williamson 1 Score: 173/1
+16.6 Rahul Chahar to Jonny Bairstow 0 Score: 173/1
+17.1 Jasprit Bumrah to Kane Williamson 0 Score: 173/1
+17.2 Jasprit Bumrah to Kane Williamson 1 Score: 174/1
+17.3 Jasprit Bumrah to Jonny Bairstow 4 Score: 178/1
+17.4 Jasprit Bumrah to Jonny Bairstow W Score: 178/2 Caught by Kieron Pollard
+17.5 Jasprit Bumrah to Manish Pandey 0 Score: 178/2
+17.6 Jasprit Bumrah to Manish Pandey 4 Score: 182/2
+18.1 Trent Boult to Kane Williamson 1 Score: 183/2
+18.2 Trent Boult to Manish Pandey 1 Score: 184/2
+18.3 Trent Boult to Kane Williamson W Score: 184/3 Caught by Krunal Pandya
+18.4 Trent Boult to Vijay Shankar 4 Score: 188/3
+18.5 Trent Boult to Vijay Shankar 1 Score: 189/3
+18.6 Trent Boult to Manish Pandey 1 Score: 190/3
+19.1 Hardik Pandya to Manish Pandey 0 Score: 190/3
+19.2 Hardik Pandya to Manish Pandey 1 Score: 191/3
+19.3 Hardik Pandya to Vijay Shankar 4 Score: 195/3
+19.4 Hardik Pandya to Vijay Shankar Wide Score: 196/3
+19.5 Hardik Pandya to Vijay Shankar 6 Score: 202/3
+19.6 Hardik Pandya to Vijay Shankar 6 Score: 208/3
+19.7 Hardik Pandya to Vijay Shankar 0 Score: 208/3
++-----------------+--------+---------+--------+--------------------------+
+| Player          |   Runs |   Balls | SR     | Out                      |
++=================+========+=========+========+==========================+
+| DA Warner       |     54 |      32 | 168.75 | c KA Pollard b RD Chahar |
++-----------------+--------+---------+--------+--------------------------+
+| JM Bairstow     |    110 |      63 | 174.6  | c KA Pollard b JJ Bumrah |
++-----------------+--------+---------+--------+--------------------------+
+| KS Williamson   |     11 |      13 | 84.62  | c KH Pandya b TA Boult   |
++-----------------+--------+---------+--------+--------------------------+
+| MK Pandey       |      7 |       6 | 116.67 | Not out                  |
++-----------------+--------+---------+--------+--------------------------+
+| KM Jadhav       |      0 |       0 | DNB    |                          |
++-----------------+--------+---------+--------+--------------------------+
+| Abhishek Sharma |      0 |       0 | DNB    |                          |
++-----------------+--------+---------+--------+--------------------------+
+| Rashid Khan     |      0 |       0 | DNB    |                          |
++-----------------+--------+---------+--------+--------------------------+
+| V Shankar       |     21 |       6 | 350.0  | Not out                  |
++-----------------+--------+---------+--------+--------------------------+
+| J Suchith       |      0 |       0 | DNB    |                          |
++-----------------+--------+---------+--------+--------------------------+
+| B Kumar         |      0 |       0 | DNB    |                          |
++-----------------+--------+---------+--------+--------------------------+
+| KK Ahmed        |      0 |       0 | DNB    |                          |
++-----------------+--------+---------+--------+--------------------------+
 +--------------+--------+---------+-----------+-------+
 | Player       |   Runs |   Overs |   Wickets | Eco   |
 +==============+========+=========+===========+=======+
@@ -161,169 +161,193 @@ mi won the toss and chose to field
 +--------------+--------+---------+-----------+-------+
 | Ishan Kishan |      0 |       0 |         0 | NA    |
 +--------------+--------+---------+-----------+-------+
-| KA Pollard   |     30 |       4 |         0 | 7.5   |
+| KA Pollard   |     12 |       2 |         0 | 6.0   |
 +--------------+--------+---------+-----------+-------+
-| HH Pandya    |      0 |       0 |         0 | NA    |
+| HH Pandya    |     18 |       1 |         0 | 18.0  |
 +--------------+--------+---------+-----------+-------+
-| KH Pandya    |     31 |       4 |         0 | 7.75  |
+| KH Pandya    |     32 |       4 |         0 | 8.0   |
 +--------------+--------+---------+-----------+-------+
-| J Yadav      |     16 |       2 |         0 | 8.0   |
+| J Yadav      |     20 |       2 |         0 | 10.0  |
 +--------------+--------+---------+-----------+-------+
-| RD Chahar    |     24 |       4 |         1 | 6.0   |
+| RD Chahar    |     43 |       4 |         1 | 10.75 |
 +--------------+--------+---------+-----------+-------+
-| JJ Bumrah    |     38 |       2 |         0 | 19.0  |
+| JJ Bumrah    |     61 |       4 |         1 | 15.25 |
 +--------------+--------+---------+-----------+-------+
-| TA Boult     |     54 |       4 |         1 | 13.5  |
+| TA Boult     |     22 |       3 |         1 | 7.33  |
 +--------------+--------+---------+-----------+-------+
-0.1 Bhuvneshwar Kumar to Quinton de Kock 1 Score: 1/0
-0.2 Bhuvneshwar Kumar to Rohit Sharma 4 Score: 5/0
-0.3 Bhuvneshwar Kumar to Rohit Sharma 4 Score: 9/0
-0.4 Bhuvneshwar Kumar to Rohit Sharma 0 Score: 9/0
-0.5 Bhuvneshwar Kumar to Rohit Sharma 2 Score: 11/0
-0.6 Bhuvneshwar Kumar to Rohit Sharma 0 Score: 11/0
-1.1 Khaleel Ahmed to Quinton de Kock 1 Score: 12/0
-1.2 Khaleel Ahmed to Rohit Sharma 1 Score: 13/0
-1.3 Khaleel Ahmed to Quinton de Kock W Score: 13/1 Caught by Manish Pandey
-1.4 Khaleel Ahmed to Ishan Kishan 1 Score: 14/1
-1.5 Khaleel Ahmed to Rohit Sharma 0 Score: 14/1
-1.6 Khaleel Ahmed to Rohit Sharma 1 Score: 15/1
-2.1 Bhuvneshwar Kumar to Rohit Sharma 2 Score: 17/1
-2.2 Bhuvneshwar Kumar to Rohit Sharma 1 Score: 18/1
-2.3 Bhuvneshwar Kumar to Ishan Kishan Wide Score: 19/1
-2.4 Bhuvneshwar Kumar to Ishan Kishan 0 Score: 19/1
-2.5 Bhuvneshwar Kumar to Ishan Kishan 0 Score: 19/1
-2.6 Bhuvneshwar Kumar to Ishan Kishan 0 Score: 19/1
-2.7 Bhuvneshwar Kumar to Ishan Kishan 0 Score: 19/1
-3.1 Khaleel Ahmed to Rohit Sharma 1 Score: 20/1
-3.2 Khaleel Ahmed to Ishan Kishan 1 Score: 21/1
-3.3 Khaleel Ahmed to Rohit Sharma 4 Score: 25/1
-3.4 Khaleel Ahmed to Rohit Sharma 0 Score: 25/1
-3.5 Khaleel Ahmed to Rohit Sharma 0 Score: 25/1
-3.6 Khaleel Ahmed to Rohit Sharma 3 Score: 28/1
-4.1 Rashid Khan to Rohit Sharma 1 Score: 29/1
-4.2 Rashid Khan to Ishan Kishan 0 Score: 29/1
-4.3 Rashid Khan to Ishan Kishan 0 Score: 29/1
-4.4 Rashid Khan to Ishan Kishan W Score: 29/2 Caught by Kane Williamson
-4.5 Rashid Khan to Suryakumar Yadav 1 Score: 30/2
-4.6 Rashid Khan to Rohit Sharma 4 Score: 34/2
-5.1 Kane Williamson to Suryakumar Yadav 0 Score: 34/2
-5.2 Kane Williamson to Suryakumar Yadav 1 Score: 35/2
-5.3 Kane Williamson to Rohit Sharma 0 Score: 35/2
-5.4 Kane Williamson to Rohit Sharma 1 Score: 36/2
-5.5 Kane Williamson to Suryakumar Yadav 1 Score: 37/2
-5.6 Kane Williamson to Rohit Sharma 0 Score: 37/2
-6.1 Rashid Khan to Suryakumar Yadav 0 Score: 37/2
-6.2 Rashid Khan to Suryakumar Yadav 0 Score: 37/2
-6.3 Rashid Khan to Suryakumar Yadav 0 Score: 37/2
-6.4 Rashid Khan to Suryakumar Yadav 1 Score: 38/2
-6.5 Rashid Khan to Rohit Sharma 0 Score: 38/2
-6.6 Rashid Khan to Rohit Sharma 0 Score: 38/2
-7.1 Kane Williamson to Suryakumar Yadav 0 Score: 38/2
-7.2 Kane Williamson to Suryakumar Yadav 1 Score: 39/2
-7.3 Kane Williamson to Rohit Sharma 1 Score: 40/2
-7.4 Kane Williamson to Suryakumar Yadav 0 Score: 40/2
-7.5 Kane Williamson to Suryakumar Yadav 1 Score: 41/2
-7.6 Kane Williamson to Rohit Sharma 1 Score: 42/2
-8.1 Rashid Khan to Rohit Sharma 0 Score: 42/2
-8.2 Rashid Khan to Rohit Sharma W Score: 42/3 Lbw
-8.3 Rashid Khan to Kieron Pollard 0 Score: 42/3
-8.4 Rashid Khan to Kieron Pollard 0 Score: 42/3
-8.5 Rashid Khan to Kieron Pollard 1 Score: 43/3
-8.6 Rashid Khan to Suryakumar Yadav 0 Score: 43/3
-9.1 Kane Williamson to Kieron Pollard 1 Score: 44/3
-9.2 Kane Williamson to Suryakumar Yadav 1 Score: 45/3
-9.3 Kane Williamson to Kieron Pollard 1 Score: 46/3
-9.4 Kane Williamson to Suryakumar Yadav 0 Score: 46/3
-9.5 Kane Williamson to Suryakumar Yadav 4 Score: 50/3
-9.6 Kane Williamson to Suryakumar Yadav 1 Score: 51/3
-10.1 Rashid Khan to Suryakumar Yadav 1 Score: 52/3
-10.2 Rashid Khan to Kieron Pollard 0 Score: 52/3
-10.3 Rashid Khan to Kieron Pollard 0 Score: 52/3
-10.4 Rashid Khan to Kieron Pollard W Score: 52/4 Caught by Vijay Shankar
-10.5 Rashid Khan to Hardik Pandya 0 Score: 52/4
-10.6 Rashid Khan to Hardik Pandya 0 Score: 52/4
-11.1 Kane Williamson to Suryakumar Yadav W Score: 52/5 Caught by Jonny Bairstow
-11.2 Kane Williamson to Krunal Pandya W Score: 52/6 Lbw
-11.3 Kane Williamson to Jayant Yadav 1 Score: 53/6
-11.4 Kane Williamson to Hardik Pandya 0 Score: 53/6
-11.5 Kane Williamson to Hardik Pandya 6 Score: 59/6
-11.6 Kane Williamson to Hardik Pandya 1 Score: 60/6
-12.1 Jagadeesha Suchith to Hardik Pandya 0 Score: 60/6
-12.2 Jagadeesha Suchith to Hardik Pandya 1 Score: 61/6
-12.3 Jagadeesha Suchith to Jayant Yadav 1 Score: 62/6
-12.4 Jagadeesha Suchith to Hardik Pandya 0 Score: 62/6
-12.5 Jagadeesha Suchith to Hardik Pandya 0 Score: 62/6
-12.6 Jagadeesha Suchith to Hardik Pandya 4 Score: 66/6
-13.1 Abhishek Sharma to Jayant Yadav W Score: 66/7 Lbw
-13.2 Abhishek Sharma to Rahul Chahar 4 Score: 70/7
-13.3 Abhishek Sharma to Rahul Chahar W Score: 70/8 Caught by Abhishek Sharma
-13.4 Abhishek Sharma to Jasprit Bumrah 1 Score: 71/8
-13.5 Abhishek Sharma to Hardik Pandya 0 Score: 71/8
-13.6 Abhishek Sharma to Hardik Pandya 0 Score: 71/8
-14.1 Jagadeesha Suchith to Jasprit Bumrah 0 Score: 71/8
-14.2 Jagadeesha Suchith to Jasprit Bumrah 0 Score: 71/8
-14.3 Jagadeesha Suchith to Jasprit Bumrah W Score: 71/9 Caught by Jonny Bairstow
-14.4 Jagadeesha Suchith to Trent Boult 1 Score: 72/9
-14.5 Jagadeesha Suchith to Hardik Pandya 0 Score: 72/9
-14.6 Jagadeesha Suchith to Hardik Pandya 1 Score: 73/9
-15.1 Abhishek Sharma to Hardik Pandya 6 Score: 79/9
-15.2 Abhishek Sharma to Hardik Pandya 1 Score: 80/9
-15.3 Abhishek Sharma to Trent Boult 0 Score: 80/9
-15.4 Abhishek Sharma to Trent Boult 2 Score: 82/9
-15.5 Abhishek Sharma to Trent Boult 0 Score: 82/9
-15.6 Abhishek Sharma to Trent Boult 0 Score: 82/9
-16.1 Jagadeesha Suchith to Hardik Pandya 4 Score: 86/9
-16.2 Jagadeesha Suchith to Hardik Pandya 1 Score: 87/9
-16.3 Jagadeesha Suchith to Trent Boult W Score: 87/10 Caught by Vijay Shankar
-ALL OUT
-srh won by 106 runs
-+--------------+--------+---------+--------+-------------------------------------+
-| Player       |   Runs |   Balls |     SR | Out                                 |
-+==============+========+=========+========+=====================================+
-| Q de Kock    |      2 |       3 |  66.67 | c MK Pandey b KK Ahmed              |
-+--------------+--------+---------+--------+-------------------------------------+
-| RG Sharma    |     31 |      26 | 119.23 | lbw b Rashid Khan                   |
-+--------------+--------+---------+--------+-------------------------------------+
-| SA Yadav     |     13 |      19 |  68.42 | c JM Bairstow b KS Williamson       |
-+--------------+--------+---------+--------+-------------------------------------+
-| Ishan Kishan |      2 |       9 |  22.22 | c KS Williamson b Rashid Khan       |
-+--------------+--------+---------+--------+-------------------------------------+
-| KA Pollard   |      3 |       8 |  37.5  | c V Shankar b Rashid Khan           |
-+--------------+--------+---------+--------+-------------------------------------+
-| HH Pandya    |     25 |      18 | 138.89 | Not out                             |
-+--------------+--------+---------+--------+-------------------------------------+
-| KH Pandya    |      0 |       1 |   0    | lbw b KS Williamson                 |
-+--------------+--------+---------+--------+-------------------------------------+
-| J Yadav      |      2 |       3 |  66.67 | lbw b Abhishek Sharma               |
-+--------------+--------+---------+--------+-------------------------------------+
-| RD Chahar    |      4 |       2 | 200    | c Abhishek Sharma b Abhishek Sharma |
-+--------------+--------+---------+--------+-------------------------------------+
-| JJ Bumrah    |      1 |       4 |  25    | c JM Bairstow b J Suchith           |
-+--------------+--------+---------+--------+-------------------------------------+
-| TA Boult     |      3 |       6 |  50    | c V Shankar b J Suchith             |
-+--------------+--------+---------+--------+-------------------------------------+
+0.1 Bhuvneshwar Kumar to Quinton de Kock 0 Score: 0/0
+0.2 Bhuvneshwar Kumar to Quinton de Kock 0 Score: 0/0
+0.3 Bhuvneshwar Kumar to Quinton de Kock 6 Score: 6/0
+0.4 Bhuvneshwar Kumar to Quinton de Kock 6 Score: 12/0
+0.5 Bhuvneshwar Kumar to Quinton de Kock 6 Score: 18/0
+0.6 Bhuvneshwar Kumar to Quinton de Kock 0 Score: 18/0
+1.1 Khaleel Ahmed to Rohit Sharma 4 Score: 22/0
+1.2 Khaleel Ahmed to Rohit Sharma 0 Score: 22/0
+1.3 Khaleel Ahmed to Rohit Sharma 4 Score: 26/0
+1.4 Khaleel Ahmed to Rohit Sharma 0 Score: 26/0
+1.5 Khaleel Ahmed to Rohit Sharma 1 Score: 27/0
+1.6 Khaleel Ahmed to Quinton de Kock Wide Score: 28/0
+1.7 Khaleel Ahmed to Quinton de Kock 0 Score: 28/0
+2.1 Bhuvneshwar Kumar to Rohit Sharma 0 Score: 28/0
+2.2 Bhuvneshwar Kumar to Rohit Sharma 6 Score: 34/0
+2.3 Bhuvneshwar Kumar to Rohit Sharma 0 Score: 34/0
+2.4 Bhuvneshwar Kumar to Rohit Sharma 4 Score: 38/0
+2.5 Bhuvneshwar Kumar to Rohit Sharma Wide Score: 39/0
+2.6 Bhuvneshwar Kumar to Rohit Sharma 4 Score: 43/0
+2.7 Bhuvneshwar Kumar to Rohit Sharma 1 Score: 44/0
+3.1 Khaleel Ahmed to Rohit Sharma 1 Score: 45/0
+3.2 Khaleel Ahmed to Quinton de Kock 0 Score: 45/0
+3.3 Khaleel Ahmed to Quinton de Kock 1 Score: 46/0
+3.4 Khaleel Ahmed to Rohit Sharma 2 Score: 48/0
+3.5 Khaleel Ahmed to Rohit Sharma 4 Score: 52/0
+3.6 Khaleel Ahmed to Rohit Sharma 4 Score: 56/0
+4.1 Jagadeesha Suchith to Quinton de Kock 1 Score: 57/0
+4.2 Jagadeesha Suchith to Rohit Sharma 4 Score: 61/0
+4.3 Jagadeesha Suchith to Rohit Sharma 0 Score: 61/0
+4.4 Jagadeesha Suchith to Rohit Sharma 0 Score: 61/0
+4.5 Jagadeesha Suchith to Rohit Sharma 1 Score: 62/0
+4.6 Jagadeesha Suchith to Quinton de Kock 2 Score: 64/0
+5.1 Kedar Jadhav to Rohit Sharma 4 Score: 68/0
+5.2 Kedar Jadhav to Rohit Sharma 1 Score: 69/0
+5.3 Kedar Jadhav to Quinton de Kock 4 Score: 73/0
+5.4 Kedar Jadhav to Quinton de Kock 0 Score: 73/0
+5.5 Kedar Jadhav to Quinton de Kock 1 Score: 74/0
+5.6 Kedar Jadhav to Rohit Sharma 4 Score: 78/0
+6.1 Jagadeesha Suchith to Quinton de Kock 6 Score: 84/0
+6.2 Jagadeesha Suchith to Quinton de Kock 1 Score: 85/0
+6.3 Jagadeesha Suchith to Rohit Sharma 6 Score: 91/0
+6.4 Jagadeesha Suchith to Rohit Sharma 6 Score: 97/0
+6.5 Jagadeesha Suchith to Rohit Sharma 4 Score: 101/0
+6.6 Jagadeesha Suchith to Rohit Sharma 1 Score: 102/0
+7.1 Kedar Jadhav to Rohit Sharma W Score: 102/1 Caught by Abhishek Sharma
+7.2 Kedar Jadhav to Ishan Kishan 0 Score: 102/1
+7.3 Kedar Jadhav to Ishan Kishan 1 Score: 103/1
+7.4 Kedar Jadhav to Quinton de Kock 0 Score: 103/1
+7.5 Kedar Jadhav to Quinton de Kock 6 Score: 109/1
+7.6 Kedar Jadhav to Quinton de Kock 6 Score: 115/1
+8.1 Jagadeesha Suchith to Ishan Kishan 1 Score: 116/1
+8.2 Jagadeesha Suchith to Quinton de Kock 1 Score: 117/1
+8.3 Jagadeesha Suchith to Ishan Kishan 1 Score: 118/1
+8.4 Jagadeesha Suchith to Quinton de Kock 1 Score: 119/1
+8.5 Jagadeesha Suchith to Ishan Kishan 0 Score: 119/1
+8.6 Jagadeesha Suchith to Ishan Kishan 1 Score: 120/1
+9.1 Kedar Jadhav to Ishan Kishan 6 Score: 126/1
+9.2 Kedar Jadhav to Ishan Kishan 0 Score: 126/1
+9.3 Kedar Jadhav to Ishan Kishan 1 Score: 127/1
+9.4 Kedar Jadhav to Quinton de Kock 0 Score: 127/1
+9.5 Kedar Jadhav to Quinton de Kock 0 Score: 127/1
+9.6 Kedar Jadhav to Quinton de Kock W Score: 127/2 Caught by Kedar Jadhav
+10.1 Jagadeesha Suchith to Ishan Kishan 0 Score: 127/2
+10.2 Jagadeesha Suchith to Ishan Kishan 0 Score: 127/2
+10.3 Jagadeesha Suchith to Ishan Kishan 0 Score: 127/2
+10.4 Jagadeesha Suchith to Ishan Kishan 1 Score: 128/2
+10.5 Jagadeesha Suchith to Suryakumar Yadav 0 Score: 128/2
+10.6 Jagadeesha Suchith to Suryakumar Yadav Wide Score: 129/2
+10.7 Jagadeesha Suchith to Suryakumar Yadav Wide Score: 130/2
+10.8 Jagadeesha Suchith to Suryakumar Yadav 6 Score: 136/2
+11.1 Kedar Jadhav to Ishan Kishan 4 Score: 140/2
+11.2 Kedar Jadhav to Ishan Kishan 0 Score: 140/2
+11.3 Kedar Jadhav to Ishan Kishan 1 Score: 141/2
+11.4 Kedar Jadhav to Suryakumar Yadav 6 Score: 147/2
+11.5 Kedar Jadhav to Suryakumar Yadav 0 Score: 147/2
+11.6 Kedar Jadhav to Suryakumar Yadav 1 Score: 148/2
+12.1 Rashid Khan to Suryakumar Yadav 1 Score: 149/2
+12.2 Rashid Khan to Ishan Kishan 0 Score: 149/2
+12.3 Rashid Khan to Ishan Kishan 1 Score: 150/2
+12.4 Rashid Khan to Suryakumar Yadav 0 Score: 150/2
+12.5 Rashid Khan to Suryakumar Yadav 1 Score: 151/2
+12.6 Rashid Khan to Ishan Kishan 1 Score: 152/2
+13.1 Kedar Jadhav to Ishan Kishan 6 Score: 158/2
+13.2 Kedar Jadhav to Ishan Kishan 1 Score: 159/2
+13.3 Kedar Jadhav to Suryakumar Yadav 0 Score: 159/2
+13.4 Kedar Jadhav to Suryakumar Yadav 0 Score: 159/2
+13.5 Kedar Jadhav to Suryakumar Yadav 0 Score: 159/2
+13.6 Kedar Jadhav to Suryakumar Yadav 1 Score: 160/2
+14.1 Rashid Khan to Suryakumar Yadav 6 Score: 166/2
+14.2 Rashid Khan to Suryakumar Yadav 2 Score: 168/2
+14.3 Rashid Khan to Suryakumar Yadav 4 Score: 172/2
+14.4 Rashid Khan to Suryakumar Yadav 0 Score: 172/2
+14.5 Rashid Khan to Suryakumar Yadav 0 Score: 172/2
+14.6 Rashid Khan to Suryakumar Yadav 0 Score: 172/2
+15.1 Abhishek Sharma to Ishan Kishan 1 Score: 173/2
+15.2 Abhishek Sharma to Suryakumar Yadav 0 Score: 173/2
+15.3 Abhishek Sharma to Suryakumar Yadav 2 Score: 175/2
+15.4 Abhishek Sharma to Suryakumar Yadav 1 Score: 176/2
+15.5 Abhishek Sharma to Ishan Kishan 1 Score: 177/2
+15.6 Abhishek Sharma to Suryakumar Yadav 4 Score: 181/2
+16.1 Rashid Khan to Ishan Kishan 0 Score: 181/2
+16.2 Rashid Khan to Ishan Kishan 1 Score: 182/2
+16.3 Rashid Khan to Suryakumar Yadav 1 Score: 183/2
+16.4 Rashid Khan to Ishan Kishan 1 Score: 184/2
+16.5 Rashid Khan to Suryakumar Yadav 0 Score: 184/2
+16.6 Rashid Khan to Suryakumar Yadav 1 Score: 185/2
+17.1 Bhuvneshwar Kumar to Suryakumar Yadav 0 Score: 185/2
+17.2 Bhuvneshwar Kumar to Suryakumar Yadav 0 Score: 185/2
+17.3 Bhuvneshwar Kumar to Suryakumar Yadav 0 Score: 185/2
+17.4 Bhuvneshwar Kumar to Suryakumar Yadav 0 Score: 185/2
+17.5 Bhuvneshwar Kumar to Suryakumar Yadav 0 Score: 185/2
+17.6 Bhuvneshwar Kumar to Suryakumar Yadav W Score: 186/3 Run Out!
+18.1 Khaleel Ahmed to Ishan Kishan 1 Score: 187/3
+18.2 Khaleel Ahmed to Kieron Pollard 1 Score: 188/3
+18.3 Khaleel Ahmed to Ishan Kishan W Score: 188/4 Caught by Jagadeesha Suchith
+18.4 Khaleel Ahmed to Hardik Pandya 0 Score: 188/4
+18.5 Khaleel Ahmed to Hardik Pandya W Score: 188/5 Caught by Jagadeesha Suchith
+18.6 Khaleel Ahmed to Krunal Pandya W Score: 188/6 Caught by Kedar Jadhav
+19.1 Bhuvneshwar Kumar to Kieron Pollard 2 Score: 190/6
+19.2 Bhuvneshwar Kumar to Kieron Pollard 0 Score: 190/6
+19.3 Bhuvneshwar Kumar to Kieron Pollard 0 Score: 190/6
+19.4 Bhuvneshwar Kumar to Kieron Pollard Wide Score: 191/6
+19.5 Bhuvneshwar Kumar to Kieron Pollard 1 Score: 192/6
+19.6 Bhuvneshwar Kumar to Jayant Yadav 1 Score: 193/6
+19.7 Bhuvneshwar Kumar to Kieron Pollard W Score: 193/7 Caught by Abhishek Sharma
+srh won by 15 runs
++--------------+--------+---------+--------+-------------------------------+
+| Player       |   Runs |   Balls | SR     | Out                           |
++==============+========+=========+========+===============================+
+| Q de Kock    |     48 |      24 | 200.0  | c KM Jadhav b KM Jadhav       |
++--------------+--------+---------+--------+-------------------------------+
+| RG Sharma    |     66 |      27 | 244.44 | c Abhishek Sharma b KM Jadhav |
++--------------+--------+---------+--------+-------------------------------+
+| SA Yadav     |     38 |      31 | 122.58 | Not out                       |
++--------------+--------+---------+--------+-------------------------------+
+| Ishan Kishan |     31 |      28 | 110.71 | c J Suchith b KK Ahmed        |
++--------------+--------+---------+--------+-------------------------------+
+| KA Pollard   |      4 |       6 | 66.67  | c Abhishek Sharma b B Kumar   |
++--------------+--------+---------+--------+-------------------------------+
+| HH Pandya    |      0 |       2 | 0.0    | c J Suchith b KK Ahmed        |
++--------------+--------+---------+--------+-------------------------------+
+| KH Pandya    |      0 |       1 | 0.0    | c KM Jadhav b KK Ahmed        |
++--------------+--------+---------+--------+-------------------------------+
+| J Yadav      |      1 |       1 | 100.0  | Not out                       |
++--------------+--------+---------+--------+-------------------------------+
+| RD Chahar    |      0 |       0 | DNB    |                               |
++--------------+--------+---------+--------+-------------------------------+
+| JJ Bumrah    |      0 |       0 | DNB    |                               |
++--------------+--------+---------+--------+-------------------------------+
+| TA Boult     |      0 |       0 | DNB    |                               |
++--------------+--------+---------+--------+-------------------------------+
 +-----------------+--------+---------+-----------+-------+
 | Player          |   Runs |   Overs |   Wickets | Eco   |
 +=================+========+=========+===========+=======+
-| DA Warner       |      0 |     0   |         0 | NA    |
+| DA Warner       |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| JM Bairstow     |      0 |     0   |         0 | NA    |
+| JM Bairstow     |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| KS Williamson   |     23 |     4   |         2 | 5.75  |
+| KS Williamson   |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| MK Pandey       |      0 |     0   |         0 | NA    |
+| MK Pandey       |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| KM Jadhav       |      0 |     0   |         0 | NA    |
+| KM Jadhav       |     54 |       5 |         2 | 10.8  |
 +-----------------+--------+---------+-----------+-------+
-| Abhishek Sharma |     14 |     2   |         2 | 7.0   |
+| Abhishek Sharma |      9 |       1 |         0 | 9.0   |
 +-----------------+--------+---------+-----------+-------+
-| Rashid Khan     |      9 |     4   |         3 | 2.25  |
+| Rashid Khan     |     20 |       3 |         0 | 6.67  |
 +-----------------+--------+---------+-----------+-------+
-| V Shankar       |      0 |     0   |         0 | NA    |
+| V Shankar       |      0 |       0 |         0 | NA    |
 +-----------------+--------+---------+-----------+-------+
-| J Suchith       |     13 |     2.3 |         2 | 5.2   |
+| J Suchith       |     46 |       4 |         0 | 11.5  |
 +-----------------+--------+---------+-----------+-------+
-| B Kumar         |     15 |     2   |         0 | 7.5   |
+| B Kumar         |     40 |       4 |         1 | 10.0  |
 +-----------------+--------+---------+-----------+-------+
-| KK Ahmed        |     13 |     2   |         1 | 6.5   |
+| KK Ahmed        |     24 |       3 |         3 | 8.0   |
 +-----------------+--------+---------+-----------+-------+
