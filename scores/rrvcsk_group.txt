@@ -1,0 +1,340 @@
+['Liam Livingstone', 'Yashasvi Jaiswal', 'Sanju Samson', 'David Miller', 'Mahipal Lomror', 'Riyan Parag', 'Rahul Tewatia', 'Chris Morris', 'Kartik Tyagi', 'Chetan Sakariya', 'Mustafizur Rahman']
+csk won the toss and chose to bat
+0.1 Chetan Sakariya to Ruturaj Gaikwad 4 Score: 4/0
+0.2 Chetan Sakariya to Ruturaj Gaikwad 4 Score: 8/0
+0.3 Chetan Sakariya to Ruturaj Gaikwad 1 Score: 9/0
+0.4 Chetan Sakariya to Faf du Plessis 4 Score: 13/0
+0.5 Chetan Sakariya to Faf du Plessis 1 Score: 14/0
+0.6 Chetan Sakariya to Ruturaj Gaikwad 0 Score: 14/0
+1.1 Chris Morris to Faf du Plessis 0 Score: 14/0
+1.2 Chris Morris to Faf du Plessis 1 Score: 15/0
+1.3 Chris Morris to Ruturaj Gaikwad 0 Score: 15/0
+1.4 Chris Morris to Ruturaj Gaikwad Wide Score: 16/0
+1.5 Chris Morris to Ruturaj Gaikwad Wide Score: 17/0
+1.6 Chris Morris to Ruturaj Gaikwad 1 Score: 18/0
+1.7 Chris Morris to Faf du Plessis 4 Score: 22/0
+1.8 Chris Morris to Faf du Plessis 1 Score: 23/0
+2.1 Chetan Sakariya to Faf du Plessis 0 Score: 23/0
+2.2 Chetan Sakariya to Faf du Plessis 0 Score: 23/0
+2.3 Chetan Sakariya to Faf du Plessis 0 Score: 23/0
+2.4 Chetan Sakariya to Faf du Plessis W Score: 23/1 Caught by Rahul Tewatia
+2.5 Chetan Sakariya to Suresh Raina 1 Score: 24/1
+2.6 Chetan Sakariya to Ruturaj Gaikwad 1 Score: 25/1
+3.1 Chris Morris to Ruturaj Gaikwad 0 Score: 25/1
+3.2 Chris Morris to Ruturaj Gaikwad 1 Score: 26/1
+3.3 Chris Morris to Suresh Raina 1 Score: 27/1
+3.4 Chris Morris to Ruturaj Gaikwad 0 Score: 27/1
+3.5 Chris Morris to Ruturaj Gaikwad 0 Score: 27/1
+3.6 Chris Morris to Ruturaj Gaikwad 0 Score: 27/1
+4.1 Mustafizur Rahman to Suresh Raina 0 Score: 27/1
+4.2 Mustafizur Rahman to Suresh Raina 0 Score: 27/1
+4.3 Mustafizur Rahman to Suresh Raina 0 Score: 27/1
+4.4 Mustafizur Rahman to Suresh Raina 0 Score: 27/1
+4.5 Mustafizur Rahman to Suresh Raina 1 Score: 28/1
+4.6 Mustafizur Rahman to Ruturaj Gaikwad 1 Score: 29/1
+5.1 Rahul Tewatia to Ruturaj Gaikwad 2 Score: 31/1
+5.2 Rahul Tewatia to Ruturaj Gaikwad 1 Score: 32/1
+5.3 Rahul Tewatia to Suresh Raina 0 Score: 32/1
+5.4 Rahul Tewatia to Suresh Raina 0 Score: 32/1
+5.5 Rahul Tewatia to Suresh Raina 1 Score: 33/1
+5.6 Rahul Tewatia to Ruturaj Gaikwad 1 Score: 34/1
+6.1 Mustafizur Rahman to Ruturaj Gaikwad 1 Score: 35/1
+6.2 Mustafizur Rahman to Suresh Raina 0 Score: 35/1
+6.3 Mustafizur Rahman to Suresh Raina 0 Score: 35/1
+6.4 Mustafizur Rahman to Suresh Raina 1 Score: 36/1
+6.5 Mustafizur Rahman to Ruturaj Gaikwad 1 Score: 37/1
+6.6 Mustafizur Rahman to Suresh Raina 0 Score: 37/1
+7.1 Rahul Tewatia to Ruturaj Gaikwad 0 Score: 37/1
+7.2 Rahul Tewatia to Ruturaj Gaikwad 1 Score: 38/1
+7.3 Rahul Tewatia to Suresh Raina 1 Score: 39/1
+7.4 Rahul Tewatia to Ruturaj Gaikwad Wide Score: 40/1
+7.5 Rahul Tewatia to Ruturaj Gaikwad 0 Score: 40/1
+7.6 Rahul Tewatia to Ruturaj Gaikwad 1 Score: 41/1
+7.7 Rahul Tewatia to Suresh Raina 0 Score: 41/1
+8.1 Mustafizur Rahman to Ruturaj Gaikwad 0 Score: 41/1
+8.2 Mustafizur Rahman to Ruturaj Gaikwad 1 Score: 42/1
+8.3 Mustafizur Rahman to Suresh Raina 1 Score: 43/1
+8.4 Mustafizur Rahman to Ruturaj Gaikwad 4 Score: 47/1
+8.5 Mustafizur Rahman to Ruturaj Gaikwad 0 Score: 47/1
+8.6 Mustafizur Rahman to Ruturaj Gaikwad 1 Score: 48/1
+9.1 Rahul Tewatia to Ruturaj Gaikwad 4 Score: 52/1
+9.2 Rahul Tewatia to Ruturaj Gaikwad 0 Score: 52/1
+9.3 Rahul Tewatia to Ruturaj Gaikwad 6 Score: 58/1
+9.4 Rahul Tewatia to Ruturaj Gaikwad 0 Score: 58/1
+9.5 Rahul Tewatia to Ruturaj Gaikwad 0 Score: 58/1
+9.6 Rahul Tewatia to Ruturaj Gaikwad 1 Score: 59/1
+10.1 Chetan Sakariya to Ruturaj Gaikwad 6 Score: 65/1
+10.2 Chetan Sakariya to Ruturaj Gaikwad 0 Score: 65/1
+10.3 Chetan Sakariya to Ruturaj Gaikwad 4 Score: 69/1
+10.4 Chetan Sakariya to Ruturaj Gaikwad W Score: 70/2 Run Out!
+10.5 Chetan Sakariya to Ambati Rayudu 1 Score: 71/2
+10.6 Chetan Sakariya to Suresh Raina 1 Score: 72/2
+11.1 Rahul Tewatia to Suresh Raina 0 Score: 72/2
+11.2 Rahul Tewatia to Suresh Raina 0 Score: 72/2
+11.3 Rahul Tewatia to Suresh Raina 2 Score: 74/2
+11.4 Rahul Tewatia to Suresh Raina 0 Score: 74/2
+11.5 Rahul Tewatia to Suresh Raina 1 Score: 75/2
+11.6 Rahul Tewatia to Ambati Rayudu 1 Score: 76/2
+12.1 Chetan Sakariya to Ambati Rayudu 0 Score: 76/2
+12.2 Chetan Sakariya to Ambati Rayudu 0 Score: 76/2
+12.3 Chetan Sakariya to Ambati Rayudu 2 Score: 78/2
+12.4 Chetan Sakariya to Ambati Rayudu 0 Score: 78/2
+12.5 Chetan Sakariya to Ambati Rayudu 1 Score: 79/2
+12.6 Chetan Sakariya to Suresh Raina 4 Score: 83/2
+13.1 Kartik Tyagi to Ambati Rayudu 0 Score: 83/2
+13.2 Kartik Tyagi to Ambati Rayudu 1 Score: 84/2
+13.3 Kartik Tyagi to Suresh Raina 0 Score: 84/2
+13.4 Kartik Tyagi to Suresh Raina 6 Score: 90/2
+13.5 Kartik Tyagi to Suresh Raina 0 Score: 90/2
+13.6 Kartik Tyagi to Suresh Raina 0 Score: 90/2
+14.1 Mahipal Lomror to Ambati Rayudu 6 Score: 96/2
+14.2 Mahipal Lomror to Ambati Rayudu 1 Score: 97/2
+14.3 Mahipal Lomror to Suresh Raina 1 Score: 98/2
+14.4 Mahipal Lomror to Ambati Rayudu 4 Score: 102/2
+14.5 Mahipal Lomror to Ambati Rayudu 1 Score: 103/2
+14.6 Mahipal Lomror to Suresh Raina 6 Score: 109/2
+15.1 Kartik Tyagi to Ambati Rayudu 2 Score: 111/2
+15.2 Kartik Tyagi to Ambati Rayudu 4 Score: 115/2
+15.3 Kartik Tyagi to Ambati Rayudu W Score: 115/3 Bowled
+15.4 Kartik Tyagi to Moeen Ali 0 Score: 115/3
+15.5 Kartik Tyagi to Moeen Ali 0 Score: 115/3
+15.6 Kartik Tyagi to Moeen Ali 1 Score: 116/3
+16.1 Mahipal Lomror to Moeen Ali 1 Score: 117/3
+16.2 Mahipal Lomror to Suresh Raina 0 Score: 117/3
+16.3 Mahipal Lomror to Suresh Raina 4 Score: 121/3
+16.4 Mahipal Lomror to Suresh Raina 1 Score: 122/3
+16.5 Mahipal Lomror to Moeen Ali 0 Score: 122/3
+16.6 Mahipal Lomror to Moeen Ali 1 Score: 123/3
+17.1 Kartik Tyagi to Moeen Ali 6 Score: 129/3
+17.2 Kartik Tyagi to Moeen Ali 4 Score: 133/3
+17.3 Kartik Tyagi to Moeen Ali 0 Score: 133/3
+17.4 Kartik Tyagi to Moeen Ali 2 Score: 135/3
+17.5 Kartik Tyagi to Moeen Ali 0 Score: 135/3
+17.6 Kartik Tyagi to Moeen Ali 6 Score: 141/3
+18.1 Mustafizur Rahman to Suresh Raina W Score: 141/4 Caught by Mustafizur Rahman
+18.2 Mustafizur Rahman to Sam Curran 1 Score: 142/4
+18.3 Mustafizur Rahman to Moeen Ali 1 Score: 143/4
+18.4 Mustafizur Rahman to Sam Curran 1 Score: 144/4
+18.5 Mustafizur Rahman to Moeen Ali 4 Score: 148/4
+18.6 Mustafizur Rahman to Moeen Ali 4 Score: 152/4
+19.1 Kartik Tyagi to Sam Curran 6 Score: 158/4
+19.2 Kartik Tyagi to Sam Curran 1 Score: 159/4
+19.3 Kartik Tyagi to Moeen Ali 0 Score: 159/4
+19.4 Kartik Tyagi to Moeen Ali 6 Score: 165/4
+19.5 Kartik Tyagi to Moeen Ali Wide Score: 166/4
+19.6 Kartik Tyagi to Moeen Ali 6 Score: 172/4
+19.7 Kartik Tyagi to Moeen Ali W Score: 172/5 Caught by Riyan Parag
++--------------+--------+---------+--------+-----------------------------------------+
+| Player       |   Runs |   Balls | SR     | Out                                     |
++==============+========+=========+========+=========================================+
+| RD Gaikwad   |     49 |      37 | 132.43 | Not out                                 |
++--------------+--------+---------+--------+-----------------------------------------+
+| F du Plessis |     11 |      10 | 110.0  | c R Tewatia b C Sakariya                |
++--------------+--------+---------+--------+-----------------------------------------+
+| MM Ali       |     42 |      19 | 221.05 | c R Parag b Kartik Tyagi                |
++--------------+--------+---------+--------+-----------------------------------------+
+| SK Raina     |     33 |      34 | 97.06  | c Mustafizur Rahman b Mustafizur Rahman |
++--------------+--------+---------+--------+-----------------------------------------+
+| AT Rayudu    |     24 |      16 | 150.0  | bowled b Kartik Tyagi                   |
++--------------+--------+---------+--------+-----------------------------------------+
+| RA Jadeja    |      0 |       0 | DNB    |                                         |
++--------------+--------+---------+--------+-----------------------------------------+
+| MS Dhoni     |      0 |       0 | DNB    |                                         |
++--------------+--------+---------+--------+-----------------------------------------+
+| SM Curran    |      9 |       4 | 225.0  | Not out                                 |
++--------------+--------+---------+--------+-----------------------------------------+
+| DJ Bravo     |      0 |       0 | DNB    |                                         |
++--------------+--------+---------+--------+-----------------------------------------+
+| SN Thakur    |      0 |       0 | DNB    |                                         |
++--------------+--------+---------+--------+-----------------------------------------+
+| DL Chahar    |      0 |       0 | DNB    |                                         |
++--------------+--------+---------+--------+-----------------------------------------+
++-------------------+--------+---------+-----------+-------+
+| Player            |   Runs |   Overs |   Wickets | Eco   |
++===================+========+=========+===========+=======+
+| LS Livingstone    |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| YBK Jaiswal       |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| SV Samson         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| DA Miller         |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| MK Lomror         |     26 |       2 |         0 | 13.0  |
++-------------------+--------+---------+-----------+-------+
+| R Parag           |      0 |       0 |         0 | NA    |
++-------------------+--------+---------+-----------+-------+
+| R Tewatia         |     24 |       4 |         0 | 6.0   |
++-------------------+--------+---------+-----------+-------+
+| CH Morris         |     11 |       2 |         0 | 5.5   |
++-------------------+--------+---------+-----------+-------+
+| Kartik Tyagi      |     52 |       4 |         2 | 13.0  |
++-------------------+--------+---------+-----------+-------+
+| C Sakariya        |     36 |       4 |         1 | 9.0   |
++-------------------+--------+---------+-----------+-------+
+| Mustafizur Rahman |     23 |       4 |         1 | 5.75  |
++-------------------+--------+---------+-----------+-------+
+0.1 Deepak Chahar to Liam Livingstone 0 Score: 0/0
+0.2 Deepak Chahar to Liam Livingstone Wide Score: 1/0
+0.3 Deepak Chahar to Liam Livingstone 0 Score: 1/0
+0.4 Deepak Chahar to Liam Livingstone 0 Score: 1/0
+0.5 Deepak Chahar to Liam Livingstone 0 Score: 1/0
+0.6 Deepak Chahar to Liam Livingstone 1 Score: 2/0
+0.7 Deepak Chahar to Yashasvi Jaiswal 0 Score: 2/0
+1.1 Moeen Ali to Liam Livingstone 2 Score: 4/0
+1.2 Moeen Ali to Liam Livingstone 4 Score: 8/0
+1.3 Moeen Ali to Liam Livingstone 1 Score: 9/0
+1.4 Moeen Ali to Yashasvi Jaiswal 0 Score: 9/0
+1.5 Moeen Ali to Yashasvi Jaiswal 0 Score: 9/0
+1.6 Moeen Ali to Yashasvi Jaiswal 1 Score: 10/0
+2.1 Deepak Chahar to Yashasvi Jaiswal 0 Score: 10/0
+2.2 Deepak Chahar to Yashasvi Jaiswal 0 Score: 10/0
+2.3 Deepak Chahar to Yashasvi Jaiswal 0 Score: 10/0
+2.4 Deepak Chahar to Yashasvi Jaiswal 0 Score: 10/0
+2.5 Deepak Chahar to Yashasvi Jaiswal 0 Score: 10/0
+2.6 Deepak Chahar to Yashasvi Jaiswal 0 Score: 10/0
+3.1 Moeen Ali to Liam Livingstone 1 Score: 11/0
+3.2 Moeen Ali to Yashasvi Jaiswal 0 Score: 11/0
+3.3 Moeen Ali to Yashasvi Jaiswal 0 Score: 11/0
+3.4 Moeen Ali to Yashasvi Jaiswal 0 Score: 11/0
+3.5 Moeen Ali to Yashasvi Jaiswal 0 Score: 11/0
+3.6 Moeen Ali to Yashasvi Jaiswal 1 Score: 12/0
+4.1 Sam Curran to Yashasvi Jaiswal 0 Score: 12/0
+4.2 Sam Curran to Yashasvi Jaiswal 1 Score: 13/0
+4.3 Sam Curran to Liam Livingstone 0 Score: 13/0
+4.4 Sam Curran to Liam Livingstone W Score: 13/1 Caught by Shardul Thakur
+4.5 Sam Curran to Sanju Samson 0 Score: 13/1
+4.6 Sam Curran to Sanju Samson W Score: 13/2 Caught by Ravindra Jadeja
+5.1 Shardul Thakur to Yashasvi Jaiswal Wide Score: 14/2
+5.2 Shardul Thakur to Yashasvi Jaiswal 0 Score: 14/2
+5.3 Shardul Thakur to Yashasvi Jaiswal 1 Score: 15/2
+5.4 Shardul Thakur to David Miller W Score: 15/3 Caught by Dwayne Bravo
+5.5 Shardul Thakur to Mahipal Lomror Wide Score: 16/3
+5.6 Shardul Thakur to Mahipal Lomror 6 Score: 22/3
+5.7 Shardul Thakur to Mahipal Lomror 0 Score: 22/3
+5.8 Shardul Thakur to Mahipal Lomror 6 Score: 28/3
+6.1 Sam Curran to Yashasvi Jaiswal 0 Score: 28/3
+6.2 Sam Curran to Yashasvi Jaiswal W Score: 28/4 Caught by Shardul Thakur
+6.3 Sam Curran to Riyan Parag 0 Score: 28/4
+6.4 Sam Curran to Riyan Parag 0 Score: 28/4
+6.5 Sam Curran to Riyan Parag Wide Score: 29/4
+6.6 Sam Curran to Riyan Parag W Score: 29/5 Bowled
+6.7 Sam Curran to Rahul Tewatia 1 Score: 30/5
+7.1 Shardul Thakur to Rahul Tewatia 0 Score: 30/5
+7.2 Shardul Thakur to Rahul Tewatia 6 Score: 36/5
+7.3 Shardul Thakur to Rahul Tewatia 0 Score: 36/5
+7.4 Shardul Thakur to Rahul Tewatia 6 Score: 42/5
+7.5 Shardul Thakur to Rahul Tewatia 1 Score: 43/5
+7.6 Shardul Thakur to Mahipal Lomror 1 Score: 44/5
+8.1 Sam Curran to Mahipal Lomror Wide Score: 45/5
+8.2 Sam Curran to Mahipal Lomror 0 Score: 45/5
+8.3 Sam Curran to Mahipal Lomror 4 Score: 49/5
+8.4 Sam Curran to Mahipal Lomror 1 Score: 50/5
+8.5 Sam Curran to Rahul Tewatia 0 Score: 50/5
+8.6 Sam Curran to Rahul Tewatia 0 Score: 50/5
+8.7 Sam Curran to Rahul Tewatia 0 Score: 50/5
+9.1 Shardul Thakur to Mahipal Lomror 1 Score: 51/5
+9.2 Shardul Thakur to Rahul Tewatia 0 Score: 51/5
+9.3 Shardul Thakur to Rahul Tewatia 0 Score: 51/5
+9.4 Shardul Thakur to Rahul Tewatia 1 Score: 52/5
+9.5 Shardul Thakur to Mahipal Lomror 0 Score: 52/5
+9.6 Shardul Thakur to Mahipal Lomror 0 Score: 52/5
+10.1 Dwayne Bravo to Rahul Tewatia 1 Score: 53/5
+10.2 Dwayne Bravo to Mahipal Lomror 0 Score: 53/5
+10.3 Dwayne Bravo to Mahipal Lomror 0 Score: 53/5
+10.4 Dwayne Bravo to Mahipal Lomror 1 Score: 54/5
+10.5 Dwayne Bravo to Rahul Tewatia 1 Score: 55/5
+10.6 Dwayne Bravo to Mahipal Lomror Wide Score: 56/5
+10.7 Dwayne Bravo to Mahipal Lomror 1 Score: 57/5
+11.1 Suresh Raina to Mahipal Lomror 1 Score: 58/5
+11.2 Suresh Raina to Rahul Tewatia 1 Score: 59/5
+11.3 Suresh Raina to Mahipal Lomror 1 Score: 60/5
+11.4 Suresh Raina to Rahul Tewatia 1 Score: 61/5
+11.5 Suresh Raina to Mahipal Lomror 4 Score: 65/5
+11.6 Suresh Raina to Mahipal Lomror 1 Score: 66/5
+12.1 Dwayne Bravo to Mahipal Lomror 6 Score: 72/5
+12.2 Dwayne Bravo to Mahipal Lomror 0 Score: 72/5
+12.3 Dwayne Bravo to Mahipal Lomror 1 Score: 73/5
+12.4 Dwayne Bravo to Rahul Tewatia 0 Score: 73/5
+12.5 Dwayne Bravo to Rahul Tewatia 4 Score: 77/5
+12.6 Dwayne Bravo to Rahul Tewatia 1 Score: 78/5
+13.1 Suresh Raina to Rahul Tewatia 1 Score: 79/5
+13.2 Suresh Raina to Mahipal Lomror 6 Score: 85/5
+13.3 Suresh Raina to Mahipal Lomror W Score: 85/6 Caught by Suresh Raina
+13.4 Suresh Raina to Chris Morris 1 Score: 86/6
+13.5 Suresh Raina to Rahul Tewatia 0 Score: 86/6
+13.6 Suresh Raina to Rahul Tewatia 0 Score: 86/6
+14.1 Dwayne Bravo to Chris Morris 1 Score: 87/6
+14.2 Dwayne Bravo to Rahul Tewatia 1 Score: 88/6
+14.3 Dwayne Bravo to Chris Morris 1 Score: 89/6
+14.4 Dwayne Bravo to Rahul Tewatia 0 Score: 89/6
+14.5 Dwayne Bravo to Rahul Tewatia 0 Score: 89/6
+14.6 Dwayne Bravo to Rahul Tewatia 0 Score: 89/6
+15.1 Suresh Raina to Chris Morris 1 Score: 90/6
+15.2 Suresh Raina to Rahul Tewatia 6 Score: 96/6
+15.3 Suresh Raina to Rahul Tewatia W Score: 96/7 Caught by Moeen Ali
+15.4 Suresh Raina to Chetan Sakariya 1 Score: 97/7
+15.5 Suresh Raina to Chris Morris 1 Score: 98/7
+15.6 Suresh Raina to Chetan Sakariya 1 Score: 99/7
+16.1 Deepak Chahar to Chetan Sakariya 0 Score: 99/7
+16.2 Deepak Chahar to Chetan Sakariya 0 Score: 99/7
+16.3 Deepak Chahar to Chetan Sakariya 0 Score: 99/7
+16.4 Deepak Chahar to Chetan Sakariya W Score: 99/8 Caught by Dwayne Bravo
+16.5 Deepak Chahar to Kartik Tyagi 1 Score: 100/8
+16.6 Deepak Chahar to Chris Morris 0 Score: 100/8
+17.1 Sam Curran to Kartik Tyagi 0 Score: 100/8
+17.2 Sam Curran to Kartik Tyagi W Score: 100/9 Caught by Ravindra Jadeja
+17.3 Sam Curran to Mustafizur Rahman 0 Score: 100/9
+17.4 Sam Curran to Mustafizur Rahman W Score: 100/10 Caught by Dwayne Bravo
+ALL OUT
+csk won by 72 runs
++-------------------+--------+---------+--------+-------------------------+
+| Player            |   Runs |   Balls |     SR | Out                     |
++===================+========+=========+========+=========================+
+| LS Livingstone    |      9 |      11 |  81.82 | c SN Thakur b SM Curran |
++-------------------+--------+---------+--------+-------------------------+
+| YBK Jaiswal       |      4 |      21 |  19.05 | c SN Thakur b SM Curran |
++-------------------+--------+---------+--------+-------------------------+
+| SV Samson         |      0 |       2 |   0    | c RA Jadeja b SM Curran |
++-------------------+--------+---------+--------+-------------------------+
+| DA Miller         |      0 |       1 |   0    | c DJ Bravo b SN Thakur  |
++-------------------+--------+---------+--------+-------------------------+
+| MK Lomror         |     41 |      23 | 178.26 | c SK Raina b SK Raina   |
++-------------------+--------+---------+--------+-------------------------+
+| R Parag           |      0 |       3 |   0    | bowled b SM Curran      |
++-------------------+--------+---------+--------+-------------------------+
+| R Tewatia         |     32 |      28 | 114.29 | c MM Ali b SK Raina     |
++-------------------+--------+---------+--------+-------------------------+
+| CH Morris         |      5 |       6 |  83.33 | Not out                 |
++-------------------+--------+---------+--------+-------------------------+
+| Kartik Tyagi      |      1 |       3 |  33.33 | c RA Jadeja b SM Curran |
++-------------------+--------+---------+--------+-------------------------+
+| C Sakariya        |      2 |       6 |  33.33 | c DJ Bravo b DL Chahar  |
++-------------------+--------+---------+--------+-------------------------+
+| Mustafizur Rahman |      0 |       2 |   0    | c DJ Bravo b SM Curran  |
++-------------------+--------+---------+--------+-------------------------+
++--------------+--------+---------+-----------+-------+
+| Player       |   Runs |   Overs |   Wickets | Eco   |
++==============+========+=========+===========+=======+
+| RD Gaikwad   |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| F du Plessis |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| MM Ali       |     10 |     2   |         0 | 5.0   |
++--------------+--------+---------+-----------+-------+
+| SK Raina     |     27 |     3   |         2 | 9.0   |
++--------------+--------+---------+-----------+-------+
+| AT Rayudu    |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| RA Jadeja    |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| MS Dhoni     |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| SM Curran    |      9 |     3.4 |         6 | 2.45  |
++--------------+--------+---------+-----------+-------+
+| DJ Bravo     |     20 |     3   |         0 | 6.67  |
++--------------+--------+---------+-----------+-------+
+| SN Thakur    |     31 |     3   |         1 | 10.33 |
++--------------+--------+---------+-----------+-------+
+| DL Chahar    |      3 |     3   |         1 | 1.0   |
++--------------+--------+---------+-----------+-------+

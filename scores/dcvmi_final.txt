@@ -1,0 +1,346 @@
+['Prithvi Shaw', 'Shikhar Dhawan', 'Shreyas Iyer', 'Rishabh Pant', 'Shimron Hetmyer', 'Lalit Yadav', 'Axar Patel', 'Ravichandran Ashwin', 'Anrich Nortje', 'Kagiso Rabada', 'Avesh Khan']
+mi won the toss and chose to bat
+0.1 Kagiso Rabada to Quinton de Kock 0 Score: 0/0
+0.2 Kagiso Rabada to Quinton de Kock 0 Score: 0/0
+0.3 Kagiso Rabada to Quinton de Kock 1 Score: 1/0
+0.4 Kagiso Rabada to Rohit Sharma 4 Score: 5/0
+0.5 Kagiso Rabada to Rohit Sharma 4 Score: 9/0
+0.6 Kagiso Rabada to Rohit Sharma 0 Score: 9/0
+1.1 Ravichandran Ashwin to Quinton de Kock 4 Score: 13/0
+1.2 Ravichandran Ashwin to Quinton de Kock 1 Score: 14/0
+1.3 Ravichandran Ashwin to Rohit Sharma 1 Score: 15/0
+1.4 Ravichandran Ashwin to Quinton de Kock 0 Score: 15/0
+1.5 Ravichandran Ashwin to Quinton de Kock 0 Score: 15/0
+1.6 Ravichandran Ashwin to Quinton de Kock 0 Score: 15/0
+2.1 Kagiso Rabada to Rohit Sharma 4 Score: 19/0
+2.2 Kagiso Rabada to Rohit Sharma 1 Score: 20/0
+2.3 Kagiso Rabada to Quinton de Kock 1 Score: 21/0
+2.4 Kagiso Rabada to Rohit Sharma 0 Score: 21/0
+2.5 Kagiso Rabada to Rohit Sharma 2 Score: 23/0
+2.6 Kagiso Rabada to Rohit Sharma 2 Score: 25/0
+3.1 Ravichandran Ashwin to Quinton de Kock Wide Score: 26/0
+3.2 Ravichandran Ashwin to Quinton de Kock 1 Score: 27/0
+3.3 Ravichandran Ashwin to Rohit Sharma 1 Score: 28/0
+3.4 Ravichandran Ashwin to Quinton de Kock 1 Score: 29/0
+3.5 Ravichandran Ashwin to Rohit Sharma 0 Score: 29/0
+3.6 Ravichandran Ashwin to Rohit Sharma 1 Score: 30/0
+3.7 Ravichandran Ashwin to Quinton de Kock 0 Score: 30/0
+4.1 Avesh Khan to Rohit Sharma 1 Score: 31/0
+4.2 Avesh Khan to Quinton de Kock 0 Score: 31/0
+4.3 Avesh Khan to Quinton de Kock 0 Score: 31/0
+4.4 Avesh Khan to Quinton de Kock W Score: 31/1 Caught by Shimron Hetmyer
+4.5 Avesh Khan to Ishan Kishan 0 Score: 31/1
+4.6 Avesh Khan to Ishan Kishan 1 Score: 32/1
+5.1 Axar Patel to Ishan Kishan 1 Score: 33/1
+5.2 Axar Patel to Rohit Sharma 4 Score: 37/1
+5.3 Axar Patel to Rohit Sharma 0 Score: 37/1
+5.4 Axar Patel to Rohit Sharma 0 Score: 37/1
+5.5 Axar Patel to Rohit Sharma 1 Score: 38/1
+5.6 Axar Patel to Ishan Kishan 2 Score: 40/1
+6.1 Avesh Khan to Rohit Sharma 0 Score: 40/1
+6.2 Avesh Khan to Rohit Sharma 0 Score: 40/1
+6.3 Avesh Khan to Rohit Sharma 0 Score: 40/1
+6.4 Avesh Khan to Rohit Sharma 1 Score: 41/1
+6.5 Avesh Khan to Ishan Kishan 0 Score: 41/1
+6.6 Avesh Khan to Ishan Kishan 1 Score: 42/1
+7.1 Axar Patel to Ishan Kishan 4 Score: 46/1
+7.2 Axar Patel to Ishan Kishan 1 Score: 47/1
+7.3 Axar Patel to Rohit Sharma 1 Score: 48/1
+7.4 Axar Patel to Ishan Kishan 1 Score: 49/1
+7.5 Axar Patel to Rohit Sharma W Score: 49/2 Caught by Axar Patel
+7.6 Axar Patel to Suryakumar Yadav 0 Score: 49/2
+8.1 Avesh Khan to Ishan Kishan 0 Score: 49/2
+8.2 Avesh Khan to Ishan Kishan W Score: 49/3 Caught by Axar Patel
+8.3 Avesh Khan to Kieron Pollard 0 Score: 49/3
+8.4 Avesh Khan to Kieron Pollard 0 Score: 49/3
+8.5 Avesh Khan to Kieron Pollard 0 Score: 49/3
+8.6 Avesh Khan to Kieron Pollard 4 Score: 53/3
+9.1 Axar Patel to Suryakumar Yadav 0 Score: 53/3
+9.2 Axar Patel to Suryakumar Yadav 4 Score: 57/3
+9.3 Axar Patel to Suryakumar Yadav 1 Score: 58/3
+9.4 Axar Patel to Kieron Pollard 1 Score: 59/3
+9.5 Axar Patel to Suryakumar Yadav 0 Score: 59/3
+9.6 Axar Patel to Suryakumar Yadav 0 Score: 59/3
+10.1 Lalit Yadav to Kieron Pollard 1 Score: 60/3
+10.2 Lalit Yadav to Suryakumar Yadav 1 Score: 61/3
+10.3 Lalit Yadav to Kieron Pollard 0 Score: 61/3
+10.4 Lalit Yadav to Kieron Pollard 6 Score: 67/3
+10.5 Lalit Yadav to Kieron Pollard 1 Score: 68/3
+10.6 Lalit Yadav to Suryakumar Yadav 1 Score: 69/3
+11.1 Axar Patel to Suryakumar Yadav 4 Score: 73/3
+11.2 Axar Patel to Suryakumar Yadav 1 Score: 74/3
+11.3 Axar Patel to Kieron Pollard 0 Score: 74/3
+11.4 Axar Patel to Kieron Pollard 1 Score: 75/3
+11.5 Axar Patel to Suryakumar Yadav 0 Score: 75/3
+11.6 Axar Patel to Suryakumar Yadav 1 Score: 76/3
+12.1 Lalit Yadav to Suryakumar Yadav 0 Score: 76/3
+12.2 Lalit Yadav to Suryakumar Yadav 2 Score: 78/3
+12.3 Lalit Yadav to Suryakumar Yadav 0 Score: 78/3
+12.4 Lalit Yadav to Suryakumar Yadav 1 Score: 79/3
+12.5 Lalit Yadav to Kieron Pollard 1 Score: 80/3
+12.6 Lalit Yadav to Suryakumar Yadav 4 Score: 84/3
+13.1 Kagiso Rabada to Kieron Pollard 1 Score: 85/3
+13.2 Kagiso Rabada to Suryakumar Yadav 1 Score: 86/3
+13.3 Kagiso Rabada to Kieron Pollard 0 Score: 86/3
+13.4 Kagiso Rabada to Kieron Pollard 4 Score: 90/3
+13.5 Kagiso Rabada to Kieron Pollard 4 Score: 94/3
+13.6 Kagiso Rabada to Kieron Pollard 0 Score: 94/3
+14.1 Lalit Yadav to Suryakumar Yadav 0 Score: 94/3
+14.2 Lalit Yadav to Suryakumar Yadav 1 Score: 95/3
+14.3 Lalit Yadav to Kieron Pollard 1 Score: 96/3
+14.4 Lalit Yadav to Suryakumar Yadav 1 Score: 97/3
+14.5 Lalit Yadav to Kieron Pollard 0 Score: 97/3
+14.6 Lalit Yadav to Kieron Pollard 1 Score: 98/3
+15.1 Shimron Hetmyer to Kieron Pollard 0 Score: 98/3
+15.2 Shimron Hetmyer to Kieron Pollard 6 Score: 104/3
+15.3 Shimron Hetmyer to Kieron Pollard 1 Score: 105/3
+15.4 Shimron Hetmyer to Suryakumar Yadav 0 Score: 105/3
+15.5 Shimron Hetmyer to Suryakumar Yadav 1 Score: 106/3
+15.6 Shimron Hetmyer to Kieron Pollard 2 Score: 108/3
+16.1 Lalit Yadav to Suryakumar Yadav W Score: 108/4 Caught by Axar Patel
+16.2 Lalit Yadav to Hardik Pandya 1 Score: 109/4
+16.3 Lalit Yadav to Kieron Pollard 2 Score: 111/4
+16.4 Lalit Yadav to Kieron Pollard 1 Score: 112/4
+16.5 Lalit Yadav to Hardik Pandya 0 Score: 112/4
+16.6 Lalit Yadav to Hardik Pandya 1 Score: 113/4
+17.1 Anrich Nortje to Hardik Pandya 1 Score: 114/4
+17.2 Anrich Nortje to Kieron Pollard 1 Score: 115/4
+17.3 Anrich Nortje to Hardik Pandya 0 Score: 115/4
+17.4 Anrich Nortje to Hardik Pandya 1 Score: 116/4
+17.5 Anrich Nortje to Kieron Pollard W Score: 116/5 Caught by Ravichandran Ashwin
+17.6 Anrich Nortje to Krunal Pandya 4 Score: 120/5
+18.1 Kagiso Rabada to Hardik Pandya 2 Score: 122/5
+18.2 Kagiso Rabada to Hardik Pandya 0 Score: 122/5
+18.3 Kagiso Rabada to Hardik Pandya 4 Score: 126/5
+18.4 Kagiso Rabada to Hardik Pandya 0 Score: 126/5
+18.5 Kagiso Rabada to Hardik Pandya 1 Score: 127/5
+18.6 Kagiso Rabada to Krunal Pandya 2 Score: 129/5
+19.1 Anrich Nortje to Hardik Pandya 4 Score: 133/5
+19.2 Anrich Nortje to Hardik Pandya 4 Score: 137/5
+19.3 Anrich Nortje to Hardik Pandya 1 Score: 138/5
+19.4 Anrich Nortje to Krunal Pandya 4 Score: 142/5
+19.5 Anrich Nortje to Krunal Pandya 1 Score: 143/5
+19.6 Anrich Nortje to Hardik Pandya 1 Score: 144/5
++--------------+--------+---------+--------+---------------------------+
+| Player       |   Runs |   Balls | SR     | Out                       |
++==============+========+=========+========+===========================+
+| Q de Kock    |      9 |      15 | 60.0   | c SO Hetmyer b Avesh Khan |
++--------------+--------+---------+--------+---------------------------+
+| RG Sharma    |     28 |      23 | 121.74 | c AR Patel b AR Patel     |
++--------------+--------+---------+--------+---------------------------+
+| SA Yadav     |     24 |      24 | 100.0  | c AR Patel b Lalit Yadav  |
++--------------+--------+---------+--------+---------------------------+
+| Ishan Kishan |     11 |      11 | 100.0  | c AR Patel b Avesh Khan   |
++--------------+--------+---------+--------+---------------------------+
+| KA Pollard   |     39 |      28 | 139.29 | c R Ashwin b A Nortje     |
++--------------+--------+---------+--------+---------------------------+
+| HH Pandya    |     21 |      15 | 140.0  | Not out                   |
++--------------+--------+---------+--------+---------------------------+
+| KH Pandya    |     11 |       4 | 275.0  | Not out                   |
++--------------+--------+---------+--------+---------------------------+
+| AF Milne     |      0 |       0 | DNB    |                           |
++--------------+--------+---------+--------+---------------------------+
+| RD Chahar    |      0 |       0 | DNB    |                           |
++--------------+--------+---------+--------+---------------------------+
+| JJ Bumrah    |      0 |       0 | DNB    |                           |
++--------------+--------+---------+--------+---------------------------+
+| TA Boult     |      0 |       0 | DNB    |                           |
++--------------+--------+---------+--------+---------------------------+
++-------------+--------+---------+-----------+-------+
+| Player      |   Runs |   Overs |   Wickets | Eco   |
++=============+========+=========+===========+=======+
+| PP Shaw     |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| S Dhawan    |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| SS Iyer     |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| RR Pant     |      0 |       0 |         0 | NA    |
++-------------+--------+---------+-----------+-------+
+| SO Hetmyer  |     10 |       1 |         0 | 10.0  |
++-------------+--------+---------+-----------+-------+
+| Lalit Yadav |     27 |       4 |         1 | 6.75  |
++-------------+--------+---------+-----------+-------+
+| AR Patel    |     28 |       4 |         1 | 7.0   |
++-------------+--------+---------+-----------+-------+
+| R Ashwin    |     11 |       2 |         0 | 5.5   |
++-------------+--------+---------+-----------+-------+
+| A Nortje    |     22 |       2 |         1 | 11.0  |
++-------------+--------+---------+-----------+-------+
+| K Rabada    |     38 |       4 |         0 | 9.5   |
++-------------+--------+---------+-----------+-------+
+| Avesh Khan  |      8 |       3 |         2 | 2.67  |
++-------------+--------+---------+-----------+-------+
+0.1 Trent Boult to Prithvi Shaw 1 Score: 1/0
+0.2 Trent Boult to Shikhar Dhawan 1 Score: 2/0
+0.3 Trent Boult to Prithvi Shaw 1 Score: 3/0
+0.4 Trent Boult to Shikhar Dhawan 1 Score: 4/0
+0.5 Trent Boult to Prithvi Shaw 0 Score: 4/0
+0.6 Trent Boult to Prithvi Shaw 2 Score: 6/0
+1.1 Adam Milne to Shikhar Dhawan 0 Score: 6/0
+1.2 Adam Milne to Shikhar Dhawan 4 Score: 10/0
+1.3 Adam Milne to Shikhar Dhawan 1 Score: 11/0
+1.4 Adam Milne to Prithvi Shaw 0 Score: 11/0
+1.5 Adam Milne to Prithvi Shaw 1 Score: 12/0
+1.6 Adam Milne to Shikhar Dhawan 0 Score: 12/0
+2.1 Trent Boult to Prithvi Shaw 1 Score: 13/0
+2.2 Trent Boult to Shikhar Dhawan 0 Score: 13/0
+2.3 Trent Boult to Shikhar Dhawan 1 Score: 14/0
+2.4 Trent Boult to Prithvi Shaw 1 Score: 15/0
+2.5 Trent Boult to Shikhar Dhawan 1 Score: 16/0
+2.6 Trent Boult to Prithvi Shaw 1 Score: 17/0
+3.1 Adam Milne to Prithvi Shaw 1 Score: 18/0
+3.2 Adam Milne to Shikhar Dhawan 1 Score: 19/0
+3.3 Adam Milne to Prithvi Shaw 2 Score: 21/0
+3.4 Adam Milne to Prithvi Shaw 1 Score: 22/0
+3.5 Adam Milne to Shikhar Dhawan 1 Score: 23/0
+3.6 Adam Milne to Prithvi Shaw 0 Score: 23/0
+4.1 Jasprit Bumrah to Shikhar Dhawan 4 Score: 27/0
+4.2 Jasprit Bumrah to Shikhar Dhawan 2 Score: 29/0
+4.3 Jasprit Bumrah to Shikhar Dhawan 0 Score: 29/0
+4.4 Jasprit Bumrah to Shikhar Dhawan 1 Score: 30/0
+4.5 Jasprit Bumrah to Prithvi Shaw 1 Score: 31/0
+4.6 Jasprit Bumrah to Shikhar Dhawan 1 Score: 32/0
+5.1 Rahul Chahar to Shikhar Dhawan 0 Score: 32/0
+5.2 Rahul Chahar to Shikhar Dhawan 1 Score: 33/0
+5.3 Rahul Chahar to Prithvi Shaw 4 Score: 37/0
+5.4 Rahul Chahar to Prithvi Shaw 1 Score: 38/0
+5.5 Rahul Chahar to Shikhar Dhawan 0 Score: 38/0
+5.6 Rahul Chahar to Shikhar Dhawan 0 Score: 38/0
+6.1 Jasprit Bumrah to Prithvi Shaw 0 Score: 38/0
+6.2 Jasprit Bumrah to Prithvi Shaw 0 Score: 38/0
+6.3 Jasprit Bumrah to Prithvi Shaw 0 Score: 38/0
+6.4 Jasprit Bumrah to Prithvi Shaw 1 Score: 39/0
+6.5 Jasprit Bumrah to Shikhar Dhawan 2 Score: 41/0
+6.6 Jasprit Bumrah to Shikhar Dhawan 0 Score: 41/0
+7.1 Rahul Chahar to Prithvi Shaw 1 Score: 42/0
+7.2 Rahul Chahar to Shikhar Dhawan 6 Score: 48/0
+7.3 Rahul Chahar to Shikhar Dhawan 6 Score: 54/0
+7.4 Rahul Chahar to Shikhar Dhawan 0 Score: 54/0
+7.5 Rahul Chahar to Shikhar Dhawan 6 Score: 60/0
+7.6 Rahul Chahar to Shikhar Dhawan 6 Score: 66/0
+8.1 Jasprit Bumrah to Prithvi Shaw 2 Score: 68/0
+8.2 Jasprit Bumrah to Prithvi Shaw W Score: 68/1 Caught by Hardik Pandya
+8.3 Jasprit Bumrah to Shreyas Iyer 2 Score: 70/1
+8.4 Jasprit Bumrah to Shreyas Iyer 0 Score: 70/1
+8.5 Jasprit Bumrah to Shreyas Iyer 1 Score: 71/1
+8.6 Jasprit Bumrah to Shikhar Dhawan 2 Score: 73/1
+9.1 Rahul Chahar to Shreyas Iyer 0 Score: 73/1
+9.2 Rahul Chahar to Shreyas Iyer 1 Score: 74/1
+9.3 Rahul Chahar to Shikhar Dhawan 0 Score: 74/1
+9.4 Rahul Chahar to Shikhar Dhawan 1 Score: 75/1
+9.5 Rahul Chahar to Shreyas Iyer 1 Score: 76/1
+9.6 Rahul Chahar to Shikhar Dhawan 0 Score: 76/1
+10.1 Hardik Pandya to Shreyas Iyer 1 Score: 77/1
+10.2 Hardik Pandya to Shikhar Dhawan Wide Score: 78/1
+10.3 Hardik Pandya to Shikhar Dhawan 0 Score: 78/1
+10.4 Hardik Pandya to Shikhar Dhawan 1 Score: 79/1
+10.5 Hardik Pandya to Shreyas Iyer 1 Score: 80/1
+10.6 Hardik Pandya to Shikhar Dhawan 0 Score: 80/1
+10.7 Hardik Pandya to Shikhar Dhawan 1 Score: 81/1
+11.1 Rahul Chahar to Shikhar Dhawan 0 Score: 81/1
+11.2 Rahul Chahar to Shikhar Dhawan 1 Score: 82/1
+11.3 Rahul Chahar to Shreyas Iyer 1 Score: 83/1
+11.4 Rahul Chahar to Shikhar Dhawan 1 Score: 84/1
+11.5 Rahul Chahar to Shreyas Iyer 0 Score: 84/1
+11.6 Rahul Chahar to Shreyas Iyer Wide Score: 85/1
+11.7 Rahul Chahar to Shreyas Iyer 1 Score: 86/1
+12.1 Hardik Pandya to Shreyas Iyer 2 Score: 88/1
+12.2 Hardik Pandya to Shreyas Iyer W Score: 88/2 Caught by Rahul Chahar
+12.3 Hardik Pandya to Rishabh Pant 0 Score: 88/2
+12.4 Hardik Pandya to Rishabh Pant 1 Score: 89/2
+12.5 Hardik Pandya to Shikhar Dhawan 4 Score: 93/2
+12.6 Hardik Pandya to Shikhar Dhawan 0 Score: 93/2
+13.1 Kieron Pollard to Rishabh Pant 0 Score: 93/2
+13.2 Kieron Pollard to Rishabh Pant Wide Score: 94/2
+13.3 Kieron Pollard to Rishabh Pant 2 Score: 96/2
+13.4 Kieron Pollard to Rishabh Pant 0 Score: 96/2
+13.5 Kieron Pollard to Rishabh Pant 1 Score: 97/2
+13.6 Kieron Pollard to Shikhar Dhawan 0 Score: 97/2
+13.7 Kieron Pollard to Shikhar Dhawan W Score: 97/3 Caught by Adam Milne
+14.1 Hardik Pandya to Rishabh Pant 1 Score: 98/3
+14.2 Hardik Pandya to Shimron Hetmyer 1 Score: 99/3
+14.3 Hardik Pandya to Rishabh Pant W Score: 99/4 Caught by Kieron Pollard
+14.4 Hardik Pandya to Lalit Yadav W Score: 99/5 Caught by Hardik Pandya
+14.5 Hardik Pandya to Axar Patel 1 Score: 100/5
+14.6 Hardik Pandya to Shimron Hetmyer 1 Score: 101/5
+15.1 Kieron Pollard to Shimron Hetmyer 1 Score: 102/5
+15.2 Kieron Pollard to Axar Patel 1 Score: 103/5
+15.3 Kieron Pollard to Shimron Hetmyer 0 Score: 103/5
+15.4 Kieron Pollard to Shimron Hetmyer 1 Score: 104/5
+15.5 Kieron Pollard to Axar Patel W Score: 104/6 Caught by Adam Milne
+15.6 Kieron Pollard to Ravichandran Ashwin 2 Score: 106/6
+16.1 Hardik Pandya to Shimron Hetmyer 1 Score: 107/6
+16.2 Hardik Pandya to Ravichandran Ashwin 1 Score: 108/6
+16.3 Hardik Pandya to Shimron Hetmyer 6 Score: 114/6
+16.4 Hardik Pandya to Shimron Hetmyer Wide Score: 115/6
+16.5 Hardik Pandya to Shimron Hetmyer 1 Score: 116/6
+16.6 Hardik Pandya to Ravichandran Ashwin W Score: 116/7 Caught by Rahul Chahar
+16.7 Hardik Pandya to Kagiso Rabada 1 Score: 117/7
+17.1 Jasprit Bumrah to Kagiso Rabada 1 Score: 118/7
+17.2 Jasprit Bumrah to Shimron Hetmyer 1 Score: 119/7
+17.3 Jasprit Bumrah to Kagiso Rabada 0 Score: 119/7
+17.4 Jasprit Bumrah to Kagiso Rabada 1 Score: 120/7
+17.5 Jasprit Bumrah to Shimron Hetmyer 6 Score: 126/7
+17.6 Jasprit Bumrah to Shimron Hetmyer 4 Score: 130/7
+18.1 Trent Boult to Kagiso Rabada 1 Score: 131/7
+18.2 Trent Boult to Shimron Hetmyer 1 Score: 132/7
+18.3 Trent Boult to Kagiso Rabada 0 Score: 132/7
+18.4 Trent Boult to Kagiso Rabada 0 Score: 132/7
+18.5 Trent Boult to Kagiso Rabada 4 Score: 136/7
+18.6 Trent Boult to Kagiso Rabada 1 Score: 137/7
+19.1 Adam Milne to Kagiso Rabada 1 Score: 138/7
+19.2 Adam Milne to Shimron Hetmyer 1 Score: 139/7
+19.3 Adam Milne to Kagiso Rabada 4 Score: 143/7
+19.4 Adam Milne to Kagiso Rabada 4 Score: 147/7
+dc won by 3 wickets
++-------------+--------+---------+--------+--------------------------+
+| Player      |   Runs |   Balls | SR     | Out                      |
++=============+========+=========+========+==========================+
+| PP Shaw     |     22 |      23 | 95.65  | c HH Pandya b JJ Bumrah  |
++-------------+--------+---------+--------+--------------------------+
+| S Dhawan    |     57 |      42 | 135.71 | c AF Milne b KA Pollard  |
++-------------+--------+---------+--------+--------------------------+
+| SS Iyer     |     11 |      13 | 84.62  | c RD Chahar b HH Pandya  |
++-------------+--------+---------+--------+--------------------------+
+| RR Pant     |      5 |       8 | 62.5   | c KA Pollard b HH Pandya |
++-------------+--------+---------+--------+--------------------------+
+| SO Hetmyer  |     25 |      13 | 192.31 | Not out                  |
++-------------+--------+---------+--------+--------------------------+
+| Lalit Yadav |      0 |       1 | 0.0    | c HH Pandya b HH Pandya  |
++-------------+--------+---------+--------+--------------------------+
+| AR Patel    |      2 |       3 | 66.67  | c AF Milne b KA Pollard  |
++-------------+--------+---------+--------+--------------------------+
+| R Ashwin    |      3 |       3 | 100.0  | c RD Chahar b HH Pandya  |
++-------------+--------+---------+--------+--------------------------+
+| A Nortje    |      0 |       0 | DNB    |                          |
++-------------+--------+---------+--------+--------------------------+
+| K Rabada    |     18 |      12 | 150.0  | Not out                  |
++-------------+--------+---------+--------+--------------------------+
+| Avesh Khan  |      0 |       0 | DNB    |                          |
++-------------+--------+---------+--------+--------------------------+
++--------------+--------+---------+-----------+-------+
+| Player       |   Runs |   Overs |   Wickets | Eco   |
++==============+========+=========+===========+=======+
+| Q de Kock    |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| RG Sharma    |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| SA Yadav     |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| Ishan Kishan |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| KA Pollard   |      9 |     2   |         2 | 4.5   |
++--------------+--------+---------+-----------+-------+
+| HH Pandya    |     27 |     4   |         4 | 6.75  |
++--------------+--------+---------+-----------+-------+
+| KH Pandya    |      0 |     0   |         0 | NA    |
++--------------+--------+---------+-----------+-------+
+| AF Milne     |     22 |     2.4 |         0 | 8.25  |
++--------------+--------+---------+-----------+-------+
+| RD Chahar    |     39 |     4   |         0 | 9.75  |
++--------------+--------+---------+-----------+-------+
+| JJ Bumrah    |     32 |     4   |         1 | 8.0   |
++--------------+--------+---------+-----------+-------+
+| TA Boult     |     18 |     3   |         0 | 6.0   |
++--------------+--------+---------+-----------+-------+
