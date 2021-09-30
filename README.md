@@ -4,7 +4,27 @@ This is an in-depth IPL ball by ball simulator that uses past data of each playe
 
 This is still in the pre-release phase so there are a lot of bugs.
 
-## How to download it
+## How to download it (Better method)
+
+You can still use the official release to download it but it hasn't been updated in 4 months and has several huge features missing, plus it can't be updated so I do not maintain it. It is easier to clone the repository as follows - 
+
+For Windows - 
+
+1. Download python - https://www.python.org/downloads/
+2. After download, run ```pip install tabulate```
+3. Install git - https://git-scm.com/downloads (I recommend watching a tutorial if you're stuck anywhere)
+4. Run ```git clone https://github.com/Aducj1910/IPLSimulator``` in the terminal
+5. Go to the IPLSimulator folder and run ```python main.py``` and voila!
+
+For Linux -
+
+1. Run ```sudo apt install python3.8 python3-pip git```
+2. Run ```git clone https://github.com/Aducj1910/IPLSimulator```
+3. Inside the folder, run ```pip3 install tabulate```
+4. Then run ```python3 main.py```
+
+## How to download it (Outdated method)
+
 (I would recommend cloning the code since it is more up to date, several bug fixes are not delivered to the exe download until about a week later)
 
 Use the official GitHub pre-release (https://github.com/Aducj1910/IPLSimulator/releases), and choose to download **only the setup exe file**. (note that you will not get updates automatically) and run the file. (see below for detailed download instruction)
