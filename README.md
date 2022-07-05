@@ -4,6 +4,9 @@ This is an in-depth IPL ball by ball simulator that uses past data of each playe
 
 This is still in the pre-release phase so there are a lot of bugs.
 
+### Contact me
+Feel free to contact me for any question related to this simulator or anything really. My Discord is Adu04#1910, and my email is adish1910@gmail.com.
+
 ## How to download it (Better method)
 
 You can still use the official release to download it but it hasn't been updated in 4 months and has several huge features missing, plus it can't be updated so I do not maintain it. It is easier to clone the repository as follows - 
@@ -61,7 +64,5 @@ This simulator was featured on [Wisden](https://wisden.com/stories/global-t20-le
 4. Custom tournaments
 5. Other leagues like BBL, PSL
 
-# Eventual Goal
-This simulator has been created to eventually be part of a cricket IPL team manager game. A game where you can create your own IPL team or manage an existing one, do auctions, set fields during games, change bowling lineups, train players, hire coaches, etc. I am hoping this will also become an open-source project so do keep checking for any updates.
-
-
+# Update - 2022
+I've started working on a newer version of this simulator from scratch that'll accomodate user-made players and possible eventual integration with other software.
