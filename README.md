@@ -7,7 +7,7 @@ This is still in the pre-release phase so there are a lot of bugs.
 ### Contact me
 Feel free to contact me for any question related to this simulator or anything really. My Discord is Adu04#1910, and my email is adish1910@gmail.com.
 
-# Mentions
+# This simulator in the media
 This simulator was featured on [Wisden](https://wisden.com/stories/global-t20-leagues/indian-premier-league-2021/rcb-finally-win-the-ipl-reddit-user-writes-python-script-to-simulate-remainder-of-2021-season), [CricTracker](https://www.crictracker.com/rcb-to-win-ipl-2021-a-reddit-user-simulates-the-remaining-season-through-a-python-script/), [TimesNow](https://www.timesnownews.com/sports/cricket/ipl/article/virat-kohli-to-lift-ipl-2021-title-with-rcb-suggests-python-programmed-simulation-of-remaining-season/756937), [News18](https://www.news18.com/cricketnext/news/rcb-wins-ipl-2021-this-reddit-user-has-the-answer-3734942.html), and more!
 
 ## How to download it (Better method)
