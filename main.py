@@ -224,7 +224,7 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             posAvg = 9.0
         battingOrder.append({"posAvg": posAvg, "player": i, "posAvgsAll": posAvgObj})
 
-    battingOrder = sorted(battingOrder, key=lambda k: k['posAvg'])
+    # battingOrder = sorted(battingOrder, key=lambda k: k['posAvg'])
     catchingOrder = sorted(catchingOrder, key=lambda k: k['catchRate'])
 
     for i in bowling:
@@ -494,6 +494,7 @@ def innings1(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                     batterTracker[btname]['runs'] += runOutRuns
                                     batterTracker[btname]['ballLog'].append(f"{str(balls)}:{runOutRuns}")
                                     batterTracker[btname]['balls'] += 1
+                                    batterTracker[btname]['ballLog'].append(f"{str(balls)}:W-runout")
                                     innings1Log.append({"event" : over + f" {bowler['displayName']} to {batter['player']['displayName']}" + 
                                         " W" + " Score: " + str(runs) + "/" + str(wickets) + " Run Out!", "balls": balls, "runs": runs,
                                         "batterTracker": copy.deepcopy(batterTracker), "bowlerTracker": copy.deepcopy(bowlerTracker), "batsman": btname,"batter1": batter1['player']['playerInitials'], "batter2": batter2['player']['playerInitials'] , "bowler": blname, "wickets": wickets})
@@ -1186,7 +1187,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
             posAvg = 9.0
         battingOrder.append({"posAvg": posAvg, "player": i, "posAvgsAll": posAvgObj})
 
-    battingOrder = sorted(battingOrder, key=lambda k: k['posAvg'])
+    # battingOrder = sorted(battingOrder, key=lambda k: k['posAvg'])
     catchingOrder = sorted(catchingOrder, key=lambda k: k['catchRate'])
 
     for i in bowling:
@@ -1456,6 +1457,7 @@ def innings2(batting, bowling, battingName, bowlingName, pace, spin, outfield, d
                                     bowlerTracker[blname]['balls'] += 1
                                     batterTracker[btname]['runs'] += runOutRuns
                                     batterTracker[btname]['ballLog'].append(f"{str(balls)}:{runOutRuns}")
+                                    batterTracker[btname]['ballLog'].append(f"{str(balls)}:W-runout")
                                     batterTracker[btname]['balls'] += 1
                                     innings2Log.append({"event" : over + f" {bowler['displayName']} to {batter['player']['displayName']}" + 
                                         " W" + " Score: " + str(runs) + "/" + str(wickets) + " Run Out!", "balls": balls, "runs": runs,
