@@ -54,15 +54,15 @@ In the second, you just open it and simulates and entire IPL season, all the sco
 In the third, you can simulate the remainder of the IPL 2021 season that has been suspended for now.
 
 ### Bugs
-1. There are no no-balls or byes
+1. There are no no-balls or byes.
 2. Sometimes the chase is a little slower during the middle overs.
 
 # Planned Features
-1. Automatic squad selection
-2. More dynamic run rate adjustment during chases
-3. Captaincy
-4. Custom tournaments
-5. Other leagues like BBL, PSL
+1. Automatic squad selection.
+2. More dynamic run rate adjustment during chases.
+3. Captaincy.
+4. Custom tournaments.
+5. Other leagues like BBL, PSL.
 
 # Update - 2022
 I've started working on a newer version of this simulator from scratch that'll accomodate user-made players and possible eventual integration with other software.
